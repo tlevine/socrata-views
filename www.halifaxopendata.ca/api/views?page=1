@@ -1,0 +1,3269 @@
+[ {
+  "id" : "xus8-fjzt",
+  "name" : "Bus Stops",
+  "averageRating" : 0,
+  "blobFilename" : "bus_stop.zip",
+  "blobFileSize" : 127787,
+  "blobId" : "XOU_nnmbMoaARseZkOavQFUWA9Iv5Mm_4YAh0G8zNAQ",
+  "blobMimeType" : "application/zip; charset=binary",
+  "category" : "Transit",
+  "createdAt" : 1362742597,
+  "description" : "Points representing the geographic location of Metro Transit bus stops. Includes information on the type of bus stop (shelter, accessible, etc.) and GOTIME number. Click on link below for Metadata:\r\nhttps://www.halifaxopendata.ca/api/assets/7C3AFD6F-164F-4583-8221-45596F9250DF",
+  "displayType" : "map",
+  "downloadCount" : 0,
+  "indexUpdatedAt" : 1387159123,
+  "newBackend" : false,
+  "numberOfComments" : 0,
+  "oid" : 2750955,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1387155157,
+  "publicationGroup" : 721471,
+  "publicationStage" : "published",
+  "signed" : false,
+  "tableId" : 721471,
+  "totalTimesRated" : 0,
+  "viewCount" : 3001,
+  "viewLastModified" : 1387155157,
+  "viewType" : "geo",
+  "childViews" : [ "56af-ne54" ],
+  "grants" : [ {
+    "inherited" : true,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "renderTypeConfig" : {
+      "visible" : {
+        "map" : true,
+        "table" : true
+      },
+      "active" : {
+        "table" : {
+          "id" : "56af-ne54"
+        }
+      }
+    },
+    "availableDisplayTypes" : [ "map", "table", "fatrow", "page" ],
+    "geo" : {
+      "layers" : "geo_xus8-fjzt-1",
+      "bbox" : "-63.86151411039185,44.47720782969076,-63.255032674264726,44.90576890374691",
+      "bboxCrs" : "EPSG:4326",
+      "featureIdAttribute" : "_SocrataID",
+      "owsUrl" : "/api/geospatial/xus8-fjzt",
+      "namespace" : "geo_xus8-fjzt"
+    },
+    "attachments" : [ {
+      "blobId" : "7C3AFD6F-164F-4583-8221-45596F9250DF",
+      "name" : "ODMT_Bus_Stops.docx",
+      "filename" : "ODMT_Bus_Stops.docx"
+    } ]
+  },
+  "owner" : {
+    "id" : "5z62-2wnw",
+    "displayName" : "Open Data HRM",
+    "profileImageUrlLarge" : "/images/profile/7675/0297/admin-profile2_large.png",
+    "profileImageUrlMedium" : "/images/profile/7675/0297/admin-profile2_thumb.png",
+    "profileImageUrlSmall" : "/images/profile/7675/0297/admin-profile2_tiny.png",
+    "screenName" : "Open Data HRM"
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "5z62-2wnw",
+    "displayName" : "Open Data HRM",
+    "profileImageUrlLarge" : "/images/profile/7675/0297/admin-profile2_large.png",
+    "profileImageUrlMedium" : "/images/profile/7675/0297/admin-profile2_thumb.png",
+    "profileImageUrlSmall" : "/images/profile/7675/0297/admin-profile2_tiny.png",
+    "screenName" : "Open Data HRM"
+  },
+  "tags" : [ "bus stops" ],
+  "flags" : [ "default" ]
+}, {
+  "id" : "94qi-yw3a",
+  "name" : "Building",
+  "averageRating" : 100,
+  "blobFilename" : "building.zip",
+  "blobFileSize" : 15222362,
+  "blobId" : "fWdHhRa2eJiqc6L51fmoa2tx1zLBgO4qYJXSv3p5x0g",
+  "blobMimeType" : "application/zip; charset=binary",
+  "category" : "Facilities and Structures",
+  "createdAt" : 1362741810,
+  "description" : "Geographic outlines (polygons) that represent a two-dimensional view of buildings in HRM. \r\nClick on link below for Metadata: https://www.halifaxopendata.ca/api/assets/7F873A08-C7DB-4CBB-866F-2C1C5EA13514",
+  "displayType" : "map",
+  "downloadCount" : 0,
+  "indexUpdatedAt" : 1387155243,
+  "newBackend" : false,
+  "numberOfComments" : 0,
+  "oid" : 2750889,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1387154476,
+  "publicationGroup" : 721450,
+  "publicationStage" : "published",
+  "signed" : false,
+  "tableId" : 721450,
+  "totalTimesRated" : 1,
+  "viewCount" : 1414,
+  "viewLastModified" : 1387154477,
+  "viewType" : "geo",
+  "childViews" : [ "aztd-b9v3" ],
+  "grants" : [ {
+    "inherited" : true,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "renderTypeConfig" : {
+      "visible" : {
+        "map" : true
+      }
+    },
+    "availableDisplayTypes" : [ "map", "table", "fatrow", "page" ],
+    "geo" : {
+      "layers" : "geo_94qi-yw3a-1",
+      "bbox" : "-69.35519767657503,4.026699556810666E-4,-62.16046034439216,45.27058975094847",
+      "bboxCrs" : "EPSG:4326",
+      "featureIdAttribute" : "_SocrataID",
+      "owsUrl" : "/api/geospatial/94qi-yw3a",
+      "namespace" : "geo_94qi-yw3a"
+    },
+    "attachments" : [ {
+      "blobId" : "7F873A08-C7DB-4CBB-866F-2C1C5EA13514",
+      "name" : "ODMT_Building.docx",
+      "filename" : "ODMT_Building.docx"
+    } ]
+  },
+  "owner" : {
+    "id" : "5z62-2wnw",
+    "displayName" : "Open Data HRM",
+    "profileImageUrlLarge" : "/images/profile/7675/0297/admin-profile2_large.png",
+    "profileImageUrlMedium" : "/images/profile/7675/0297/admin-profile2_thumb.png",
+    "profileImageUrlSmall" : "/images/profile/7675/0297/admin-profile2_tiny.png",
+    "screenName" : "Open Data HRM"
+  },
+  "ratings" : {
+    "rating" : 100
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "5z62-2wnw",
+    "displayName" : "Open Data HRM",
+    "profileImageUrlLarge" : "/images/profile/7675/0297/admin-profile2_large.png",
+    "profileImageUrlMedium" : "/images/profile/7675/0297/admin-profile2_thumb.png",
+    "profileImageUrlSmall" : "/images/profile/7675/0297/admin-profile2_tiny.png",
+    "screenName" : "Open Data HRM"
+  },
+  "tags" : [ "building", "footprint", "roofline" ],
+  "flags" : [ "default" ]
+}, {
+  "id" : "kxfq-iuxg",
+  "name" : "Crime",
+  "averageRating" : 80,
+  "blobFilename" : "crime.zip",
+  "blobFileSize" : 21741,
+  "blobId" : "Hk23P6wXSRK3lS5WUsZMMxqIMmYdoAEB3oK1RwRGTHo",
+  "blobMimeType" : "application/zip; charset=binary",
+  "category" : "Demographics",
+  "createdAt" : 1362741406,
+  "description" : "Points that represent crimes that have occurred in HRM within the last 7 days. Includes the type of crime, the date of the crime and the general location (the location of the point is not the true location of the crime, but a generalization to protect the victims).\r\nClick on link below for Metadata:\r\nhttps://www.halifaxopendata.ca/api/assets/6B3FE650-5978-4B35-913D-ADCB837DE812",
+  "displayType" : "map",
+  "downloadCount" : 0,
+  "indexUpdatedAt" : 1387158413,
+  "newBackend" : false,
+  "numberOfComments" : 1,
+  "oid" : 2750869,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1387155097,
+  "publicationGroup" : 721440,
+  "publicationStage" : "published",
+  "signed" : false,
+  "tableId" : 721440,
+  "totalTimesRated" : 1,
+  "viewCount" : 1729,
+  "viewLastModified" : 1387155097,
+  "viewType" : "geo",
+  "childViews" : [ "89mt-qpwi" ],
+  "grants" : [ {
+    "inherited" : true,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "renderTypeConfig" : {
+      "visible" : {
+        "map" : true
+      },
+      "active" : {
+        "table" : {
+          "id" : "89mt-qpwi"
+        }
+      }
+    },
+    "availableDisplayTypes" : [ "map", "table", "fatrow", "page" ],
+    "geo" : {
+      "layers" : "geo_kxfq-iuxg-1",
+      "bbox" : "-63.90891630258433,44.48973843666932,-62.625871990114454,44.97889788053201",
+      "bboxCrs" : "EPSG:4326",
+      "featureIdAttribute" : "_SocrataID",
+      "owsUrl" : "/api/geospatial/kxfq-iuxg",
+      "namespace" : "geo_kxfq-iuxg"
+    },
+    "attachments" : [ {
+      "blobId" : "6B3FE650-5978-4B35-913D-ADCB837DE812",
+      "name" : "ODMT_Crime.docx",
+      "filename" : "ODMT_Crime.docx"
+    } ]
+  },
+  "owner" : {
+    "id" : "5z62-2wnw",
+    "displayName" : "Open Data HRM",
+    "profileImageUrlLarge" : "/images/profile/7675/0297/admin-profile2_large.png",
+    "profileImageUrlMedium" : "/images/profile/7675/0297/admin-profile2_thumb.png",
+    "profileImageUrlSmall" : "/images/profile/7675/0297/admin-profile2_tiny.png",
+    "screenName" : "Open Data HRM"
+  },
+  "ratings" : {
+    "rating" : 80
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "5z62-2wnw",
+    "displayName" : "Open Data HRM",
+    "profileImageUrlLarge" : "/images/profile/7675/0297/admin-profile2_large.png",
+    "profileImageUrlMedium" : "/images/profile/7675/0297/admin-profile2_thumb.png",
+    "profileImageUrlSmall" : "/images/profile/7675/0297/admin-profile2_tiny.png",
+    "screenName" : "Open Data HRM"
+  },
+  "tags" : [ "crime" ],
+  "flags" : [ "default" ]
+}, {
+  "id" : "247k-hbu8",
+  "name" : "Building Symbols",
+  "averageRating" : 100,
+  "blobFilename" : "building_symbol.zip",
+  "blobFileSize" : 73209,
+  "blobId" : "1IrhsjrgWoUbCrevwr7hgnuFWKo357xOuMlG5RxUiQc",
+  "blobMimeType" : "application/zip; charset=binary",
+  "category" : "Facilities and Structures",
+  "createdAt" : 1362742313,
+  "description" : "Points representing the geographic location of specific building use types (e.g. fire stations, police stations, schools, community centres, etc.). \r\nClick on link below for Metadata:\r\nhttps://www.halifaxopendata.ca/api/assets/C0B80727-2E96-4FAA-B6F8-61D3A086BD5E",
+  "displayType" : "map",
+  "downloadCount" : 0,
+  "indexUpdatedAt" : 1387159789,
+  "newBackend" : false,
+  "numberOfComments" : 0,
+  "oid" : 2750921,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1387155306,
+  "publicationGroup" : 721461,
+  "publicationStage" : "published",
+  "signed" : false,
+  "tableId" : 721461,
+  "totalTimesRated" : 1,
+  "viewCount" : 372,
+  "viewLastModified" : 1387155306,
+  "viewType" : "geo",
+  "childViews" : [ "82qg-ciyq" ],
+  "grants" : [ {
+    "inherited" : false,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "renderTypeConfig" : {
+      "visible" : {
+        "map" : true
+      }
+    },
+    "availableDisplayTypes" : [ "map", "table", "fatrow", "page" ],
+    "geo" : {
+      "layers" : "geo_247k-hbu8-1",
+      "bbox" : "-64.07546517753302,44.461023529233174,-62.168268617276155,45.19732928850132",
+      "bboxCrs" : "EPSG:4326",
+      "featureIdAttribute" : "_SocrataID",
+      "owsUrl" : "/api/geospatial/247k-hbu8",
+      "namespace" : "geo_247k-hbu8"
+    },
+    "attachments" : [ {
+      "blobId" : "C0B80727-2E96-4FAA-B6F8-61D3A086BD5E",
+      "name" : "ODMT_Building_Symbols.docx",
+      "filename" : "ODMT_Building_Symbols.docx"
+    } ]
+  },
+  "owner" : {
+    "id" : "5z62-2wnw",
+    "displayName" : "Open Data HRM",
+    "profileImageUrlLarge" : "/images/profile/7675/0297/admin-profile2_large.png",
+    "profileImageUrlMedium" : "/images/profile/7675/0297/admin-profile2_thumb.png",
+    "profileImageUrlSmall" : "/images/profile/7675/0297/admin-profile2_tiny.png",
+    "screenName" : "Open Data HRM"
+  },
+  "ratings" : {
+    "rating" : 100
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "5z62-2wnw",
+    "displayName" : "Open Data HRM",
+    "profileImageUrlLarge" : "/images/profile/7675/0297/admin-profile2_large.png",
+    "profileImageUrlMedium" : "/images/profile/7675/0297/admin-profile2_thumb.png",
+    "profileImageUrlSmall" : "/images/profile/7675/0297/admin-profile2_tiny.png",
+    "screenName" : "Open Data HRM"
+  },
+  "tags" : [ "buildings" ],
+  "flags" : [ "default" ]
+}, {
+  "id" : "qsxs-hn7a",
+  "name" : "Trails",
+  "averageRating" : 0,
+  "blobFilename" : "trail.zip",
+  "blobFileSize" : 1198418,
+  "blobId" : "QAZuHnH9Vakd6CSWozZwe6DhNiM_jNHP1Si6iAEuUtI",
+  "blobMimeType" : "application/zip; charset=binary",
+  "category" : "Facilities and Structures",
+  "createdAt" : 1362745665,
+  "description" : "Single line representations of trails that are either owned, maintained, or of interest to HRM. <<Work in Progress>>\r\n\r\nClick on link below for Metadata:\r\nhttps://www.halifaxopendata.ca/api/assets/96D35B7D-5CC9-4F0D-9B74-C6568C00F2EA",
+  "displayType" : "map",
+  "downloadCount" : 0,
+  "indexUpdatedAt" : 1387159799,
+  "newBackend" : false,
+  "numberOfComments" : 0,
+  "oid" : 2752031,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1387155347,
+  "publicationGroup" : 721545,
+  "publicationStage" : "published",
+  "signed" : false,
+  "tableId" : 721545,
+  "totalTimesRated" : 0,
+  "viewCount" : 1095,
+  "viewLastModified" : 1387155347,
+  "viewType" : "geo",
+  "childViews" : [ "9x5v-cxhf" ],
+  "grants" : [ {
+    "inherited" : true,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "renderTypeConfig" : {
+      "visible" : {
+        "map" : true
+      }
+    },
+    "availableDisplayTypes" : [ "map", "table", "fatrow", "page" ],
+    "geo" : {
+      "layers" : "geo_qsxs-hn7a-1",
+      "bbox" : "-64.25031288992786,44.428055978685926,-62.54193336767393,45.08276895780881",
+      "bboxCrs" : "EPSG:4326",
+      "featureIdAttribute" : "_SocrataID",
+      "owsUrl" : "/api/geospatial/qsxs-hn7a",
+      "namespace" : "geo_qsxs-hn7a"
+    },
+    "attachments" : [ {
+      "blobId" : "96D35B7D-5CC9-4F0D-9B74-C6568C00F2EA",
+      "name" : "ODMT_Trails.docx",
+      "filename" : "ODMT_Trails.docx"
+    } ]
+  },
+  "owner" : {
+    "id" : "5z62-2wnw",
+    "displayName" : "Open Data HRM",
+    "profileImageUrlLarge" : "/images/profile/7675/0297/admin-profile2_large.png",
+    "profileImageUrlMedium" : "/images/profile/7675/0297/admin-profile2_thumb.png",
+    "profileImageUrlSmall" : "/images/profile/7675/0297/admin-profile2_tiny.png",
+    "screenName" : "Open Data HRM"
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "5z62-2wnw",
+    "displayName" : "Open Data HRM",
+    "profileImageUrlLarge" : "/images/profile/7675/0297/admin-profile2_large.png",
+    "profileImageUrlMedium" : "/images/profile/7675/0297/admin-profile2_thumb.png",
+    "profileImageUrlSmall" : "/images/profile/7675/0297/admin-profile2_tiny.png",
+    "screenName" : "Open Data HRM"
+  },
+  "tags" : [ "trails" ],
+  "flags" : [ "default" ]
+}, {
+  "id" : "4t8v-ds8m",
+  "name" : "Solid Waste Collection Areas",
+  "averageRating" : 0,
+  "blobFilename" : "waste_coll_area.zip",
+  "blobFileSize" : 278664,
+  "blobId" : "zemVxa-mJ5y0xNm9VaPPN_KTZFlUQkeZUcwI0X8ACuQ",
+  "blobMimeType" : "application/zip; charset=binary",
+  "category" : "City Services",
+  "createdAt" : 1362745784,
+  "description" : "Geographic outlines (polygons) that represent the solid waste (garbage and recycling) collection areas. Includes the current contractor, day of the week for collection and collection frequency.\r\nClick on link below for Metadata:\r\nhttps://www.halifaxopendata.ca/api/assets/32A94409-4B6F-4C36-97F5-BC6F4FDB38CC",
+  "displayType" : "map",
+  "downloadCount" : 0,
+  "indexUpdatedAt" : 1387155785,
+  "newBackend" : false,
+  "numberOfComments" : 0,
+  "oid" : 2752040,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1387154596,
+  "publicationGroup" : 721550,
+  "publicationStage" : "published",
+  "signed" : false,
+  "tableId" : 721550,
+  "totalTimesRated" : 0,
+  "viewCount" : 958,
+  "viewLastModified" : 1387154596,
+  "viewType" : "geo",
+  "childViews" : [ "ga7p-4mik" ],
+  "grants" : [ {
+    "inherited" : true,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "renderTypeConfig" : {
+      "visible" : {
+        "map" : true
+      }
+    },
+    "availableDisplayTypes" : [ "map", "table", "fatrow", "page" ],
+    "geo" : {
+      "layers" : "geo_4t8v-ds8m-1",
+      "bbox" : "-64.25755045147977,44.411981780060906,-62.079906180494206,45.27787602596272",
+      "bboxCrs" : "EPSG:4326",
+      "featureIdAttribute" : "_SocrataID",
+      "owsUrl" : "/api/geospatial/4t8v-ds8m",
+      "namespace" : "geo_4t8v-ds8m"
+    },
+    "attachments" : [ {
+      "blobId" : "32A94409-4B6F-4C36-97F5-BC6F4FDB38CC",
+      "name" : "ODMT_Solid_Waste_Collection_Areas.docx",
+      "filename" : "ODMT_Solid_Waste_Collection_Areas.docx"
+    }, {
+      "blobId" : "343AE8BE-DF16-463A-B380-019A296061C5",
+      "name" : "2013AreaI.pdf",
+      "filename" : "2013AreaI.pdf"
+    }, {
+      "blobId" : "249F0E14-477D-438E-8980-A4C78C5F4197",
+      "name" : "2013AreaII.pdf",
+      "filename" : "2013AreaII.pdf"
+    } ]
+  },
+  "owner" : {
+    "id" : "5z62-2wnw",
+    "displayName" : "Open Data HRM",
+    "profileImageUrlLarge" : "/images/profile/7675/0297/admin-profile2_large.png",
+    "profileImageUrlMedium" : "/images/profile/7675/0297/admin-profile2_thumb.png",
+    "profileImageUrlSmall" : "/images/profile/7675/0297/admin-profile2_tiny.png",
+    "screenName" : "Open Data HRM"
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "5z62-2wnw",
+    "displayName" : "Open Data HRM",
+    "profileImageUrlLarge" : "/images/profile/7675/0297/admin-profile2_large.png",
+    "profileImageUrlMedium" : "/images/profile/7675/0297/admin-profile2_thumb.png",
+    "profileImageUrlSmall" : "/images/profile/7675/0297/admin-profile2_tiny.png",
+    "screenName" : "Open Data HRM"
+  },
+  "tags" : [ "waste collection" ],
+  "flags" : [ "default" ]
+}, {
+  "id" : "98mm-gs3f",
+  "name" : "Civic Addresses",
+  "averageRating" : 0,
+  "blobFilename" : "civic_address.zip",
+  "blobFileSize" : 10374403,
+  "blobId" : "-n2d739yeMkRDFcflH5PO6uuek5uXNH9Fv6ZsoT25Zk",
+  "blobMimeType" : "application/zip; charset=binary",
+  "category" : "City Services",
+  "createdAt" : 1362743094,
+  "description" : "Points representing the geographic location of civic addresses that includes civic number, street name and community information. \r\nClick on link below for Metadata:\r\nhttps://www.halifaxopendata.ca/api/assets/B3863243-8E10-4456-AB9E-6796B75C2D1F",
+  "displayType" : "map",
+  "downloadCount" : 0,
+  "indexUpdatedAt" : 1387158401,
+  "newBackend" : false,
+  "numberOfComments" : 0,
+  "oid" : 2751866,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1387155070,
+  "publicationGroup" : 721484,
+  "publicationStage" : "published",
+  "signed" : false,
+  "tableId" : 721484,
+  "totalTimesRated" : 0,
+  "viewCount" : 612,
+  "viewLastModified" : 1387155071,
+  "viewType" : "geo",
+  "childViews" : [ "247p-j6gq" ],
+  "grants" : [ {
+    "inherited" : true,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "renderTypeConfig" : {
+      "visible" : {
+        "map" : true
+      }
+    },
+    "availableDisplayTypes" : [ "map", "table", "fatrow", "page" ],
+    "geo" : {
+      "layers" : "geo_98mm-gs3f-1",
+      "bbox" : "-64.17583666428641,44.432250710368514,-62.155942423058995,45.27561524401242",
+      "bboxCrs" : "EPSG:4326",
+      "featureIdAttribute" : "_SocrataID",
+      "owsUrl" : "/api/geospatial/98mm-gs3f",
+      "namespace" : "geo_98mm-gs3f"
+    },
+    "attachments" : [ {
+      "blobId" : "B3863243-8E10-4456-AB9E-6796B75C2D1F",
+      "name" : "ODMT_Civic_Addresses.docx",
+      "filename" : "ODMT_Civic_Addresses.docx"
+    } ]
+  },
+  "owner" : {
+    "id" : "5z62-2wnw",
+    "displayName" : "Open Data HRM",
+    "profileImageUrlLarge" : "/images/profile/7675/0297/admin-profile2_large.png",
+    "profileImageUrlMedium" : "/images/profile/7675/0297/admin-profile2_thumb.png",
+    "profileImageUrlSmall" : "/images/profile/7675/0297/admin-profile2_tiny.png",
+    "screenName" : "Open Data HRM"
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "5z62-2wnw",
+    "displayName" : "Open Data HRM",
+    "profileImageUrlLarge" : "/images/profile/7675/0297/admin-profile2_large.png",
+    "profileImageUrlMedium" : "/images/profile/7675/0297/admin-profile2_thumb.png",
+    "profileImageUrlSmall" : "/images/profile/7675/0297/admin-profile2_tiny.png",
+    "screenName" : "Open Data HRM"
+  },
+  "tags" : [ "civic address" ],
+  "flags" : [ "default" ]
+}, {
+  "id" : "y3cf-ivzs",
+  "name" : "Bus Routes",
+  "averageRating" : 0,
+  "blobFilename" : "bus_route.zip",
+  "blobFileSize" : 858841,
+  "blobId" : "fAmTatCbxCskEjYMIFmyuRp8ayBCg5QYc6SAuUETK-w",
+  "blobMimeType" : "application/zip; charset=binary",
+  "category" : "Transit",
+  "createdAt" : 1362742464,
+  "description" : "Single line representations of all bus routes in HRM. Includes route number, route name and route classification (e.g. peak, weekday regular, etc.). Click on link below for Metadata:\r\nhttps://www.halifaxopendata.ca/api/assets/50FC1910-9EC3-4094-9BB6-BF5C0520A637",
+  "displayType" : "map",
+  "downloadCount" : 0,
+  "indexUpdatedAt" : 1387155780,
+  "newBackend" : false,
+  "numberOfComments" : 0,
+  "oid" : 2750926,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1387154576,
+  "publicationGroup" : 721466,
+  "publicationStage" : "published",
+  "signed" : false,
+  "tableId" : 721466,
+  "totalTimesRated" : 0,
+  "viewCount" : 1013,
+  "viewLastModified" : 1387154576,
+  "viewType" : "geo",
+  "childViews" : [ "x9y9-2tkr" ],
+  "grants" : [ {
+    "inherited" : false,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "renderTypeConfig" : {
+      "visible" : {
+        "map" : true
+      }
+    },
+    "availableDisplayTypes" : [ "map", "table", "fatrow", "page" ],
+    "geo" : {
+      "layers" : "geo_y3cf-ivzs-1",
+      "bbox" : "-69.31519418906663,4.027175673011543E-4,-63.1810425067941,44.906024739876266",
+      "bboxCrs" : "EPSG:4326",
+      "featureIdAttribute" : "_SocrataID",
+      "owsUrl" : "/api/geospatial/y3cf-ivzs",
+      "namespace" : "geo_y3cf-ivzs"
+    },
+    "attachments" : [ {
+      "blobId" : "50FC1910-9EC3-4094-9BB6-BF5C0520A637",
+      "name" : "ODMT_Bus_Routes.docx",
+      "filename" : "ODMT_Bus_Routes.docx"
+    } ]
+  },
+  "owner" : {
+    "id" : "5z62-2wnw",
+    "displayName" : "Open Data HRM",
+    "profileImageUrlLarge" : "/images/profile/7675/0297/admin-profile2_large.png",
+    "profileImageUrlMedium" : "/images/profile/7675/0297/admin-profile2_thumb.png",
+    "profileImageUrlSmall" : "/images/profile/7675/0297/admin-profile2_tiny.png",
+    "screenName" : "Open Data HRM"
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "5z62-2wnw",
+    "displayName" : "Open Data HRM",
+    "profileImageUrlLarge" : "/images/profile/7675/0297/admin-profile2_large.png",
+    "profileImageUrlMedium" : "/images/profile/7675/0297/admin-profile2_thumb.png",
+    "profileImageUrlSmall" : "/images/profile/7675/0297/admin-profile2_tiny.png",
+    "screenName" : "Open Data HRM"
+  },
+  "tags" : [ "bus routes" ],
+  "flags" : [ "default" ]
+}, {
+  "id" : "wvsx-48r2",
+  "name" : "HRM Parks",
+  "averageRating" : 0,
+  "blobFilename" : "park.zip",
+  "blobFileSize" : 1968219,
+  "blobId" : "5MDcTWRZe7TQOGBWxyxpHqMlJWxeBsyuQgUgz5OCO38",
+  "blobMimeType" : "application/zip; charset=binary",
+  "category" : "Facilities and Structures",
+  "createdAt" : 1362743444,
+  "description" : "Geographic outlines (polygons) that represent developed and undeveloped HRM park land. This data set includes parks at the neighbourhood, community, district and regional level.\r\nClick on link below for Metadata:\r\nhttps://www.halifaxopendata.ca/api/assets/13F5151D-28A8-4083-A0E9-1AE4B6E845A9",
+  "displayType" : "map",
+  "downloadCount" : 0,
+  "indexUpdatedAt" : 1387158233,
+  "newBackend" : false,
+  "numberOfComments" : 0,
+  "oid" : 2751897,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1387154622,
+  "publicationGroup" : 721495,
+  "publicationStage" : "published",
+  "signed" : false,
+  "tableId" : 721495,
+  "totalTimesRated" : 0,
+  "viewCount" : 527,
+  "viewLastModified" : 1387154623,
+  "viewType" : "geo",
+  "childViews" : [ "fz3k-wqkp" ],
+  "grants" : [ {
+    "inherited" : true,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "renderTypeConfig" : {
+      "visible" : {
+        "map" : true
+      }
+    },
+    "availableDisplayTypes" : [ "map", "table", "fatrow", "page" ],
+    "geo" : {
+      "layers" : "geo_wvsx-48r2-1",
+      "bbox" : "-64.08045573981158,44.448893538741004,-62.25338366515032,45.14071812204971",
+      "bboxCrs" : "EPSG:4326",
+      "featureIdAttribute" : "_SocrataID",
+      "owsUrl" : "/api/geospatial/wvsx-48r2",
+      "namespace" : "geo_wvsx-48r2"
+    },
+    "attachments" : [ {
+      "blobId" : "13F5151D-28A8-4083-A0E9-1AE4B6E845A9",
+      "name" : "ODMT_HRM_Parks.docx",
+      "filename" : "ODMT_HRM_Parks.docx"
+    } ]
+  },
+  "owner" : {
+    "id" : "5z62-2wnw",
+    "displayName" : "Open Data HRM",
+    "profileImageUrlLarge" : "/images/profile/7675/0297/admin-profile2_large.png",
+    "profileImageUrlMedium" : "/images/profile/7675/0297/admin-profile2_thumb.png",
+    "profileImageUrlSmall" : "/images/profile/7675/0297/admin-profile2_tiny.png",
+    "screenName" : "Open Data HRM"
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "5z62-2wnw",
+    "displayName" : "Open Data HRM",
+    "profileImageUrlLarge" : "/images/profile/7675/0297/admin-profile2_large.png",
+    "profileImageUrlMedium" : "/images/profile/7675/0297/admin-profile2_thumb.png",
+    "profileImageUrlSmall" : "/images/profile/7675/0297/admin-profile2_tiny.png",
+    "screenName" : "Open Data HRM"
+  },
+  "tags" : [ "parks" ],
+  "flags" : [ "default" ]
+}, {
+  "id" : "4qdy-cd8n",
+  "name" : "Bylaw Areas",
+  "averageRating" : 0,
+  "blobFilename" : "bylaw_area.zip",
+  "blobFileSize" : 397552,
+  "blobId" : "yM8HY2lcDERrjc87UTyeh1LXIakqqC0wOQbDTrTo6a0",
+  "blobMimeType" : "application/zip; charset=binary",
+  "category" : "Zoning",
+  "createdAt" : 1362742789,
+  "description" : "Geographic outlines (polygons) that represent the land use bylaw areas within HRM. To be used in conjunction with the zoning boundaries for correct interpretation of the zone code.\r\nClick on link below for Metadata:\r\nhttps://www.halifaxopendata.ca/api/assets/A7826A40-6A6A-4126-BBD7-9F1BE388BC34",
+  "displayType" : "map",
+  "downloadCount" : 0,
+  "indexUpdatedAt" : 1387158353,
+  "newBackend" : false,
+  "numberOfComments" : 0,
+  "oid" : 2751401,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1387154661,
+  "publicationGroup" : 721476,
+  "publicationStage" : "published",
+  "signed" : false,
+  "tableId" : 721476,
+  "totalTimesRated" : 0,
+  "viewCount" : 429,
+  "viewLastModified" : 1387154661,
+  "viewType" : "geo",
+  "childViews" : [ "frn8-mgzc" ],
+  "grants" : [ {
+    "inherited" : false,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "renderTypeConfig" : {
+      "visible" : {
+        "map" : true
+      }
+    },
+    "availableDisplayTypes" : [ "map", "table", "fatrow", "page" ],
+    "geo" : {
+      "layers" : "geo_4qdy-cd8n-1",
+      "bbox" : "-64.25182184114972,44.39679545622848,-62.07768969765782,45.27593281098341",
+      "bboxCrs" : "EPSG:4326",
+      "featureIdAttribute" : "_SocrataID",
+      "owsUrl" : "/api/geospatial/4qdy-cd8n",
+      "namespace" : "geo_4qdy-cd8n"
+    },
+    "attachments" : [ {
+      "blobId" : "A7826A40-6A6A-4126-BBD7-9F1BE388BC34",
+      "name" : "ODMT_Bylaw_Areas.docx",
+      "filename" : "ODMT_Bylaw_Areas.docx"
+    } ]
+  },
+  "owner" : {
+    "id" : "5z62-2wnw",
+    "displayName" : "Open Data HRM",
+    "profileImageUrlLarge" : "/images/profile/7675/0297/admin-profile2_large.png",
+    "profileImageUrlMedium" : "/images/profile/7675/0297/admin-profile2_thumb.png",
+    "profileImageUrlSmall" : "/images/profile/7675/0297/admin-profile2_tiny.png",
+    "screenName" : "Open Data HRM"
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "5z62-2wnw",
+    "displayName" : "Open Data HRM",
+    "profileImageUrlLarge" : "/images/profile/7675/0297/admin-profile2_large.png",
+    "profileImageUrlMedium" : "/images/profile/7675/0297/admin-profile2_thumb.png",
+    "profileImageUrlSmall" : "/images/profile/7675/0297/admin-profile2_tiny.png",
+    "screenName" : "Open Data HRM"
+  },
+  "tags" : [ "zoning" ],
+  "flags" : [ "default" ]
+}, {
+  "id" : "yiff-dtex",
+  "name" : "Satellite view",
+  "averageRating" : 40,
+  "blobFilename" : "building.zip",
+  "blobFileSize" : 14757865,
+  "blobId" : "q_wi4dh4pF-vUliuxwaggPHpJ3a1ODS9RJhzGNmmSZI",
+  "category" : "Facilities and Structures",
+  "createdAt" : 1367333719,
+  "description" : "Geographic outlines (polygons) that represent a two-dimensional view of buildings in HRM. \r\nClick on link below for Metadata: https://www.halifaxopendata.ca/api/assets/7F873A08-C7DB-4CBB-866F-2C1C5EA13514",
+  "displayType" : "map",
+  "downloadCount" : 0,
+  "indexUpdatedAt" : 1387155282,
+  "newBackend" : false,
+  "numberOfComments" : 0,
+  "oid" : 3410833,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1387154476,
+  "publicationGroup" : 721450,
+  "publicationStage" : "published",
+  "signed" : false,
+  "tableId" : 721450,
+  "totalTimesRated" : 1,
+  "viewCount" : 187,
+  "viewLastModified" : 1367931566,
+  "viewType" : "geo",
+  "grants" : [ {
+    "inherited" : true,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "renderTypeConfig" : {
+      "visible" : {
+        "map" : true
+      }
+    },
+    "availableDisplayTypes" : [ "map", "table", "fatrow", "page" ],
+    "geo" : {
+      "owsUrl" : "/api/geospatial/94qi-yw3a",
+      "bbox" : "-64.07848465288035,44.450616557716046,-62.160501873285796,45.27107244448861",
+      "layers" : "geo_94qi-yw3a-1",
+      "featureIdAttribute" : "_SocrataID",
+      "bboxCrs" : "EPSG:4326",
+      "namespace" : "geo_94qi-yw3a"
+    },
+    "attachments" : [ {
+      "blobId" : "7F873A08-C7DB-4CBB-866F-2C1C5EA13514",
+      "name" : "ODMT_Building.docx",
+      "filename" : "ODMT_Building.docx"
+    } ]
+  },
+  "owner" : {
+    "id" : "pspz-63kj",
+    "displayName" : "KedE",
+    "profileImageUrlLarge" : "/images/profile/4960/4090/419358_10152604606355221_460821023_n_large.jpg",
+    "profileImageUrlMedium" : "/images/profile/4960/4090/419358_10152604606355221_460821023_n_thumb.jpg",
+    "profileImageUrlSmall" : "/images/profile/4960/4090/419358_10152604606355221_460821023_n_tiny.jpg",
+    "screenName" : "KedE"
+  },
+  "ratings" : {
+    "rating" : 40
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "5z62-2wnw",
+    "displayName" : "Open Data HRM",
+    "profileImageUrlLarge" : "/images/profile/7675/0297/admin-profile2_large.png",
+    "profileImageUrlMedium" : "/images/profile/7675/0297/admin-profile2_thumb.png",
+    "profileImageUrlSmall" : "/images/profile/7675/0297/admin-profile2_tiny.png",
+    "screenName" : "Open Data HRM"
+  }
+}, {
+  "id" : "svb3-ubya",
+  "name" : "Street Network",
+  "averageRating" : 0,
+  "blobFilename" : "street.zip",
+  "blobFileSize" : 4727023,
+  "blobId" : "9xKksBFmSe8DMtExk03szETmseUM9q2OtkF55oeyhvA",
+  "blobMimeType" : "application/zip; charset=binary",
+  "category" : "Facilities and Structures",
+  "createdAt" : 1362753064,
+  "description" : "Single line representation of every street in HRM with associated street name, block face ranges and community names. \r\nClick on link below for Metadata:\r\nhttps://www.halifaxopendata.ca/api/assets/ACA19715-FA7E-4DD2-A9C0-3A8A7E98A20C",
+  "displayType" : "map",
+  "downloadCount" : 0,
+  "indexUpdatedAt" : 1387159787,
+  "newBackend" : false,
+  "numberOfComments" : 0,
+  "oid" : 2754091,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1387155280,
+  "publicationGroup" : 721728,
+  "publicationStage" : "published",
+  "signed" : false,
+  "tableId" : 721728,
+  "totalTimesRated" : 0,
+  "viewCount" : 390,
+  "viewLastModified" : 1387155280,
+  "viewType" : "geo",
+  "childViews" : [ "phmf-ara4" ],
+  "grants" : [ {
+    "inherited" : true,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "renderTypeConfig" : {
+      "visible" : {
+        "map" : true
+      }
+    },
+    "availableDisplayTypes" : [ "map", "table", "fatrow", "page" ],
+    "geo" : {
+      "layers" : "geo_svb3-ubya-1",
+      "bbox" : "-64.09248767348518,44.435689811843496,-62.15623315447066,45.27334918711367",
+      "bboxCrs" : "EPSG:4326",
+      "featureIdAttribute" : "_SocrataID",
+      "owsUrl" : "/api/geospatial/svb3-ubya",
+      "namespace" : "geo_svb3-ubya"
+    },
+    "attachments" : [ {
+      "blobId" : "ACA19715-FA7E-4DD2-A9C0-3A8A7E98A20C",
+      "name" : "ODMT_Street_Network.docx",
+      "filename" : "ODMT_Street_Network.docx"
+    } ]
+  },
+  "owner" : {
+    "id" : "5z62-2wnw",
+    "displayName" : "Open Data HRM",
+    "profileImageUrlLarge" : "/images/profile/7675/0297/admin-profile2_large.png",
+    "profileImageUrlMedium" : "/images/profile/7675/0297/admin-profile2_thumb.png",
+    "profileImageUrlSmall" : "/images/profile/7675/0297/admin-profile2_tiny.png",
+    "screenName" : "Open Data HRM"
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "5z62-2wnw",
+    "displayName" : "Open Data HRM",
+    "profileImageUrlLarge" : "/images/profile/7675/0297/admin-profile2_large.png",
+    "profileImageUrlMedium" : "/images/profile/7675/0297/admin-profile2_thumb.png",
+    "profileImageUrlSmall" : "/images/profile/7675/0297/admin-profile2_tiny.png",
+    "screenName" : "Open Data HRM"
+  },
+  "tags" : [ "streets" ],
+  "flags" : [ "default" ]
+}, {
+  "id" : "wbeb-n6zy",
+  "name" : "HRM Park Recreation Features",
+  "averageRating" : 0,
+  "blobFilename" : "park_feature.zip",
+  "blobFileSize" : 120905,
+  "blobId" : "XmLXo39wP0aA25_j0cxkrfRxbHlWnxUHUjHUk7HdvAo",
+  "blobMimeType" : "application/zip; charset=binary",
+  "category" : "Community Services",
+  "createdAt" : 1362743567,
+  "description" : "Points representing the geographic location of recreational features that are owned or maintained by HRM (e.g. playgrounds, sports fields, boat facilities, outdoor rinks, etc.).\r\nClick the link below for Metadata:\r\nhttps://www.halifaxopendata.ca/api/assets/06B565DF-1A4C-440E-BB48-FB9B62760434",
+  "displayType" : "map",
+  "downloadCount" : 0,
+  "indexUpdatedAt" : 1387155732,
+  "newBackend" : false,
+  "numberOfComments" : 0,
+  "oid" : 2751901,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1387154551,
+  "publicationGroup" : 721497,
+  "publicationStage" : "published",
+  "signed" : false,
+  "tableId" : 721497,
+  "totalTimesRated" : 0,
+  "viewCount" : 444,
+  "viewLastModified" : 1387154551,
+  "viewType" : "geo",
+  "childViews" : [ "mw38-j5it" ],
+  "grants" : [ {
+    "inherited" : true,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "renderTypeConfig" : {
+      "visible" : {
+        "map" : true
+      }
+    },
+    "availableDisplayTypes" : [ "map", "table", "fatrow", "page" ],
+    "geo" : {
+      "layers" : "geo_wbeb-n6zy-1",
+      "bbox" : "-64.05894210537325,44.44921037084134,-62.25361376496389,45.1397970032837",
+      "bboxCrs" : "EPSG:4326",
+      "featureIdAttribute" : "_SocrataID",
+      "owsUrl" : "/api/geospatial/wbeb-n6zy",
+      "namespace" : "geo_wbeb-n6zy"
+    },
+    "attachments" : [ {
+      "blobId" : "06B565DF-1A4C-440E-BB48-FB9B62760434",
+      "name" : "ODMT_HRM_Park_Recreation_Features.docx",
+      "filename" : "ODMT_HRM_Park_Recreation_Features.docx"
+    } ]
+  },
+  "owner" : {
+    "id" : "5z62-2wnw",
+    "displayName" : "Open Data HRM",
+    "profileImageUrlLarge" : "/images/profile/7675/0297/admin-profile2_large.png",
+    "profileImageUrlMedium" : "/images/profile/7675/0297/admin-profile2_thumb.png",
+    "profileImageUrlSmall" : "/images/profile/7675/0297/admin-profile2_tiny.png",
+    "screenName" : "Open Data HRM"
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "5z62-2wnw",
+    "displayName" : "Open Data HRM",
+    "profileImageUrlLarge" : "/images/profile/7675/0297/admin-profile2_large.png",
+    "profileImageUrlMedium" : "/images/profile/7675/0297/admin-profile2_thumb.png",
+    "profileImageUrlSmall" : "/images/profile/7675/0297/admin-profile2_tiny.png",
+    "screenName" : "Open Data HRM"
+  },
+  "tags" : [ "parks" ],
+  "flags" : [ "default" ]
+}, {
+  "id" : "p32d-4suh",
+  "name" : "Zoning Boundaries",
+  "averageRating" : 0,
+  "blobFilename" : "zoning.zip",
+  "blobFileSize" : 44672829,
+  "blobId" : "HZpWZi2azMfylDz2TRoRzZBHzQuEFU3kmbPpafAtLo4",
+  "blobMimeType" : "application/zip; charset=binary",
+  "category" : "Zoning",
+  "createdAt" : 1362753343,
+  "description" : "Geographic outlines (polygons) that represent the land use zone applied to a particular area of land within a land use bylaw (LUB) area. Zoning designations differ between LUB areas, so each zone must be interpreted within the context of the LUB area in which it is applied.\r\nClick on link below for Metadata:\r\nhttps://www.halifaxopendata.ca/api/assets/99F6A9E5-4AC3-42DA-BD4E-4C268CC212D9",
+  "displayType" : "map",
+  "downloadCount" : 0,
+  "indexUpdatedAt" : 1387159799,
+  "newBackend" : false,
+  "numberOfComments" : 0,
+  "oid" : 2754119,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1387155882,
+  "publicationGroup" : 721737,
+  "publicationStage" : "published",
+  "signed" : false,
+  "tableId" : 721737,
+  "totalTimesRated" : 0,
+  "viewCount" : 533,
+  "viewLastModified" : 1387155882,
+  "viewType" : "geo",
+  "childViews" : [ "cyr3-qsf7" ],
+  "grants" : [ {
+    "inherited" : true,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "renderTypeConfig" : {
+      "visible" : {
+        "map" : true
+      }
+    },
+    "availableDisplayTypes" : [ "map", "table", "fatrow", "page" ],
+    "geo" : {
+      "layers" : "geo_p32d-4suh-1",
+      "bbox" : "-64.25183298427596,44.42604369485766,-62.0961139623629,45.27643190179014",
+      "bboxCrs" : "EPSG:4326",
+      "featureIdAttribute" : "_SocrataID",
+      "owsUrl" : "/api/geospatial/p32d-4suh",
+      "namespace" : "geo_p32d-4suh"
+    },
+    "attachments" : [ {
+      "blobId" : "99F6A9E5-4AC3-42DA-BD4E-4C268CC212D9",
+      "name" : "ODMT_Zoning_Boundaries.docx",
+      "filename" : "ODMT_Zoning_Boundaries.docx"
+    } ]
+  },
+  "owner" : {
+    "id" : "5z62-2wnw",
+    "displayName" : "Open Data HRM",
+    "profileImageUrlLarge" : "/images/profile/7675/0297/admin-profile2_large.png",
+    "profileImageUrlMedium" : "/images/profile/7675/0297/admin-profile2_thumb.png",
+    "profileImageUrlSmall" : "/images/profile/7675/0297/admin-profile2_tiny.png",
+    "screenName" : "Open Data HRM"
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "5z62-2wnw",
+    "displayName" : "Open Data HRM",
+    "profileImageUrlLarge" : "/images/profile/7675/0297/admin-profile2_large.png",
+    "profileImageUrlMedium" : "/images/profile/7675/0297/admin-profile2_thumb.png",
+    "profileImageUrlSmall" : "/images/profile/7675/0297/admin-profile2_tiny.png",
+    "screenName" : "Open Data HRM"
+  },
+  "tags" : [ "zoning" ],
+  "flags" : [ "default" ]
+}, {
+  "id" : "5hmm-vkca",
+  "name" : "Transit Time Scheduling Data",
+  "averageRating" : 0,
+  "blobFilename" : "google_transit.zip",
+  "blobFileSize" : 7897165,
+  "blobId" : "rioeep69_i-erXWo9G88kchEAcT4QNeIrVN1ugfQ8ig",
+  "blobMimeType" : "application/zip; charset=binary",
+  "category" : "Transit",
+  "createdAt" : 1363285378,
+  "description" : "Metro Transit bus scheduling information, released in Google Transit Feed Specification (GTFS) format.\r\nClick on link below for Metadata:\r\nhttps://www.halifaxopendata.ca/api/assets/E7940EC5-6310-4E4D-AACC-D32F0ABF650C",
+  "displayType" : "blob",
+  "downloadCount" : 119,
+  "indexUpdatedAt" : 1387155175,
+  "newBackend" : false,
+  "numberOfComments" : 0,
+  "oid" : 2823347,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1363285378,
+  "publicationGroup" : 733391,
+  "publicationStage" : "published",
+  "signed" : false,
+  "tableId" : 733391,
+  "totalTimesRated" : 0,
+  "viewCount" : 368,
+  "viewLastModified" : 1387153923,
+  "viewType" : "blobby",
+  "grants" : [ {
+    "inherited" : false,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "renderTypeConfig" : {
+      "visible" : {
+        "blob" : true
+      }
+    },
+    "availableDisplayTypes" : [ "blob" ],
+    "attachments" : [ {
+      "blobId" : "E7940EC5-6310-4E4D-AACC-D32F0ABF650C",
+      "name" : "ODMT_Transit_Time_Scheduling_Data.docx",
+      "filename" : "ODMT_Transit_Time_Scheduling_Data.docx"
+    } ]
+  },
+  "owner" : {
+    "id" : "5z62-2wnw",
+    "displayName" : "Open Data HRM",
+    "profileImageUrlLarge" : "/images/profile/7675/0297/admin-profile2_large.png",
+    "profileImageUrlMedium" : "/images/profile/7675/0297/admin-profile2_thumb.png",
+    "profileImageUrlSmall" : "/images/profile/7675/0297/admin-profile2_tiny.png",
+    "screenName" : "Open Data HRM"
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "5z62-2wnw",
+    "displayName" : "Open Data HRM",
+    "profileImageUrlLarge" : "/images/profile/7675/0297/admin-profile2_large.png",
+    "profileImageUrlMedium" : "/images/profile/7675/0297/admin-profile2_thumb.png",
+    "profileImageUrlSmall" : "/images/profile/7675/0297/admin-profile2_tiny.png",
+    "screenName" : "Open Data HRM"
+  },
+  "tags" : [ "transit" ],
+  "flags" : [ "default" ]
+}, {
+  "id" : "fprb-j2h4",
+  "name" : "Community Boundaries",
+  "averageRating" : 0,
+  "blobFilename" : "gsa.zip",
+  "blobFileSize" : 1106870,
+  "blobId" : "Bh1f-O5BTbv1M4l-3fsLD4gQicLidfHrIMh-te4FTfs",
+  "blobMimeType" : "application/zip; charset=binary",
+  "category" : "Zoning",
+  "createdAt" : 1362754321,
+  "description" : "Geographic outlines (polygons) of all of the official community boundaries within HRM.\r\nClick on link below for Metadata:\r\nhttps://www.halifaxopendata.ca/api/assets/3C2BFA43-3FB4-4796-9042-93C2F77AF1D7",
+  "displayType" : "map",
+  "downloadCount" : 0,
+  "indexUpdatedAt" : 1387159110,
+  "newBackend" : false,
+  "numberOfComments" : 0,
+  "oid" : 2754302,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1387155119,
+  "publicationGroup" : 721766,
+  "publicationStage" : "published",
+  "signed" : false,
+  "tableId" : 721766,
+  "totalTimesRated" : 0,
+  "viewCount" : 283,
+  "viewLastModified" : 1387155119,
+  "viewType" : "geo",
+  "childViews" : [ "p83c-h6yg" ],
+  "grants" : [ {
+    "inherited" : true,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "renderTypeConfig" : {
+      "visible" : {
+        "map" : true
+      }
+    },
+    "availableDisplayTypes" : [ "map", "table", "fatrow", "page" ],
+    "geo" : {
+      "layers" : "geo_fprb-j2h4-1",
+      "bbox" : "-64.25181997414694,44.41204296013362,-62.07966326641661,45.27585223760981",
+      "bboxCrs" : "EPSG:4326",
+      "featureIdAttribute" : "_SocrataID",
+      "owsUrl" : "/api/geospatial/fprb-j2h4",
+      "namespace" : "geo_fprb-j2h4"
+    },
+    "attachments" : [ {
+      "blobId" : "3C2BFA43-3FB4-4796-9042-93C2F77AF1D7",
+      "name" : "ODMT_Community_Boundaries.docx",
+      "filename" : "ODMT_Community_Boundaries.docx"
+    } ]
+  },
+  "owner" : {
+    "id" : "5z62-2wnw",
+    "displayName" : "Open Data HRM",
+    "profileImageUrlLarge" : "/images/profile/7675/0297/admin-profile2_large.png",
+    "profileImageUrlMedium" : "/images/profile/7675/0297/admin-profile2_thumb.png",
+    "profileImageUrlSmall" : "/images/profile/7675/0297/admin-profile2_tiny.png",
+    "screenName" : "Open Data HRM"
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "5z62-2wnw",
+    "displayName" : "Open Data HRM",
+    "profileImageUrlLarge" : "/images/profile/7675/0297/admin-profile2_large.png",
+    "profileImageUrlMedium" : "/images/profile/7675/0297/admin-profile2_thumb.png",
+    "profileImageUrlSmall" : "/images/profile/7675/0297/admin-profile2_tiny.png",
+    "screenName" : "Open Data HRM"
+  },
+  "tags" : [ "zoning" ],
+  "flags" : [ "default" ]
+}, {
+  "id" : "eedr-6dvi",
+  "name" : "LIDAR DEM 5M",
+  "averageRating" : 0,
+  "blobFilename" : "DEM.zip",
+  "blobFileSize" : 122346251,
+  "blobId" : "0Svlq9JDp311kuOQbKaeCriC8znlFguvIZdfZKqCluk",
+  "blobMimeType" : "application/zip; charset=binary",
+  "category" : "Demographics",
+  "createdAt" : 1364230195,
+  "description" : "A digital elevation model (DEM) that shows the topography of the land. This DEM is what is called a bare earth model; in that the elevation model is representative of the land without taking into account the trees and buildings.\r\nClick on link below for Metadata:\r\nhttps://www.halifaxopendata.ca/api/assets/C479999A-2699-475D-B480-EEE73BEF044C",
+  "displayType" : "blob",
+  "downloadCount" : 214,
+  "indexUpdatedAt" : 1365446704,
+  "newBackend" : false,
+  "numberOfComments" : 0,
+  "oid" : 2951723,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1364230195,
+  "publicationGroup" : 755219,
+  "publicationStage" : "published",
+  "signed" : false,
+  "tableId" : 755219,
+  "totalTimesRated" : 0,
+  "viewCount" : 605,
+  "viewLastModified" : 1365446690,
+  "viewType" : "blobby",
+  "grants" : [ {
+    "inherited" : false,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "renderTypeConfig" : {
+      "visible" : {
+        "blob" : true
+      }
+    },
+    "availableDisplayTypes" : [ "blob" ],
+    "attachments" : [ {
+      "blobId" : "C479999A-2699-475D-B480-EEE73BEF044C",
+      "name" : "ODMT_LiDAR_DEM_5M.docx",
+      "filename" : "ODMT_LiDAR_DEM_5M.docx"
+    } ]
+  },
+  "owner" : {
+    "id" : "5z62-2wnw",
+    "displayName" : "Open Data HRM",
+    "profileImageUrlLarge" : "/images/profile/7675/0297/admin-profile2_large.png",
+    "profileImageUrlMedium" : "/images/profile/7675/0297/admin-profile2_thumb.png",
+    "profileImageUrlSmall" : "/images/profile/7675/0297/admin-profile2_tiny.png",
+    "screenName" : "Open Data HRM"
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "5z62-2wnw",
+    "displayName" : "Open Data HRM",
+    "profileImageUrlLarge" : "/images/profile/7675/0297/admin-profile2_large.png",
+    "profileImageUrlMedium" : "/images/profile/7675/0297/admin-profile2_thumb.png",
+    "profileImageUrlSmall" : "/images/profile/7675/0297/admin-profile2_tiny.png",
+    "screenName" : "Open Data HRM"
+  },
+  "tags" : [ "digital elevation model" ],
+  "flags" : [ "default" ]
+}, {
+  "id" : "e7u6-by35",
+  "name" : "Polling District",
+  "averageRating" : 0,
+  "blobFilename" : "polling_district.zip",
+  "blobFileSize" : 253110,
+  "blobId" : "ive5NtkssBvnelfcJ1_DcM38CxvWja1t3WfjPWCHto4",
+  "blobMimeType" : "application/zip; charset=binary",
+  "category" : "Zoning",
+  "createdAt" : 1362743734,
+  "description" : "Geographic outlines (polygons) that represent the polling districts as approved by the Nova Scotia Utility And Review Board (UARB). Includes the current councillor and the school board district information. Click on link below for Metadata:\r\nhttps://www.halifaxopendata.ca/api/assets/A01F3F0D-D493-4D61-A520-6EBE4670D9D3",
+  "displayType" : "map",
+  "downloadCount" : 0,
+  "indexUpdatedAt" : 1387155700,
+  "newBackend" : false,
+  "numberOfComments" : 0,
+  "oid" : 2751911,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1387154513,
+  "publicationGroup" : 721503,
+  "publicationStage" : "published",
+  "signed" : false,
+  "tableId" : 721503,
+  "totalTimesRated" : 0,
+  "viewCount" : 273,
+  "viewLastModified" : 1387154513,
+  "viewType" : "geo",
+  "childViews" : [ "xh98-kpew" ],
+  "grants" : [ {
+    "inherited" : false,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "renderTypeConfig" : {
+      "visible" : {
+        "map" : true
+      }
+    },
+    "availableDisplayTypes" : [ "map", "table", "fatrow", "page" ],
+    "geo" : {
+      "layers" : "geo_e7u6-by35-1",
+      "bbox" : "-64.25181996107975,44.41204241870599,-62.06762973233957,45.27586021971457",
+      "bboxCrs" : "EPSG:4326",
+      "featureIdAttribute" : "_SocrataID",
+      "owsUrl" : "/api/geospatial/e7u6-by35",
+      "namespace" : "geo_e7u6-by35"
+    },
+    "attachments" : [ {
+      "blobId" : "A01F3F0D-D493-4D61-A520-6EBE4670D9D3",
+      "name" : "ODMT_Polling_District.docx",
+      "filename" : "ODMT_Polling_District.docx"
+    } ]
+  },
+  "owner" : {
+    "id" : "5z62-2wnw",
+    "displayName" : "Open Data HRM",
+    "profileImageUrlLarge" : "/images/profile/7675/0297/admin-profile2_large.png",
+    "profileImageUrlMedium" : "/images/profile/7675/0297/admin-profile2_thumb.png",
+    "profileImageUrlSmall" : "/images/profile/7675/0297/admin-profile2_tiny.png",
+    "screenName" : "Open Data HRM"
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "5z62-2wnw",
+    "displayName" : "Open Data HRM",
+    "profileImageUrlLarge" : "/images/profile/7675/0297/admin-profile2_large.png",
+    "profileImageUrlMedium" : "/images/profile/7675/0297/admin-profile2_thumb.png",
+    "profileImageUrlSmall" : "/images/profile/7675/0297/admin-profile2_tiny.png",
+    "screenName" : "Open Data HRM"
+  },
+  "tags" : [ "polling" ],
+  "flags" : [ "default" ]
+}, {
+  "id" : "mykn-xpni",
+  "name" : "Routes 2 and 4",
+  "averageRating" : 0,
+  "blobFilename" : "bus_stop.zip",
+  "blobFileSize" : 124514,
+  "blobId" : "TFe2GxQYnqKNPEItWVDjlyys400Y3UoS95_uplIpIHw",
+  "category" : "Transit",
+  "createdAt" : 1365707053,
+  "description" : "Points representing the geographic location of Metro Transit bus stops. Includes information on the type of bus stop (shelter, accessible, etc.) and GOTIME number. Click on link below for Metadata:\r\nhttps://www.halifaxopendata.ca/api/assets/7C3AFD6F-164F-4583-8221-45596F9250DF",
+  "displayType" : "map",
+  "downloadCount" : 0,
+  "indexUpdatedAt" : 1387159129,
+  "newBackend" : false,
+  "numberOfComments" : 0,
+  "oid" : 3158937,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1387155157,
+  "publicationGroup" : 721471,
+  "publicationStage" : "published",
+  "signed" : false,
+  "tableId" : 721471,
+  "totalTimesRated" : 0,
+  "viewCount" : 75,
+  "viewLastModified" : 1365707137,
+  "viewType" : "geo",
+  "grants" : [ {
+    "inherited" : true,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "renderTypeConfig" : {
+      "visible" : {
+        "map" : true
+      },
+      "active" : {
+        "table" : {
+          "id" : "56af-ne54"
+        }
+      }
+    },
+    "availableDisplayTypes" : [ "map", "table", "fatrow", "page" ],
+    "geo" : {
+      "owsUrl" : "/api/geospatial/xus8-fjzt",
+      "bbox" : "-63.8615491582204,44.4771780839442,-63.25507122485793,44.90573823923966",
+      "layers" : "geo_xus8-fjzt-1",
+      "featureIdAttribute" : "_SocrataID",
+      "bboxCrs" : "EPSG:4326",
+      "namespace" : "geo_xus8-fjzt"
+    },
+    "attachments" : [ {
+      "blobId" : "7C3AFD6F-164F-4583-8221-45596F9250DF",
+      "name" : "ODMT_Bus_Stops.docx",
+      "filename" : "ODMT_Bus_Stops.docx"
+    } ]
+  },
+  "owner" : {
+    "id" : "nj73-j4va",
+    "displayName" : "Dianna",
+    "screenName" : "Dianna"
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "5z62-2wnw",
+    "displayName" : "Open Data HRM",
+    "profileImageUrlLarge" : "/images/profile/7675/0297/admin-profile2_large.png",
+    "profileImageUrlMedium" : "/images/profile/7675/0297/admin-profile2_thumb.png",
+    "profileImageUrlSmall" : "/images/profile/7675/0297/admin-profile2_tiny.png",
+    "screenName" : "Open Data HRM"
+  }
+}, {
+  "id" : "t3vd-q7um",
+  "name" : "bus",
+  "averageRating" : 0,
+  "blobFilename" : "bus_stop.zip",
+  "blobFileSize" : 124514,
+  "blobId" : "TFe2GxQYnqKNPEItWVDjlyys400Y3UoS95_uplIpIHw",
+  "category" : "Transit",
+  "createdAt" : 1365801773,
+  "description" : "Points representing the geographic location of Metro Transit bus stops. Includes information on the type of bus stop (shelter, accessible, etc.) and GOTIME number. Click on link below for Metadata:\r\nhttps://www.halifaxopendata.ca/api/assets/7C3AFD6F-164F-4583-8221-45596F9250DF",
+  "displayType" : "map",
+  "downloadCount" : 0,
+  "indexUpdatedAt" : 1387159134,
+  "newBackend" : false,
+  "numberOfComments" : 0,
+  "oid" : 3173653,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1387155157,
+  "publicationGroup" : 721471,
+  "publicationStage" : "published",
+  "signed" : false,
+  "tableId" : 721471,
+  "totalTimesRated" : 0,
+  "viewCount" : 81,
+  "viewLastModified" : 1370480004,
+  "viewType" : "geo",
+  "grants" : [ {
+    "inherited" : true,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "renderTypeConfig" : {
+      "visible" : {
+        "map" : true,
+        "table" : true
+      },
+      "active" : {
+        "table" : {
+          "id" : "56af-ne54"
+        }
+      }
+    },
+    "availableDisplayTypes" : [ "map", "table", "fatrow", "page" ],
+    "geo" : {
+      "owsUrl" : "/api/geospatial/xus8-fjzt",
+      "bbox" : "-63.8615491582204,44.4771780839442,-63.25507122485793,44.90573823923966",
+      "layers" : "geo_xus8-fjzt-1",
+      "featureIdAttribute" : "_SocrataID",
+      "bboxCrs" : "EPSG:4326",
+      "namespace" : "geo_xus8-fjzt"
+    },
+    "attachments" : [ {
+      "blobId" : "7C3AFD6F-164F-4583-8221-45596F9250DF",
+      "name" : "ODMT_Bus_Stops.docx",
+      "filename" : "ODMT_Bus_Stops.docx"
+    } ]
+  },
+  "owner" : {
+    "id" : "pzzc-x5fy",
+    "displayName" : "Vic",
+    "screenName" : "Vic"
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "5z62-2wnw",
+    "displayName" : "Open Data HRM",
+    "profileImageUrlLarge" : "/images/profile/7675/0297/admin-profile2_large.png",
+    "profileImageUrlMedium" : "/images/profile/7675/0297/admin-profile2_thumb.png",
+    "profileImageUrlSmall" : "/images/profile/7675/0297/admin-profile2_tiny.png",
+    "screenName" : "Open Data HRM"
+  }
+}, {
+  "id" : "ynbb-pb64",
+  "name" : "gsa",
+  "averageRating" : 0,
+  "blobFilename" : "gsa.zip",
+  "blobFileSize" : 1135686,
+  "blobId" : "fwFXGw1Cu9rs2qvvHce2N1QhWinBsU4S0U2goEN2FuI",
+  "category" : "Zoning",
+  "createdAt" : 1365801978,
+  "description" : "Geographic outlines (polygons) of all of the official community boundaries within HRM.\r\nClick on link below for Metadata:\r\nhttps://www.halifaxopendata.ca/api/assets/3C2BFA43-3FB4-4796-9042-93C2F77AF1D7",
+  "displayType" : "map",
+  "downloadCount" : 0,
+  "indexUpdatedAt" : 1387159122,
+  "newBackend" : false,
+  "numberOfComments" : 0,
+  "oid" : 3173671,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1387155119,
+  "publicationGroup" : 721766,
+  "publicationStage" : "published",
+  "signed" : false,
+  "tableId" : 721766,
+  "totalTimesRated" : 0,
+  "viewCount" : 79,
+  "viewLastModified" : 1365801978,
+  "viewType" : "geo",
+  "grants" : [ {
+    "inherited" : true,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "renderTypeConfig" : {
+      "visible" : {
+        "map" : true
+      }
+    },
+    "availableDisplayTypes" : [ "map", "table", "fatrow", "page" ],
+    "geo" : {
+      "owsUrl" : "/api/geospatial/fprb-j2h4",
+      "bbox" : "-64.25185632927774,44.41201343842871,-62.079704659057235,45.27582114992928",
+      "layers" : "geo_fprb-j2h4-1",
+      "featureIdAttribute" : "_SocrataID",
+      "bboxCrs" : "EPSG:4326",
+      "namespace" : "geo_fprb-j2h4"
+    },
+    "attachments" : [ {
+      "blobId" : "3C2BFA43-3FB4-4796-9042-93C2F77AF1D7",
+      "name" : "ODMT_Community_Boundaries.docx",
+      "filename" : "ODMT_Community_Boundaries.docx"
+    } ]
+  },
+  "owner" : {
+    "id" : "pzzc-x5fy",
+    "displayName" : "Vic",
+    "screenName" : "Vic"
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "5z62-2wnw",
+    "displayName" : "Open Data HRM",
+    "profileImageUrlLarge" : "/images/profile/7675/0297/admin-profile2_large.png",
+    "profileImageUrlMedium" : "/images/profile/7675/0297/admin-profile2_thumb.png",
+    "profileImageUrlSmall" : "/images/profile/7675/0297/admin-profile2_tiny.png",
+    "screenName" : "Open Data HRM"
+  }
+}, {
+  "id" : "jhvg-bn6z",
+  "name" : "dartmouthtrails",
+  "averageRating" : 0,
+  "blobFilename" : "trail.zip",
+  "blobFileSize" : 1166765,
+  "blobId" : "5nYN5FfzTkOlySeA3J0zWSLndsvLWt9t8iwWNeHk_vo",
+  "category" : "Facilities and Structures",
+  "createdAt" : 1367176223,
+  "description" : "Single line representations of trails that are either owned, maintained, or of interest to HRM. <<Work in Progress>>\r\n\r\nClick on link below for Metadata:\r\nhttps://www.halifaxopendata.ca/api/assets/96D35B7D-5CC9-4F0D-9B74-C6568C00F2EA",
+  "displayType" : "map",
+  "downloadCount" : 0,
+  "indexUpdatedAt" : 1387159799,
+  "newBackend" : false,
+  "numberOfComments" : 0,
+  "oid" : 3385545,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1387155347,
+  "publicationGroup" : 721545,
+  "publicationStage" : "published",
+  "signed" : false,
+  "tableId" : 721545,
+  "totalTimesRated" : 0,
+  "viewCount" : 65,
+  "viewLastModified" : 1367176223,
+  "viewType" : "geo",
+  "grants" : [ {
+    "inherited" : true,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "renderTypeConfig" : {
+      "visible" : {
+        "map" : true
+      }
+    },
+    "availableDisplayTypes" : [ "map", "table", "fatrow", "page" ],
+    "geo" : {
+      "owsUrl" : "/api/geospatial/qsxs-hn7a",
+      "bbox" : "-64.25034962114097,44.428026575077205,-62.541971303897064,45.08273878844982",
+      "layers" : "geo_qsxs-hn7a-1",
+      "featureIdAttribute" : "_SocrataID",
+      "bboxCrs" : "EPSG:4326",
+      "namespace" : "geo_qsxs-hn7a"
+    },
+    "attachments" : [ {
+      "blobId" : "96D35B7D-5CC9-4F0D-9B74-C6568C00F2EA",
+      "name" : "ODMT_Trails.docx",
+      "filename" : "ODMT_Trails.docx"
+    } ]
+  },
+  "owner" : {
+    "id" : "kkwh-njud",
+    "displayName" : "Bryn Jones-Vaillancourt",
+    "profileImageUrlLarge" : "/images/profile/7189/7474/_DSC1610-1_large.jpg",
+    "profileImageUrlMedium" : "/images/profile/7189/7474/_DSC1610-1_thumb.jpg",
+    "profileImageUrlSmall" : "/images/profile/7189/7474/_DSC1610-1_tiny.jpg",
+    "screenName" : "Bryn Jones-Vaillancourt"
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "5z62-2wnw",
+    "displayName" : "Open Data HRM",
+    "profileImageUrlLarge" : "/images/profile/7675/0297/admin-profile2_large.png",
+    "profileImageUrlMedium" : "/images/profile/7675/0297/admin-profile2_thumb.png",
+    "profileImageUrlSmall" : "/images/profile/7675/0297/admin-profile2_tiny.png",
+    "screenName" : "Open Data HRM"
+  }
+}, {
+  "id" : "biza-emsz",
+  "name" : "Beaufort crimes in last 7 days",
+  "averageRating" : 0,
+  "blobFilename" : "crime.zip",
+  "blobFileSize" : 17550,
+  "blobId" : "V2BD25Ntn8Pl85DhzU-MFmWQgpuNMVfN7ROHhcJE_8Q",
+  "category" : "Demographics",
+  "createdAt" : 1370200253,
+  "description" : "Points that represent crimes that have occurred in HRM within the last 7 days. Includes the type of crime, the date of the crime and the general location (the location of the point is not the true location of the crime, but a generalization to protect the victims).\r\nClick on link below for Metadata:\r\nhttps://www.halifaxopendata.ca/api/assets/6B3FE650-5978-4B35-913D-ADCB837DE812",
+  "displayType" : "map",
+  "downloadCount" : 0,
+  "indexUpdatedAt" : 1387158410,
+  "newBackend" : false,
+  "numberOfComments" : 0,
+  "oid" : 3864199,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1387155097,
+  "publicationGroup" : 721440,
+  "publicationStage" : "published",
+  "signed" : false,
+  "tableId" : 721440,
+  "totalTimesRated" : 0,
+  "viewCount" : 147,
+  "viewLastModified" : 1370200253,
+  "viewType" : "geo",
+  "grants" : [ {
+    "inherited" : true,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "renderTypeConfig" : {
+      "visible" : {
+        "map" : true
+      },
+      "active" : {
+        "table" : {
+          "id" : "89mt-qpwi"
+        }
+      }
+    },
+    "availableDisplayTypes" : [ "map", "table", "fatrow", "page" ],
+    "geo" : {
+      "owsUrl" : "/api/geospatial/kxfq-iuxg",
+      "bbox" : "-63.9608099492292,44.46698852497572,-62.51910132508996,44.925149517165025",
+      "layers" : "geo_kxfq-iuxg-1",
+      "featureIdAttribute" : "_SocrataID",
+      "bboxCrs" : "EPSG:4326",
+      "namespace" : "geo_kxfq-iuxg"
+    },
+    "attachments" : [ {
+      "blobId" : "6B3FE650-5978-4B35-913D-ADCB837DE812",
+      "name" : "ODMT_Crime.docx",
+      "filename" : "ODMT_Crime.docx"
+    } ]
+  },
+  "owner" : {
+    "id" : "t8w7-7te8",
+    "displayName" : "leblancj",
+    "screenName" : "leblancj"
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "5z62-2wnw",
+    "displayName" : "Open Data HRM",
+    "profileImageUrlLarge" : "/images/profile/7675/0297/admin-profile2_large.png",
+    "profileImageUrlMedium" : "/images/profile/7675/0297/admin-profile2_thumb.png",
+    "profileImageUrlSmall" : "/images/profile/7675/0297/admin-profile2_tiny.png",
+    "screenName" : "Open Data HRM"
+  }
+}, {
+  "id" : "t36z-k3qp",
+  "name" : "2and4",
+  "averageRating" : 0,
+  "blobFilename" : "bus_stop.zip",
+  "blobFileSize" : 124518,
+  "blobId" : "2nYLa4tr0DpVUkh2VsllQTfiQHzZm6CHdHmqqY64Yng",
+  "category" : "Transit",
+  "createdAt" : 1366228259,
+  "description" : "Points representing the geographic location of Metro Transit bus stops. Includes information on the type of bus stop (shelter, accessible, etc.) and GOTIME number. Click on link below for Metadata:\r\nhttps://www.halifaxopendata.ca/api/assets/7C3AFD6F-164F-4583-8221-45596F9250DF",
+  "displayType" : "map",
+  "downloadCount" : 0,
+  "indexUpdatedAt" : 1387159133,
+  "newBackend" : false,
+  "numberOfComments" : 0,
+  "oid" : 3237649,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1387155157,
+  "publicationGroup" : 721471,
+  "publicationStage" : "published",
+  "signed" : false,
+  "tableId" : 721471,
+  "totalTimesRated" : 0,
+  "viewCount" : 42,
+  "viewLastModified" : 1366228259,
+  "viewType" : "geo",
+  "grants" : [ {
+    "inherited" : true,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "renderTypeConfig" : {
+      "visible" : {
+        "map" : true,
+        "table" : true
+      },
+      "active" : {
+        "table" : {
+          "id" : "56af-ne54"
+        }
+      }
+    },
+    "availableDisplayTypes" : [ "map", "table", "fatrow", "page" ],
+    "geo" : {
+      "owsUrl" : "/api/geospatial/xus8-fjzt",
+      "bbox" : "-63.8615491582204,44.4771780839442,-63.25507122485793,44.90573823923966",
+      "layers" : "geo_xus8-fjzt-1",
+      "featureIdAttribute" : "_SocrataID",
+      "bboxCrs" : "EPSG:4326",
+      "namespace" : "geo_xus8-fjzt"
+    },
+    "attachments" : [ {
+      "blobId" : "7C3AFD6F-164F-4583-8221-45596F9250DF",
+      "name" : "ODMT_Bus_Stops.docx",
+      "filename" : "ODMT_Bus_Stops.docx"
+    } ]
+  },
+  "owner" : {
+    "id" : "nj73-j4va",
+    "displayName" : "Dianna",
+    "screenName" : "Dianna"
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "5z62-2wnw",
+    "displayName" : "Open Data HRM",
+    "profileImageUrlLarge" : "/images/profile/7675/0297/admin-profile2_large.png",
+    "profileImageUrlMedium" : "/images/profile/7675/0297/admin-profile2_thumb.png",
+    "profileImageUrlSmall" : "/images/profile/7675/0297/admin-profile2_tiny.png",
+    "screenName" : "Open Data HRM"
+  }
+}, {
+  "id" : "jvt6-csyc",
+  "name" : "Windsor Park",
+  "averageRating" : 0,
+  "blobFilename" : "zoning.zip",
+  "blobFileSize" : 44367275,
+  "blobId" : "hn_2O9JvuWlROVFq6NQowCy0x7DiHnETXl4zgUdkfJE",
+  "category" : "Zoning",
+  "createdAt" : 1370007680,
+  "description" : "Geographic outlines (polygons) that represent the land use zone applied to a particular area of land within a land use bylaw (LUB) area. Zoning designations differ between LUB areas, so each zone must be interpreted within the context of the LUB area in which it is applied.\r\nClick on link below for Metadata:\r\nhttps://www.halifaxopendata.ca/api/assets/99F6A9E5-4AC3-42DA-BD4E-4C268CC212D9",
+  "displayType" : "map",
+  "downloadCount" : 0,
+  "indexUpdatedAt" : 1387160168,
+  "newBackend" : false,
+  "numberOfComments" : 0,
+  "oid" : 3838278,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1387155882,
+  "publicationGroup" : 721737,
+  "publicationStage" : "published",
+  "signed" : false,
+  "tableId" : 721737,
+  "totalTimesRated" : 0,
+  "viewCount" : 75,
+  "viewLastModified" : 1370007680,
+  "viewType" : "geo",
+  "grants" : [ {
+    "inherited" : true,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "renderTypeConfig" : {
+      "visible" : {
+        "map" : true
+      }
+    },
+    "availableDisplayTypes" : [ "map", "table", "fatrow", "page" ],
+    "geo" : {
+      "owsUrl" : "/api/geospatial/p32d-4suh",
+      "bbox" : "-64.25186933993851,44.426014165862476,-62.09615559985699,45.276400818775535",
+      "layers" : "geo_p32d-4suh-1",
+      "featureIdAttribute" : "_SocrataID",
+      "bboxCrs" : "EPSG:4326",
+      "namespace" : "geo_p32d-4suh"
+    },
+    "attachments" : [ {
+      "blobId" : "99F6A9E5-4AC3-42DA-BD4E-4C268CC212D9",
+      "name" : "ODMT_Zoning_Boundaries.docx",
+      "filename" : "ODMT_Zoning_Boundaries.docx"
+    } ]
+  },
+  "owner" : {
+    "id" : "spyq-9nct",
+    "displayName" : "Simon Sankey",
+    "screenName" : "Simon Sankey"
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "5z62-2wnw",
+    "displayName" : "Open Data HRM",
+    "profileImageUrlLarge" : "/images/profile/7675/0297/admin-profile2_large.png",
+    "profileImageUrlMedium" : "/images/profile/7675/0297/admin-profile2_thumb.png",
+    "profileImageUrlSmall" : "/images/profile/7675/0297/admin-profile2_tiny.png",
+    "screenName" : "Open Data HRM"
+  }
+}, {
+  "id" : "fhfd-46sv",
+  "name" : "bus stops",
+  "averageRating" : 0,
+  "blobFilename" : "bus_stop.zip",
+  "blobFileSize" : 124515,
+  "blobId" : "lQY_plJw1dw5Rtnc5sNDklXPisoPD2x_0hZGmIgUns8",
+  "category" : "Transit",
+  "createdAt" : 1371139090,
+  "description" : "Points representing the geographic location of Metro Transit bus stops. Includes information on the type of bus stop (shelter, accessible, etc.) and GOTIME number. Click on link below for Metadata:\r\nhttps://www.halifaxopendata.ca/api/assets/7C3AFD6F-164F-4583-8221-45596F9250DF",
+  "displayType" : "map",
+  "downloadCount" : 0,
+  "indexUpdatedAt" : 1387159127,
+  "newBackend" : false,
+  "numberOfComments" : 0,
+  "oid" : 4021277,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1387155157,
+  "publicationGroup" : 721471,
+  "publicationStage" : "published",
+  "signed" : false,
+  "tableId" : 721471,
+  "totalTimesRated" : 0,
+  "viewCount" : 58,
+  "viewLastModified" : 1371139090,
+  "viewType" : "geo",
+  "grants" : [ {
+    "inherited" : true,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "renderTypeConfig" : {
+      "visible" : {
+        "map" : true,
+        "table" : true
+      },
+      "active" : {
+        "table" : {
+          "id" : "56af-ne54"
+        }
+      }
+    },
+    "availableDisplayTypes" : [ "map", "table", "fatrow", "page" ],
+    "geo" : {
+      "owsUrl" : "/api/geospatial/xus8-fjzt",
+      "bbox" : "-63.8615491582204,44.4771780839442,-63.25507122485793,44.90573823923966",
+      "layers" : "geo_xus8-fjzt-1",
+      "featureIdAttribute" : "_SocrataID",
+      "bboxCrs" : "EPSG:4326",
+      "namespace" : "geo_xus8-fjzt"
+    },
+    "attachments" : [ {
+      "blobId" : "7C3AFD6F-164F-4583-8221-45596F9250DF",
+      "name" : "ODMT_Bus_Stops.docx",
+      "filename" : "ODMT_Bus_Stops.docx"
+    } ]
+  },
+  "owner" : {
+    "id" : "ukdv-qkpn",
+    "displayName" : "nickkernick",
+    "screenName" : "nickkernick"
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "5z62-2wnw",
+    "displayName" : "Open Data HRM",
+    "profileImageUrlLarge" : "/images/profile/7675/0297/admin-profile2_large.png",
+    "profileImageUrlMedium" : "/images/profile/7675/0297/admin-profile2_thumb.png",
+    "profileImageUrlSmall" : "/images/profile/7675/0297/admin-profile2_tiny.png",
+    "screenName" : "Open Data HRM"
+  }
+}, {
+  "id" : "a7tm-xubu",
+  "name" : "Cole Harbour",
+  "averageRating" : 0,
+  "blobFilename" : "trail.zip",
+  "blobFileSize" : 1163332,
+  "blobId" : "PEjpkxtyCbjjRSINfGOaluqMgmiU0Py5HuXftFHcYCI",
+  "category" : "Facilities and Structures",
+  "createdAt" : 1372178210,
+  "description" : "Single line representations of trails that are either owned, maintained, or of interest to HRM. <<Work in Progress>>\r\n\r\nClick on link below for Metadata:\r\nhttps://www.halifaxopendata.ca/api/assets/96D35B7D-5CC9-4F0D-9B74-C6568C00F2EA",
+  "displayType" : "map",
+  "downloadCount" : 0,
+  "indexUpdatedAt" : 1387159799,
+  "newBackend" : false,
+  "numberOfComments" : 0,
+  "oid" : 4193334,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1387155347,
+  "publicationGroup" : 721545,
+  "publicationStage" : "published",
+  "signed" : false,
+  "tableId" : 721545,
+  "totalTimesRated" : 0,
+  "viewCount" : 46,
+  "viewLastModified" : 1372178210,
+  "viewType" : "geo",
+  "grants" : [ {
+    "inherited" : true,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "renderTypeConfig" : {
+      "visible" : {
+        "map" : true
+      }
+    },
+    "availableDisplayTypes" : [ "map", "table", "fatrow", "page" ],
+    "geo" : {
+      "owsUrl" : "/api/geospatial/qsxs-hn7a",
+      "bbox" : "-64.25034962114097,44.428026575077205,-62.541971303897064,45.08273878844982",
+      "layers" : "geo_qsxs-hn7a-1",
+      "featureIdAttribute" : "_SocrataID",
+      "bboxCrs" : "EPSG:4326",
+      "namespace" : "geo_qsxs-hn7a"
+    },
+    "attachments" : [ {
+      "blobId" : "96D35B7D-5CC9-4F0D-9B74-C6568C00F2EA",
+      "name" : "ODMT_Trails.docx",
+      "filename" : "ODMT_Trails.docx"
+    } ]
+  },
+  "owner" : {
+    "id" : "w9xr-hnd9",
+    "displayName" : "checkitout",
+    "screenName" : "checkitout"
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "5z62-2wnw",
+    "displayName" : "Open Data HRM",
+    "profileImageUrlLarge" : "/images/profile/7675/0297/admin-profile2_large.png",
+    "profileImageUrlMedium" : "/images/profile/7675/0297/admin-profile2_thumb.png",
+    "profileImageUrlSmall" : "/images/profile/7675/0297/admin-profile2_tiny.png",
+    "screenName" : "Open Data HRM"
+  }
+}, {
+  "id" : "jc9u-3ytb",
+  "name" : "Contest View 1",
+  "averageRating" : 0,
+  "blobFilename" : "street.zip",
+  "blobFileSize" : 4623477,
+  "blobId" : "VoLq5RGT2FPIuDN-9ZjGB1igbaLIjycJpa_QGtsa-sA",
+  "category" : "Facilities and Structures",
+  "createdAt" : 1373031137,
+  "description" : "Single line representation of every street in HRM with associated street name, block face ranges and community names. \r\nClick on link below for Metadata:\r\nhttps://www.halifaxopendata.ca/api/assets/ACA19715-FA7E-4DD2-A9C0-3A8A7E98A20C",
+  "displayType" : "map",
+  "downloadCount" : 0,
+  "indexUpdatedAt" : 1387159787,
+  "newBackend" : false,
+  "numberOfComments" : 0,
+  "oid" : 4334105,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1387155280,
+  "publicationGroup" : 721728,
+  "publicationStage" : "published",
+  "signed" : false,
+  "tableId" : 721728,
+  "totalTimesRated" : 0,
+  "viewCount" : 62,
+  "viewLastModified" : 1373031137,
+  "viewType" : "geo",
+  "grants" : [ {
+    "inherited" : true,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "renderTypeConfig" : {
+      "visible" : {
+        "map" : true
+      }
+    },
+    "availableDisplayTypes" : [ "map", "table", "fatrow", "page" ],
+    "geo" : {
+      "owsUrl" : "/api/geospatial/svb3-ubya",
+      "bbox" : "-64.09252172729725,44.43565927196584,-62.15627468555213,45.2733180811325",
+      "layers" : "geo_svb3-ubya-1",
+      "featureIdAttribute" : "_SocrataID",
+      "bboxCrs" : "EPSG:4326",
+      "namespace" : "geo_svb3-ubya"
+    },
+    "attachments" : [ {
+      "blobId" : "ACA19715-FA7E-4DD2-A9C0-3A8A7E98A20C",
+      "name" : "ODMT_Street_Network.docx",
+      "filename" : "ODMT_Street_Network.docx"
+    } ]
+  },
+  "owner" : {
+    "id" : "cqxv-9fb8",
+    "displayName" : "Gian Pompilio",
+    "screenName" : "Gian Pompilio"
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "5z62-2wnw",
+    "displayName" : "Open Data HRM",
+    "profileImageUrlLarge" : "/images/profile/7675/0297/admin-profile2_large.png",
+    "profileImageUrlMedium" : "/images/profile/7675/0297/admin-profile2_thumb.png",
+    "profileImageUrlSmall" : "/images/profile/7675/0297/admin-profile2_tiny.png",
+    "screenName" : "Open Data HRM"
+  }
+}, {
+  "id" : "fd8f-taqf",
+  "name" : "First",
+  "averageRating" : 0,
+  "blobFilename" : "bus_stop.zip",
+  "blobFileSize" : 124544,
+  "blobId" : "nvIYa1x0kIw3m9R7_UoH-xNFvQqt8KEOcmNLc79z54Q",
+  "category" : "Transit",
+  "createdAt" : 1376006750,
+  "description" : "Points representing the geographic location of Metro Transit bus stops. Includes information on the type of bus stop (shelter, accessible, etc.) and GOTIME number. Click on link below for Metadata:\r\nhttps://www.halifaxopendata.ca/api/assets/7C3AFD6F-164F-4583-8221-45596F9250DF",
+  "displayType" : "map",
+  "downloadCount" : 0,
+  "indexUpdatedAt" : 1387159134,
+  "newBackend" : false,
+  "numberOfComments" : 0,
+  "oid" : 4829555,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1387155157,
+  "publicationGroup" : 721471,
+  "publicationStage" : "published",
+  "signed" : false,
+  "tableId" : 721471,
+  "totalTimesRated" : 0,
+  "viewCount" : 23,
+  "viewLastModified" : 1376006750,
+  "viewType" : "geo",
+  "grants" : [ {
+    "inherited" : true,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "renderTypeConfig" : {
+      "visible" : {
+        "map" : true
+      },
+      "active" : {
+        "table" : {
+          "id" : "56af-ne54"
+        }
+      }
+    },
+    "availableDisplayTypes" : [ "map", "table", "fatrow", "page" ],
+    "geo" : {
+      "owsUrl" : "/api/geospatial/xus8-fjzt",
+      "bbox" : "-63.8615491582204,44.4771780839442,-63.25507122485793,44.90573823923966",
+      "layers" : "geo_xus8-fjzt-1",
+      "featureIdAttribute" : "_SocrataID",
+      "bboxCrs" : "EPSG:4326",
+      "namespace" : "geo_xus8-fjzt"
+    },
+    "attachments" : [ {
+      "blobId" : "7C3AFD6F-164F-4583-8221-45596F9250DF",
+      "name" : "ODMT_Bus_Stops.docx",
+      "filename" : "ODMT_Bus_Stops.docx"
+    } ]
+  },
+  "owner" : {
+    "id" : "ajxp-5da5",
+    "displayName" : "Colleen",
+    "screenName" : "Colleen"
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "5z62-2wnw",
+    "displayName" : "Open Data HRM",
+    "profileImageUrlLarge" : "/images/profile/7675/0297/admin-profile2_large.png",
+    "profileImageUrlMedium" : "/images/profile/7675/0297/admin-profile2_thumb.png",
+    "profileImageUrlSmall" : "/images/profile/7675/0297/admin-profile2_tiny.png",
+    "screenName" : "Open Data HRM"
+  }
+}, {
+  "id" : "hi4v-d8cf",
+  "name" : "Downtown Dartmouth Bus",
+  "averageRating" : 0,
+  "blobFilename" : "bus_stop.zip",
+  "blobFileSize" : 124988,
+  "blobId" : "tGIuJFkl-0g0x7oNROQHhf7wT8PWwDjJjWwX2BeVJlY",
+  "category" : "Transit",
+  "createdAt" : 1382972631,
+  "description" : "Points representing the geographic location of Metro Transit bus stops. Includes information on the type of bus stop (shelter, accessible, etc.) and GOTIME number. Click on link below for Metadata:\r\nhttps://www.halifaxopendata.ca/api/assets/7C3AFD6F-164F-4583-8221-45596F9250DF",
+  "displayType" : "map",
+  "downloadCount" : 0,
+  "indexUpdatedAt" : 1387159134,
+  "newBackend" : false,
+  "numberOfComments" : 0,
+  "oid" : 6134861,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1387155157,
+  "publicationGroup" : 721471,
+  "publicationStage" : "published",
+  "signed" : false,
+  "tableId" : 721471,
+  "totalTimesRated" : 0,
+  "viewCount" : 10,
+  "viewLastModified" : 1382972631,
+  "viewType" : "geo",
+  "grants" : [ {
+    "inherited" : true,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "renderTypeConfig" : {
+      "visible" : {
+        "map" : true,
+        "table" : true
+      },
+      "active" : {
+        "table" : {
+          "id" : "56af-ne54"
+        }
+      }
+    },
+    "availableDisplayTypes" : [ "map", "table", "fatrow", "page" ],
+    "geo" : {
+      "owsUrl" : "/api/geospatial/xus8-fjzt",
+      "bbox" : "-63.86151411039185,44.47720782969076,-63.255032674264726,44.90576890374691",
+      "layers" : "geo_xus8-fjzt-1",
+      "featureIdAttribute" : "_SocrataID",
+      "bboxCrs" : "EPSG:4326",
+      "namespace" : "geo_xus8-fjzt"
+    },
+    "attachments" : [ {
+      "blobId" : "7C3AFD6F-164F-4583-8221-45596F9250DF",
+      "name" : "ODMT_Bus_Stops.docx",
+      "filename" : "ODMT_Bus_Stops.docx"
+    } ]
+  },
+  "owner" : {
+    "id" : "9mvi-s9g6",
+    "displayName" : "jillm",
+    "screenName" : "jillm"
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "5z62-2wnw",
+    "displayName" : "Open Data HRM",
+    "profileImageUrlLarge" : "/images/profile/7675/0297/admin-profile2_large.png",
+    "profileImageUrlMedium" : "/images/profile/7675/0297/admin-profile2_thumb.png",
+    "profileImageUrlSmall" : "/images/profile/7675/0297/admin-profile2_tiny.png",
+    "screenName" : "Open Data HRM"
+  }
+}, {
+  "id" : "nnze-uyqi",
+  "name" : "Ravi",
+  "averageRating" : 0,
+  "blobFilename" : "bus_stop.zip",
+  "blobFileSize" : 124990,
+  "blobId" : "fP70FyWkSF89gMjc3Gm9skS8XI-NKiFBHvT_JotdHPA",
+  "category" : "Transit",
+  "createdAt" : 1380082890,
+  "description" : "Points representing the geographic location of Metro Transit bus stops. Includes information on the type of bus stop (shelter, accessible, etc.) and GOTIME number. Click on link below for Metadata:\r\nhttps://www.halifaxopendata.ca/api/assets/7C3AFD6F-164F-4583-8221-45596F9250DF",
+  "displayType" : "map",
+  "downloadCount" : 0,
+  "indexUpdatedAt" : 1387159130,
+  "newBackend" : false,
+  "numberOfComments" : 0,
+  "oid" : 5589391,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1387155157,
+  "publicationGroup" : 721471,
+  "publicationStage" : "published",
+  "signed" : false,
+  "tableId" : 721471,
+  "totalTimesRated" : 0,
+  "viewCount" : 13,
+  "viewLastModified" : 1380082890,
+  "viewType" : "geo",
+  "grants" : [ {
+    "inherited" : true,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "renderTypeConfig" : {
+      "visible" : {
+        "map" : true,
+        "table" : true
+      },
+      "active" : {
+        "table" : {
+          "id" : "56af-ne54"
+        }
+      }
+    },
+    "availableDisplayTypes" : [ "map", "table", "fatrow", "page" ],
+    "geo" : {
+      "owsUrl" : "/api/geospatial/xus8-fjzt",
+      "bbox" : "-63.86151411039185,44.47720782969076,-63.255032674264726,44.90576890374691",
+      "layers" : "geo_xus8-fjzt-1",
+      "featureIdAttribute" : "_SocrataID",
+      "bboxCrs" : "EPSG:4326",
+      "namespace" : "geo_xus8-fjzt"
+    },
+    "attachments" : [ {
+      "blobId" : "7C3AFD6F-164F-4583-8221-45596F9250DF",
+      "name" : "ODMT_Bus_Stops.docx",
+      "filename" : "ODMT_Bus_Stops.docx"
+    } ]
+  },
+  "owner" : {
+    "id" : "74v9-2985",
+    "displayName" : "Ravi",
+    "screenName" : "Ravi"
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "5z62-2wnw",
+    "displayName" : "Open Data HRM",
+    "profileImageUrlLarge" : "/images/profile/7675/0297/admin-profile2_large.png",
+    "profileImageUrlMedium" : "/images/profile/7675/0297/admin-profile2_thumb.png",
+    "profileImageUrlSmall" : "/images/profile/7675/0297/admin-profile2_tiny.png",
+    "screenName" : "Open Data HRM"
+  }
+}, {
+  "id" : "f5rz-9yu6",
+  "name" : "ravi",
+  "averageRating" : 0,
+  "blobFilename" : "crime.zip",
+  "blobFileSize" : 21996,
+  "blobId" : "PZmLRex0svFNWeb9BokjDjq8md09OTfo5_eQGbZMqmo",
+  "category" : "Demographics",
+  "createdAt" : 1380082487,
+  "description" : "Points that represent crimes that have occurred in HRM within the last 7 days. Includes the type of crime, the date of the crime and the general location (the location of the point is not the true location of the crime, but a generalization to protect the victims).\r\nClick on link below for Metadata:\r\nhttps://www.halifaxopendata.ca/api/assets/6B3FE650-5978-4B35-913D-ADCB837DE812",
+  "displayType" : "map",
+  "downloadCount" : 0,
+  "indexUpdatedAt" : 1387158411,
+  "newBackend" : false,
+  "numberOfComments" : 0,
+  "oid" : 5589353,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1387155097,
+  "publicationGroup" : 721440,
+  "publicationStage" : "published",
+  "signed" : false,
+  "tableId" : 721440,
+  "totalTimesRated" : 0,
+  "viewCount" : 37,
+  "viewLastModified" : 1380082487,
+  "viewType" : "geo",
+  "grants" : [ {
+    "inherited" : true,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "renderTypeConfig" : {
+      "visible" : {
+        "map" : true
+      },
+      "active" : {
+        "table" : {
+          "id" : "89mt-qpwi"
+        }
+      }
+    },
+    "availableDisplayTypes" : [ "map", "table", "fatrow", "page" ],
+    "geo" : {
+      "owsUrl" : "/api/geospatial/kxfq-iuxg",
+      "bbox" : "-63.808998588614614,44.5425858792018,-62.48984280010076,45.04604608113773",
+      "layers" : "geo_kxfq-iuxg-1",
+      "featureIdAttribute" : "_SocrataID",
+      "bboxCrs" : "EPSG:4326",
+      "namespace" : "geo_kxfq-iuxg"
+    },
+    "attachments" : [ {
+      "blobId" : "6B3FE650-5978-4B35-913D-ADCB837DE812",
+      "name" : "ODMT_Crime.docx",
+      "filename" : "ODMT_Crime.docx"
+    } ]
+  },
+  "owner" : {
+    "id" : "74v9-2985",
+    "displayName" : "Ravi",
+    "screenName" : "Ravi"
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "5z62-2wnw",
+    "displayName" : "Open Data HRM",
+    "profileImageUrlLarge" : "/images/profile/7675/0297/admin-profile2_large.png",
+    "profileImageUrlMedium" : "/images/profile/7675/0297/admin-profile2_thumb.png",
+    "profileImageUrlSmall" : "/images/profile/7675/0297/admin-profile2_tiny.png",
+    "screenName" : "Open Data HRM"
+  }
+}, {
+  "id" : "w4q2-6pwk",
+  "name" : "jnjn",
+  "averageRating" : 0,
+  "blobFilename" : "crime.zip",
+  "blobFileSize" : 22361,
+  "blobId" : "UoDBgt6yQJ0VhZjVaoe0qAV7IxjOJEytGCoPlzCP8rc",
+  "category" : "Demographics",
+  "createdAt" : 1385485275,
+  "description" : "Points that represent crimes that have occurred in HRM within the last 7 days. Includes the type of crime, the date of the crime and the general location (the location of the point is not the true location of the crime, but a generalization to protect the victims).\r\nClick on link below for Metadata:\r\nhttps://www.halifaxopendata.ca/api/assets/6B3FE650-5978-4B35-913D-ADCB837DE812",
+  "displayType" : "map",
+  "downloadCount" : 0,
+  "indexUpdatedAt" : 1387158416,
+  "newBackend" : false,
+  "numberOfComments" : 0,
+  "oid" : 6597279,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1387155097,
+  "publicationGroup" : 721440,
+  "publicationStage" : "published",
+  "signed" : false,
+  "tableId" : 721440,
+  "totalTimesRated" : 0,
+  "viewCount" : 18,
+  "viewLastModified" : 1385485954,
+  "viewType" : "geo",
+  "disabledFeatureFlags" : [ "allow_comments" ],
+  "grants" : [ {
+    "inherited" : true,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "renderTypeConfig" : {
+      "visible" : {
+        "page" : true,
+        "map" : true,
+        "table" : true
+      },
+      "active" : {
+        "page" : {
+          "id" : "self"
+        },
+        "fatrow" : {
+          "id" : "self"
+        },
+        "table" : {
+          "id" : "89mt-qpwi"
+        }
+      }
+    },
+    "availableDisplayTypes" : [ "map", "table", "fatrow", "page" ],
+    "geo" : {
+      "owsUrl" : "/api/geospatial/kxfq-iuxg",
+      "bbox" : "-64.00725142957636,44.59884706199492,-62.18534149763779,45.01589382525738",
+      "layers" : "geo_kxfq-iuxg-1",
+      "featureIdAttribute" : "_SocrataID",
+      "bboxCrs" : "EPSG:4326",
+      "namespace" : "geo_kxfq-iuxg"
+    },
+    "attachments" : [ {
+      "blobId" : "6B3FE650-5978-4B35-913D-ADCB837DE812",
+      "name" : "ODMT_Crime.docx",
+      "filename" : "ODMT_Crime.docx"
+    } ],
+    "sidebar" : {
+      "width" : 429
+    }
+  },
+  "owner" : {
+    "id" : "udcj-gsy3",
+    "displayName" : "HE Dev",
+    "screenName" : "HE Dev"
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "5z62-2wnw",
+    "displayName" : "Open Data HRM",
+    "profileImageUrlLarge" : "/images/profile/7675/0297/admin-profile2_large.png",
+    "profileImageUrlMedium" : "/images/profile/7675/0297/admin-profile2_thumb.png",
+    "profileImageUrlSmall" : "/images/profile/7675/0297/admin-profile2_tiny.png",
+    "screenName" : "Open Data HRM"
+  }
+}, {
+  "id" : "udn2-8gv6",
+  "name" : "X1",
+  "averageRating" : 0,
+  "blobFilename" : "civic_address.zip",
+  "blobFileSize" : 10262984,
+  "blobId" : "IOORiCfqz35TIfChvy-NGatkQEjXFEUkNkmGiCXPVgc",
+  "category" : "City Services",
+  "createdAt" : 1377801222,
+  "description" : "Points representing the geographic location of civic addresses that includes civic number, street name and community information. \r\nClick on link below for Metadata:\r\nhttps://www.halifaxopendata.ca/api/assets/B3863243-8E10-4456-AB9E-6796B75C2D1F",
+  "displayType" : "map",
+  "downloadCount" : 0,
+  "indexUpdatedAt" : 1387158409,
+  "newBackend" : false,
+  "numberOfComments" : 0,
+  "oid" : 5167246,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1387155070,
+  "publicationGroup" : 721484,
+  "publicationStage" : "published",
+  "signed" : false,
+  "tableId" : 721484,
+  "totalTimesRated" : 0,
+  "viewCount" : 33,
+  "viewLastModified" : 1377801222,
+  "viewType" : "geo",
+  "grants" : [ {
+    "inherited" : true,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "renderTypeConfig" : {
+      "visible" : {
+        "map" : true
+      }
+    },
+    "availableDisplayTypes" : [ "map", "table", "fatrow", "page" ],
+    "geo" : {
+      "owsUrl" : "/api/geospatial/98mm-gs3f",
+      "bbox" : "-64.17587212731524,44.43222117017121,-62.155983956483155,45.27558415671525",
+      "layers" : "geo_98mm-gs3f-1",
+      "featureIdAttribute" : "_SocrataID",
+      "bboxCrs" : "EPSG:4326",
+      "namespace" : "geo_98mm-gs3f"
+    },
+    "attachments" : [ {
+      "blobId" : "B3863243-8E10-4456-AB9E-6796B75C2D1F",
+      "name" : "ODMT_Civic_Addresses.docx",
+      "filename" : "ODMT_Civic_Addresses.docx"
+    } ]
+  },
+  "owner" : {
+    "id" : "bxgr-hx7u",
+    "displayName" : "Jeff Warnica",
+    "screenName" : "Jeff Warnica"
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "5z62-2wnw",
+    "displayName" : "Open Data HRM",
+    "profileImageUrlLarge" : "/images/profile/7675/0297/admin-profile2_large.png",
+    "profileImageUrlMedium" : "/images/profile/7675/0297/admin-profile2_thumb.png",
+    "profileImageUrlSmall" : "/images/profile/7675/0297/admin-profile2_tiny.png",
+    "screenName" : "Open Data HRM"
+  }
+}, {
+  "id" : "eury-x7ks",
+  "name" : "Parks HRM",
+  "averageRating" : 0,
+  "blobFilename" : "park.zip",
+  "blobFileSize" : 1953721,
+  "blobId" : "1YEbCjB7-JG1SmuzRw7VhWkDhe4sPnOYBgSaJDXqMF8",
+  "category" : "Facilities and Structures",
+  "createdAt" : 1380389028,
+  "description" : "Geographic outlines (polygons) that represent developed and undeveloped HRM park land. This data set includes parks at the neighbourhood, community, district and regional level.\r\nClick on link below for Metadata:\r\nhttps://www.halifaxopendata.ca/api/assets/13F5151D-28A8-4083-A0E9-1AE4B6E845A9",
+  "displayType" : "map",
+  "downloadCount" : 0,
+  "indexUpdatedAt" : 1387158306,
+  "newBackend" : false,
+  "numberOfComments" : 1,
+  "oid" : 5657869,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1387154622,
+  "publicationGroup" : 721495,
+  "publicationStage" : "published",
+  "signed" : false,
+  "tableId" : 721495,
+  "totalTimesRated" : 0,
+  "viewCount" : 37,
+  "viewLastModified" : 1380389028,
+  "viewType" : "geo",
+  "grants" : [ {
+    "inherited" : true,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "renderTypeConfig" : {
+      "visible" : {
+        "map" : true
+      }
+    },
+    "availableDisplayTypes" : [ "map", "table", "fatrow", "page" ],
+    "geo" : {
+      "owsUrl" : "/api/geospatial/wvsx-48r2",
+      "bbox" : "-64.08045573981158,44.448893538741004,-62.25338366515032,45.14071812204971",
+      "layers" : "geo_wvsx-48r2-1",
+      "featureIdAttribute" : "_SocrataID",
+      "bboxCrs" : "EPSG:4326",
+      "namespace" : "geo_wvsx-48r2"
+    },
+    "attachments" : [ {
+      "blobId" : "13F5151D-28A8-4083-A0E9-1AE4B6E845A9",
+      "name" : "ODMT_HRM_Parks.docx",
+      "filename" : "ODMT_HRM_Parks.docx"
+    } ]
+  },
+  "owner" : {
+    "id" : "qb3e-3hs2",
+    "displayName" : "Mary",
+    "screenName" : "Mary"
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "5z62-2wnw",
+    "displayName" : "Open Data HRM",
+    "profileImageUrlLarge" : "/images/profile/7675/0297/admin-profile2_large.png",
+    "profileImageUrlMedium" : "/images/profile/7675/0297/admin-profile2_thumb.png",
+    "profileImageUrlSmall" : "/images/profile/7675/0297/admin-profile2_tiny.png",
+    "screenName" : "Open Data HRM"
+  }
+}, {
+  "id" : "52ut-4bwy",
+  "name" : "HRM Solid Waste",
+  "averageRating" : 0,
+  "blobFilename" : "waste_coll_area.zip",
+  "blobFileSize" : 279762,
+  "blobId" : "jk4fuwPhePnQcIQdLF07IvOhl8j1jLXEaVGFsHmeRb4",
+  "category" : "City Services",
+  "createdAt" : 1380389135,
+  "description" : "Geographic outlines (polygons) that represent the solid waste (garbage and recycling) collection areas. Includes the current contractor, day of the week for collection and collection frequency.\r\nClick on link below for Metadata:\r\nhttps://www.halifaxopendata.ca/api/assets/32A94409-4B6F-4C36-97F5-BC6F4FDB38CC",
+  "displayType" : "map",
+  "downloadCount" : 0,
+  "indexUpdatedAt" : 1387155786,
+  "newBackend" : false,
+  "numberOfComments" : 0,
+  "oid" : 5657887,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1387154596,
+  "publicationGroup" : 721550,
+  "publicationStage" : "published",
+  "signed" : false,
+  "tableId" : 721550,
+  "totalTimesRated" : 0,
+  "viewCount" : 43,
+  "viewLastModified" : 1380389135,
+  "viewType" : "geo",
+  "grants" : [ {
+    "inherited" : true,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "renderTypeConfig" : {
+      "visible" : {
+        "map" : true
+      }
+    },
+    "availableDisplayTypes" : [ "map", "table", "fatrow", "page" ],
+    "geo" : {
+      "owsUrl" : "/api/geospatial/4t8v-ds8m",
+      "bbox" : "-64.25755045147977,44.411981780060906,-62.079906180494206,45.27787602596272",
+      "layers" : "geo_4t8v-ds8m-1",
+      "featureIdAttribute" : "_SocrataID",
+      "bboxCrs" : "EPSG:4326",
+      "namespace" : "geo_4t8v-ds8m"
+    },
+    "attachments" : [ {
+      "blobId" : "32A94409-4B6F-4C36-97F5-BC6F4FDB38CC",
+      "name" : "ODMT_Solid_Waste_Collection_Areas.docx",
+      "filename" : "ODMT_Solid_Waste_Collection_Areas.docx"
+    }, {
+      "blobId" : "343AE8BE-DF16-463A-B380-019A296061C5",
+      "name" : "2013AreaI.pdf",
+      "filename" : "2013AreaI.pdf"
+    }, {
+      "blobId" : "249F0E14-477D-438E-8980-A4C78C5F4197",
+      "name" : "2013AreaII.pdf",
+      "filename" : "2013AreaII.pdf"
+    } ]
+  },
+  "owner" : {
+    "id" : "qb3e-3hs2",
+    "displayName" : "Mary",
+    "screenName" : "Mary"
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "5z62-2wnw",
+    "displayName" : "Open Data HRM",
+    "profileImageUrlLarge" : "/images/profile/7675/0297/admin-profile2_large.png",
+    "profileImageUrlMedium" : "/images/profile/7675/0297/admin-profile2_thumb.png",
+    "profileImageUrlSmall" : "/images/profile/7675/0297/admin-profile2_tiny.png",
+    "screenName" : "Open Data HRM"
+  }
+}, {
+  "id" : "dwmm-94dk",
+  "name" : "Current",
+  "averageRating" : 0,
+  "blobFilename" : "waste_coll_area.zip",
+  "blobFileSize" : 278664,
+  "blobId" : "zemVxa-mJ5y0xNm9VaPPN_KTZFlUQkeZUcwI0X8ACuQ",
+  "category" : "City Services",
+  "createdAt" : 1387752785,
+  "description" : "Geographic outlines (polygons) that represent the solid waste (garbage and recycling) collection areas. Includes the current contractor, day of the week for collection and collection frequency.\r\nClick on link below for Metadata:\r\nhttps://www.halifaxopendata.ca/api/assets/32A94409-4B6F-4C36-97F5-BC6F4FDB38CC",
+  "displayType" : "map",
+  "newBackend" : false,
+  "numberOfComments" : 0,
+  "oid" : 6896943,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1387154596,
+  "publicationGroup" : 721550,
+  "publicationStage" : "published",
+  "signed" : false,
+  "tableId" : 721550,
+  "totalTimesRated" : 0,
+  "viewLastModified" : 1387752785,
+  "viewType" : "geo",
+  "grants" : [ {
+    "inherited" : true,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "renderTypeConfig" : {
+      "visible" : {
+        "map" : true
+      }
+    },
+    "availableDisplayTypes" : [ "map", "table", "fatrow", "page" ],
+    "geo" : {
+      "owsUrl" : "/api/geospatial/4t8v-ds8m",
+      "bbox" : "-64.25755045147977,44.411981780060906,-62.079906180494206,45.27787602596272",
+      "layers" : "geo_4t8v-ds8m-1",
+      "featureIdAttribute" : "_SocrataID",
+      "bboxCrs" : "EPSG:4326",
+      "namespace" : "geo_4t8v-ds8m"
+    },
+    "attachments" : [ {
+      "blobId" : "32A94409-4B6F-4C36-97F5-BC6F4FDB38CC",
+      "name" : "ODMT_Solid_Waste_Collection_Areas.docx",
+      "filename" : "ODMT_Solid_Waste_Collection_Areas.docx"
+    }, {
+      "blobId" : "343AE8BE-DF16-463A-B380-019A296061C5",
+      "name" : "2013AreaI.pdf",
+      "filename" : "2013AreaI.pdf"
+    }, {
+      "blobId" : "249F0E14-477D-438E-8980-A4C78C5F4197",
+      "name" : "2013AreaII.pdf",
+      "filename" : "2013AreaII.pdf"
+    } ]
+  },
+  "owner" : {
+    "id" : "rgyn-42d9",
+    "displayName" : "Karthik",
+    "screenName" : "Karthik"
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "5z62-2wnw",
+    "displayName" : "Open Data HRM",
+    "profileImageUrlLarge" : "/images/profile/7675/0297/admin-profile2_large.png",
+    "profileImageUrlMedium" : "/images/profile/7675/0297/admin-profile2_thumb.png",
+    "profileImageUrlSmall" : "/images/profile/7675/0297/admin-profile2_tiny.png",
+    "screenName" : "Open Data HRM"
+  }
+}, {
+  "id" : "nmxm-dju8",
+  "name" : "test",
+  "averageRating" : 0,
+  "blobFilename" : "waste_coll_area.zip",
+  "blobFileSize" : 280673,
+  "blobId" : "o2KM7LYzA_7_DFwV4iX6sMa_1nQHiJpSDuf8Z4PV0L8",
+  "category" : "City Services",
+  "createdAt" : 1384364219,
+  "description" : "Geographic outlines (polygons) that represent the solid waste (garbage and recycling) collection areas. Includes the current contractor, day of the week for collection and collection frequency.\r\nClick on link below for Metadata:\r\nhttps://www.halifaxopendata.ca/api/assets/32A94409-4B6F-4C36-97F5-BC6F4FDB38CC",
+  "displayType" : "map",
+  "downloadCount" : 0,
+  "indexUpdatedAt" : 1387155787,
+  "newBackend" : false,
+  "numberOfComments" : 0,
+  "oid" : 6405106,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1387154596,
+  "publicationGroup" : 721550,
+  "publicationStage" : "published",
+  "signed" : false,
+  "tableId" : 721550,
+  "totalTimesRated" : 0,
+  "viewCount" : 9,
+  "viewLastModified" : 1384364219,
+  "viewType" : "geo",
+  "grants" : [ {
+    "inherited" : true,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "renderTypeConfig" : {
+      "visible" : {
+        "page" : true,
+        "map" : true
+      },
+      "active" : {
+        "page" : {
+          "id" : "ga7p-4mik"
+        }
+      }
+    },
+    "availableDisplayTypes" : [ "map", "table", "fatrow", "page" ],
+    "geo" : {
+      "owsUrl" : "/api/geospatial/4t8v-ds8m",
+      "bbox" : "-64.25755045147977,44.411981780060906,-62.079906180494206,45.27787602596272",
+      "layers" : "geo_4t8v-ds8m-1",
+      "featureIdAttribute" : "_SocrataID",
+      "bboxCrs" : "EPSG:4326",
+      "namespace" : "geo_4t8v-ds8m"
+    },
+    "attachments" : [ {
+      "blobId" : "32A94409-4B6F-4C36-97F5-BC6F4FDB38CC",
+      "name" : "ODMT_Solid_Waste_Collection_Areas.docx",
+      "filename" : "ODMT_Solid_Waste_Collection_Areas.docx"
+    }, {
+      "blobId" : "343AE8BE-DF16-463A-B380-019A296061C5",
+      "name" : "2013AreaI.pdf",
+      "filename" : "2013AreaI.pdf"
+    }, {
+      "blobId" : "249F0E14-477D-438E-8980-A4C78C5F4197",
+      "name" : "2013AreaII.pdf",
+      "filename" : "2013AreaII.pdf"
+    } ]
+  },
+  "owner" : {
+    "id" : "tcpx-wacr",
+    "displayName" : "gregb",
+    "screenName" : "gregb"
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "5z62-2wnw",
+    "displayName" : "Open Data HRM",
+    "profileImageUrlLarge" : "/images/profile/7675/0297/admin-profile2_large.png",
+    "profileImageUrlMedium" : "/images/profile/7675/0297/admin-profile2_thumb.png",
+    "profileImageUrlSmall" : "/images/profile/7675/0297/admin-profile2_tiny.png",
+    "screenName" : "Open Data HRM"
+  }
+}, {
+  "id" : "mtyz-89bb",
+  "name" : "HRM recreation, trails and transit routes",
+  "averageRating" : 0,
+  "blobFilename" : "park_feature.zip",
+  "blobFileSize" : 118560,
+  "blobId" : "9f7-PpAU5c1yB-lsXrmYr3SeGyvWLhlk60MhJ0jMiEA",
+  "category" : "Community Services",
+  "createdAt" : 1377523537,
+  "description" : "Points representing the geographic location of recreational features that are owned or maintained by HRM (e.g. playgrounds, sports fields, boat facilities, outdoor rinks, etc.).\r\nClick the link below for Metadata:\r\nhttps://www.halifaxopendata.ca/api/assets/06B565DF-1A4C-440E-BB48-FB9B62760434",
+  "displayType" : "map",
+  "downloadCount" : 0,
+  "indexUpdatedAt" : 1387155733,
+  "newBackend" : false,
+  "numberOfComments" : 0,
+  "oid" : 5112266,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1387154551,
+  "publicationGroup" : 721497,
+  "publicationStage" : "published",
+  "signed" : false,
+  "tableId" : 721497,
+  "totalTimesRated" : 0,
+  "viewCount" : 54,
+  "viewLastModified" : 1377523537,
+  "viewType" : "geo",
+  "grants" : [ {
+    "inherited" : true,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "renderTypeConfig" : {
+      "visible" : {
+        "map" : true
+      }
+    },
+    "availableDisplayTypes" : [ "map", "table", "fatrow", "page" ],
+    "geo" : {
+      "owsUrl" : "/api/geospatial/wbeb-n6zy",
+      "bbox" : "-64.05897612409979,44.44918031292723,-62.25365468677386,45.13976628246073",
+      "layers" : "geo_wbeb-n6zy-1",
+      "featureIdAttribute" : "_SocrataID",
+      "bboxCrs" : "EPSG:4326",
+      "namespace" : "geo_wbeb-n6zy"
+    },
+    "attachments" : [ {
+      "blobId" : "06B565DF-1A4C-440E-BB48-FB9B62760434",
+      "name" : "ODMT_HRM_Park_Recreation_Features.docx",
+      "filename" : "ODMT_HRM_Park_Recreation_Features.docx"
+    } ]
+  },
+  "owner" : {
+    "id" : "kb38-grm6",
+    "displayName" : "Mike McGraw",
+    "screenName" : "Mike McGraw"
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "5z62-2wnw",
+    "displayName" : "Open Data HRM",
+    "profileImageUrlLarge" : "/images/profile/7675/0297/admin-profile2_large.png",
+    "profileImageUrlMedium" : "/images/profile/7675/0297/admin-profile2_thumb.png",
+    "profileImageUrlSmall" : "/images/profile/7675/0297/admin-profile2_tiny.png",
+    "screenName" : "Open Data HRM"
+  }
+}, {
+  "id" : "2a3r-k4te",
+  "name" : "x2",
+  "averageRating" : 0,
+  "blobFilename" : "building.zip",
+  "blobFileSize" : 14843465,
+  "blobId" : "l7c4J6Efj2HM4bQoMrkFiea0o1cbxbkEpMK3UhcfSpw",
+  "category" : "Facilities and Structures",
+  "createdAt" : 1377801257,
+  "description" : "Geographic outlines (polygons) that represent a two-dimensional view of buildings in HRM. \r\nClick on link below for Metadata: https://www.halifaxopendata.ca/api/assets/7F873A08-C7DB-4CBB-866F-2C1C5EA13514",
+  "displayType" : "map",
+  "downloadCount" : 0,
+  "indexUpdatedAt" : 1387155243,
+  "newBackend" : false,
+  "numberOfComments" : 0,
+  "oid" : 5167250,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1387154476,
+  "publicationGroup" : 721450,
+  "publicationStage" : "published",
+  "signed" : false,
+  "tableId" : 721450,
+  "totalTimesRated" : 0,
+  "viewCount" : 33,
+  "viewLastModified" : 1377801257,
+  "viewType" : "geo",
+  "grants" : [ {
+    "inherited" : true,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "renderTypeConfig" : {
+      "visible" : {
+        "map" : true
+      }
+    },
+    "availableDisplayTypes" : [ "map", "table", "fatrow", "page" ],
+    "geo" : {
+      "owsUrl" : "/api/geospatial/94qi-yw3a",
+      "bbox" : "-64.07848465288035,44.450616557716046,-62.160501873285796,45.27107244448861",
+      "layers" : "geo_94qi-yw3a-1",
+      "featureIdAttribute" : "_SocrataID",
+      "bboxCrs" : "EPSG:4326",
+      "namespace" : "geo_94qi-yw3a"
+    },
+    "attachments" : [ {
+      "blobId" : "7F873A08-C7DB-4CBB-866F-2C1C5EA13514",
+      "name" : "ODMT_Building.docx",
+      "filename" : "ODMT_Building.docx"
+    } ]
+  },
+  "owner" : {
+    "id" : "bxgr-hx7u",
+    "displayName" : "Jeff Warnica",
+    "screenName" : "Jeff Warnica"
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "5z62-2wnw",
+    "displayName" : "Open Data HRM",
+    "profileImageUrlLarge" : "/images/profile/7675/0297/admin-profile2_large.png",
+    "profileImageUrlMedium" : "/images/profile/7675/0297/admin-profile2_thumb.png",
+    "profileImageUrlSmall" : "/images/profile/7675/0297/admin-profile2_tiny.png",
+    "screenName" : "Open Data HRM"
+  }
+}, {
+  "id" : "6tw3-rukw",
+  "name" : "HRM Blding",
+  "averageRating" : 0,
+  "blobFilename" : "building.zip",
+  "blobFileSize" : 14839850,
+  "blobId" : "sSNulZUaazLUCM5sQ_MOfY4cSzJ3-wz6XMnpoIvP2gk",
+  "category" : "Facilities and Structures",
+  "createdAt" : 1376332844,
+  "description" : "Geographic outlines (polygons) that represent a two-dimensional view of buildings in HRM. \r\nClick on link below for Metadata: https://www.halifaxopendata.ca/api/assets/7F873A08-C7DB-4CBB-866F-2C1C5EA13514",
+  "displayType" : "map",
+  "downloadCount" : 0,
+  "indexUpdatedAt" : 1387155244,
+  "newBackend" : false,
+  "numberOfComments" : 0,
+  "oid" : 4889506,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1387154476,
+  "publicationGroup" : 721450,
+  "publicationStage" : "published",
+  "signed" : false,
+  "tableId" : 721450,
+  "totalTimesRated" : 0,
+  "viewCount" : 53,
+  "viewLastModified" : 1376332844,
+  "viewType" : "geo",
+  "grants" : [ {
+    "inherited" : true,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "renderTypeConfig" : {
+      "visible" : {
+        "map" : true
+      }
+    },
+    "availableDisplayTypes" : [ "map", "table", "fatrow", "page" ],
+    "geo" : {
+      "owsUrl" : "/api/geospatial/94qi-yw3a",
+      "bbox" : "-64.07848465288035,44.450616557716046,-62.160501873285796,45.27107244448861",
+      "layers" : "geo_94qi-yw3a-1",
+      "featureIdAttribute" : "_SocrataID",
+      "bboxCrs" : "EPSG:4326",
+      "namespace" : "geo_94qi-yw3a"
+    },
+    "attachments" : [ {
+      "blobId" : "7F873A08-C7DB-4CBB-866F-2C1C5EA13514",
+      "name" : "ODMT_Building.docx",
+      "filename" : "ODMT_Building.docx"
+    } ]
+  },
+  "owner" : {
+    "id" : "8eqc-5sww",
+    "displayName" : "Jamie",
+    "screenName" : "Jamie"
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "5z62-2wnw",
+    "displayName" : "Open Data HRM",
+    "profileImageUrlLarge" : "/images/profile/7675/0297/admin-profile2_large.png",
+    "profileImageUrlMedium" : "/images/profile/7675/0297/admin-profile2_thumb.png",
+    "profileImageUrlSmall" : "/images/profile/7675/0297/admin-profile2_tiny.png",
+    "screenName" : "Open Data HRM"
+  }
+}, {
+  "id" : "7vys-y6m9",
+  "name" : "2277 maitland",
+  "averageRating" : 0,
+  "blobFilename" : "building.zip",
+  "blobFileSize" : 14851944,
+  "blobId" : "tY23T9BUjZDd0TB4Seg9vxn98lrOfb-kmhVCH7I2p6A",
+  "category" : "Facilities and Structures",
+  "createdAt" : 1379331668,
+  "description" : "Geographic outlines (polygons) that represent a two-dimensional view of buildings in HRM. \r\nClick on link below for Metadata: https://www.halifaxopendata.ca/api/assets/7F873A08-C7DB-4CBB-866F-2C1C5EA13514",
+  "displayType" : "map",
+  "downloadCount" : 0,
+  "indexUpdatedAt" : 1387155283,
+  "newBackend" : false,
+  "numberOfComments" : 0,
+  "oid" : 5442330,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1387154476,
+  "publicationGroup" : 721450,
+  "publicationStage" : "published",
+  "signed" : false,
+  "tableId" : 721450,
+  "totalTimesRated" : 0,
+  "viewCount" : 26,
+  "viewLastModified" : 1379331668,
+  "viewType" : "geo",
+  "grants" : [ {
+    "inherited" : true,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "renderTypeConfig" : {
+      "visible" : {
+        "map" : true
+      }
+    },
+    "availableDisplayTypes" : [ "map", "table", "fatrow", "page" ],
+    "geo" : {
+      "owsUrl" : "/api/geospatial/94qi-yw3a",
+      "bbox" : "-64.07848465288035,44.450616557716046,-62.160501873285796,45.27107244448861",
+      "layers" : "geo_94qi-yw3a-1",
+      "featureIdAttribute" : "_SocrataID",
+      "bboxCrs" : "EPSG:4326",
+      "namespace" : "geo_94qi-yw3a"
+    },
+    "attachments" : [ {
+      "blobId" : "7F873A08-C7DB-4CBB-866F-2C1C5EA13514",
+      "name" : "ODMT_Building.docx",
+      "filename" : "ODMT_Building.docx"
+    } ]
+  },
+  "owner" : {
+    "id" : "jq3r-7bcq",
+    "displayName" : "Barry Arsenault",
+    "screenName" : "Barry Arsenault"
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "5z62-2wnw",
+    "displayName" : "Open Data HRM",
+    "profileImageUrlLarge" : "/images/profile/7675/0297/admin-profile2_large.png",
+    "profileImageUrlMedium" : "/images/profile/7675/0297/admin-profile2_thumb.png",
+    "profileImageUrlSmall" : "/images/profile/7675/0297/admin-profile2_tiny.png",
+    "screenName" : "Open Data HRM"
+  }
+}, {
+  "id" : "8i4r-tr99",
+  "name" : "Pedways",
+  "averageRating" : 0,
+  "blobFilename" : "building.zip",
+  "blobFileSize" : 15171787,
+  "blobId" : "06LI_f5Rdvn9M-WoaCfxvylP1tnwRakNmnTdjp2Wg88",
+  "category" : "Facilities and Structures",
+  "createdAt" : 1384998576,
+  "description" : "Geographic outlines (polygons) that represent a two-dimensional view of buildings in HRM. \r\nClick on link below for Metadata: https://www.halifaxopendata.ca/api/assets/7F873A08-C7DB-4CBB-866F-2C1C5EA13514",
+  "displayType" : "map",
+  "downloadCount" : 0,
+  "indexUpdatedAt" : 1387155282,
+  "newBackend" : false,
+  "numberOfComments" : 0,
+  "oid" : 6507346,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1387154476,
+  "publicationGroup" : 721450,
+  "publicationStage" : "published",
+  "signed" : false,
+  "tableId" : 721450,
+  "totalTimesRated" : 0,
+  "viewCount" : 9,
+  "viewLastModified" : 1384998576,
+  "viewType" : "geo",
+  "grants" : [ {
+    "inherited" : true,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "renderTypeConfig" : {
+      "visible" : {
+        "map" : true
+      }
+    },
+    "availableDisplayTypes" : [ "map", "table", "fatrow", "page" ],
+    "geo" : {
+      "owsUrl" : "/api/geospatial/94qi-yw3a",
+      "bbox" : "-69.35519767657503,4.026699556810666E-4,-62.16046034439216,45.27058975094847",
+      "layers" : "geo_94qi-yw3a-1",
+      "featureIdAttribute" : "_SocrataID",
+      "bboxCrs" : "EPSG:4326",
+      "namespace" : "geo_94qi-yw3a"
+    },
+    "attachments" : [ {
+      "blobId" : "7F873A08-C7DB-4CBB-866F-2C1C5EA13514",
+      "name" : "ODMT_Building.docx",
+      "filename" : "ODMT_Building.docx"
+    } ]
+  },
+  "owner" : {
+    "id" : "pkdp-set5",
+    "displayName" : "reidshepherd",
+    "screenName" : "reidshepherd"
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "5z62-2wnw",
+    "displayName" : "Open Data HRM",
+    "profileImageUrlLarge" : "/images/profile/7675/0297/admin-profile2_large.png",
+    "profileImageUrlMedium" : "/images/profile/7675/0297/admin-profile2_thumb.png",
+    "profileImageUrlSmall" : "/images/profile/7675/0297/admin-profile2_tiny.png",
+    "screenName" : "Open Data HRM"
+  }
+}, {
+  "id" : "baqe-kb9c",
+  "name" : "Halifax bldn poly",
+  "averageRating" : 0,
+  "blobFilename" : "building.zip",
+  "blobFileSize" : 14826277,
+  "blobId" : "5lIx_7dkZMJXsiz1t27WwNMwVu6ZUyyUwKU-f7ZzGXo",
+  "category" : "Facilities and Structures",
+  "createdAt" : 1375760220,
+  "description" : "Geographic outlines (polygons) that represent a two-dimensional view of buildings in HRM. \r\nClick on link below for Metadata: https://www.halifaxopendata.ca/api/assets/7F873A08-C7DB-4CBB-866F-2C1C5EA13514",
+  "displayType" : "map",
+  "downloadCount" : 0,
+  "indexUpdatedAt" : 1387155284,
+  "newBackend" : false,
+  "numberOfComments" : 0,
+  "oid" : 4781317,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1387154476,
+  "publicationGroup" : 721450,
+  "publicationStage" : "published",
+  "signed" : false,
+  "tableId" : 721450,
+  "totalTimesRated" : 0,
+  "viewCount" : 51,
+  "viewLastModified" : 1375760220,
+  "viewType" : "geo",
+  "grants" : [ {
+    "inherited" : true,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "renderTypeConfig" : {
+      "visible" : {
+        "map" : true
+      }
+    },
+    "availableDisplayTypes" : [ "map", "table", "fatrow", "page" ],
+    "geo" : {
+      "owsUrl" : "/api/geospatial/94qi-yw3a",
+      "bbox" : "-64.07848465288035,44.450616557716046,-62.160501873285796,45.27107244448861",
+      "layers" : "geo_94qi-yw3a-1",
+      "featureIdAttribute" : "_SocrataID",
+      "bboxCrs" : "EPSG:4326",
+      "namespace" : "geo_94qi-yw3a"
+    },
+    "attachments" : [ {
+      "blobId" : "7F873A08-C7DB-4CBB-866F-2C1C5EA13514",
+      "name" : "ODMT_Building.docx",
+      "filename" : "ODMT_Building.docx"
+    } ]
+  },
+  "owner" : {
+    "id" : "3cxt-gtww",
+    "displayName" : "jonnyunderwood",
+    "screenName" : "jonnyunderwood"
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "5z62-2wnw",
+    "displayName" : "Open Data HRM",
+    "profileImageUrlLarge" : "/images/profile/7675/0297/admin-profile2_large.png",
+    "profileImageUrlMedium" : "/images/profile/7675/0297/admin-profile2_thumb.png",
+    "profileImageUrlSmall" : "/images/profile/7675/0297/admin-profile2_tiny.png",
+    "screenName" : "Open Data HRM"
+  }
+}, {
+  "id" : "mhch-z6x3",
+  "name" : "St Georges",
+  "averageRating" : 0,
+  "blobFilename" : "building.zip",
+  "blobFileSize" : 14826277,
+  "blobId" : "5lIx_7dkZMJXsiz1t27WwNMwVu6ZUyyUwKU-f7ZzGXo",
+  "category" : "Facilities and Structures",
+  "createdAt" : 1376071239,
+  "description" : "Geographic outlines (polygons) that represent a two-dimensional view of buildings in HRM. \r\nClick on link below for Metadata: https://www.halifaxopendata.ca/api/assets/7F873A08-C7DB-4CBB-866F-2C1C5EA13514",
+  "displayType" : "map",
+  "downloadCount" : 0,
+  "indexUpdatedAt" : 1387155277,
+  "newBackend" : false,
+  "numberOfComments" : 0,
+  "oid" : 4843713,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1387154476,
+  "publicationGroup" : 721450,
+  "publicationStage" : "published",
+  "signed" : false,
+  "tableId" : 721450,
+  "totalTimesRated" : 0,
+  "viewCount" : 40,
+  "viewLastModified" : 1376071239,
+  "viewType" : "geo",
+  "grants" : [ {
+    "inherited" : true,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "renderTypeConfig" : {
+      "visible" : {
+        "map" : true
+      }
+    },
+    "availableDisplayTypes" : [ "map", "table", "fatrow", "page" ],
+    "geo" : {
+      "owsUrl" : "/api/geospatial/94qi-yw3a",
+      "bbox" : "-64.07848465288035,44.450616557716046,-62.160501873285796,45.27107244448861",
+      "layers" : "geo_94qi-yw3a-1",
+      "featureIdAttribute" : "_SocrataID",
+      "bboxCrs" : "EPSG:4326",
+      "namespace" : "geo_94qi-yw3a"
+    },
+    "attachments" : [ {
+      "blobId" : "7F873A08-C7DB-4CBB-866F-2C1C5EA13514",
+      "name" : "ODMT_Building.docx",
+      "filename" : "ODMT_Building.docx"
+    } ]
+  },
+  "owner" : {
+    "id" : "pxnc-tunk",
+    "displayName" : "Jeffrey Reed",
+    "screenName" : "Jeffrey Reed"
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "5z62-2wnw",
+    "displayName" : "Open Data HRM",
+    "profileImageUrlLarge" : "/images/profile/7675/0297/admin-profile2_large.png",
+    "profileImageUrlMedium" : "/images/profile/7675/0297/admin-profile2_thumb.png",
+    "profileImageUrlSmall" : "/images/profile/7675/0297/admin-profile2_tiny.png",
+    "screenName" : "Open Data HRM"
+  }
+}, {
+  "id" : "nymz-5si5",
+  "name" : "1138 1 buildings",
+  "averageRating" : 0,
+  "blobFilename" : "building.zip",
+  "blobFileSize" : 14855667,
+  "blobId" : "z7t7S9l0zRa8XEykEDq9RsaS3SRNlRWHS7oaRZ0anpo",
+  "category" : "Facilities and Structures",
+  "createdAt" : 1379095970,
+  "description" : "Geographic outlines (polygons) that represent a two-dimensional view of buildings in HRM. \r\nClick on link below for Metadata: https://www.halifaxopendata.ca/api/assets/7F873A08-C7DB-4CBB-866F-2C1C5EA13514",
+  "displayType" : "map",
+  "downloadCount" : 0,
+  "indexUpdatedAt" : 1387155277,
+  "newBackend" : false,
+  "numberOfComments" : 0,
+  "oid" : 5398955,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1387154476,
+  "publicationGroup" : 721450,
+  "publicationStage" : "published",
+  "signed" : false,
+  "tableId" : 721450,
+  "totalTimesRated" : 0,
+  "viewCount" : 31,
+  "viewLastModified" : 1379095970,
+  "viewType" : "geo",
+  "grants" : [ {
+    "inherited" : true,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "renderTypeConfig" : {
+      "visible" : {
+        "map" : true
+      }
+    },
+    "availableDisplayTypes" : [ "map", "table", "fatrow", "page" ],
+    "geo" : {
+      "owsUrl" : "/api/geospatial/94qi-yw3a",
+      "bbox" : "-64.07848465288035,44.450616557716046,-62.160501873285796,45.27107244448861",
+      "layers" : "geo_94qi-yw3a-1",
+      "featureIdAttribute" : "_SocrataID",
+      "bboxCrs" : "EPSG:4326",
+      "namespace" : "geo_94qi-yw3a"
+    },
+    "attachments" : [ {
+      "blobId" : "7F873A08-C7DB-4CBB-866F-2C1C5EA13514",
+      "name" : "ODMT_Building.docx",
+      "filename" : "ODMT_Building.docx"
+    } ]
+  },
+  "owner" : {
+    "id" : "6qg9-qz4e",
+    "displayName" : "christina",
+    "screenName" : "christina"
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "5z62-2wnw",
+    "displayName" : "Open Data HRM",
+    "profileImageUrlLarge" : "/images/profile/7675/0297/admin-profile2_large.png",
+    "profileImageUrlMedium" : "/images/profile/7675/0297/admin-profile2_thumb.png",
+    "profileImageUrlSmall" : "/images/profile/7675/0297/admin-profile2_tiny.png",
+    "screenName" : "Open Data HRM"
+  }
+} ]

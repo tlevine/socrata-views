@@ -1,0 +1,3373 @@
+[ {
+  "id" : "9cmu-d62k",
+  "name" : "Missouri Grains Weekly Trends - St. Louis",
+  "averageRating" : 0,
+  "category" : "Agriculture",
+  "createdAt" : 1375996538,
+  "description" : "Missouri Grains Weekly Trends - St. Louis",
+  "displayType" : "table",
+  "domainCName" : "data.mo.gov",
+  "downloadCount" : 3,
+  "indexUpdatedAt" : 1384800616,
+  "newBackend" : false,
+  "numberOfComments" : 0,
+  "oid" : 6469291,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1384788284,
+  "publicationGroup" : 1028415,
+  "publicationStage" : "published",
+  "rowsUpdatedAt" : 1384788280,
+  "rowsUpdatedBy" : "nye7-5sqq",
+  "signed" : false,
+  "tableId" : 1359655,
+  "totalTimesRated" : 0,
+  "viewCount" : 6429,
+  "viewLastModified" : 1384788284,
+  "viewType" : "tabular",
+  "grants" : [ {
+    "inherited" : true,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "renderTypeConfig" : {
+      "visible" : {
+        "table" : true
+      }
+    },
+    "availableDisplayTypes" : [ "table", "fatrow", "page" ]
+  },
+  "owner" : {
+    "id" : "nye7-5sqq",
+    "displayName" : "John",
+    "screenName" : "John"
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "nye7-5sqq",
+    "displayName" : "John",
+    "screenName" : "John"
+  },
+  "tags" : [ "agriculture", "grain", "trends", "market", "agmarket" ],
+  "flags" : [ "default" ]
+}, {
+  "id" : "d7gh-sczd",
+  "name" : "Missouri Grains Weekly Trends Chart - St. Louis",
+  "averageRating" : 0,
+  "category" : "Agriculture",
+  "createdAt" : 1375997022,
+  "description" : "Missouri Grains Weekly Trends - St. Louis",
+  "displayType" : "chart",
+  "domainCName" : "data.mo.gov",
+  "downloadCount" : 3,
+  "indexUpdatedAt" : 1384800615,
+  "moderationStatus" : true,
+  "newBackend" : false,
+  "numberOfComments" : 0,
+  "oid" : 6469301,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1384788284,
+  "publicationGroup" : 1028415,
+  "publicationStage" : "published",
+  "rowsUpdatedAt" : 1384788280,
+  "rowsUpdatedBy" : "nye7-5sqq",
+  "signed" : false,
+  "tableId" : 1359655,
+  "totalTimesRated" : 0,
+  "viewCount" : 6820,
+  "viewLastModified" : 1384788569,
+  "viewType" : "tabular",
+  "grants" : [ {
+    "inherited" : true,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "renderTypeConfig" : {
+      "visible" : {
+        "chart" : true,
+        "table" : true
+      }
+    },
+    "availableDisplayTypes" : [ "chart", "table", "fatrow", "page" ]
+  },
+  "owner" : {
+    "id" : "nye7-5sqq",
+    "displayName" : "John",
+    "screenName" : "John"
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "nye7-5sqq",
+    "displayName" : "John",
+    "screenName" : "John"
+  },
+  "tags" : [ "agriculture", "grain", "trends", "market", "agmarket" ]
+}, {
+  "id" : "g7se-2nq9",
+  "name" : "Missouri Grains Weekly Trends Chart - Kansas City",
+  "averageRating" : 0,
+  "category" : "Agriculture",
+  "createdAt" : 1376062865,
+  "description" : "Missouri Grains Weekly Trends - Kansas City",
+  "displayType" : "chart",
+  "domainCName" : "data.mo.gov",
+  "downloadCount" : 4,
+  "indexUpdatedAt" : 1384800632,
+  "moderationStatus" : true,
+  "newBackend" : false,
+  "numberOfComments" : 0,
+  "oid" : 6469157,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1384786646,
+  "publicationGroup" : 1031001,
+  "publicationStage" : "published",
+  "rowsUpdatedAt" : 1384786643,
+  "rowsUpdatedBy" : "nye7-5sqq",
+  "signed" : false,
+  "tableId" : 1359612,
+  "totalTimesRated" : 0,
+  "viewCount" : 6607,
+  "viewLastModified" : 1384788778,
+  "viewType" : "tabular",
+  "grants" : [ {
+    "inherited" : true,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "renderTypeConfig" : {
+      "visible" : {
+        "chart" : true,
+        "table" : true
+      }
+    },
+    "availableDisplayTypes" : [ "chart", "table", "fatrow", "page" ]
+  },
+  "owner" : {
+    "id" : "nye7-5sqq",
+    "displayName" : "John",
+    "screenName" : "John"
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "nye7-5sqq",
+    "displayName" : "John",
+    "screenName" : "John"
+  },
+  "tags" : [ "agriculture", "grain", "trends", "market", "agmarket" ]
+}, {
+  "id" : "n6h3-xv35",
+  "name" : "Missouri Grains Weekly Trends - Kansas City",
+  "averageRating" : 0,
+  "category" : "Agriculture",
+  "createdAt" : 1376062471,
+  "description" : "Missouri Grains Weekly Trends - Kansas City",
+  "displayType" : "table",
+  "domainCName" : "data.mo.gov",
+  "downloadCount" : 4,
+  "indexUpdatedAt" : 1384800634,
+  "newBackend" : false,
+  "numberOfComments" : 0,
+  "oid" : 6469155,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1384786646,
+  "publicationGroup" : 1031001,
+  "publicationStage" : "published",
+  "rowsUpdatedAt" : 1384786643,
+  "rowsUpdatedBy" : "nye7-5sqq",
+  "signed" : false,
+  "tableId" : 1359612,
+  "totalTimesRated" : 0,
+  "viewCount" : 6531,
+  "viewLastModified" : 1384786646,
+  "viewType" : "tabular",
+  "grants" : [ {
+    "inherited" : true,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "renderTypeConfig" : {
+      "visible" : {
+        "table" : true
+      }
+    },
+    "availableDisplayTypes" : [ "table", "fatrow", "page" ]
+  },
+  "owner" : {
+    "id" : "nye7-5sqq",
+    "displayName" : "John",
+    "screenName" : "John"
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "nye7-5sqq",
+    "displayName" : "John",
+    "screenName" : "John"
+  },
+  "tags" : [ "agriculture", "grain", "trends", "market", "agmarket" ],
+  "flags" : [ "default" ]
+}, {
+  "id" : "94g7-55ay",
+  "name" : "Missouri Weekly Interior Direct Hogs Chart",
+  "averageRating" : 0,
+  "category" : "Agriculture",
+  "createdAt" : 1375213130,
+  "description" : "Interior Missouri Direct Hogs Weekly Receipts",
+  "displayType" : "chart",
+  "domainCName" : "data.mo.gov",
+  "downloadCount" : 4,
+  "indexUpdatedAt" : 1384799652,
+  "moderationStatus" : true,
+  "newBackend" : false,
+  "numberOfComments" : 0,
+  "oid" : 6468782,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1384785414,
+  "publicationGroup" : 1008894,
+  "publicationStage" : "published",
+  "rowsUpdatedAt" : 1384785411,
+  "rowsUpdatedBy" : "nye7-5sqq",
+  "signed" : false,
+  "tableId" : 1359583,
+  "totalTimesRated" : 0,
+  "viewCount" : 6924,
+  "viewLastModified" : 1384547018,
+  "viewType" : "tabular",
+  "grants" : [ {
+    "inherited" : true,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "renderTypeConfig" : {
+      "visible" : {
+        "chart" : true,
+        "table" : true
+      }
+    },
+    "availableDisplayTypes" : [ "chart", "table", "fatrow", "page" ]
+  },
+  "owner" : {
+    "id" : "nye7-5sqq",
+    "displayName" : "John",
+    "screenName" : "John"
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "nye7-5sqq",
+    "displayName" : "John",
+    "screenName" : "John"
+  },
+  "tags" : [ "hogs", "ag market", "agriculture", "sows", "gilts", "market" ]
+}, {
+  "id" : "n524-jx5w",
+  "name" : "Missouri Weekly Interior Direct Hogs",
+  "averageRating" : 0,
+  "category" : "Agriculture",
+  "createdAt" : 1375212629,
+  "description" : "Interior Missouri Direct Hogs Weekly Receipts",
+  "displayType" : "table",
+  "domainCName" : "data.mo.gov",
+  "downloadCount" : 4,
+  "indexUpdatedAt" : 1384799195,
+  "newBackend" : false,
+  "numberOfComments" : 0,
+  "oid" : 6468779,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1384785414,
+  "publicationGroup" : 1008894,
+  "publicationStage" : "published",
+  "rowsUpdatedAt" : 1384785411,
+  "rowsUpdatedBy" : "nye7-5sqq",
+  "signed" : false,
+  "tableId" : 1359583,
+  "totalTimesRated" : 0,
+  "viewCount" : 6578,
+  "viewLastModified" : 1384785415,
+  "viewType" : "tabular",
+  "grants" : [ {
+    "inherited" : true,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "renderTypeConfig" : {
+      "visible" : {
+        "table" : true
+      }
+    },
+    "availableDisplayTypes" : [ "table", "fatrow", "page" ]
+  },
+  "owner" : {
+    "id" : "nye7-5sqq",
+    "displayName" : "John",
+    "screenName" : "John"
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "nye7-5sqq",
+    "displayName" : "John",
+    "screenName" : "John"
+  },
+  "tags" : [ "hogs", "ag market", "agriculture", "sows", "gilts", "market" ],
+  "flags" : [ "default" ]
+}, {
+  "id" : "bbj4-n8sm",
+  "name" : "Missouri Weekly Feeder Cattle Weighted Average Price Chart",
+  "averageRating" : 0,
+  "category" : "Agriculture",
+  "createdAt" : 1365782019,
+  "description" : "Missouri Weekly Feeder Cattle Weighted Average Report",
+  "displayType" : "chart",
+  "domainCName" : "data.mo.gov",
+  "downloadCount" : 4,
+  "indexUpdatedAt" : 1384799194,
+  "moderationStatus" : true,
+  "newBackend" : false,
+  "numberOfComments" : 0,
+  "oid" : 6468774,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1384785293,
+  "publicationGroup" : 791987,
+  "publicationStage" : "published",
+  "rowsUpdatedAt" : 1384785287,
+  "rowsUpdatedBy" : "nye7-5sqq",
+  "signed" : false,
+  "tableId" : 1359579,
+  "totalTimesRated" : 0,
+  "viewCount" : 7285,
+  "viewLastModified" : 1384546706,
+  "viewType" : "tabular",
+  "grants" : [ {
+    "inherited" : true,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "renderTypeConfig" : {
+      "visible" : {
+        "chart" : true,
+        "table" : true
+      }
+    },
+    "availableDisplayTypes" : [ "chart", "table", "fatrow", "page" ],
+    "rdfSubject" : "0"
+  },
+  "owner" : {
+    "id" : "nye7-5sqq",
+    "displayName" : "John",
+    "screenName" : "John"
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "nye7-5sqq",
+    "displayName" : "John",
+    "screenName" : "John"
+  },
+  "tags" : [ "cattle", "feeder", "cattle prices", "weighted average", "market", "farmer" ]
+}, {
+  "id" : "kbgs-pce7",
+  "name" : "Templates",
+  "averageRating" : 0,
+  "createdAt" : 1384535520,
+  "domainCName" : "data.mo.gov",
+  "downloadCount" : 2,
+  "indexUpdatedAt" : 1384550305,
+  "newBackend" : false,
+  "numberOfComments" : 0,
+  "oid" : 6434450,
+  "publicationAppendEnabled" : false,
+  "publicationGroup" : 1355941,
+  "publicationStage" : "published",
+  "resourceName" : "templates",
+  "rowIdentifierColumnId" : 115377011,
+  "signed" : false,
+  "state" : "empty",
+  "tableId" : 1355941,
+  "totalTimesRated" : 0,
+  "viewCount" : 7850,
+  "viewLastModified" : 1384535581,
+  "viewType" : "tabular",
+  "grants" : [ {
+    "inherited" : false,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "rowIdentifier" : "identifier"
+  },
+  "owner" : {
+    "id" : "8xqn-4t42",
+    "displayName" : "Rodney Distler",
+    "profileImageUrlLarge" : "/images/profile/7042/0975/capitol1_large.jpg",
+    "profileImageUrlMedium" : "/images/profile/7042/0975/capitol1_thumb.jpg",
+    "profileImageUrlSmall" : "/images/profile/7042/0975/capitol1_tiny.jpg",
+    "screenName" : "Rodney Distler"
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "8xqn-4t42",
+    "displayName" : "Rodney Distler",
+    "profileImageUrlLarge" : "/images/profile/7042/0975/capitol1_large.jpg",
+    "profileImageUrlMedium" : "/images/profile/7042/0975/capitol1_thumb.jpg",
+    "profileImageUrlSmall" : "/images/profile/7042/0975/capitol1_tiny.jpg",
+    "screenName" : "Rodney Distler"
+  },
+  "flags" : [ "default" ]
+}, {
+  "id" : "hb35-e8gb",
+  "name" : "Children of Military Parents",
+  "averageRating" : 0,
+  "blobFilename" : "Children of Military Parents.pdf",
+  "blobFileSize" : 149813,
+  "blobId" : "oTQPbR2GOhtJ3KpErtC041teWuvGiXNd1MS9_Suty-I",
+  "blobMimeType" : "application/pdf; charset=binary",
+  "category" : "Health",
+  "createdAt" : 1367853883,
+  "description" : "A collection of national resources that assist parents and military connected children cope with the stressors of living in the military community.",
+  "displayType" : "blob",
+  "domainCName" : "data.mo.gov",
+  "downloadCount" : 16,
+  "indexUpdatedAt" : 1383793551,
+  "newBackend" : false,
+  "numberOfComments" : 0,
+  "oid" : 3491121,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1367853883,
+  "publicationGroup" : 840759,
+  "publicationStage" : "published",
+  "signed" : false,
+  "tableId" : 840759,
+  "totalTimesRated" : 0,
+  "viewCount" : 18,
+  "viewLastModified" : 1383767177,
+  "viewType" : "blobby",
+  "grants" : [ {
+    "inherited" : false,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "renderTypeConfig" : {
+      "visible" : {
+        "blob" : true
+      }
+    },
+    "availableDisplayTypes" : [ "blob" ]
+  },
+  "owner" : {
+    "id" : "qj3c-3m85",
+    "displayName" : "Jon Sabala",
+    "screenName" : "Jon Sabala"
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "qj3c-3m85",
+    "displayName" : "Jon Sabala",
+    "screenName" : "Jon Sabala"
+  },
+  "tags" : [ "veteran", "military", "service member", "family", "children", "deployment", "mental health", "mental illness", "stress" ],
+  "flags" : [ "default" ]
+}, {
+  "id" : "n2xp-bfxd",
+  "name" : "Military Sexual Trauma For Providers",
+  "averageRating" : 0,
+  "blobFilename" : "Military Sexual Trauma for Providers.pdf",
+  "blobFileSize" : 336846,
+  "blobId" : "alKy4jnF8-fg5qeYCSokTIljhzEedk6vpEHtvigPq9k",
+  "blobMimeType" : "application/pdf; charset=binary",
+  "category" : "Health",
+  "createdAt" : 1373293837,
+  "description" : "A collection of national resources for clinicians working with military clients living with Military Sexual Trauma.",
+  "displayType" : "blob",
+  "domainCName" : "data.mo.gov",
+  "downloadCount" : 17,
+  "indexUpdatedAt" : 1383792411,
+  "newBackend" : false,
+  "numberOfComments" : 0,
+  "oid" : 4373083,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1373293837,
+  "publicationGroup" : 964579,
+  "publicationStage" : "published",
+  "signed" : false,
+  "tableId" : 964579,
+  "totalTimesRated" : 0,
+  "viewCount" : 13,
+  "viewLastModified" : 1383764337,
+  "viewType" : "blobby",
+  "grants" : [ {
+    "inherited" : false,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "renderTypeConfig" : {
+      "visible" : {
+        "blob" : true
+      }
+    },
+    "availableDisplayTypes" : [ "blob" ]
+  },
+  "owner" : {
+    "id" : "qj3c-3m85",
+    "displayName" : "Jon Sabala",
+    "screenName" : "Jon Sabala"
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "qj3c-3m85",
+    "displayName" : "Jon Sabala",
+    "screenName" : "Jon Sabala"
+  },
+  "tags" : [ "service member", "military", "veteran", "family", "behavioral health", "mental health", "mental illness", "clinician", "provider", "mst", "military sexual trauma" ],
+  "flags" : [ "default" ]
+}, {
+  "id" : "ar6k-qysg",
+  "name" : "Post-Traumatic Stress Disorder (PTSD) for Providers",
+  "averageRating" : 0,
+  "blobFilename" : "Post-Traumatic Stress Disorder (PTSD) for Providers.pdf",
+  "blobFileSize" : 361972,
+  "blobId" : "UhYfGmr7XJpXTZ12rWcbXZoJMBmXvtnBAlEeDN-WDp8",
+  "blobMimeType" : "application/pdf; charset=binary",
+  "category" : "Health",
+  "createdAt" : 1373293900,
+  "description" : "A collection of national resources for clinicians working with military clients living with Post Traumatic Stress Disorder.",
+  "displayType" : "blob",
+  "domainCName" : "data.mo.gov",
+  "downloadCount" : 13,
+  "indexUpdatedAt" : 1383792411,
+  "newBackend" : false,
+  "numberOfComments" : 0,
+  "oid" : 4373088,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1373293900,
+  "publicationGroup" : 964580,
+  "publicationStage" : "published",
+  "signed" : false,
+  "tableId" : 964580,
+  "totalTimesRated" : 0,
+  "viewCount" : 18,
+  "viewLastModified" : 1383764264,
+  "viewType" : "blobby",
+  "grants" : [ {
+    "inherited" : false,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "renderTypeConfig" : {
+      "visible" : {
+        "blob" : true
+      }
+    },
+    "availableDisplayTypes" : [ "blob" ]
+  },
+  "owner" : {
+    "id" : "qj3c-3m85",
+    "displayName" : "Jon Sabala",
+    "screenName" : "Jon Sabala"
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "qj3c-3m85",
+    "displayName" : "Jon Sabala",
+    "screenName" : "Jon Sabala"
+  },
+  "tags" : [ "service member", "military", "veteran", "family", "behavioral health", "mental health", "mental illness", "clinician", "provider", "ptsd", "post traumatic stress disorder" ],
+  "flags" : [ "default" ]
+}, {
+  "id" : "c8mh-hzwd",
+  "name" : "Substance Abuse for Providers",
+  "averageRating" : 0,
+  "blobFilename" : "Substance Abuse for Providers.pdf",
+  "blobFileSize" : 351001,
+  "blobId" : "fLX4SaQniUSbdz4LRI5eWlVM1E4W6GBHIGwu4ozWU84",
+  "blobMimeType" : "application/pdf; charset=binary",
+  "category" : "Health",
+  "createdAt" : 1373293958,
+  "description" : "A collection of national resources for clinicians working with military clients living with substance abuse.",
+  "displayType" : "blob",
+  "domainCName" : "data.mo.gov",
+  "downloadCount" : 16,
+  "indexUpdatedAt" : 1383792411,
+  "newBackend" : false,
+  "numberOfComments" : 0,
+  "oid" : 4373092,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1373293958,
+  "publicationGroup" : 964584,
+  "publicationStage" : "published",
+  "signed" : false,
+  "tableId" : 964584,
+  "totalTimesRated" : 0,
+  "viewCount" : 14,
+  "viewLastModified" : 1383764139,
+  "viewType" : "blobby",
+  "grants" : [ {
+    "inherited" : false,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "renderTypeConfig" : {
+      "visible" : {
+        "blob" : true
+      }
+    },
+    "availableDisplayTypes" : [ "blob" ]
+  },
+  "owner" : {
+    "id" : "qj3c-3m85",
+    "displayName" : "Jon Sabala",
+    "screenName" : "Jon Sabala"
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "qj3c-3m85",
+    "displayName" : "Jon Sabala",
+    "screenName" : "Jon Sabala"
+  },
+  "tags" : [ "service member", "military", "veteran", "family", "behavioral health", "mental health", "mental illness", "clinician", "provider", "substance abuse" ],
+  "flags" : [ "default" ]
+}, {
+  "id" : "xm2i-cn2w",
+  "name" : "Traumatic Brain Injury for Providers",
+  "averageRating" : 0,
+  "blobFilename" : "Taumatic Brain Injury for Providers.pdf",
+  "blobFileSize" : 365490,
+  "blobId" : "8evqlErh5h_tubGNa6lTVq76U-G7WMqCAUjf85U-jzQ",
+  "blobMimeType" : "application/pdf; charset=binary",
+  "category" : "Health",
+  "createdAt" : 1373377228,
+  "description" : "A collection of national resources for clinicians who are working with military clients living with brain injuries.",
+  "displayType" : "blob",
+  "domainCName" : "data.mo.gov",
+  "downloadCount" : 27,
+  "indexUpdatedAt" : 1383792408,
+  "newBackend" : false,
+  "numberOfComments" : 0,
+  "oid" : 4388079,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1373377228,
+  "publicationGroup" : 966584,
+  "publicationStage" : "published",
+  "signed" : false,
+  "tableId" : 966584,
+  "totalTimesRated" : 0,
+  "viewCount" : 9,
+  "viewLastModified" : 1383763946,
+  "viewType" : "blobby",
+  "grants" : [ {
+    "inherited" : false,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "renderTypeConfig" : {
+      "visible" : {
+        "blob" : true
+      }
+    },
+    "availableDisplayTypes" : [ "blob" ]
+  },
+  "owner" : {
+    "id" : "qj3c-3m85",
+    "displayName" : "Jon Sabala",
+    "screenName" : "Jon Sabala"
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "qj3c-3m85",
+    "displayName" : "Jon Sabala",
+    "screenName" : "Jon Sabala"
+  },
+  "tags" : [ "service member", "military", "veteran", "family", "behavioral health", "mental health", "mental illness", "clinician", "providers", "tbi", "traumatic brain injury" ],
+  "flags" : [ "default" ]
+}, {
+  "id" : "4h5f-565w",
+  "name" : "Provider Resources for Working with Military Clients",
+  "averageRating" : 0,
+  "blobFilename" : "Provider Resources.pdf",
+  "blobFileSize" : 368076,
+  "blobId" : "l9CQVifpH30TtlZZKtijJ4ElnHZOJ0qEWi8D6RISPjE",
+  "blobMimeType" : "application/pdf; charset=binary",
+  "category" : "Health",
+  "createdAt" : 1383762146,
+  "description" : "A collection of resources being offered nationally that may assist clincians working with military clients. This includes resources for: Military Cultural Training, PTSD, Military Sexual Trauma, Substance Abuse, TBI, General Mental Health and some additional information to assist you.",
+  "displayType" : "blob",
+  "domainCName" : "data.mo.gov",
+  "downloadCount" : 6,
+  "indexUpdatedAt" : 1383792394,
+  "newBackend" : false,
+  "numberOfComments" : 0,
+  "oid" : 6291654,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1383762146,
+  "publicationGroup" : 1329166,
+  "publicationStage" : "published",
+  "signed" : false,
+  "tableId" : 1329166,
+  "totalTimesRated" : 0,
+  "viewCount" : 3,
+  "viewLastModified" : 1383762403,
+  "viewType" : "blobby",
+  "grants" : [ {
+    "inherited" : false,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "renderTypeConfig" : {
+      "visible" : {
+        "blob" : true
+      }
+    },
+    "availableDisplayTypes" : [ "blob" ]
+  },
+  "owner" : {
+    "id" : "qj3c-3m85",
+    "displayName" : "Jon Sabala",
+    "screenName" : "Jon Sabala"
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "qj3c-3m85",
+    "displayName" : "Jon Sabala",
+    "screenName" : "Jon Sabala"
+  },
+  "tags" : [ "veterans", "service members", "clincians", "behavioral health", "military cultural training", "post traumatic brain injury", "ptsd", "military sexual trauma", "substance abuse", "tbi", "traumatic brain injury", "general mental health" ],
+  "flags" : [ "default" ]
+}, {
+  "id" : "9kfs-9exn",
+  "name" : "Military Cultural Competence Trainings for Clinicians",
+  "averageRating" : 0,
+  "blobFilename" : "Military Cultural Competence Trainings by Subject.pdf",
+  "blobFileSize" : 752693,
+  "blobId" : "p98oyzScFIZ4_somaG-7e9MnrJtY0-ELkYhMA4_IQR4",
+  "blobMimeType" : "application/pdf; charset=binary",
+  "category" : "Health",
+  "createdAt" : 1383761718,
+  "description" : "A collection of online military culture competence trainings being offered throughout the nation. Course subjects include: General Military Culture, General Mental Health, Primary care & Health Issues, Employment, Greif & Loss, Military Children & Families, Domestic Violence, Women Returning from Combat, TBI, Substance Abuse and PTSD.",
+  "displayType" : "blob",
+  "domainCName" : "data.mo.gov",
+  "downloadCount" : 7,
+  "indexUpdatedAt" : 1383792108,
+  "newBackend" : false,
+  "numberOfComments" : 0,
+  "oid" : 6291615,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1383761718,
+  "publicationGroup" : 1329149,
+  "publicationStage" : "published",
+  "signed" : false,
+  "tableId" : 1329149,
+  "totalTimesRated" : 0,
+  "viewCount" : 10,
+  "viewLastModified" : 1383762094,
+  "viewType" : "blobby",
+  "grants" : [ {
+    "inherited" : false,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "renderTypeConfig" : {
+      "visible" : {
+        "blob" : true
+      }
+    },
+    "availableDisplayTypes" : [ "blob" ]
+  },
+  "owner" : {
+    "id" : "qj3c-3m85",
+    "displayName" : "Jon Sabala",
+    "screenName" : "Jon Sabala"
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "qj3c-3m85",
+    "displayName" : "Jon Sabala",
+    "screenName" : "Jon Sabala"
+  },
+  "tags" : [ "service members", "veterans", "general military culture", "general mental health", "primary care & health issues", "employment", "greif & loss", "military children & families", "domestic violence", "women returning from combat", "tbi", "traumatic brain injury", "substance abuse", "ptsd", "post traumatic brain injury" ],
+  "flags" : [ "default" ]
+}, {
+  "id" : "ic7m-74rp",
+  "name" : "Substance Abuse",
+  "averageRating" : 0,
+  "blobFilename" : "Substance Abuse.pdf",
+  "blobFileSize" : 347131,
+  "blobId" : "YnFRWjdLiRuRLGYlkHgKs5EseP8i2u6JCkC8GTqUGj8",
+  "blobMimeType" : "application/pdf; charset=binary",
+  "category" : "Health",
+  "createdAt" : 1383761506,
+  "description" : "A collection of substance abuse resources for service members, Veterans and their families being offered outside of the Missouri Department of Mental Health.",
+  "displayType" : "blob",
+  "domainCName" : "data.mo.gov",
+  "downloadCount" : 5,
+  "indexUpdatedAt" : 1383792062,
+  "newBackend" : false,
+  "numberOfComments" : 0,
+  "oid" : 6291554,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1383761506,
+  "publicationGroup" : 1329136,
+  "publicationStage" : "published",
+  "signed" : false,
+  "tableId" : 1329136,
+  "totalTimesRated" : 0,
+  "viewCount" : 9,
+  "viewLastModified" : 1383761680,
+  "viewType" : "blobby",
+  "grants" : [ {
+    "inherited" : false,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "renderTypeConfig" : {
+      "visible" : {
+        "blob" : true
+      }
+    },
+    "availableDisplayTypes" : [ "blob" ]
+  },
+  "owner" : {
+    "id" : "qj3c-3m85",
+    "displayName" : "Jon Sabala",
+    "screenName" : "Jon Sabala"
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "qj3c-3m85",
+    "displayName" : "Jon Sabala",
+    "screenName" : "Jon Sabala"
+  },
+  "tags" : [ "substance abuse", "military", "service members" ],
+  "flags" : [ "default" ]
+}, {
+  "id" : "8ex4-fngw",
+  "name" : "About The Military Culture for Providers",
+  "averageRating" : 0,
+  "blobFilename" : "About the Military Culture.pdf",
+  "blobFileSize" : 491512,
+  "blobId" : "X7IwImRkBt0RuvJi4mdM9-EkL0U8YGp3fjpG0T95ieQ",
+  "blobMimeType" : "application/pdf; charset=binary",
+  "category" : "Health",
+  "createdAt" : 1383761219,
+  "description" : "Explains common stressors of the military deployment cycle, some common military jargon and some back ground information on the current wars in Iraq and Afghanistan.",
+  "displayType" : "blob",
+  "domainCName" : "data.mo.gov",
+  "downloadCount" : 4,
+  "indexUpdatedAt" : 1383792062,
+  "newBackend" : false,
+  "numberOfComments" : 0,
+  "oid" : 6291526,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1383761219,
+  "publicationGroup" : 1329122,
+  "publicationStage" : "published",
+  "signed" : false,
+  "tableId" : 1329122,
+  "totalTimesRated" : 0,
+  "viewCount" : 4,
+  "viewLastModified" : 1383761453,
+  "viewType" : "blobby",
+  "grants" : [ {
+    "inherited" : false,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "renderTypeConfig" : {
+      "visible" : {
+        "blob" : true
+      }
+    },
+    "availableDisplayTypes" : [ "blob" ]
+  },
+  "owner" : {
+    "id" : "qj3c-3m85",
+    "displayName" : "Jon Sabala",
+    "screenName" : "Jon Sabala"
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "qj3c-3m85",
+    "displayName" : "Jon Sabala",
+    "screenName" : "Jon Sabala"
+  },
+  "tags" : [ "military culture", "providers", "clinicians", "behavioral health" ],
+  "flags" : [ "default" ]
+}, {
+  "id" : "6c6p-fkb5",
+  "name" : "General Mental Health",
+  "averageRating" : 0,
+  "blobFilename" : "General Mental Health.pdf",
+  "blobFileSize" : 154290,
+  "blobId" : "wtOZfcOAIDcEe1oKmL8qJvO_iT4hdbcK2Z77aka0pqs",
+  "blobMimeType" : "application/pdf; charset=binary",
+  "category" : "Health",
+  "createdAt" : 1367853997,
+  "description" : "A collection of national resources on general mental health topics for service members, Veterans and their families. Includes information and assistance with: anxiety, general mental health, grief & loss and stress.",
+  "displayType" : "blob",
+  "domainCName" : "data.mo.gov",
+  "downloadCount" : 19,
+  "indexUpdatedAt" : 1383793550,
+  "newBackend" : false,
+  "numberOfComments" : 0,
+  "oid" : 3491131,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1367853997,
+  "publicationGroup" : 840762,
+  "publicationStage" : "published",
+  "signed" : false,
+  "tableId" : 840762,
+  "totalTimesRated" : 0,
+  "viewCount" : 21,
+  "viewLastModified" : 1383765538,
+  "viewType" : "blobby",
+  "grants" : [ {
+    "inherited" : false,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "renderTypeConfig" : {
+      "visible" : {
+        "blob" : true
+      }
+    },
+    "availableDisplayTypes" : [ "blob" ]
+  },
+  "owner" : {
+    "id" : "qj3c-3m85",
+    "displayName" : "Jon Sabala",
+    "screenName" : "Jon Sabala"
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "qj3c-3m85",
+    "displayName" : "Jon Sabala",
+    "screenName" : "Jon Sabala"
+  },
+  "tags" : [ "service member", "military", "veteran", "family", "behavioral health", "mental health", "mental illness", "anxiety", "general mental health", "grief", "loss", "stress" ],
+  "flags" : [ "default" ]
+}, {
+  "id" : "kzf7-r4e9",
+  "name" : "Military Sexual Trauma",
+  "averageRating" : 0,
+  "blobFilename" : "Military Sexual Trauma.pdf",
+  "blobFileSize" : 123505,
+  "blobId" : "KZ-p4GrRrJJJxHLH9RAey1YI65cDIkjD9wtQwDIRtYo",
+  "blobMimeType" : "application/pdf; charset=binary",
+  "category" : "Health",
+  "createdAt" : 1367854074,
+  "description" : "A collection of national resources on Military Sexual Trauma for service members, Veterans and their families.",
+  "displayType" : "blob",
+  "domainCName" : "data.mo.gov",
+  "downloadCount" : 16,
+  "indexUpdatedAt" : 1383793550,
+  "newBackend" : false,
+  "numberOfComments" : 0,
+  "oid" : 3491132,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1367854074,
+  "publicationGroup" : 840763,
+  "publicationStage" : "published",
+  "signed" : false,
+  "tableId" : 840763,
+  "totalTimesRated" : 0,
+  "viewCount" : 13,
+  "viewLastModified" : 1383765350,
+  "viewType" : "blobby",
+  "grants" : [ {
+    "inherited" : false,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "renderTypeConfig" : {
+      "visible" : {
+        "blob" : true
+      }
+    },
+    "availableDisplayTypes" : [ "blob" ]
+  },
+  "owner" : {
+    "id" : "qj3c-3m85",
+    "displayName" : "Jon Sabala",
+    "screenName" : "Jon Sabala"
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "qj3c-3m85",
+    "displayName" : "Jon Sabala",
+    "screenName" : "Jon Sabala"
+  },
+  "tags" : [ "service member", "military", "veteran", "family", "behavioral health", "mental health", "mental illness", "suicide prevention", "mst", "military sexual trauma" ],
+  "flags" : [ "default" ]
+}, {
+  "id" : "wp2d-vk85",
+  "name" : "Post Traumatic Stress Disorder",
+  "averageRating" : 0,
+  "blobFilename" : "Post Traumatic Stress Disorder.pdf",
+  "blobFileSize" : 148766,
+  "blobId" : "dN_5sYWFMlEf4B8BpU4pIu09nQa4F4GyCl_flbRSH38",
+  "blobMimeType" : "application/pdf; charset=binary",
+  "category" : "Health",
+  "createdAt" : 1367854159,
+  "description" : "A collection of national resources on Post Traumatic Stress Disorder for service members, Veterans and their families.",
+  "displayType" : "blob",
+  "domainCName" : "data.mo.gov",
+  "downloadCount" : 31,
+  "indexUpdatedAt" : 1383793348,
+  "newBackend" : false,
+  "numberOfComments" : 0,
+  "oid" : 3491138,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1367854159,
+  "publicationGroup" : 840767,
+  "publicationStage" : "published",
+  "signed" : false,
+  "tableId" : 840767,
+  "totalTimesRated" : 0,
+  "viewCount" : 60,
+  "viewLastModified" : 1383765254,
+  "viewType" : "blobby",
+  "grants" : [ {
+    "inherited" : false,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "renderTypeConfig" : {
+      "visible" : {
+        "blob" : true
+      }
+    },
+    "availableDisplayTypes" : [ "blob" ]
+  },
+  "owner" : {
+    "id" : "qj3c-3m85",
+    "displayName" : "Jon Sabala",
+    "screenName" : "Jon Sabala"
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "qj3c-3m85",
+    "displayName" : "Jon Sabala",
+    "screenName" : "Jon Sabala"
+  },
+  "tags" : [ "service member", "military", "veteran", "family", "behavioral health", "mental health", "mental illness", "ptsd", "post traumatic stress disorder" ],
+  "flags" : [ "default" ]
+}, {
+  "id" : "yprw-7jqu",
+  "name" : "Traumatic Brain Injury",
+  "averageRating" : 0,
+  "blobFilename" : "Traumatic Brain Injury.pdf",
+  "blobFileSize" : 353846,
+  "blobId" : "BnMCNmLARH9q-pYDn3Ehua1ZSieX-x3_RDPVA2IjGlk",
+  "blobMimeType" : "application/pdf; charset=binary",
+  "category" : "Health",
+  "createdAt" : 1367854265,
+  "description" : "A collection of national resources for service members, Veterans and their families living with Traumatic Brain Injury.",
+  "displayType" : "blob",
+  "domainCName" : "data.mo.gov",
+  "downloadCount" : 16,
+  "indexUpdatedAt" : 1383793347,
+  "newBackend" : false,
+  "numberOfComments" : 0,
+  "oid" : 3491154,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1367854265,
+  "publicationGroup" : 840772,
+  "publicationStage" : "published",
+  "signed" : false,
+  "tableId" : 840772,
+  "totalTimesRated" : 0,
+  "viewCount" : 18,
+  "viewLastModified" : 1383765076,
+  "viewType" : "blobby",
+  "grants" : [ {
+    "inherited" : false,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "renderTypeConfig" : {
+      "visible" : {
+        "blob" : true
+      }
+    },
+    "availableDisplayTypes" : [ "blob" ]
+  },
+  "owner" : {
+    "id" : "qj3c-3m85",
+    "displayName" : "Jon Sabala",
+    "screenName" : "Jon Sabala"
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "qj3c-3m85",
+    "displayName" : "Jon Sabala",
+    "screenName" : "Jon Sabala"
+  },
+  "tags" : [ "service member", "military", "veteran", "family", "behavioral health", "mental health", "mental illness", "tbi", "traumatic brain injury" ],
+  "flags" : [ "default" ]
+}, {
+  "id" : "jb3v-7d7k",
+  "name" : "Suicide Prevention",
+  "averageRating" : 0,
+  "blobFilename" : "Suicide Prevention.pdf",
+  "blobFileSize" : 144030,
+  "blobId" : "Gula_PuOXnRBKs4DJ4Eui98wMB7VuF1IO6elWv5RoX4",
+  "blobMimeType" : "application/pdf; charset=binary",
+  "category" : "Health",
+  "createdAt" : 1367854214,
+  "description" : "A collection of national resources on suicide prevention for service members, Veterans and their families.",
+  "displayType" : "blob",
+  "domainCName" : "data.mo.gov",
+  "downloadCount" : 19,
+  "indexUpdatedAt" : 1383793348,
+  "newBackend" : false,
+  "numberOfComments" : 0,
+  "oid" : 3491147,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1367854214,
+  "publicationGroup" : 840770,
+  "publicationStage" : "published",
+  "signed" : false,
+  "tableId" : 840770,
+  "totalTimesRated" : 0,
+  "viewCount" : 14,
+  "viewLastModified" : 1383765007,
+  "viewType" : "blobby",
+  "grants" : [ {
+    "inherited" : false,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "renderTypeConfig" : {
+      "visible" : {
+        "blob" : true
+      }
+    },
+    "availableDisplayTypes" : [ "blob" ]
+  },
+  "owner" : {
+    "id" : "qj3c-3m85",
+    "displayName" : "Jon Sabala",
+    "screenName" : "Jon Sabala"
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "qj3c-3m85",
+    "displayName" : "Jon Sabala",
+    "screenName" : "Jon Sabala"
+  },
+  "tags" : [ "service member", "military", "veteran", "family", "behavioral health", "mental health", "mental illness", "suicide prevention" ],
+  "flags" : [ "default" ]
+}, {
+  "id" : "54xe-inhc",
+  "name" : "Understanding Your Veteran Affairs Benefits",
+  "averageRating" : 0,
+  "blobFilename" : "Understanding Your Veteran Affairs Benefits.pdf",
+  "blobFileSize" : 173157,
+  "blobId" : "DwOL4uFCyky69WQOrpQPU2r7LoStxhGdfyfywQmE5JI",
+  "blobMimeType" : "application/pdf; charset=binary",
+  "category" : "Health",
+  "createdAt" : 1367854314,
+  "description" : "Resource sheet to understand VA benefits",
+  "displayType" : "blob",
+  "domainCName" : "data.mo.gov",
+  "downloadCount" : 18,
+  "indexUpdatedAt" : 1383793347,
+  "newBackend" : false,
+  "numberOfComments" : 0,
+  "oid" : 3491155,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1367854314,
+  "publicationGroup" : 840773,
+  "publicationStage" : "published",
+  "signed" : false,
+  "tableId" : 840773,
+  "totalTimesRated" : 0,
+  "viewCount" : 16,
+  "viewLastModified" : 1383764647,
+  "viewType" : "blobby",
+  "grants" : [ {
+    "inherited" : false,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "renderTypeConfig" : {
+      "visible" : {
+        "blob" : true
+      }
+    },
+    "availableDisplayTypes" : [ "blob" ]
+  },
+  "owner" : {
+    "id" : "qj3c-3m85",
+    "displayName" : "Jon Sabala",
+    "screenName" : "Jon Sabala"
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "qj3c-3m85",
+    "displayName" : "Jon Sabala",
+    "screenName" : "Jon Sabala"
+  },
+  "tags" : [ "service member", "military", "veteran", "family", "behavioral health", "mental health", "mental illness", "clinician", "provider", "veteran affairs", "va eligibility" ],
+  "flags" : [ "default" ]
+}, {
+  "id" : "g566-528b",
+  "name" : "General Mental Health for Providers",
+  "averageRating" : 0,
+  "blobFilename" : "General Mental Health for Providers.pdf",
+  "blobFileSize" : 351477,
+  "blobId" : "IdutBX-zBOT6zFAlEd1JTE_asxVC9S4Zejg76gr_ziw",
+  "blobMimeType" : "application/pdf; charset=binary",
+  "category" : "Health",
+  "createdAt" : 1373293762,
+  "description" : "A collection of national resources covering general mental health topics for clinicians working with military clients.",
+  "displayType" : "blob",
+  "domainCName" : "data.mo.gov",
+  "downloadCount" : 17,
+  "indexUpdatedAt" : 1383793337,
+  "newBackend" : false,
+  "numberOfComments" : 0,
+  "oid" : 4373070,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1373293762,
+  "publicationGroup" : 964576,
+  "publicationStage" : "published",
+  "signed" : false,
+  "tableId" : 964576,
+  "totalTimesRated" : 0,
+  "viewCount" : 14,
+  "viewLastModified" : 1383764566,
+  "viewType" : "blobby",
+  "grants" : [ {
+    "inherited" : false,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "renderTypeConfig" : {
+      "visible" : {
+        "blob" : true
+      }
+    },
+    "availableDisplayTypes" : [ "blob" ]
+  },
+  "owner" : {
+    "id" : "qj3c-3m85",
+    "displayName" : "Jon Sabala",
+    "screenName" : "Jon Sabala"
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "qj3c-3m85",
+    "displayName" : "Jon Sabala",
+    "screenName" : "Jon Sabala"
+  },
+  "tags" : [ "service member", "military", "veteran", "family", "behavioral health", "mental health", "mental illness", "clinician", "provider", "general mental health", "suicide", "mdd", "bd" ],
+  "flags" : [ "default" ]
+}, {
+  "id" : "tv5z-fz2x",
+  "name" : "2013 State Expenditures As Of COB October 31, 2013",
+  "averageRating" : 0,
+  "category" : "Government Administration",
+  "createdAt" : 1383332089,
+  "description" : "Financial data relating to the purchases of goods and services by the state as well as financial disbursements through various state programs. Current as of the close of business October 31, 2013.",
+  "domainCName" : "data.mo.gov",
+  "downloadCount" : 2,
+  "indexUpdatedAt" : 1383365683,
+  "newBackend" : false,
+  "numberOfComments" : 0,
+  "oid" : 6209374,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1383333143,
+  "publicationGroup" : 1311734,
+  "publicationStage" : "published",
+  "rowClass" : "",
+  "rowsUpdatedAt" : 1383332169,
+  "rowsUpdatedBy" : "ecjq-kbdb",
+  "signed" : false,
+  "tableId" : 1311734,
+  "totalTimesRated" : 0,
+  "viewCount" : 23,
+  "viewLastModified" : 1383334902,
+  "viewType" : "tabular",
+  "grants" : [ {
+    "inherited" : false,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "rdfSubject" : "0",
+    "rowIdentifier" : "0",
+    "rdfClass" : ""
+  },
+  "owner" : {
+    "id" : "ecjq-kbdb",
+    "displayName" : "Michael",
+    "screenName" : "Michael"
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "ecjq-kbdb",
+    "displayName" : "Michael",
+    "screenName" : "Michael"
+  },
+  "flags" : [ "default" ]
+}, {
+  "id" : "5wdv-v3vk",
+  "name" : "ARRA Grant Expenditures As Of COB October 31, 2013",
+  "averageRating" : 0,
+  "category" : "Government Administration",
+  "createdAt" : 1383331939,
+  "description" : "Data that shows how every dollar received by the State of Missouri under the American Reinvestment and Recovery Act of 2009 has been spent including the name of the state agency that made the expenditure, category of expenditure and the names of vendors receiving payments.",
+  "displayType" : "table",
+  "domainCName" : "data.mo.gov",
+  "downloadCount" : 2,
+  "indexUpdatedAt" : 1383365506,
+  "newBackend" : false,
+  "numberOfComments" : 0,
+  "oid" : 6209222,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1383331995,
+  "publicationGroup" : 1311727,
+  "publicationStage" : "published",
+  "rowsUpdatedAt" : 1383331956,
+  "rowsUpdatedBy" : "ecjq-kbdb",
+  "signed" : false,
+  "tableId" : 1311727,
+  "totalTimesRated" : 0,
+  "viewCount" : 20,
+  "viewLastModified" : 1383334902,
+  "viewType" : "tabular",
+  "grants" : [ {
+    "inherited" : false,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "renderTypeConfig" : {
+      "visible" : {
+        "table" : true
+      }
+    },
+    "availableDisplayTypes" : [ "table", "fatrow", "page" ]
+  },
+  "owner" : {
+    "id" : "ecjq-kbdb",
+    "displayName" : "Michael",
+    "screenName" : "Michael"
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "ecjq-kbdb",
+    "displayName" : "Michael",
+    "screenName" : "Michael"
+  },
+  "flags" : [ "default" ]
+}, {
+  "id" : "uris-7eeg",
+  "name" : "ARRA Grant Revenues As Of COB October 31, 2013",
+  "averageRating" : 0,
+  "category" : "Government Administration",
+  "createdAt" : 1383331741,
+  "description" : "Data that shows every dollar received by the State of Missouri to date under the American Reinvestment and Recovery Act of 2009 including the receiving state agency and the federal funding source or program.",
+  "displayType" : "table",
+  "domainCName" : "data.mo.gov",
+  "downloadCount" : 3,
+  "indexUpdatedAt" : 1383365500,
+  "newBackend" : false,
+  "numberOfComments" : 0,
+  "oid" : 6209199,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1383331796,
+  "publicationGroup" : 1311718,
+  "publicationStage" : "published",
+  "rowsUpdatedAt" : 1383331745,
+  "rowsUpdatedBy" : "ecjq-kbdb",
+  "signed" : false,
+  "tableId" : 1311718,
+  "totalTimesRated" : 0,
+  "viewCount" : 7,
+  "viewLastModified" : 1383334901,
+  "viewType" : "tabular",
+  "grants" : [ {
+    "inherited" : false,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "renderTypeConfig" : {
+      "visible" : {
+        "table" : true
+      }
+    },
+    "availableDisplayTypes" : [ "table", "fatrow", "page" ]
+  },
+  "owner" : {
+    "id" : "ecjq-kbdb",
+    "displayName" : "Michael",
+    "screenName" : "Michael"
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "ecjq-kbdb",
+    "displayName" : "Michael",
+    "screenName" : "Michael"
+  },
+  "flags" : [ "default" ]
+}, {
+  "id" : "6792-da36",
+  "name" : "2014 Federal Grants Data As of October 31, 2013",
+  "averageRating" : 0,
+  "category" : "Government Administration",
+  "createdAt" : 1383334680,
+  "description" : "The data provided here details the State of Missouri's Federal Grants Data as of October 31, 2013.",
+  "displayType" : "table",
+  "domainCName" : "data.mo.gov",
+  "downloadCount" : 3,
+  "indexUpdatedAt" : 1383365545,
+  "newBackend" : false,
+  "numberOfComments" : 0,
+  "oid" : 6209812,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1383334781,
+  "publicationGroup" : 1311871,
+  "publicationStage" : "published",
+  "rowsUpdatedAt" : 1383334706,
+  "rowsUpdatedBy" : "ecjq-kbdb",
+  "signed" : false,
+  "tableId" : 1311871,
+  "totalTimesRated" : 0,
+  "viewCount" : 15,
+  "viewLastModified" : 1383334904,
+  "viewType" : "tabular",
+  "grants" : [ {
+    "inherited" : false,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "renderTypeConfig" : {
+      "visible" : {
+        "table" : true
+      }
+    },
+    "availableDisplayTypes" : [ "table", "fatrow", "page" ]
+  },
+  "owner" : {
+    "id" : "ecjq-kbdb",
+    "displayName" : "Michael",
+    "screenName" : "Michael"
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "ecjq-kbdb",
+    "displayName" : "Michael",
+    "screenName" : "Michael"
+  },
+  "flags" : [ "default" ]
+}, {
+  "id" : "4h7j-d4hh",
+  "name" : "2014 State Budget Restrictions As of October 31, 2013",
+  "averageRating" : 0,
+  "category" : "Government Administration",
+  "createdAt" : 1383334438,
+  "description" : "The data provided here details the State of Missouri's Budget Restrictions as of October 31, 2013.",
+  "displayType" : "table",
+  "domainCName" : "data.mo.gov",
+  "downloadCount" : 3,
+  "indexUpdatedAt" : 1383365545,
+  "newBackend" : false,
+  "numberOfComments" : 0,
+  "oid" : 6209787,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1383334521,
+  "publicationGroup" : 1311861,
+  "publicationStage" : "published",
+  "rowsUpdatedAt" : 1383334453,
+  "rowsUpdatedBy" : "ecjq-kbdb",
+  "signed" : false,
+  "tableId" : 1311861,
+  "totalTimesRated" : 0,
+  "viewCount" : 15,
+  "viewLastModified" : 1383334904,
+  "viewType" : "tabular",
+  "grants" : [ {
+    "inherited" : false,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "renderTypeConfig" : {
+      "visible" : {
+        "table" : true
+      }
+    },
+    "availableDisplayTypes" : [ "table", "fatrow", "page" ]
+  },
+  "owner" : {
+    "id" : "ecjq-kbdb",
+    "displayName" : "Michael",
+    "screenName" : "Michael"
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "ecjq-kbdb",
+    "displayName" : "Michael",
+    "screenName" : "Michael"
+  },
+  "flags" : [ "default" ]
+}, {
+  "id" : "32nm-z4s4",
+  "name" : "2013 State Employee Pay As Of COB October 31, 2013",
+  "averageRating" : 0,
+  "category" : "Government Administration",
+  "createdAt" : 1383333586,
+  "description" : "Pay information for calendar year 2013(January 1 - close of business December 31) for the employees of the State of Missouri by their Agency of Employment, Position Title or Employee Name.",
+  "domainCName" : "data.mo.gov",
+  "downloadCount" : 4,
+  "indexUpdatedAt" : 1383365683,
+  "newBackend" : false,
+  "numberOfComments" : 0,
+  "oid" : 6209700,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1383334343,
+  "publicationGroup" : 1311821,
+  "publicationStage" : "published",
+  "rowClass" : "",
+  "rowsUpdatedAt" : 1383333682,
+  "rowsUpdatedBy" : "ecjq-kbdb",
+  "signed" : false,
+  "tableId" : 1311821,
+  "totalTimesRated" : 0,
+  "viewCount" : 27,
+  "viewLastModified" : 1383334903,
+  "viewType" : "tabular",
+  "grants" : [ {
+    "inherited" : false,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "rdfSubject" : "0",
+    "rowIdentifier" : "0",
+    "rdfClass" : ""
+  },
+  "owner" : {
+    "id" : "ecjq-kbdb",
+    "displayName" : "Michael",
+    "screenName" : "Michael"
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "ecjq-kbdb",
+    "displayName" : "Michael",
+    "screenName" : "Michael"
+  },
+  "flags" : [ "default" ]
+}, {
+  "id" : "awcg-3gut",
+  "name" : "2014 Federal Grants Data As of September 30, 2013",
+  "averageRating" : 0,
+  "category" : "Government Administration",
+  "createdAt" : 1380642771,
+  "description" : "The data provided here details the State of Missouri's Federal Grants Data as of September 30, 2013.",
+  "displayType" : "table",
+  "domainCName" : "data.mo.gov",
+  "downloadCount" : 3,
+  "indexUpdatedAt" : 1380657456,
+  "newBackend" : false,
+  "numberOfComments" : 0,
+  "oid" : 5702842,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1380642894,
+  "publicationGroup" : 1205567,
+  "publicationStage" : "published",
+  "rowsUpdatedAt" : 1380642800,
+  "rowsUpdatedBy" : "ecjq-kbdb",
+  "signed" : false,
+  "tableId" : 1205567,
+  "totalTimesRated" : 0,
+  "viewCount" : 15,
+  "viewLastModified" : 1380642923,
+  "viewType" : "tabular",
+  "grants" : [ {
+    "inherited" : false,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "renderTypeConfig" : {
+      "visible" : {
+        "table" : true
+      }
+    },
+    "availableDisplayTypes" : [ "table", "fatrow", "page" ]
+  },
+  "owner" : {
+    "id" : "ecjq-kbdb",
+    "displayName" : "Michael",
+    "screenName" : "Michael"
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "ecjq-kbdb",
+    "displayName" : "Michael",
+    "screenName" : "Michael"
+  },
+  "flags" : [ "default" ]
+}, {
+  "id" : "qms9-vu3m",
+  "name" : "2014 State Budget Restrictions As of September 30, 2013",
+  "averageRating" : 0,
+  "category" : "Government Administration",
+  "createdAt" : 1380642626,
+  "description" : "The data provided here details the State of Missouri's Budget Restrictions as of September 30, 2013.",
+  "displayType" : "table",
+  "domainCName" : "data.mo.gov",
+  "downloadCount" : 3,
+  "indexUpdatedAt" : 1380657457,
+  "newBackend" : false,
+  "numberOfComments" : 0,
+  "oid" : 5702837,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1380642711,
+  "publicationGroup" : 1205564,
+  "publicationStage" : "published",
+  "rowsUpdatedAt" : 1380642643,
+  "rowsUpdatedBy" : "ecjq-kbdb",
+  "signed" : false,
+  "tableId" : 1205564,
+  "totalTimesRated" : 0,
+  "viewCount" : 16,
+  "viewLastModified" : 1380642931,
+  "viewType" : "tabular",
+  "grants" : [ {
+    "inherited" : false,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "renderTypeConfig" : {
+      "visible" : {
+        "table" : true
+      }
+    },
+    "availableDisplayTypes" : [ "table", "fatrow", "page" ]
+  },
+  "owner" : {
+    "id" : "ecjq-kbdb",
+    "displayName" : "Michael",
+    "screenName" : "Michael"
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "ecjq-kbdb",
+    "displayName" : "Michael",
+    "screenName" : "Michael"
+  },
+  "flags" : [ "default" ]
+}, {
+  "id" : "4bgh-vtiv",
+  "name" : "2013 State Employee Pay As Of COB September 30, 2013",
+  "averageRating" : 0,
+  "category" : "Government Administration",
+  "createdAt" : 1380642171,
+  "description" : "Pay information for calendar year 2013(January 1 - close of business December 31) for the employees of the State of Missouri by their Agency of Employment, Position Title or Employee Name.",
+  "domainCName" : "data.mo.gov",
+  "downloadCount" : 5,
+  "indexUpdatedAt" : 1380657458,
+  "newBackend" : false,
+  "numberOfComments" : 0,
+  "oid" : 5702790,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1380642552,
+  "publicationGroup" : 1205541,
+  "publicationStage" : "published",
+  "rowClass" : "",
+  "rowsUpdatedAt" : 1380642327,
+  "rowsUpdatedBy" : "ecjq-kbdb",
+  "signed" : false,
+  "tableId" : 1205541,
+  "totalTimesRated" : 0,
+  "viewCount" : 36,
+  "viewLastModified" : 1380642933,
+  "viewType" : "tabular",
+  "grants" : [ {
+    "inherited" : false,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "rdfSubject" : "0",
+    "rowIdentifier" : "0",
+    "rdfClass" : ""
+  },
+  "owner" : {
+    "id" : "ecjq-kbdb",
+    "displayName" : "Michael",
+    "screenName" : "Michael"
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "ecjq-kbdb",
+    "displayName" : "Michael",
+    "screenName" : "Michael"
+  },
+  "flags" : [ "default" ]
+}, {
+  "id" : "b3cr-67bi",
+  "name" : "2013 State Expenditures As Of COB September 30, 2013",
+  "averageRating" : 0,
+  "category" : "Government Administration",
+  "createdAt" : 1380640420,
+  "description" : "Financial data relating to the purchases of goods and services by the state as well as financial disbursements through various state programs. Current as of the close of business September 30, 2013.",
+  "domainCName" : "data.mo.gov",
+  "downloadCount" : 13,
+  "indexUpdatedAt" : 1380657602,
+  "newBackend" : false,
+  "numberOfComments" : 0,
+  "oid" : 5702055,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1380642074,
+  "publicationGroup" : 1205463,
+  "publicationStage" : "published",
+  "rowClass" : "",
+  "rowsUpdatedAt" : 1380640921,
+  "rowsUpdatedBy" : "ecjq-kbdb",
+  "signed" : false,
+  "tableId" : 1205463,
+  "totalTimesRated" : 0,
+  "viewCount" : 25,
+  "viewLastModified" : 1380642936,
+  "viewType" : "tabular",
+  "grants" : [ {
+    "inherited" : false,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "rdfSubject" : "0",
+    "rowIdentifier" : "0",
+    "rdfClass" : ""
+  },
+  "owner" : {
+    "id" : "ecjq-kbdb",
+    "displayName" : "Michael",
+    "screenName" : "Michael"
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "ecjq-kbdb",
+    "displayName" : "Michael",
+    "screenName" : "Michael"
+  },
+  "flags" : [ "default" ]
+}, {
+  "id" : "r7nv-twn8",
+  "name" : "ARRA Grant Expenditures As Of COB April 30, 2013",
+  "averageRating" : 0,
+  "category" : "Government Administration",
+  "createdAt" : 1367418265,
+  "description" : "Data that shows how every dollar received by the State of Missouri under the American Reinvestment and Recovery Act of 2009 has been spent including the name of the state agency that made the expenditure, category of expenditure and the names of vendors receiving payments.",
+  "displayType" : "table",
+  "domainCName" : "data.mo.gov",
+  "downloadCount" : 8,
+  "indexUpdatedAt" : 1367418552,
+  "newBackend" : false,
+  "numberOfComments" : 0,
+  "oid" : 3424381,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1367418492,
+  "publicationGroup" : 830273,
+  "publicationStage" : "published",
+  "rowsUpdatedAt" : 1367418273,
+  "rowsUpdatedBy" : "ecjq-kbdb",
+  "signed" : false,
+  "tableId" : 830273,
+  "totalTimesRated" : 0,
+  "viewCount" : 15,
+  "viewLastModified" : 1367418514,
+  "viewType" : "tabular",
+  "grants" : [ {
+    "inherited" : false,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "renderTypeConfig" : {
+      "visible" : {
+        "table" : true
+      }
+    },
+    "availableDisplayTypes" : [ "table", "fatrow", "page" ]
+  },
+  "owner" : {
+    "id" : "ecjq-kbdb",
+    "displayName" : "Michael",
+    "screenName" : "Michael"
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "ecjq-kbdb",
+    "displayName" : "Michael",
+    "screenName" : "Michael"
+  },
+  "flags" : [ "default" ]
+}, {
+  "id" : "gur9-egpm",
+  "name" : "2013 State Employee Pay As Of COB April 30, 2013",
+  "averageRating" : 0,
+  "category" : "Government Administration",
+  "createdAt" : 1367417962,
+  "description" : "Pay information for calendar year 2013(January 1 - close of business December 31) for the employees of the State of Missouri by their Agency of Employment, Position Title or Employee Name.",
+  "displayType" : "table",
+  "domainCName" : "data.mo.gov",
+  "downloadCount" : 10,
+  "indexUpdatedAt" : 1367418942,
+  "newBackend" : false,
+  "numberOfComments" : 0,
+  "oid" : 3424361,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1367418044,
+  "publicationGroup" : 830266,
+  "publicationStage" : "published",
+  "rowsUpdatedAt" : 1367417993,
+  "rowsUpdatedBy" : "ecjq-kbdb",
+  "signed" : false,
+  "tableId" : 830266,
+  "totalTimesRated" : 0,
+  "viewCount" : 18,
+  "viewLastModified" : 1367418778,
+  "viewType" : "tabular",
+  "grants" : [ {
+    "inherited" : false,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "renderTypeConfig" : {
+      "visible" : {
+        "table" : true
+      }
+    },
+    "availableDisplayTypes" : [ "table", "fatrow", "page" ]
+  },
+  "owner" : {
+    "id" : "ecjq-kbdb",
+    "displayName" : "Michael",
+    "screenName" : "Michael"
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "ecjq-kbdb",
+    "displayName" : "Michael",
+    "screenName" : "Michael"
+  },
+  "flags" : [ "default" ]
+}, {
+  "id" : "3c6k-dc4t",
+  "name" : "maps",
+  "averageRating" : 0,
+  "category" : "Government",
+  "createdAt" : 1380546245,
+  "description" : "Senate, House, & Congressional district boundaries overlayed based on the 2010 census.",
+  "displayType" : "map",
+  "domainCName" : "data.mo.gov",
+  "downloadCount" : 0,
+  "indexUpdatedAt" : 1380553295,
+  "newBackend" : false,
+  "numberOfComments" : 0,
+  "oid" : 5683514,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1363117483,
+  "publicationStage" : "published",
+  "rowClass" : "",
+  "signed" : false,
+  "tableId" : 729473,
+  "totalTimesRated" : 0,
+  "viewCount" : 3,
+  "viewLastModified" : 1380546267,
+  "viewType" : "tabular",
+  "grants" : [ {
+    "inherited" : true,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "custom_fields" : {
+      "drawingInfo.renderer" : {
+        "symbol.type" : "esriSFS",
+        "symbol.style" : "esriSFSSolid"
+      },
+      "Basic" : {
+        "copyrightText" : "",
+        "type" : "Feature Layer",
+        "definitionExpression" : "",
+        "Source" : "https://ogi.oa.mo.gov/ArcGIS/rest/services/legisDistrict/MapServer/1",
+        "id" : "1",
+        "minScale" : "0",
+        "displayField" : "District",
+        "htmlPopupType" : "esriServerHTMLPopupTypeAsHTMLText",
+        "name" : "House",
+        "currentVersion" : "10.05",
+        "hasAttachments" : "false",
+        "capabilities" : "Map,Query,Data",
+        "maxScale" : "0",
+        "Spatial Reference wkid" : "26915",
+        "defaultVisibility" : "true",
+        "geometryType" : "esriGeometryPolygon"
+      },
+      "drawingInfo.labelingInfo_1.symbol" : {
+        "font.decoration" : "none",
+        "font.size" : "9",
+        "font.weight" : "bold",
+        "font.family" : "Arial",
+        "font.style" : "normal"
+      },
+      "drawingInfo.renderer.symbol" : {
+        "outline.type" : "esriSLS",
+        "outline.width" : "2",
+        "outline.style" : "esriSLSSolid"
+      },
+      "drawingInfo.labelingInfo_1" : {
+        "symbol.type" : "esriTS",
+        "symbol.yoffset" : "0",
+        "symbol.xoffset" : "0",
+        "symbol.horizontalAlignment" : "center",
+        "symbol.angle" : "0",
+        "symbol.rightToLeft" : "false",
+        "symbol.verticalAlignment" : "bottom"
+      },
+      "drawingInfo" : {
+        "transparency" : "0",
+        "labelingInfo_1.minScale" : "3000000",
+        "labelingInfo_1.maxScale" : "0",
+        "renderer.description" : "",
+        "labelingInfo_1.labelExpression" : "[District]",
+        "labelingInfo_1.labelPlacement" : "esriServerPolygonPlacementAlwaysHorizontal",
+        "labelingInfo_1.useCodedValues" : "true",
+        "renderer.type" : "simple",
+        "renderer.label" : ""
+      }
+    },
+    "renderTypeConfig" : {
+      "visible" : {
+        "map" : true
+      }
+    },
+    "availableDisplayTypes" : [ "map", "table", "fatrow", "page" ],
+    "rdfSubject" : "0",
+    "rowIdentifier" : "0",
+    "rdfClass" : ""
+  },
+  "owner" : {
+    "id" : "264a-93d2",
+    "displayName" : "mts2676",
+    "screenName" : "mts2676"
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "348k-4yz7",
+    "displayName" : "State of Missouri",
+    "screenName" : "State of Missouri"
+  },
+  "tags" : [ "census", "districts", "redistricting", "maps", "gis" ]
+}, {
+  "id" : "agrb-48g8",
+  "name" : "MO Election District Boundaries",
+  "averageRating" : 0,
+  "category" : "Government",
+  "createdAt" : 1374162799,
+  "description" : "Senate, House, & Congressional district boundaries overlayed based on the 2010 census.",
+  "displayType" : "map",
+  "domainCName" : "data.mo.gov",
+  "downloadCount" : 1,
+  "indexUpdatedAt" : 1380553258,
+  "newBackend" : false,
+  "numberOfComments" : 0,
+  "oid" : 4520232,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1363117483,
+  "publicationStage" : "published",
+  "rowClass" : "",
+  "signed" : false,
+  "tableId" : 729473,
+  "totalTimesRated" : 0,
+  "viewCount" : 6,
+  "viewLastModified" : 1374162799,
+  "viewType" : "tabular",
+  "grants" : [ {
+    "inherited" : true,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "custom_fields" : {
+      "drawingInfo.renderer" : {
+        "symbol.type" : "esriSFS",
+        "symbol.style" : "esriSFSSolid"
+      },
+      "drawingInfo.labelingInfo_1.symbol" : {
+        "font.decoration" : "none",
+        "font.size" : "9",
+        "font.weight" : "bold",
+        "font.style" : "normal",
+        "font.family" : "Arial"
+      },
+      "Basic" : {
+        "copyrightText" : "",
+        "type" : "Feature Layer",
+        "definitionExpression" : "",
+        "Source" : "https://ogi.oa.mo.gov/ArcGIS/rest/services/legisDistrict/MapServer/1",
+        "id" : "1",
+        "minScale" : "0",
+        "displayField" : "District",
+        "htmlPopupType" : "esriServerHTMLPopupTypeAsHTMLText",
+        "name" : "House",
+        "currentVersion" : "10.05",
+        "hasAttachments" : "false",
+        "capabilities" : "Map,Query,Data",
+        "Spatial Reference wkid" : "26915",
+        "maxScale" : "0",
+        "defaultVisibility" : "true",
+        "geometryType" : "esriGeometryPolygon"
+      },
+      "drawingInfo.renderer.symbol" : {
+        "outline.type" : "esriSLS",
+        "outline.width" : "2",
+        "outline.style" : "esriSLSSolid"
+      },
+      "drawingInfo.labelingInfo_1" : {
+        "symbol.type" : "esriTS",
+        "symbol.yoffset" : "0",
+        "symbol.xoffset" : "0",
+        "symbol.angle" : "0",
+        "symbol.horizontalAlignment" : "center",
+        "symbol.rightToLeft" : "false",
+        "symbol.verticalAlignment" : "bottom"
+      },
+      "drawingInfo" : {
+        "labelingInfo_1.minScale" : "3000000",
+        "transparency" : "0",
+        "labelingInfo_1.maxScale" : "0",
+        "renderer.description" : "",
+        "labelingInfo_1.labelExpression" : "[District]",
+        "labelingInfo_1.useCodedValues" : "true",
+        "labelingInfo_1.labelPlacement" : "esriServerPolygonPlacementAlwaysHorizontal",
+        "renderer.type" : "simple",
+        "renderer.label" : ""
+      }
+    },
+    "renderTypeConfig" : {
+      "visible" : {
+        "map" : true
+      }
+    },
+    "availableDisplayTypes" : [ "map", "table", "fatrow", "page" ],
+    "rdfSubject" : "0",
+    "rowIdentifier" : "0",
+    "rdfClass" : ""
+  },
+  "owner" : {
+    "id" : "js3b-234k",
+    "displayName" : "LeahBece",
+    "screenName" : "LeahBece"
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "348k-4yz7",
+    "displayName" : "State of Missouri",
+    "screenName" : "State of Missouri"
+  },
+  "tags" : [ "census", "districts", "redistricting", "maps", "gis" ]
+}, {
+  "id" : "hnew-zwpv",
+  "name" : "KC Zoom",
+  "averageRating" : 0,
+  "category" : "Government",
+  "createdAt" : 1367435236,
+  "description" : "Based on the 2010 census revised House district boundaries were established in Missouri. Data provided by the Office of Administration and State Demographer.",
+  "displayType" : "map",
+  "domainCName" : "data.mo.gov",
+  "downloadCount" : 4,
+  "indexUpdatedAt" : 1380553258,
+  "moderationStatus" : true,
+  "newBackend" : false,
+  "numberOfComments" : 0,
+  "oid" : 3427097,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1363117483,
+  "publicationStage" : "published",
+  "rowClass" : "",
+  "signed" : false,
+  "tableId" : 729473,
+  "totalTimesRated" : 0,
+  "viewCount" : 41314,
+  "viewLastModified" : 1367435236,
+  "viewType" : "tabular",
+  "grants" : [ {
+    "inherited" : true,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "custom_fields" : {
+      "drawingInfo.renderer" : {
+        "symbol.type" : "esriSFS",
+        "symbol.style" : "esriSFSSolid"
+      },
+      "Basic" : {
+        "copyrightText" : "",
+        "type" : "Feature Layer",
+        "definitionExpression" : "",
+        "Source" : "https://ogi.oa.mo.gov/ArcGIS/rest/services/legisDistrict/MapServer/1",
+        "id" : "1",
+        "minScale" : "0",
+        "displayField" : "District",
+        "htmlPopupType" : "esriServerHTMLPopupTypeAsHTMLText",
+        "name" : "House",
+        "currentVersion" : "10.05",
+        "hasAttachments" : "false",
+        "capabilities" : "Map,Query,Data",
+        "maxScale" : "0",
+        "Spatial Reference wkid" : "26915",
+        "defaultVisibility" : "true",
+        "geometryType" : "esriGeometryPolygon"
+      },
+      "drawingInfo.labelingInfo_1.symbol" : {
+        "font.decoration" : "none",
+        "font.size" : "9",
+        "font.weight" : "bold",
+        "font.family" : "Arial",
+        "font.style" : "normal"
+      },
+      "drawingInfo.renderer.symbol" : {
+        "outline.type" : "esriSLS",
+        "outline.width" : "2",
+        "outline.style" : "esriSLSSolid"
+      },
+      "drawingInfo.labelingInfo_1" : {
+        "symbol.type" : "esriTS",
+        "symbol.yoffset" : "0",
+        "symbol.xoffset" : "0",
+        "symbol.horizontalAlignment" : "center",
+        "symbol.angle" : "0",
+        "symbol.rightToLeft" : "false",
+        "symbol.verticalAlignment" : "bottom"
+      },
+      "drawingInfo" : {
+        "transparency" : "0",
+        "labelingInfo_1.minScale" : "3000000",
+        "labelingInfo_1.maxScale" : "0",
+        "renderer.description" : "",
+        "labelingInfo_1.labelExpression" : "[District]",
+        "labelingInfo_1.labelPlacement" : "esriServerPolygonPlacementAlwaysHorizontal",
+        "labelingInfo_1.useCodedValues" : "true",
+        "renderer.type" : "simple",
+        "renderer.label" : ""
+      }
+    },
+    "renderTypeConfig" : {
+      "visible" : {
+        "map" : true
+      }
+    },
+    "availableDisplayTypes" : [ "map", "table", "fatrow", "page" ],
+    "rdfSubject" : "0",
+    "rowIdentifier" : "0",
+    "rdfClass" : ""
+  },
+  "owner" : {
+    "id" : "348k-4yz7",
+    "displayName" : "State of Missouri",
+    "screenName" : "State of Missouri"
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "348k-4yz7",
+    "displayName" : "State of Missouri",
+    "screenName" : "State of Missouri"
+  },
+  "tags" : [ "census", "districts", "redistricting", "maps", "gis" ]
+}, {
+  "id" : "bit8-wk4q",
+  "name" : "ARRA Grant Revenues As Of COB April 30, 2013",
+  "averageRating" : 0,
+  "category" : "Government Administration",
+  "createdAt" : 1367418593,
+  "description" : "Data that shows every dollar received by the State of Missouri to date under the American Reinvestment and Recovery Act of 2009 including the receiving state agency and the federal funding source or program.",
+  "displayType" : "table",
+  "domainCName" : "data.mo.gov",
+  "downloadCount" : 4,
+  "indexUpdatedAt" : 1367418942,
+  "newBackend" : false,
+  "numberOfComments" : 0,
+  "oid" : 3424416,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1367418642,
+  "publicationGroup" : 830290,
+  "publicationStage" : "published",
+  "rowsUpdatedAt" : 1367418595,
+  "rowsUpdatedBy" : "ecjq-kbdb",
+  "signed" : false,
+  "tableId" : 830290,
+  "totalTimesRated" : 0,
+  "viewCount" : 12,
+  "viewLastModified" : 1367418776,
+  "viewType" : "tabular",
+  "grants" : [ {
+    "inherited" : false,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "renderTypeConfig" : {
+      "visible" : {
+        "table" : true
+      }
+    },
+    "availableDisplayTypes" : [ "table", "fatrow", "page" ]
+  },
+  "owner" : {
+    "id" : "ecjq-kbdb",
+    "displayName" : "Michael",
+    "screenName" : "Michael"
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "ecjq-kbdb",
+    "displayName" : "Michael",
+    "screenName" : "Michael"
+  },
+  "flags" : [ "default" ]
+}, {
+  "id" : "6mic-wq6f",
+  "name" : "2013 State Expenditures As Of COB April 30, 2013",
+  "averageRating" : 0,
+  "category" : "Government Administration",
+  "createdAt" : 1367417533,
+  "description" : "Financial data relating to the purchases of goods and services by the state as well as financial disbursements through various state programs. Current as of the close of business April 30, 2013.",
+  "displayType" : "table",
+  "domainCName" : "data.mo.gov",
+  "downloadCount" : 11,
+  "indexUpdatedAt" : 1367418948,
+  "newBackend" : false,
+  "numberOfComments" : 0,
+  "oid" : 3424331,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1367417647,
+  "publicationGroup" : 830253,
+  "publicationStage" : "published",
+  "rowsUpdatedAt" : 1367417591,
+  "rowsUpdatedBy" : "ecjq-kbdb",
+  "signed" : false,
+  "tableId" : 830253,
+  "totalTimesRated" : 0,
+  "viewCount" : 7,
+  "viewLastModified" : 1367418782,
+  "viewType" : "tabular",
+  "grants" : [ {
+    "inherited" : false,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "renderTypeConfig" : {
+      "visible" : {
+        "table" : true
+      }
+    },
+    "availableDisplayTypes" : [ "table", "fatrow", "page" ]
+  },
+  "owner" : {
+    "id" : "ecjq-kbdb",
+    "displayName" : "Michael",
+    "screenName" : "Michael"
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "ecjq-kbdb",
+    "displayName" : "Michael",
+    "screenName" : "Michael"
+  },
+  "flags" : [ "default" ]
+}, {
+  "id" : "kpgr-aerv",
+  "name" : "2013 State Employee Pay As Of COB March 31, 2013",
+  "averageRating" : 0,
+  "category" : "Government Administration",
+  "createdAt" : 1364826217,
+  "description" : "Pay information for calendar year 2013(January 1 - close of business December 31) for the employees of the State of Missouri by their Agency of Employment, Position Title or Employee Name.",
+  "displayType" : "table",
+  "domainCName" : "data.mo.gov",
+  "downloadCount" : 4,
+  "indexUpdatedAt" : 1367415590,
+  "newBackend" : false,
+  "numberOfComments" : 0,
+  "oid" : 3030134,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1364826312,
+  "publicationGroup" : 768921,
+  "publicationStage" : "published",
+  "rowsUpdatedAt" : 1364826243,
+  "rowsUpdatedBy" : "ecjq-kbdb",
+  "signed" : false,
+  "tableId" : 768921,
+  "totalTimesRated" : 0,
+  "viewCount" : 11,
+  "viewLastModified" : 1367415474,
+  "viewType" : "tabular",
+  "grants" : [ {
+    "inherited" : false,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "renderTypeConfig" : {
+      "visible" : {
+        "table" : true
+      }
+    },
+    "availableDisplayTypes" : [ "table", "fatrow", "page" ]
+  },
+  "owner" : {
+    "id" : "ecjq-kbdb",
+    "displayName" : "Michael",
+    "screenName" : "Michael"
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "ecjq-kbdb",
+    "displayName" : "Michael",
+    "screenName" : "Michael"
+  },
+  "flags" : [ "default" ]
+}, {
+  "id" : "tg8s-fvjs",
+  "name" : "Missouri Most Recent Unemployment Data By County Map",
+  "averageRating" : 0,
+  "category" : "Labor",
+  "createdAt" : 1367759004,
+  "description" : "Missouri unemployment rate for various regions",
+  "displayType" : "map",
+  "domainCName" : "data.mo.gov",
+  "downloadCount" : 4,
+  "indexUpdatedAt" : 1367759164,
+  "moderationStatus" : true,
+  "newBackend" : false,
+  "numberOfComments" : 0,
+  "oid" : 3476749,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1367355751,
+  "publicationGroup" : 523145,
+  "publicationStage" : "published",
+  "rowIdentifierColumnId" : 63403663,
+  "rowsUpdatedAt" : 1367355749,
+  "rowsUpdatedBy" : "8xqn-4t42",
+  "signed" : false,
+  "state" : "normal",
+  "tableId" : 828760,
+  "totalTimesRated" : 0,
+  "viewCount" : 47358,
+  "viewLastModified" : 1367759089,
+  "viewType" : "tabular",
+  "grants" : [ {
+    "inherited" : true,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "renderTypeConfig" : {
+      "visible" : {
+        "map" : true
+      },
+      "active" : {
+        "table" : {
+          "id" : "self"
+        }
+      }
+    },
+    "availableDisplayTypes" : [ "map", "table", "fatrow", "page" ],
+    "rdfSubject" : "0",
+    "rowIdentifier" : 63403663
+  },
+  "owner" : {
+    "id" : "8xqn-4t42",
+    "displayName" : "Rodney Distler",
+    "profileImageUrlLarge" : "/images/profile/7042/0975/capitol1_large.jpg",
+    "profileImageUrlMedium" : "/images/profile/7042/0975/capitol1_thumb.jpg",
+    "profileImageUrlSmall" : "/images/profile/7042/0975/capitol1_tiny.jpg",
+    "screenName" : "Rodney Distler"
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "94tt-ketj",
+    "displayName" : "etorufa",
+    "screenName" : "etorufa"
+  },
+  "tags" : [ "unemployment", "labor", "employment" ]
+}, {
+  "id" : "uft8-kvz2",
+  "name" : "Missouri Most Recent Unemployment Data By County",
+  "averageRating" : 0,
+  "category" : "Labor",
+  "createdAt" : 1367758761,
+  "description" : "Missouri unemployment rate for various regions",
+  "displayType" : "table",
+  "domainCName" : "data.mo.gov",
+  "downloadCount" : 5,
+  "indexUpdatedAt" : 1367759121,
+  "moderationStatus" : true,
+  "newBackend" : false,
+  "numberOfComments" : 0,
+  "oid" : 3476726,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1367355751,
+  "publicationGroup" : 523145,
+  "publicationStage" : "published",
+  "rowsUpdatedAt" : 1367355749,
+  "rowsUpdatedBy" : "8xqn-4t42",
+  "signed" : false,
+  "state" : "normal",
+  "tableId" : 828760,
+  "totalTimesRated" : 0,
+  "viewCount" : 46581,
+  "viewLastModified" : 1367758761,
+  "viewType" : "tabular",
+  "grants" : [ {
+    "inherited" : true,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "renderTypeConfig" : {
+      "visible" : {
+        "table" : true
+      }
+    },
+    "availableDisplayTypes" : [ "table", "fatrow", "page" ],
+    "rdfSubject" : "0",
+    "rowIdentifier" : 63403109
+  },
+  "owner" : {
+    "id" : "8xqn-4t42",
+    "displayName" : "Rodney Distler",
+    "profileImageUrlLarge" : "/images/profile/7042/0975/capitol1_large.jpg",
+    "profileImageUrlMedium" : "/images/profile/7042/0975/capitol1_thumb.jpg",
+    "profileImageUrlSmall" : "/images/profile/7042/0975/capitol1_tiny.jpg",
+    "screenName" : "Rodney Distler"
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "94tt-ketj",
+    "displayName" : "etorufa",
+    "screenName" : "etorufa"
+  },
+  "tags" : [ "unemployment", "labor", "employment" ]
+}, {
+  "id" : "4vq7-4p6a",
+  "name" : "City,County,Zip",
+  "averageRating" : 0,
+  "category" : "Geography",
+  "createdAt" : 1364413025,
+  "description" : "List of cities, zip codes and counties in Missouri",
+  "displayType" : "table",
+  "domainCName" : "data.mo.gov",
+  "downloadCount" : 1,
+  "indexUpdatedAt" : 1383791186,
+  "newBackend" : false,
+  "numberOfComments" : 0,
+  "oid" : 4223053,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1372346269,
+  "publicationGroup" : 286170,
+  "publicationStage" : "published",
+  "rowsUpdatedAt" : 1372346260,
+  "rowsUpdatedBy" : "8xqn-4t42",
+  "signed" : false,
+  "tableId" : 944484,
+  "totalTimesRated" : 0,
+  "viewCount" : 6,
+  "viewLastModified" : 1364413025,
+  "viewType" : "tabular",
+  "grants" : [ {
+    "inherited" : true,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "renderTypeConfig" : {
+      "visible" : {
+        "table" : true
+      }
+    },
+    "availableDisplayTypes" : [ "table", "fatrow", "page" ],
+    "rdfSubject" : "0"
+  },
+  "owner" : {
+    "id" : "8p6s-67ag",
+    "displayName" : "Debbie",
+    "screenName" : "Debbie"
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "8xqn-4t42",
+    "displayName" : "Rodney Distler",
+    "profileImageUrlLarge" : "/images/profile/7042/0975/capitol1_large.jpg",
+    "profileImageUrlMedium" : "/images/profile/7042/0975/capitol1_thumb.jpg",
+    "profileImageUrlSmall" : "/images/profile/7042/0975/capitol1_tiny.jpg",
+    "screenName" : "Rodney Distler"
+  }
+}, {
+  "id" : "8kfr-ui65",
+  "name" : "SA zip/county/city",
+  "averageRating" : 0,
+  "category" : "Geography",
+  "createdAt" : 1372259010,
+  "description" : "List of cities, zip codes and counties in Missouri",
+  "displayType" : "table",
+  "domainCName" : "data.mo.gov",
+  "downloadCount" : 2,
+  "indexUpdatedAt" : 1383791513,
+  "newBackend" : false,
+  "numberOfComments" : 0,
+  "oid" : 4223061,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1372346269,
+  "publicationGroup" : 286170,
+  "publicationStage" : "published",
+  "rowsUpdatedAt" : 1372346260,
+  "rowsUpdatedBy" : "8xqn-4t42",
+  "signed" : false,
+  "tableId" : 944484,
+  "totalTimesRated" : 0,
+  "viewCount" : 13,
+  "viewLastModified" : 1372259010,
+  "viewType" : "tabular",
+  "grants" : [ {
+    "inherited" : true,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "renderTypeConfig" : {
+      "visible" : {
+        "page" : true,
+        "table" : true
+      }
+    },
+    "availableDisplayTypes" : [ "table", "fatrow", "page" ],
+    "rdfSubject" : "0"
+  },
+  "owner" : {
+    "id" : "ma3t-y44k",
+    "displayName" : "Amy Berendzen",
+    "screenName" : "Amy Berendzen"
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "8xqn-4t42",
+    "displayName" : "Rodney Distler",
+    "profileImageUrlLarge" : "/images/profile/7042/0975/capitol1_large.jpg",
+    "profileImageUrlMedium" : "/images/profile/7042/0975/capitol1_thumb.jpg",
+    "profileImageUrlSmall" : "/images/profile/7042/0975/capitol1_tiny.jpg",
+    "screenName" : "Rodney Distler"
+  }
+}, {
+  "id" : "9d9w-zre9",
+  "name" : "Tammy",
+  "averageRating" : 0,
+  "category" : "Geography",
+  "createdAt" : 1375892525,
+  "description" : "List of cities, zip codes and counties in Missouri",
+  "displayType" : "table",
+  "domainCName" : "data.mo.gov",
+  "downloadCount" : 4,
+  "indexUpdatedAt" : 1383791187,
+  "newBackend" : false,
+  "numberOfComments" : 0,
+  "oid" : 4807635,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1372346269,
+  "publicationGroup" : 286170,
+  "publicationStage" : "published",
+  "rowsUpdatedAt" : 1372346260,
+  "rowsUpdatedBy" : "8xqn-4t42",
+  "signed" : false,
+  "tableId" : 944484,
+  "totalTimesRated" : 0,
+  "viewCount" : 2,
+  "viewLastModified" : 1375892525,
+  "viewType" : "tabular",
+  "grants" : [ {
+    "inherited" : true,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "renderTypeConfig" : {
+      "visible" : {
+        "table" : true
+      }
+    },
+    "availableDisplayTypes" : [ "table", "fatrow", "page" ],
+    "rdfSubject" : "0"
+  },
+  "owner" : {
+    "id" : "f28q-2uhq",
+    "displayName" : "Tammy",
+    "screenName" : "Tammy"
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "8xqn-4t42",
+    "displayName" : "Rodney Distler",
+    "profileImageUrlLarge" : "/images/profile/7042/0975/capitol1_large.jpg",
+    "profileImageUrlMedium" : "/images/profile/7042/0975/capitol1_thumb.jpg",
+    "profileImageUrlSmall" : "/images/profile/7042/0975/capitol1_tiny.jpg",
+    "screenName" : "Rodney Distler"
+  }
+}, {
+  "id" : "ay5t-zph8",
+  "name" : "Missouri",
+  "averageRating" : 0,
+  "category" : "Geography",
+  "createdAt" : 1375892204,
+  "description" : "List of cities, zip codes and counties in Missouri",
+  "displayType" : "table",
+  "domainCName" : "data.mo.gov",
+  "downloadCount" : 1,
+  "indexUpdatedAt" : 1383791164,
+  "newBackend" : false,
+  "numberOfComments" : 0,
+  "oid" : 4807613,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1372346269,
+  "publicationGroup" : 286170,
+  "publicationStage" : "published",
+  "rowsUpdatedAt" : 1372346260,
+  "rowsUpdatedBy" : "8xqn-4t42",
+  "signed" : false,
+  "tableId" : 944484,
+  "totalTimesRated" : 0,
+  "viewCount" : 4,
+  "viewLastModified" : 1375892204,
+  "viewType" : "tabular",
+  "grants" : [ {
+    "inherited" : true,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "renderTypeConfig" : {
+      "visible" : {
+        "table" : true
+      }
+    },
+    "availableDisplayTypes" : [ "table", "fatrow", "page" ],
+    "rdfSubject" : "0"
+  },
+  "owner" : {
+    "id" : "f28q-2uhq",
+    "displayName" : "Tammy",
+    "screenName" : "Tammy"
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "8xqn-4t42",
+    "displayName" : "Rodney Distler",
+    "profileImageUrlLarge" : "/images/profile/7042/0975/capitol1_large.jpg",
+    "profileImageUrlMedium" : "/images/profile/7042/0975/capitol1_thumb.jpg",
+    "profileImageUrlSmall" : "/images/profile/7042/0975/capitol1_tiny.jpg",
+    "screenName" : "Rodney Distler"
+  }
+}, {
+  "id" : "bwsa-s5k4",
+  "name" : "mhs list",
+  "averageRating" : 0,
+  "category" : "Geography",
+  "createdAt" : 1383753930,
+  "description" : "List of cities, zip codes and counties in Missouri",
+  "displayType" : "table",
+  "domainCName" : "data.mo.gov",
+  "downloadCount" : 5,
+  "indexUpdatedAt" : 1383791529,
+  "newBackend" : false,
+  "numberOfComments" : 0,
+  "oid" : 6289800,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1372346269,
+  "publicationGroup" : 286170,
+  "publicationStage" : "published",
+  "rowsUpdatedAt" : 1372346260,
+  "rowsUpdatedBy" : "8xqn-4t42",
+  "signed" : false,
+  "tableId" : 944484,
+  "totalTimesRated" : 0,
+  "viewCount" : 5,
+  "viewLastModified" : 1383754344,
+  "viewType" : "tabular",
+  "grants" : [ {
+    "inherited" : true,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "renderTypeConfig" : {
+      "visible" : {
+        "table" : true
+      }
+    },
+    "availableDisplayTypes" : [ "table", "fatrow", "page" ],
+    "rdfSubject" : "0"
+  },
+  "owner" : {
+    "id" : "hh2u-ccqj",
+    "displayName" : "Travis Maddox",
+    "screenName" : "Travis Maddox"
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "8xqn-4t42",
+    "displayName" : "Rodney Distler",
+    "profileImageUrlLarge" : "/images/profile/7042/0975/capitol1_large.jpg",
+    "profileImageUrlMedium" : "/images/profile/7042/0975/capitol1_thumb.jpg",
+    "profileImageUrlSmall" : "/images/profile/7042/0975/capitol1_tiny.jpg",
+    "screenName" : "Rodney Distler"
+  }
+}, {
+  "id" : "c75p-82un",
+  "name" : "METRO VIEW",
+  "averageRating" : 0,
+  "category" : "Geography",
+  "createdAt" : 1380916525,
+  "description" : "List of cities, zip codes and counties in Missouri",
+  "displayType" : "table",
+  "domainCName" : "data.mo.gov",
+  "downloadCount" : 3,
+  "indexUpdatedAt" : 1383791187,
+  "newBackend" : false,
+  "numberOfComments" : 0,
+  "oid" : 5756582,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1372346269,
+  "publicationGroup" : 286170,
+  "publicationStage" : "published",
+  "rowsUpdatedAt" : 1372346260,
+  "rowsUpdatedBy" : "8xqn-4t42",
+  "signed" : false,
+  "tableId" : 944484,
+  "totalTimesRated" : 0,
+  "viewCount" : 3,
+  "viewLastModified" : 1380916525,
+  "viewType" : "tabular",
+  "grants" : [ {
+    "inherited" : true,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "renderTypeConfig" : {
+      "visible" : {
+        "table" : true
+      }
+    },
+    "availableDisplayTypes" : [ "table", "fatrow", "page" ],
+    "rdfSubject" : "0"
+  },
+  "owner" : {
+    "id" : "pkdj-9zuz",
+    "displayName" : "Debbie Felos",
+    "screenName" : "Debbie Felos"
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "8xqn-4t42",
+    "displayName" : "Rodney Distler",
+    "profileImageUrlLarge" : "/images/profile/7042/0975/capitol1_large.jpg",
+    "profileImageUrlMedium" : "/images/profile/7042/0975/capitol1_thumb.jpg",
+    "profileImageUrlSmall" : "/images/profile/7042/0975/capitol1_tiny.jpg",
+    "screenName" : "Rodney Distler"
+  }
+}, {
+  "id" : "j3vd-wims",
+  "name" : "MO counties zip codes",
+  "averageRating" : 0,
+  "category" : "Geography",
+  "createdAt" : 1368045674,
+  "description" : "List of cities, zip codes and counties in Missouri",
+  "displayType" : "table",
+  "domainCName" : "data.mo.gov",
+  "downloadCount" : 2,
+  "indexUpdatedAt" : 1383791187,
+  "newBackend" : false,
+  "numberOfComments" : 0,
+  "oid" : 4223062,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1372346269,
+  "publicationGroup" : 286170,
+  "publicationStage" : "published",
+  "rowsUpdatedAt" : 1372346260,
+  "rowsUpdatedBy" : "8xqn-4t42",
+  "signed" : false,
+  "tableId" : 944484,
+  "totalTimesRated" : 0,
+  "viewCount" : 8,
+  "viewLastModified" : 1368045854,
+  "viewType" : "tabular",
+  "grants" : [ {
+    "inherited" : true,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "renderTypeConfig" : {
+      "visible" : {
+        "table" : true
+      }
+    },
+    "availableDisplayTypes" : [ "table", "fatrow", "page" ],
+    "rdfSubject" : "0"
+  },
+  "owner" : {
+    "id" : "4tyz-75cf",
+    "displayName" : "Office",
+    "screenName" : "Office"
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "8xqn-4t42",
+    "displayName" : "Rodney Distler",
+    "profileImageUrlLarge" : "/images/profile/7042/0975/capitol1_large.jpg",
+    "profileImageUrlMedium" : "/images/profile/7042/0975/capitol1_thumb.jpg",
+    "profileImageUrlSmall" : "/images/profile/7042/0975/capitol1_tiny.jpg",
+    "screenName" : "Rodney Distler"
+  }
+}, {
+  "id" : "wzjw-x2er",
+  "name" : "Manuel Region counties and Zips",
+  "averageRating" : 0,
+  "category" : "Geography",
+  "createdAt" : 1367000108,
+  "description" : "List of cities, zip codes and counties in Missouri",
+  "displayType" : "table",
+  "domainCName" : "data.mo.gov",
+  "downloadCount" : 5,
+  "indexUpdatedAt" : 1383791529,
+  "newBackend" : false,
+  "numberOfComments" : 0,
+  "oid" : 4223056,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1372346269,
+  "publicationGroup" : 286170,
+  "publicationStage" : "published",
+  "rowsUpdatedAt" : 1372346260,
+  "rowsUpdatedBy" : "8xqn-4t42",
+  "signed" : false,
+  "tableId" : 944484,
+  "totalTimesRated" : 0,
+  "viewCount" : 5,
+  "viewLastModified" : 1367000108,
+  "viewType" : "tabular",
+  "grants" : [ {
+    "inherited" : true,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "renderTypeConfig" : {
+      "visible" : {
+        "table" : true
+      }
+    },
+    "availableDisplayTypes" : [ "table", "fatrow", "page" ],
+    "rdfSubject" : "0"
+  },
+  "owner" : {
+    "id" : "e42u-yj79",
+    "displayName" : "Dana",
+    "screenName" : "Dana"
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "8xqn-4t42",
+    "displayName" : "Rodney Distler",
+    "profileImageUrlLarge" : "/images/profile/7042/0975/capitol1_large.jpg",
+    "profileImageUrlMedium" : "/images/profile/7042/0975/capitol1_thumb.jpg",
+    "profileImageUrlSmall" : "/images/profile/7042/0975/capitol1_tiny.jpg",
+    "screenName" : "Rodney Distler"
+  }
+}, {
+  "id" : "6n3p-xcx3",
+  "name" : "ARRA Grant Expenditures As Of COB July 31, 2013",
+  "averageRating" : 0,
+  "category" : "Government Administration",
+  "createdAt" : 1375368282,
+  "description" : "Data that shows how every dollar received by the State of Missouri under the American Reinvestment and Recovery Act of 2009 has been spent including the name of the state agency that made the expenditure, category of expenditure and the names of vendors receiving payments.",
+  "displayType" : "table",
+  "domainCName" : "data.mo.gov",
+  "downloadCount" : 4,
+  "indexUpdatedAt" : 1375376173,
+  "newBackend" : false,
+  "numberOfComments" : 0,
+  "oid" : 4721381,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1375368382,
+  "publicationGroup" : 1012529,
+  "publicationStage" : "published",
+  "rowsUpdatedAt" : 1375368327,
+  "rowsUpdatedBy" : "ecjq-kbdb",
+  "signed" : false,
+  "tableId" : 1012529,
+  "totalTimesRated" : 0,
+  "viewCount" : 21,
+  "viewLastModified" : 1375369811,
+  "viewType" : "tabular",
+  "grants" : [ {
+    "inherited" : false,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "renderTypeConfig" : {
+      "visible" : {
+        "table" : true
+      }
+    },
+    "availableDisplayTypes" : [ "table", "fatrow", "page" ]
+  },
+  "owner" : {
+    "id" : "ecjq-kbdb",
+    "displayName" : "Michael",
+    "screenName" : "Michael"
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "ecjq-kbdb",
+    "displayName" : "Michael",
+    "screenName" : "Michael"
+  },
+  "flags" : [ "default" ]
+}, {
+  "id" : "ib3r-cudb",
+  "name" : "ARRA Grant Revenues As Of COB July 31, 2013",
+  "averageRating" : 0,
+  "category" : "Government Administration",
+  "createdAt" : 1375368460,
+  "description" : "Data that shows every dollar received by the State of Missouri to date under the American Reinvestment and Recovery Act of 2009 including the receiving state agency and the federal funding source or program.",
+  "displayType" : "table",
+  "domainCName" : "data.mo.gov",
+  "downloadCount" : 4,
+  "indexUpdatedAt" : 1375376140,
+  "newBackend" : false,
+  "numberOfComments" : 0,
+  "oid" : 4721476,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1375368571,
+  "publicationGroup" : 1012536,
+  "publicationStage" : "published",
+  "rowsUpdatedAt" : 1375368497,
+  "rowsUpdatedBy" : "ecjq-kbdb",
+  "signed" : false,
+  "tableId" : 1012536,
+  "totalTimesRated" : 0,
+  "viewCount" : 9,
+  "viewLastModified" : 1375368621,
+  "viewType" : "tabular",
+  "grants" : [ {
+    "inherited" : false,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "renderTypeConfig" : {
+      "visible" : {
+        "table" : true
+      }
+    },
+    "availableDisplayTypes" : [ "table", "fatrow", "page" ]
+  },
+  "owner" : {
+    "id" : "ecjq-kbdb",
+    "displayName" : "Michael",
+    "screenName" : "Michael"
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "ecjq-kbdb",
+    "displayName" : "Michael",
+    "screenName" : "Michael"
+  },
+  "flags" : [ "default" ]
+}, {
+  "id" : "s6rn-8cyn",
+  "name" : "2013 State Expenditures As Of COB July 31, 2013",
+  "averageRating" : 0,
+  "category" : "Government Administration",
+  "createdAt" : 1375381910,
+  "description" : "Financial data relating to the purchases of goods and services by the state as well as financial disbursements through various state programs. Current as of the close of business July 31, 2013.",
+  "displayType" : "table",
+  "domainCName" : "data.mo.gov",
+  "downloadCount" : 12,
+  "indexUpdatedAt" : 1375384935,
+  "newBackend" : false,
+  "numberOfComments" : 0,
+  "oid" : 4723605,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1375382068,
+  "publicationGroup" : 1012949,
+  "publicationStage" : "published",
+  "rowsUpdatedAt" : 1375381945,
+  "rowsUpdatedBy" : "ecjq-kbdb",
+  "signed" : false,
+  "tableId" : 1012949,
+  "totalTimesRated" : 0,
+  "viewCount" : 28,
+  "viewLastModified" : 1375382090,
+  "viewType" : "tabular",
+  "grants" : [ {
+    "inherited" : false,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "renderTypeConfig" : {
+      "visible" : {
+        "table" : true
+      }
+    },
+    "availableDisplayTypes" : [ "table", "fatrow", "page" ]
+  },
+  "owner" : {
+    "id" : "ecjq-kbdb",
+    "displayName" : "Michael",
+    "screenName" : "Michael"
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "ecjq-kbdb",
+    "displayName" : "Michael",
+    "screenName" : "Michael"
+  },
+  "flags" : [ "default" ]
+}, {
+  "id" : "afec-zxye",
+  "name" : "2013 State Employee Pay As Of COB July 31, 2013",
+  "averageRating" : 0,
+  "category" : "Government Administration",
+  "createdAt" : 1375381225,
+  "description" : "Pay information for calendar year 2013(January 1 - close of business December 31) for the employees of the State of Missouri by their Agency of Employment, Position Title or Employee Name.",
+  "displayType" : "table",
+  "domainCName" : "data.mo.gov",
+  "downloadCount" : 9,
+  "indexUpdatedAt" : 1375384935,
+  "newBackend" : false,
+  "numberOfComments" : 0,
+  "oid" : 4723561,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1375381476,
+  "publicationGroup" : 1012932,
+  "publicationStage" : "published",
+  "rowClass" : "",
+  "rowsUpdatedAt" : 1375381414,
+  "rowsUpdatedBy" : "8xqn-4t42",
+  "signed" : false,
+  "tableId" : 1012933,
+  "totalTimesRated" : 0,
+  "viewCount" : 28,
+  "viewLastModified" : 1375381794,
+  "viewType" : "tabular",
+  "grants" : [ {
+    "inherited" : false,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "renderTypeConfig" : {
+      "visible" : {
+        "table" : true
+      }
+    },
+    "availableDisplayTypes" : [ "table", "fatrow", "page" ],
+    "rdfSubject" : "0",
+    "rowIdentifier" : "0",
+    "rdfClass" : ""
+  },
+  "owner" : {
+    "id" : "ecjq-kbdb",
+    "displayName" : "Michael",
+    "screenName" : "Michael"
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "8xqn-4t42",
+    "displayName" : "Rodney Distler",
+    "profileImageUrlLarge" : "/images/profile/7042/0975/capitol1_large.jpg",
+    "profileImageUrlMedium" : "/images/profile/7042/0975/capitol1_thumb.jpg",
+    "profileImageUrlSmall" : "/images/profile/7042/0975/capitol1_tiny.jpg",
+    "screenName" : "Rodney Distler"
+  },
+  "flags" : [ "default" ]
+}, {
+  "id" : "mqzc-cwd7",
+  "name" : "ARRA Grant Revenues As Of COB August 31, 2013",
+  "averageRating" : 0,
+  "category" : "Government Administration",
+  "createdAt" : 1378220778,
+  "description" : "Data that shows every dollar received by the State of Missouri to date under the American Reinvestment and Recovery Act of 2009 including the receiving state agency and the federal funding source or program.",
+  "displayType" : "table",
+  "domainCName" : "data.mo.gov",
+  "downloadCount" : 1,
+  "indexUpdatedAt" : 1378240825,
+  "newBackend" : false,
+  "numberOfComments" : 0,
+  "oid" : 5241204,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1378220910,
+  "publicationGroup" : 1111222,
+  "publicationStage" : "published",
+  "rowsUpdatedAt" : 1378220816,
+  "rowsUpdatedBy" : "ecjq-kbdb",
+  "signed" : false,
+  "tableId" : 1111222,
+  "totalTimesRated" : 0,
+  "viewCount" : 4,
+  "viewLastModified" : 1378220931,
+  "viewType" : "tabular",
+  "grants" : [ {
+    "inherited" : false,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "renderTypeConfig" : {
+      "visible" : {
+        "table" : true
+      }
+    },
+    "availableDisplayTypes" : [ "table", "fatrow", "page" ]
+  },
+  "owner" : {
+    "id" : "ecjq-kbdb",
+    "displayName" : "Michael",
+    "screenName" : "Michael"
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "ecjq-kbdb",
+    "displayName" : "Michael",
+    "screenName" : "Michael"
+  },
+  "flags" : [ "default" ]
+}, {
+  "id" : "w26h-6nqg",
+  "name" : "2014 State Budget Restrictions As of August 31, 2013",
+  "averageRating" : 0,
+  "category" : "Government Administration",
+  "createdAt" : 1378223805,
+  "description" : "The data provided here details the State of Missouri's Budget Restrictions as of August 31, 2013.",
+  "domainCName" : "data.mo.gov",
+  "downloadCount" : 4,
+  "indexUpdatedAt" : 1378240907,
+  "newBackend" : false,
+  "numberOfComments" : 0,
+  "oid" : 5241883,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1378224218,
+  "publicationGroup" : 1111350,
+  "publicationStage" : "published",
+  "rowClass" : "",
+  "rowsUpdatedAt" : 1378223866,
+  "rowsUpdatedBy" : "ecjq-kbdb",
+  "signed" : false,
+  "tableId" : 1111350,
+  "totalTimesRated" : 0,
+  "viewCount" : 28,
+  "viewLastModified" : 1378224314,
+  "viewType" : "tabular",
+  "grants" : [ {
+    "inherited" : false,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "rdfSubject" : "0",
+    "rowIdentifier" : "0",
+    "rdfClass" : ""
+  },
+  "owner" : {
+    "id" : "ecjq-kbdb",
+    "displayName" : "Michael",
+    "screenName" : "Michael"
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "ecjq-kbdb",
+    "displayName" : "Michael",
+    "screenName" : "Michael"
+  },
+  "flags" : [ "default" ]
+}, {
+  "id" : "34mf-t9fe",
+  "name" : "ARRA Grant Expenditures As Of COB August 31, 2013",
+  "averageRating" : 0,
+  "category" : "Government Administration",
+  "createdAt" : 1378221239,
+  "description" : "Data that shows how every dollar received by the State of Missouri under the American Reinvestment and Recovery Act of 2009 has been spent including the name of the state agency that made the expenditure, category of expenditure and the names of vendors receiving payments.",
+  "displayType" : "table",
+  "domainCName" : "data.mo.gov",
+  "downloadCount" : 8,
+  "indexUpdatedAt" : 1378240877,
+  "newBackend" : false,
+  "numberOfComments" : 0,
+  "oid" : 5241405,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1378221317,
+  "publicationGroup" : 1111252,
+  "publicationStage" : "published",
+  "rowsUpdatedAt" : 1378221266,
+  "rowsUpdatedBy" : "ecjq-kbdb",
+  "signed" : false,
+  "tableId" : 1111252,
+  "totalTimesRated" : 0,
+  "viewCount" : 21,
+  "viewLastModified" : 1378221353,
+  "viewType" : "tabular",
+  "grants" : [ {
+    "inherited" : false,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "renderTypeConfig" : {
+      "visible" : {
+        "table" : true
+      }
+    },
+    "availableDisplayTypes" : [ "table", "fatrow", "page" ]
+  },
+  "owner" : {
+    "id" : "ecjq-kbdb",
+    "displayName" : "Michael",
+    "screenName" : "Michael"
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "ecjq-kbdb",
+    "displayName" : "Michael",
+    "screenName" : "Michael"
+  },
+  "flags" : [ "default" ]
+}, {
+  "id" : "9k3d-69c6",
+  "name" : "2013 State Employee Pay As Of COB August 31, 2013",
+  "averageRating" : 0,
+  "category" : "Government Administration",
+  "createdAt" : 1378223496,
+  "description" : "Pay information for calendar year 2013(January 1 - close of business December 31) for the employees of the State of Missouri by their Agency of Employment, Position Title or Employee Name.",
+  "domainCName" : "data.mo.gov",
+  "downloadCount" : 9,
+  "indexUpdatedAt" : 1378240913,
+  "newBackend" : false,
+  "numberOfComments" : 0,
+  "oid" : 5241858,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1378223710,
+  "publicationGroup" : 1111340,
+  "publicationStage" : "published",
+  "rowClass" : "",
+  "rowsUpdatedAt" : 1378223720,
+  "rowsUpdatedBy" : "ecjq-kbdb",
+  "signed" : false,
+  "tableId" : 1111340,
+  "totalTimesRated" : 0,
+  "viewCount" : 23,
+  "viewLastModified" : 1378223777,
+  "viewType" : "tabular",
+  "grants" : [ {
+    "inherited" : false,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "rdfSubject" : "0",
+    "rowIdentifier" : "0",
+    "rdfClass" : ""
+  },
+  "owner" : {
+    "id" : "ecjq-kbdb",
+    "displayName" : "Michael",
+    "screenName" : "Michael"
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "ecjq-kbdb",
+    "displayName" : "Michael",
+    "screenName" : "Michael"
+  },
+  "flags" : [ "default" ]
+}, {
+  "id" : "n4z6-e6iz",
+  "name" : "2013 State Expenditures As Of COB August 31, 2013",
+  "averageRating" : 0,
+  "category" : "Government Administration",
+  "createdAt" : 1378223068,
+  "description" : "Financial data relating to the purchases of goods and services by the state as well as financial disbursements through various state programs. Current as of the close of business August 31, 2013.",
+  "domainCName" : "data.mo.gov",
+  "downloadCount" : 12,
+  "indexUpdatedAt" : 1378240912,
+  "newBackend" : false,
+  "numberOfComments" : 0,
+  "oid" : 5241826,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1378223343,
+  "publicationGroup" : 1111325,
+  "publicationStage" : "published",
+  "rowClass" : "",
+  "rowsUpdatedAt" : 1378223208,
+  "rowsUpdatedBy" : "ecjq-kbdb",
+  "signed" : false,
+  "tableId" : 1111325,
+  "totalTimesRated" : 0,
+  "viewCount" : 10,
+  "viewLastModified" : 1378223362,
+  "viewType" : "tabular",
+  "grants" : [ {
+    "inherited" : false,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "rdfSubject" : "0",
+    "rowIdentifier" : "0",
+    "rdfClass" : ""
+  },
+  "owner" : {
+    "id" : "ecjq-kbdb",
+    "displayName" : "Michael",
+    "screenName" : "Michael"
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "ecjq-kbdb",
+    "displayName" : "Michael",
+    "screenName" : "Michael"
+  },
+  "flags" : [ "default" ]
+} ]

@@ -1,0 +1,1688 @@
+[ {
+  "id" : "8zak-ewtm",
+  "name" : "BRFSS Prevalence and Trends Data: Tobacco Use - Four Level Smoking Data for 1995-2010",
+  "averageRating" : 0,
+  "category" : "Smoking & Tobacco Use",
+  "createdAt" : 1370954431,
+  "description" : "Percentages are weighted to population characteristics. Data are not available if it did not meet BRFSS stability requirements.\r\nFor more information on these requirements, as well as risk factors and calculated variables, see the Technical Documents and Survey Data for a specific year - http://www.cdc.gov/brfss/annual_data/annual_data.htm.\r\nRecommended citation: Centers for Disease Control and Prevention (CDC). Behavioral Risk Factor Surveillance System. Atlanta, Georgia: U.S. Department of Health and Human Services, Centers for Disease Control and Prevention, [appropriate year].",
+  "displayType" : "table",
+  "downloadCount" : 301,
+  "indexUpdatedAt" : 1382035897,
+  "newBackend" : false,
+  "numberOfComments" : 0,
+  "oid" : 4737310,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1375457752,
+  "publicationGroup" : 912337,
+  "publicationStage" : "published",
+  "rowsUpdatedAt" : 1375457716,
+  "rowsUpdatedBy" : "g3fc-zmqn",
+  "signed" : false,
+  "tableId" : 1014781,
+  "totalTimesRated" : 0,
+  "viewCount" : 680,
+  "viewLastModified" : 1375457753,
+  "viewType" : "tabular",
+  "disabledFeatureFlags" : [ "allow_comments" ],
+  "grants" : [ {
+    "inherited" : true,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "renderTypeConfig" : {
+      "visible" : {
+        "table" : true
+      }
+    },
+    "availableDisplayTypes" : [ "table", "fatrow", "page" ],
+    "rdfSubject" : "0"
+  },
+  "owner" : {
+    "id" : "7vdi-f8f4",
+    "displayName" : "Mark@CDC",
+    "screenName" : "Mark@CDC"
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "7vdi-f8f4",
+    "displayName" : "Mark@CDC",
+    "screenName" : "Mark@CDC"
+  },
+  "tags" : [ "brfss", "current smokers", "former smoker", "non-smoker" ],
+  "flags" : [ "default" ]
+}, {
+  "id" : "j8jk-5ztv",
+  "name" : "BRFSS Prevalence And Trends Data: Tobacco Use - Adults Who Are Current Smokers for 1995-2010",
+  "averageRating" : 0,
+  "category" : "Smoking & Tobacco Use",
+  "createdAt" : 1370891370,
+  "description" : "Percentages are weighted to population characteristics. Data are not available if it did not meet BRFSS stability requirements.\r\nFor more information on these requirements, as well as risk factors and calculated variables, see the Technical Documents and Survey Data for a specific year - http://www.cdc.gov/brfss/annual_data/annual_data.htm.\r\nRecommended citation: Centers for Disease Control and Prevention (CDC). Behavioral Risk Factor Surveillance System. Atlanta, Georgia: U.S. Department of Health and Human Services, Centers for Disease Control and Prevention, [appropriate year].",
+  "displayType" : "table",
+  "downloadCount" : 132,
+  "indexUpdatedAt" : 1375384933,
+  "newBackend" : false,
+  "numberOfComments" : 0,
+  "oid" : 4722349,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1375372341,
+  "publicationGroup" : 910859,
+  "publicationStage" : "published",
+  "rowClass" : "",
+  "rowsUpdatedAt" : 1375372336,
+  "rowsUpdatedBy" : "g3fc-zmqn",
+  "signed" : false,
+  "tableId" : 1012664,
+  "totalTimesRated" : 0,
+  "viewCount" : 277,
+  "viewLastModified" : 1375382480,
+  "viewType" : "tabular",
+  "grants" : [ {
+    "inherited" : false,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "renderTypeConfig" : {
+      "visible" : {
+        "table" : true
+      }
+    },
+    "availableDisplayTypes" : [ "table", "fatrow", "page" ],
+    "rdfSubject" : "0",
+    "rowIdentifier" : "0",
+    "rdfClass" : ""
+  },
+  "owner" : {
+    "id" : "7vdi-f8f4",
+    "displayName" : "Mark@CDC",
+    "screenName" : "Mark@CDC"
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "7vdi-f8f4",
+    "displayName" : "Mark@CDC",
+    "screenName" : "Mark@CDC"
+  },
+  "tags" : [ "brfss", "current smokers", "adults" ],
+  "flags" : [ "default" ]
+}, {
+  "id" : "k8yu-y6by",
+  "name" : "BRFSS Tobacco Use 2011",
+  "averageRating" : 0,
+  "category" : "Smoking & Tobacco Use",
+  "createdAt" : 1385496069,
+  "description" : "The 2011 BRFSS data reflects a change in weighting methodology (raking) and the addition of cell phone only respondents.  Shifts in observed prevalence from 2010 to 2011 for BRFSS measures will likely reflect the new methods of measuring risk factors, rather than true trends in risk-factor prevalence.  A break in trend lines after 2010 is used to reflect this change in methodolgy. Percentages are weighted to population characteristics. Data are not available if it did not meet BRFSS stability requirements.\r\nFor more information on these requirements, as well as risk factors and calculated variables, see the Technical Documents and Survey Data for a specific year - http://www.cdc.gov/brfss/annual_data/annual_data.htm.\r\nRecommended citation: Centers for Disease Control and Prevention (CDC). Behavioral Risk Factor Surveillance System. Atlanta, Georgia: U.S. Department of Health and Human Services, Centers for Disease Control and Prevention, [appropriate year].",
+  "displayType" : "map",
+  "downloadCount" : 4,
+  "indexUpdatedAt" : 1386336650,
+  "moderationStatus" : true,
+  "newBackend" : false,
+  "numberOfComments" : 0,
+  "oid" : 6709193,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1386276505,
+  "publicationGroup" : 1012668,
+  "publicationStage" : "published",
+  "rowsUpdatedAt" : 1386276446,
+  "rowsUpdatedBy" : "g3fc-zmqn",
+  "signed" : false,
+  "tableId" : 1388203,
+  "totalTimesRated" : 0,
+  "viewCount" : 69,
+  "viewLastModified" : 1385496450,
+  "viewType" : "tabular",
+  "grants" : [ {
+    "inherited" : true,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "renderTypeConfig" : {
+      "visible" : {
+        "map" : true,
+        "table" : true
+      },
+      "active" : {
+        "table" : {
+          "id" : "self"
+        }
+      }
+    },
+    "availableDisplayTypes" : [ "map", "table", "fatrow", "page" ],
+    "rdfSubject" : "0"
+  },
+  "owner" : {
+    "id" : "nes8-ybyd",
+    "displayName" : "Dave C",
+    "screenName" : "Dave C"
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "g3fc-zmqn",
+    "displayName" : "CDC",
+    "profileImageUrlLarge" : "/images/profile/7958/3844/HHS_CDC_ATSDR_rgb_large.jpg",
+    "profileImageUrlMedium" : "/images/profile/7958/3844/HHS_CDC_ATSDR_rgb_thumb.jpg",
+    "profileImageUrlSmall" : "/images/profile/7958/3844/HHS_CDC_ATSDR_rgb_tiny.jpg",
+    "screenName" : "CDC"
+  },
+  "tags" : [ "brfss", "current smokers", "adults" ]
+}, {
+  "id" : "sxtp-spsy",
+  "name" : "Map of Adults Who Are Current Smokers - 2011",
+  "averageRating" : 0,
+  "category" : "Smoking & Tobacco Use",
+  "createdAt" : 1375383375,
+  "description" : "The 2011 BRFSS data reflects a change in weighting methodology (raking) and the addition of cell phone only respondents.  Shifts in observed prevalence from 2010 to 2011 for BRFSS measures will likely reflect the new methods of measuring risk factors, rather than true trends in risk-factor prevalence.  A break in trend lines after 2010 is used to reflect this change in methodolgy. Percentages are weighted to population characteristics. Data are not available if it did not meet BRFSS stability requirements.\r\nFor more information on these requirements, as well as risk factors and calculated variables, see the Technical Documents and Survey Data for a specific year - http://www.cdc.gov/brfss/annual_data/annual_data.htm.\r\nRecommended citation: Centers for Disease Control and Prevention (CDC). Behavioral Risk Factor Surveillance System. Atlanta, Georgia: U.S. Department of Health and Human Services, Centers for Disease Control and Prevention, [appropriate year].\r\n*Alternate map projection views currently not available.",
+  "displayType" : "map",
+  "downloadCount" : 43,
+  "indexUpdatedAt" : 1386336647,
+  "moderationStatus" : true,
+  "newBackend" : false,
+  "numberOfComments" : 0,
+  "oid" : 6709194,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1386276505,
+  "publicationGroup" : 1012668,
+  "publicationStage" : "published",
+  "rowsUpdatedAt" : 1386276446,
+  "rowsUpdatedBy" : "g3fc-zmqn",
+  "signed" : false,
+  "tableId" : 1388203,
+  "totalTimesRated" : 0,
+  "viewCount" : 661,
+  "viewLastModified" : 1375383791,
+  "viewType" : "tabular",
+  "grants" : [ {
+    "inherited" : true,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "renderTypeConfig" : {
+      "visible" : {
+        "map" : true
+      }
+    },
+    "availableDisplayTypes" : [ "map", "table", "fatrow", "page" ],
+    "thumbnail" : {
+      "page" : {
+        "created" : true,
+        "filename" : "page.png-924.493.283.153.png",
+        "selection" : {
+          "height" : 493,
+          "width" : 924,
+          "y1" : 153,
+          "y2" : 646,
+          "x2" : 1207,
+          "x1" : 283
+        }
+      }
+    },
+    "rdfSubject" : "0"
+  },
+  "owner" : {
+    "id" : "g3fc-zmqn",
+    "displayName" : "CDC",
+    "profileImageUrlLarge" : "/images/profile/7958/3844/HHS_CDC_ATSDR_rgb_large.jpg",
+    "profileImageUrlMedium" : "/images/profile/7958/3844/HHS_CDC_ATSDR_rgb_thumb.jpg",
+    "profileImageUrlSmall" : "/images/profile/7958/3844/HHS_CDC_ATSDR_rgb_tiny.jpg",
+    "screenName" : "CDC"
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "g3fc-zmqn",
+    "displayName" : "CDC",
+    "profileImageUrlLarge" : "/images/profile/7958/3844/HHS_CDC_ATSDR_rgb_large.jpg",
+    "profileImageUrlMedium" : "/images/profile/7958/3844/HHS_CDC_ATSDR_rgb_thumb.jpg",
+    "profileImageUrlSmall" : "/images/profile/7958/3844/HHS_CDC_ATSDR_rgb_tiny.jpg",
+    "screenName" : "CDC"
+  },
+  "tags" : [ "brfss", "current smokers", "adults" ]
+}, {
+  "id" : "utnw-ukzn",
+  "name" : "BRFSS Prevalence And Trends Data: Tobacco Use - Adults Who Are Current Smokers for 2011",
+  "averageRating" : 0,
+  "category" : "Smoking & Tobacco Use",
+  "createdAt" : 1375372429,
+  "description" : "The 2011 BRFSS data reflects a change in weighting methodology (raking) and the addition of cell phone only respondents.  Shifts in observed prevalence from 2010 to 2011 for BRFSS measures will likely reflect the new methods of measuring risk factors, rather than true trends in risk-factor prevalence.  A break in trend lines after 2010 is used to reflect this change in methodolgy. Percentages are weighted to population characteristics. Data are not available if it did not meet BRFSS stability requirements.\r\nFor more information on these requirements, as well as risk factors and calculated variables, see the Technical Documents and Survey Data for a specific year - http://www.cdc.gov/brfss/annual_data/annual_data.htm.\r\nRecommended citation: Centers for Disease Control and Prevention (CDC). Behavioral Risk Factor Surveillance System. Atlanta, Georgia: U.S. Department of Health and Human Services, Centers for Disease Control and Prevention, [appropriate year].",
+  "displayType" : "table",
+  "downloadCount" : 159,
+  "indexUpdatedAt" : 1386336586,
+  "newBackend" : false,
+  "numberOfComments" : 0,
+  "oid" : 6709169,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1386276505,
+  "publicationGroup" : 1012668,
+  "publicationStage" : "published",
+  "rowsUpdatedAt" : 1386276446,
+  "rowsUpdatedBy" : "g3fc-zmqn",
+  "signed" : false,
+  "tableId" : 1388203,
+  "totalTimesRated" : 0,
+  "viewCount" : 250,
+  "viewLastModified" : 1386276505,
+  "viewType" : "tabular",
+  "grants" : [ {
+    "inherited" : true,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "renderTypeConfig" : {
+      "visible" : {
+        "table" : true
+      }
+    },
+    "availableDisplayTypes" : [ "table", "fatrow", "page" ],
+    "rdfSubject" : "0"
+  },
+  "owner" : {
+    "id" : "g3fc-zmqn",
+    "displayName" : "CDC",
+    "profileImageUrlLarge" : "/images/profile/7958/3844/HHS_CDC_ATSDR_rgb_large.jpg",
+    "profileImageUrlMedium" : "/images/profile/7958/3844/HHS_CDC_ATSDR_rgb_thumb.jpg",
+    "profileImageUrlSmall" : "/images/profile/7958/3844/HHS_CDC_ATSDR_rgb_tiny.jpg",
+    "screenName" : "CDC"
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "g3fc-zmqn",
+    "displayName" : "CDC",
+    "profileImageUrlLarge" : "/images/profile/7958/3844/HHS_CDC_ATSDR_rgb_large.jpg",
+    "profileImageUrlMedium" : "/images/profile/7958/3844/HHS_CDC_ATSDR_rgb_thumb.jpg",
+    "profileImageUrlSmall" : "/images/profile/7958/3844/HHS_CDC_ATSDR_rgb_tiny.jpg",
+    "screenName" : "CDC"
+  },
+  "tags" : [ "brfss", "current smokers", "adults" ],
+  "flags" : [ "default" ]
+}, {
+  "id" : "dhij-ubz6",
+  "name" : "2011 Tobacco Use: Smoke everyday by National, State and US Territories",
+  "averageRating" : 0,
+  "category" : "Smoking & Tobacco Use",
+  "createdAt" : 1375458469,
+  "description" : "The 2011 BRFSS data reflects a change in weighting methodology (raking) and the addition of cell phone only respondents. Shifts in observed prevalence from 2010 to 2011 for BRFSS measures will likely reflect the new methods of measuring risk factors, rather than true trends in risk-factor prevalence. A break in trend lines after 2010 is used to reflect this change in methodolgy. Percentages are weighted to population characteristics. Data are not available if it did not meet BRFSS stability requirements.\r\nFor more information on these requirements, as well as risk factors and calculated variables, see the Technical Documents and Survey Data for a specific year - http://www.cdc.gov/brfss/annual_data/annual_data.htm.\r\nRecommended citation: Centers for Disease Control and Prevention (CDC). Behavioral Risk Factor Surveillance System. Atlanta, Georgia: U.S. Department of Health and Human Services, Centers for Disease Control and Prevention, [appropriate year].",
+  "displayType" : "chart",
+  "downloadCount" : 9,
+  "indexUpdatedAt" : 1387252234,
+  "moderationStatus" : true,
+  "newBackend" : false,
+  "numberOfComments" : 0,
+  "oid" : 6709165,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1386275815,
+  "publicationGroup" : 1014699,
+  "publicationStage" : "published",
+  "rowsUpdatedAt" : 1378406284,
+  "rowsUpdatedBy" : "g3fc-zmqn",
+  "signed" : false,
+  "tableId" : 1118363,
+  "totalTimesRated" : 0,
+  "viewCount" : 378,
+  "viewLastModified" : 1375465896,
+  "viewType" : "tabular",
+  "grants" : [ {
+    "inherited" : true,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "renderTypeConfig" : {
+      "visible" : {
+        "chart" : true
+      }
+    },
+    "availableDisplayTypes" : [ "chart", "table", "fatrow", "page" ],
+    "rdfSubject" : "0"
+  },
+  "owner" : {
+    "id" : "g3fc-zmqn",
+    "displayName" : "CDC",
+    "profileImageUrlLarge" : "/images/profile/7958/3844/HHS_CDC_ATSDR_rgb_large.jpg",
+    "profileImageUrlMedium" : "/images/profile/7958/3844/HHS_CDC_ATSDR_rgb_thumb.jpg",
+    "profileImageUrlSmall" : "/images/profile/7958/3844/HHS_CDC_ATSDR_rgb_tiny.jpg",
+    "screenName" : "CDC"
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "g3fc-zmqn",
+    "displayName" : "CDC",
+    "profileImageUrlLarge" : "/images/profile/7958/3844/HHS_CDC_ATSDR_rgb_large.jpg",
+    "profileImageUrlMedium" : "/images/profile/7958/3844/HHS_CDC_ATSDR_rgb_thumb.jpg",
+    "profileImageUrlSmall" : "/images/profile/7958/3844/HHS_CDC_ATSDR_rgb_tiny.jpg",
+    "screenName" : "CDC"
+  },
+  "tags" : [ "brfss", "current smokers", "former smoker", "non-smoker" ]
+}, {
+  "id" : "pwn2-uj5i",
+  "name" : "2011 combined smokers (everyday and some days) by National, State or US Territories",
+  "averageRating" : 0,
+  "category" : "Smoking & Tobacco Use",
+  "createdAt" : 1375458216,
+  "description" : "The 2011 BRFSS data reflects a change in weighting methodology (raking) and the addition of cell phone only respondents. Shifts in observed prevalence from 2010 to 2011 for BRFSS measures will likely reflect the new methods of measuring risk factors, rather than true trends in risk-factor prevalence. A break in trend lines after 2010 is used to reflect this change in methodolgy. Percentages are weighted to population characteristics. Data are not available if it did not meet BRFSS stability requirements.\r\nFor more information on these requirements, as well as risk factors and calculated variables, see the Technical Documents and Survey Data for a specific year - http://www.cdc.gov/brfss/annual_data/annual_data.htm.\r\nRecommended citation: Centers for Disease Control and Prevention (CDC). Behavioral Risk Factor Surveillance System. Atlanta, Georgia: U.S. Department of Health and Human Services, Centers for Disease Control and Prevention, [appropriate year].",
+  "displayType" : "chart",
+  "downloadCount" : 246,
+  "indexUpdatedAt" : 1387252324,
+  "moderationStatus" : true,
+  "newBackend" : false,
+  "numberOfComments" : 0,
+  "oid" : 6709167,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1386275815,
+  "publicationGroup" : 1014699,
+  "publicationStage" : "published",
+  "rowsUpdatedAt" : 1378406284,
+  "rowsUpdatedBy" : "g3fc-zmqn",
+  "signed" : false,
+  "tableId" : 1118363,
+  "totalTimesRated" : 0,
+  "viewCount" : 349,
+  "viewLastModified" : 1375465853,
+  "viewType" : "tabular",
+  "grants" : [ {
+    "inherited" : true,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "renderTypeConfig" : {
+      "visible" : {
+        "chart" : true
+      }
+    },
+    "availableDisplayTypes" : [ "chart", "table", "fatrow", "page" ],
+    "rdfSubject" : "0"
+  },
+  "owner" : {
+    "id" : "g3fc-zmqn",
+    "displayName" : "CDC",
+    "profileImageUrlLarge" : "/images/profile/7958/3844/HHS_CDC_ATSDR_rgb_large.jpg",
+    "profileImageUrlMedium" : "/images/profile/7958/3844/HHS_CDC_ATSDR_rgb_thumb.jpg",
+    "profileImageUrlSmall" : "/images/profile/7958/3844/HHS_CDC_ATSDR_rgb_tiny.jpg",
+    "screenName" : "CDC"
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "g3fc-zmqn",
+    "displayName" : "CDC",
+    "profileImageUrlLarge" : "/images/profile/7958/3844/HHS_CDC_ATSDR_rgb_large.jpg",
+    "profileImageUrlMedium" : "/images/profile/7958/3844/HHS_CDC_ATSDR_rgb_thumb.jpg",
+    "profileImageUrlSmall" : "/images/profile/7958/3844/HHS_CDC_ATSDR_rgb_tiny.jpg",
+    "screenName" : "CDC"
+  },
+  "tags" : [ "brfss", "current smokers", "former smoker", "non-smoker" ]
+}, {
+  "id" : "ya9m-pyut",
+  "name" : "BRFSS Prevalence and Trends Data: Tobacco Use - Four Level Smoking Data for 2011",
+  "averageRating" : 0,
+  "category" : "Smoking & Tobacco Use",
+  "createdAt" : 1375455595,
+  "description" : "The 2011 BRFSS data reflects a change in weighting methodology (raking) and the addition of cell phone only respondents. Shifts in observed prevalence from 2010 to 2011 for BRFSS measures will likely reflect the new methods of measuring risk factors, rather than true trends in risk-factor prevalence. A break in trend lines after 2010 is used to reflect this change in methodolgy. Percentages are weighted to population characteristics. Data are not available if it did not meet BRFSS stability requirements.\r\nFor more information on these requirements, as well as risk factors and calculated variables, see the Technical Documents and Survey Data for a specific year - http://www.cdc.gov/brfss/annual_data/annual_data.htm.\r\nRecommended citation: Centers for Disease Control and Prevention (CDC). Behavioral Risk Factor Surveillance System. Atlanta, Georgia: U.S. Department of Health and Human Services, Centers for Disease Control and Prevention, [appropriate year].",
+  "displayType" : "table",
+  "downloadCount" : 142,
+  "indexUpdatedAt" : 1387252324,
+  "newBackend" : false,
+  "numberOfComments" : 0,
+  "oid" : 5274538,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1386275815,
+  "publicationGroup" : 1014699,
+  "publicationStage" : "published",
+  "rowsUpdatedAt" : 1378406284,
+  "rowsUpdatedBy" : "g3fc-zmqn",
+  "signed" : false,
+  "tableId" : 1118363,
+  "totalTimesRated" : 0,
+  "viewCount" : 129,
+  "viewLastModified" : 1386275815,
+  "viewType" : "tabular",
+  "grants" : [ {
+    "inherited" : true,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "renderTypeConfig" : {
+      "visible" : {
+        "table" : true
+      }
+    },
+    "availableDisplayTypes" : [ "table", "fatrow", "page" ],
+    "rdfSubject" : "0"
+  },
+  "owner" : {
+    "id" : "g3fc-zmqn",
+    "displayName" : "CDC",
+    "profileImageUrlLarge" : "/images/profile/7958/3844/HHS_CDC_ATSDR_rgb_large.jpg",
+    "profileImageUrlMedium" : "/images/profile/7958/3844/HHS_CDC_ATSDR_rgb_thumb.jpg",
+    "profileImageUrlSmall" : "/images/profile/7958/3844/HHS_CDC_ATSDR_rgb_tiny.jpg",
+    "screenName" : "CDC"
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "g3fc-zmqn",
+    "displayName" : "CDC",
+    "profileImageUrlLarge" : "/images/profile/7958/3844/HHS_CDC_ATSDR_rgb_large.jpg",
+    "profileImageUrlMedium" : "/images/profile/7958/3844/HHS_CDC_ATSDR_rgb_thumb.jpg",
+    "profileImageUrlSmall" : "/images/profile/7958/3844/HHS_CDC_ATSDR_rgb_tiny.jpg",
+    "screenName" : "CDC"
+  },
+  "tags" : [ "brfss", "current smokers", "former smoker", "non-smoker" ],
+  "flags" : [ "default" ]
+}, {
+  "id" : "7ce9-zidv",
+  "name" : "CDC Metrics monthly trends, by year, since 2004",
+  "averageRating" : 0,
+  "category" : "Web Metrics",
+  "createdAt" : 1386085325,
+  "description" : "For more information on CDC.gov metrics please see http://www.cdc.gov/metrics/",
+  "displayType" : "chart",
+  "downloadCount" : 2,
+  "indexUpdatedAt" : 1387367094,
+  "moderationStatus" : true,
+  "newBackend" : false,
+  "numberOfComments" : 0,
+  "oid" : 6682666,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1386084403,
+  "publicationGroup" : 944963,
+  "publicationStage" : "published",
+  "rowClass" : "",
+  "rowsUpdatedAt" : 1386084398,
+  "rowsUpdatedBy" : "g3fc-zmqn",
+  "signed" : false,
+  "tableId" : 1385265,
+  "totalTimesRated" : 0,
+  "viewCount" : 30,
+  "viewLastModified" : 1386085352,
+  "viewType" : "tabular",
+  "grants" : [ {
+    "inherited" : true,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "renderTypeConfig" : {
+      "visible" : {
+        "chart" : true
+      }
+    },
+    "availableDisplayTypes" : [ "chart", "table", "fatrow", "page" ],
+    "rdfSubject" : "0",
+    "rowIdentifier" : "0",
+    "rdfClass" : ""
+  },
+  "owner" : {
+    "id" : "g3fc-zmqn",
+    "displayName" : "CDC",
+    "profileImageUrlLarge" : "/images/profile/7958/3844/HHS_CDC_ATSDR_rgb_large.jpg",
+    "profileImageUrlMedium" : "/images/profile/7958/3844/HHS_CDC_ATSDR_rgb_thumb.jpg",
+    "profileImageUrlSmall" : "/images/profile/7958/3844/HHS_CDC_ATSDR_rgb_tiny.jpg",
+    "screenName" : "CDC"
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "g3fc-zmqn",
+    "displayName" : "CDC",
+    "profileImageUrlLarge" : "/images/profile/7958/3844/HHS_CDC_ATSDR_rgb_large.jpg",
+    "profileImageUrlMedium" : "/images/profile/7958/3844/HHS_CDC_ATSDR_rgb_thumb.jpg",
+    "profileImageUrlSmall" : "/images/profile/7958/3844/HHS_CDC_ATSDR_rgb_tiny.jpg",
+    "screenName" : "CDC"
+  },
+  "tags" : [ "cdc.gov", "web metrics" ]
+}, {
+  "id" : "7jb4-b937",
+  "name" : "Column chart of monthly page views to CDC.gov",
+  "averageRating" : 0,
+  "category" : "Web Metrics",
+  "createdAt" : 1372362527,
+  "description" : "For more information on CDC.gov metrics please see http://www.cdc.gov/metrics/",
+  "displayType" : "chart",
+  "downloadCount" : 39,
+  "indexUpdatedAt" : 1387366334,
+  "moderationStatus" : true,
+  "newBackend" : false,
+  "numberOfComments" : 0,
+  "oid" : 6682039,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1386084403,
+  "publicationGroup" : 944963,
+  "publicationStage" : "published",
+  "rowsUpdatedAt" : 1386084398,
+  "rowsUpdatedBy" : "g3fc-zmqn",
+  "signed" : false,
+  "tableId" : 1385265,
+  "totalTimesRated" : 0,
+  "viewCount" : 128,
+  "viewLastModified" : 1376061933,
+  "viewType" : "tabular",
+  "grants" : [ {
+    "inherited" : true,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "renderTypeConfig" : {
+      "visible" : {
+        "chart" : true
+      }
+    },
+    "availableDisplayTypes" : [ "chart", "table", "fatrow", "page" ],
+    "rdfSubject" : "0"
+  },
+  "owner" : {
+    "id" : "g3fc-zmqn",
+    "displayName" : "CDC",
+    "profileImageUrlLarge" : "/images/profile/7958/3844/HHS_CDC_ATSDR_rgb_large.jpg",
+    "profileImageUrlMedium" : "/images/profile/7958/3844/HHS_CDC_ATSDR_rgb_thumb.jpg",
+    "profileImageUrlSmall" : "/images/profile/7958/3844/HHS_CDC_ATSDR_rgb_tiny.jpg",
+    "screenName" : "CDC"
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "g3fc-zmqn",
+    "displayName" : "CDC",
+    "profileImageUrlLarge" : "/images/profile/7958/3844/HHS_CDC_ATSDR_rgb_large.jpg",
+    "profileImageUrlMedium" : "/images/profile/7958/3844/HHS_CDC_ATSDR_rgb_thumb.jpg",
+    "profileImageUrlSmall" : "/images/profile/7958/3844/HHS_CDC_ATSDR_rgb_tiny.jpg",
+    "screenName" : "CDC"
+  },
+  "tags" : [ "cdc.gov", "web metrics" ]
+}, {
+  "id" : "rq85-buyi",
+  "name" : "Monthly Page Views to CDC.gov",
+  "averageRating" : 0,
+  "category" : "Web Metrics",
+  "createdAt" : 1372361852,
+  "description" : "For more information on CDC.gov metrics please see http://www.cdc.gov/metrics/",
+  "displayType" : "table",
+  "downloadCount" : 1022,
+  "indexUpdatedAt" : 1387364417,
+  "newBackend" : false,
+  "numberOfComments" : 0,
+  "oid" : 6682033,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1386084403,
+  "publicationGroup" : 944963,
+  "publicationStage" : "published",
+  "rowsUpdatedAt" : 1386084398,
+  "rowsUpdatedBy" : "g3fc-zmqn",
+  "signed" : false,
+  "tableId" : 1385265,
+  "totalTimesRated" : 0,
+  "viewCount" : 126,
+  "viewLastModified" : 1386084403,
+  "viewType" : "tabular",
+  "grants" : [ {
+    "inherited" : true,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "renderTypeConfig" : {
+      "visible" : {
+        "table" : true
+      }
+    },
+    "availableDisplayTypes" : [ "table", "fatrow", "page" ],
+    "rdfSubject" : "0"
+  },
+  "owner" : {
+    "id" : "g3fc-zmqn",
+    "displayName" : "CDC",
+    "profileImageUrlLarge" : "/images/profile/7958/3844/HHS_CDC_ATSDR_rgb_large.jpg",
+    "profileImageUrlMedium" : "/images/profile/7958/3844/HHS_CDC_ATSDR_rgb_thumb.jpg",
+    "profileImageUrlSmall" : "/images/profile/7958/3844/HHS_CDC_ATSDR_rgb_tiny.jpg",
+    "screenName" : "CDC"
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "g3fc-zmqn",
+    "displayName" : "CDC",
+    "profileImageUrlLarge" : "/images/profile/7958/3844/HHS_CDC_ATSDR_rgb_large.jpg",
+    "profileImageUrlMedium" : "/images/profile/7958/3844/HHS_CDC_ATSDR_rgb_thumb.jpg",
+    "profileImageUrlSmall" : "/images/profile/7958/3844/HHS_CDC_ATSDR_rgb_tiny.jpg",
+    "screenName" : "CDC"
+  },
+  "tags" : [ "cdc.gov", "web metrics" ],
+  "flags" : [ "default" ]
+}, {
+  "id" : "un9e-g6mb",
+  "name" : "Trend data for yearly page views on CDC.gov",
+  "averageRating" : 0,
+  "category" : "Web Metrics",
+  "createdAt" : 1372362722,
+  "description" : "For more information on CDC.gov metrics please see http://www.cdc.gov/metrics/",
+  "displayType" : "chart",
+  "downloadCount" : 42,
+  "indexUpdatedAt" : 1387364419,
+  "moderationStatus" : true,
+  "newBackend" : false,
+  "numberOfComments" : 0,
+  "oid" : 6682036,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1386084403,
+  "publicationGroup" : 944963,
+  "publicationStage" : "published",
+  "rowsUpdatedAt" : 1386084398,
+  "rowsUpdatedBy" : "g3fc-zmqn",
+  "signed" : false,
+  "tableId" : 1385265,
+  "totalTimesRated" : 0,
+  "viewCount" : 130,
+  "viewLastModified" : 1379012948,
+  "viewType" : "tabular",
+  "grants" : [ {
+    "inherited" : true,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "renderTypeConfig" : {
+      "visible" : {
+        "chart" : true
+      }
+    },
+    "availableDisplayTypes" : [ "chart", "table", "fatrow", "page" ],
+    "thumbnail" : {
+      "page" : {
+        "created" : true,
+        "filename" : "page.png-941.502.5.9.png",
+        "selection" : {
+          "height" : 502,
+          "width" : 941,
+          "y1" : 9,
+          "y2" : 511,
+          "x2" : 946,
+          "x1" : 5
+        }
+      }
+    },
+    "rdfSubject" : "0"
+  },
+  "owner" : {
+    "id" : "g3fc-zmqn",
+    "displayName" : "CDC",
+    "profileImageUrlLarge" : "/images/profile/7958/3844/HHS_CDC_ATSDR_rgb_large.jpg",
+    "profileImageUrlMedium" : "/images/profile/7958/3844/HHS_CDC_ATSDR_rgb_thumb.jpg",
+    "profileImageUrlSmall" : "/images/profile/7958/3844/HHS_CDC_ATSDR_rgb_tiny.jpg",
+    "screenName" : "CDC"
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "g3fc-zmqn",
+    "displayName" : "CDC",
+    "profileImageUrlLarge" : "/images/profile/7958/3844/HHS_CDC_ATSDR_rgb_large.jpg",
+    "profileImageUrlMedium" : "/images/profile/7958/3844/HHS_CDC_ATSDR_rgb_thumb.jpg",
+    "profileImageUrlSmall" : "/images/profile/7958/3844/HHS_CDC_ATSDR_rgb_tiny.jpg",
+    "screenName" : "CDC"
+  },
+  "tags" : [ "cdc.gov", "web metrics" ]
+}, {
+  "id" : "v8bq-qzrw",
+  "name" : "CDC.gov monthly page views for 2013",
+  "averageRating" : 0,
+  "category" : "Web Metrics",
+  "createdAt" : 1383859002,
+  "description" : "For more information on CDC.gov metrics please see http://www.cdc.gov/metrics/",
+  "displayType" : "chart",
+  "downloadCount" : 31,
+  "indexUpdatedAt" : 1387367093,
+  "moderationStatus" : true,
+  "newBackend" : false,
+  "numberOfComments" : 0,
+  "oid" : 6682040,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1386084403,
+  "publicationGroup" : 944963,
+  "publicationStage" : "published",
+  "rowsUpdatedAt" : 1386084398,
+  "rowsUpdatedBy" : "g3fc-zmqn",
+  "signed" : false,
+  "tableId" : 1385265,
+  "totalTimesRated" : 0,
+  "viewCount" : 49,
+  "viewLastModified" : 1383859076,
+  "viewType" : "tabular",
+  "grants" : [ {
+    "inherited" : true,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "renderTypeConfig" : {
+      "visible" : {
+        "chart" : true
+      }
+    },
+    "availableDisplayTypes" : [ "chart", "table", "fatrow", "page" ],
+    "rdfSubject" : "0"
+  },
+  "owner" : {
+    "id" : "g3fc-zmqn",
+    "displayName" : "CDC",
+    "profileImageUrlLarge" : "/images/profile/7958/3844/HHS_CDC_ATSDR_rgb_large.jpg",
+    "profileImageUrlMedium" : "/images/profile/7958/3844/HHS_CDC_ATSDR_rgb_thumb.jpg",
+    "profileImageUrlSmall" : "/images/profile/7958/3844/HHS_CDC_ATSDR_rgb_tiny.jpg",
+    "screenName" : "CDC"
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "g3fc-zmqn",
+    "displayName" : "CDC",
+    "profileImageUrlLarge" : "/images/profile/7958/3844/HHS_CDC_ATSDR_rgb_large.jpg",
+    "profileImageUrlMedium" : "/images/profile/7958/3844/HHS_CDC_ATSDR_rgb_thumb.jpg",
+    "profileImageUrlSmall" : "/images/profile/7958/3844/HHS_CDC_ATSDR_rgb_tiny.jpg",
+    "screenName" : "CDC"
+  },
+  "tags" : [ "cdc.gov", "web metrics" ]
+}, {
+  "id" : "wnjn-mave",
+  "name" : "CDC.gov metrics hits by year",
+  "averageRating" : 0,
+  "category" : "Web Metrics",
+  "createdAt" : 1372362229,
+  "description" : "For more information on CDC.gov metrics please see http://www.cdc.gov/metrics/",
+  "displayType" : "table",
+  "downloadCount" : 30,
+  "indexUpdatedAt" : 1387364430,
+  "moderationStatus" : true,
+  "newBackend" : false,
+  "numberOfComments" : 0,
+  "oid" : 6682037,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1386084403,
+  "publicationGroup" : 944963,
+  "publicationStage" : "published",
+  "rowsUpdatedAt" : 1386084398,
+  "rowsUpdatedBy" : "g3fc-zmqn",
+  "signed" : false,
+  "tableId" : 1385265,
+  "totalTimesRated" : 0,
+  "viewCount" : 123,
+  "viewLastModified" : 1376061974,
+  "viewType" : "tabular",
+  "grants" : [ {
+    "inherited" : true,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "renderTypeConfig" : {
+      "visible" : {
+        "table" : true
+      }
+    },
+    "availableDisplayTypes" : [ "table", "fatrow", "page" ],
+    "rdfSubject" : "0"
+  },
+  "owner" : {
+    "id" : "g3fc-zmqn",
+    "displayName" : "CDC",
+    "profileImageUrlLarge" : "/images/profile/7958/3844/HHS_CDC_ATSDR_rgb_large.jpg",
+    "profileImageUrlMedium" : "/images/profile/7958/3844/HHS_CDC_ATSDR_rgb_thumb.jpg",
+    "profileImageUrlSmall" : "/images/profile/7958/3844/HHS_CDC_ATSDR_rgb_tiny.jpg",
+    "screenName" : "CDC"
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "g3fc-zmqn",
+    "displayName" : "CDC",
+    "profileImageUrlLarge" : "/images/profile/7958/3844/HHS_CDC_ATSDR_rgb_large.jpg",
+    "profileImageUrlMedium" : "/images/profile/7958/3844/HHS_CDC_ATSDR_rgb_thumb.jpg",
+    "profileImageUrlSmall" : "/images/profile/7958/3844/HHS_CDC_ATSDR_rgb_tiny.jpg",
+    "screenName" : "CDC"
+  },
+  "tags" : [ "cdc.gov", "web metrics" ]
+}, {
+  "id" : "bbhn-4mdn",
+  "name" : "Selected Trend Table from Health, United States, 2011. Health conditions among children under 18 years of age, by selected characteristics: United States, average annual, selected years 1997–1999 through 2008–2010",
+  "averageRating" : 0,
+  "category" : "Health Statistics",
+  "createdAt" : 1375112706,
+  "description" : "Health, United States is an annual report on trends in health statistics, find more information at http://www.cdc.gov/nchs/hus.htm.",
+  "displayType" : "table",
+  "downloadCount" : 174,
+  "indexUpdatedAt" : 1380116824,
+  "newBackend" : false,
+  "numberOfComments" : 0,
+  "oid" : 4774723,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1375712760,
+  "publicationGroup" : 1006420,
+  "publicationStage" : "published",
+  "rowClass" : "",
+  "rowsUpdatedAt" : 1375712099,
+  "rowsUpdatedBy" : "g3fc-zmqn",
+  "signed" : false,
+  "tableId" : 1020196,
+  "totalTimesRated" : 0,
+  "viewCount" : 382,
+  "viewLastModified" : 1375734062,
+  "viewType" : "tabular",
+  "grants" : [ {
+    "inherited" : false,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "renderTypeConfig" : {
+      "visible" : {
+        "table" : true
+      }
+    },
+    "availableDisplayTypes" : [ "table", "fatrow", "page" ],
+    "rdfSubject" : "0",
+    "attachments" : [ {
+      "blobId" : "9CC60A5C-611B-41D3-85F1-A47C49324072",
+      "name" : "HUS_child_footnotes.htm",
+      "filename" : "HUS_child_footnotes.htm"
+    } ],
+    "rowIdentifier" : "0",
+    "rdfClass" : ""
+  },
+  "owner" : {
+    "id" : "vr5q-rutf",
+    "displayName" : "SFranco",
+    "screenName" : "SFranco"
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "g3fc-zmqn",
+    "displayName" : "CDC",
+    "profileImageUrlLarge" : "/images/profile/7958/3844/HHS_CDC_ATSDR_rgb_large.jpg",
+    "profileImageUrlMedium" : "/images/profile/7958/3844/HHS_CDC_ATSDR_rgb_thumb.jpg",
+    "profileImageUrlSmall" : "/images/profile/7958/3844/HHS_CDC_ATSDR_rgb_tiny.jpg",
+    "screenName" : "CDC"
+  },
+  "tags" : [ "hus", "health conditions", "children" ],
+  "flags" : [ "default" ]
+}, {
+  "id" : "vp9c-m6nq",
+  "name" : "Selected Trend Table from Health, United States, 2011. Leading causes of death and numbers of deaths, by sex, race, and Hispanic origin: United States, 1980 and 2009",
+  "averageRating" : 0,
+  "category" : "Health Statistics",
+  "createdAt" : 1375128203,
+  "description" : "Health, United States is an annual report on trends in health statistics, find more information at http://www.cdc.gov/nchs/hus.htm.",
+  "displayType" : "table",
+  "downloadCount" : 182,
+  "indexUpdatedAt" : 1386424503,
+  "newBackend" : false,
+  "numberOfComments" : 0,
+  "oid" : 4679330,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1375128259,
+  "publicationGroup" : 1006858,
+  "publicationStage" : "published",
+  "rowClass" : "",
+  "rowsUpdatedAt" : 1375128215,
+  "rowsUpdatedBy" : "g3fc-zmqn",
+  "signed" : false,
+  "tableId" : 1006858,
+  "totalTimesRated" : 0,
+  "viewCount" : 502,
+  "viewLastModified" : 1375734135,
+  "viewType" : "tabular",
+  "grants" : [ {
+    "inherited" : false,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "renderTypeConfig" : {
+      "visible" : {
+        "table" : true
+      }
+    },
+    "availableDisplayTypes" : [ "table", "fatrow", "page" ],
+    "rdfSubject" : "0",
+    "attachments" : [ {
+      "blobId" : "674C91E6-6917-4654-9278-4D35BDA9C45E",
+      "name" : "HUS_cod_footnotes.htm",
+      "filename" : "HUS_cod_footnotes.htm"
+    } ],
+    "rowIdentifier" : "0",
+    "rdfClass" : ""
+  },
+  "owner" : {
+    "id" : "vr5q-rutf",
+    "displayName" : "SFranco",
+    "screenName" : "SFranco"
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "g3fc-zmqn",
+    "displayName" : "CDC",
+    "profileImageUrlLarge" : "/images/profile/7958/3844/HHS_CDC_ATSDR_rgb_large.jpg",
+    "profileImageUrlMedium" : "/images/profile/7958/3844/HHS_CDC_ATSDR_rgb_thumb.jpg",
+    "profileImageUrlSmall" : "/images/profile/7958/3844/HHS_CDC_ATSDR_rgb_tiny.jpg",
+    "screenName" : "CDC"
+  },
+  "tags" : [ "hus", "cause of death" ],
+  "flags" : [ "default" ]
+}, {
+  "id" : "crtu-weni",
+  "name" : "Selected Trend Table from Health, United States, 2011. Diabetes prevalence and glycemic control among adults 20 years of age and over, by sex, age, and race and Hispanic origin: United States, selected years 1988–1994 through 2003–2006",
+  "averageRating" : 0,
+  "category" : "Health Statistics",
+  "createdAt" : 1375128759,
+  "description" : "Health, United States is an annual report on trends in health statistics, find more information at http://www.cdc.gov/nchs/hus.htm.",
+  "displayType" : "table",
+  "downloadCount" : 242,
+  "indexUpdatedAt" : 1376361701,
+  "newBackend" : false,
+  "numberOfComments" : 0,
+  "oid" : 4774700,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1375713070,
+  "publicationGroup" : 1006869,
+  "publicationStage" : "published",
+  "rowClass" : "",
+  "rowsUpdatedAt" : 1375711832,
+  "rowsUpdatedBy" : "g3fc-zmqn",
+  "signed" : false,
+  "tableId" : 1020189,
+  "totalTimesRated" : 0,
+  "viewCount" : 242,
+  "viewLastModified" : 1375734159,
+  "viewType" : "tabular",
+  "grants" : [ {
+    "inherited" : false,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "renderTypeConfig" : {
+      "visible" : {
+        "table" : true
+      }
+    },
+    "availableDisplayTypes" : [ "table", "fatrow", "page" ],
+    "rdfSubject" : "0",
+    "attachments" : [ {
+      "blobId" : "3944AC04-10F8-40FD-9773-3428F9826824",
+      "name" : "HUS_diabetes_footnotes.htm",
+      "filename" : "HUS_diabetes_footnotes.htm"
+    } ],
+    "rowIdentifier" : "0",
+    "rdfClass" : ""
+  },
+  "owner" : {
+    "id" : "vr5q-rutf",
+    "displayName" : "SFranco",
+    "screenName" : "SFranco"
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "g3fc-zmqn",
+    "displayName" : "CDC",
+    "profileImageUrlLarge" : "/images/profile/7958/3844/HHS_CDC_ATSDR_rgb_large.jpg",
+    "profileImageUrlMedium" : "/images/profile/7958/3844/HHS_CDC_ATSDR_rgb_thumb.jpg",
+    "profileImageUrlSmall" : "/images/profile/7958/3844/HHS_CDC_ATSDR_rgb_tiny.jpg",
+    "screenName" : "CDC"
+  },
+  "tags" : [ "hus", "diabetes", "adults" ],
+  "flags" : [ "default" ]
+}, {
+  "id" : "m4es-3af4",
+  "name" : "Selected Trend Table from Health, United States, 2011. Low birthweight live births, by race and Hispanic origin of mother, and state: United States, 2000–2002, 2003–2005, and 2006–2008",
+  "averageRating" : 0,
+  "category" : "Health Statistics",
+  "createdAt" : 1375127040,
+  "description" : "Health, United States is an annual report on trends in health statistics, find more information at http://www.cdc.gov/nchs/hus.htm.",
+  "displayType" : "table",
+  "downloadCount" : 124,
+  "indexUpdatedAt" : 1383951482,
+  "newBackend" : false,
+  "numberOfComments" : 0,
+  "oid" : 4679215,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1375127279,
+  "publicationGroup" : 1006818,
+  "publicationStage" : "published",
+  "rowClass" : "",
+  "rowsUpdatedAt" : 1375127257,
+  "rowsUpdatedBy" : "g3fc-zmqn",
+  "signed" : false,
+  "tableId" : 1006818,
+  "totalTimesRated" : 0,
+  "viewCount" : 167,
+  "viewLastModified" : 1375734075,
+  "viewType" : "tabular",
+  "grants" : [ {
+    "inherited" : false,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "renderTypeConfig" : {
+      "visible" : {
+        "table" : true
+      }
+    },
+    "availableDisplayTypes" : [ "table", "fatrow", "page" ],
+    "rdfSubject" : "0",
+    "attachments" : [ {
+      "blobId" : "31A0C4FF-7BE4-4668-B9AA-B9E04DFD0754",
+      "name" : "HUS_birth_footnotes.htm",
+      "filename" : "HUS_birth_footnotes.htm"
+    } ],
+    "rowIdentifier" : "0",
+    "rdfClass" : ""
+  },
+  "owner" : {
+    "id" : "vr5q-rutf",
+    "displayName" : "SFranco",
+    "screenName" : "SFranco"
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "g3fc-zmqn",
+    "displayName" : "CDC",
+    "profileImageUrlLarge" : "/images/profile/7958/3844/HHS_CDC_ATSDR_rgb_large.jpg",
+    "profileImageUrlMedium" : "/images/profile/7958/3844/HHS_CDC_ATSDR_rgb_thumb.jpg",
+    "profileImageUrlSmall" : "/images/profile/7958/3844/HHS_CDC_ATSDR_rgb_tiny.jpg",
+    "screenName" : "CDC"
+  },
+  "tags" : [ "hus", "low birthweight" ],
+  "flags" : [ "default" ]
+}, {
+  "id" : "nkri-ptxd",
+  "name" : "Selected Trend Table from Health, United States, 2011. Vaccination coverage among children 19–35 months of age for selected diseases, by race, Hispanic origin, poverty level, and location of residence in metropolitan statistical area: United States, selec",
+  "averageRating" : 0,
+  "category" : "Health Statistics",
+  "createdAt" : 1375129365,
+  "description" : "Health, United States is an annual report on trends in health statistics, find more information at http://www.cdc.gov/nchs/hus.htm.",
+  "displayType" : "table",
+  "downloadCount" : 127,
+  "indexUpdatedAt" : 1376509566,
+  "newBackend" : false,
+  "numberOfComments" : 0,
+  "oid" : 4923815,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1376508898,
+  "publicationGroup" : 1006890,
+  "publicationStage" : "published",
+  "rowsUpdatedAt" : 1376508784,
+  "rowsUpdatedBy" : "g3fc-zmqn",
+  "signed" : false,
+  "tableId" : 1048581,
+  "totalTimesRated" : 0,
+  "viewCount" : 150,
+  "viewLastModified" : 1376508898,
+  "viewType" : "tabular",
+  "grants" : [ {
+    "inherited" : false,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "renderTypeConfig" : {
+      "visible" : {
+        "table" : true
+      }
+    },
+    "availableDisplayTypes" : [ "table", "fatrow", "page" ],
+    "rdfSubject" : "0",
+    "attachments" : [ {
+      "blobId" : "A8351146-01CD-4067-B611-71BA64CFC07D",
+      "name" : "HUS_vaccination_footnotes.htm",
+      "filename" : "HUS_vaccination_footnotes.htm"
+    } ]
+  },
+  "owner" : {
+    "id" : "vr5q-rutf",
+    "displayName" : "SFranco",
+    "screenName" : "SFranco"
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "vr5q-rutf",
+    "displayName" : "SFranco",
+    "screenName" : "SFranco"
+  },
+  "tags" : [ "hus", "vaccination", "children" ],
+  "flags" : [ "default" ]
+}, {
+  "id" : "w9yp-g533",
+  "name" : "Never smoked trend for 1995-2010",
+  "averageRating" : 0,
+  "category" : "Smoking & Tobacco Use",
+  "createdAt" : 1382033712,
+  "description" : "Percentages are weighted to population characteristics. Data are not available if it did not meet BRFSS stability requirements.\r\nFor more information on these requirements, as well as risk factors and calculated variables, see the Technical Documents and Survey Data for a specific year - http://www.cdc.gov/brfss/annual_data/annual_data.htm.\r\nRecommended citation: Centers for Disease Control and Prevention (CDC). Behavioral Risk Factor Surveillance System. Atlanta, Georgia: U.S. Department of Health and Human Services, Centers for Disease Control and Prevention, [appropriate year].",
+  "displayType" : "chart",
+  "downloadCount" : 4,
+  "indexUpdatedAt" : 1382035872,
+  "moderationStatus" : true,
+  "newBackend" : false,
+  "numberOfComments" : 0,
+  "oid" : 5970264,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1375457752,
+  "publicationGroup" : 912337,
+  "publicationStage" : "published",
+  "rowsUpdatedAt" : 1375457716,
+  "rowsUpdatedBy" : "g3fc-zmqn",
+  "signed" : false,
+  "tableId" : 1014781,
+  "totalTimesRated" : 0,
+  "viewCount" : 31,
+  "viewLastModified" : 1382033713,
+  "viewType" : "tabular",
+  "disabledFeatureFlags" : [ "allow_comments" ],
+  "grants" : [ {
+    "inherited" : true,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "renderTypeConfig" : {
+      "visible" : {
+        "chart" : true,
+        "table" : true
+      }
+    },
+    "availableDisplayTypes" : [ "chart", "table", "fatrow", "page" ],
+    "rdfSubject" : "0"
+  },
+  "owner" : {
+    "id" : "g3fc-zmqn",
+    "displayName" : "CDC",
+    "profileImageUrlLarge" : "/images/profile/7958/3844/HHS_CDC_ATSDR_rgb_large.jpg",
+    "profileImageUrlMedium" : "/images/profile/7958/3844/HHS_CDC_ATSDR_rgb_thumb.jpg",
+    "profileImageUrlSmall" : "/images/profile/7958/3844/HHS_CDC_ATSDR_rgb_tiny.jpg",
+    "screenName" : "CDC"
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "7vdi-f8f4",
+    "displayName" : "Mark@CDC",
+    "screenName" : "Mark@CDC"
+  },
+  "tags" : [ "brfss", "current smokers", "former smoker", "non-smoker" ]
+}, {
+  "id" : "5ekf-pmct",
+  "name" : "BRFSS Prevalence And Trends Data: Health Care Access/Coverage for 2011",
+  "averageRating" : 0,
+  "category" : "Health Statistics",
+  "createdAt" : 1375455876,
+  "description" : "The 2011 BRFSS data reflects a change in weighting methodology (raking) and the addition of cell phone only respondents. Shifts in observed prevalence from 2010 to 2011 for BRFSS measures will likely reflect the new methods of measuring risk factors, rather than true trends in risk-factor prevalence. A break in trend lines after 2010 is used to reflect this change in methodolgy. Percentages are weighted to population characteristics. Data are not available if it did not meet BRFSS stability requirements. For more information on these requirements, as well as risk factors and calculated variables, see the Technical Documents and Survey Data for a specific year - http://www.cdc.gov/brfss/annual_data/annual_data.htm. Recommended citation: Centers for Disease Control and Prevention (CDC). Behavioral Risk Factor Surveillance System. Atlanta, Georgia: U.S. Department of Health and Human Services, Centers for Disease Control and Prevention, [appropriate year].",
+  "displayType" : "table",
+  "downloadCount" : 170,
+  "indexUpdatedAt" : 1376361701,
+  "newBackend" : false,
+  "numberOfComments" : 0,
+  "oid" : 4736923,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1375456003,
+  "publicationGroup" : 1014715,
+  "publicationStage" : "published",
+  "rowClass" : "",
+  "rowsUpdatedAt" : 1375455889,
+  "rowsUpdatedBy" : "g3fc-zmqn",
+  "signed" : false,
+  "tableId" : 1014715,
+  "totalTimesRated" : 0,
+  "viewCount" : 205,
+  "viewLastModified" : 1375465540,
+  "viewType" : "tabular",
+  "grants" : [ {
+    "inherited" : false,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "renderTypeConfig" : {
+      "visible" : {
+        "table" : true
+      }
+    },
+    "availableDisplayTypes" : [ "table", "fatrow", "page" ],
+    "rdfSubject" : "0",
+    "rowIdentifier" : "0",
+    "rdfClass" : ""
+  },
+  "owner" : {
+    "id" : "g3fc-zmqn",
+    "displayName" : "CDC",
+    "profileImageUrlLarge" : "/images/profile/7958/3844/HHS_CDC_ATSDR_rgb_large.jpg",
+    "profileImageUrlMedium" : "/images/profile/7958/3844/HHS_CDC_ATSDR_rgb_thumb.jpg",
+    "profileImageUrlSmall" : "/images/profile/7958/3844/HHS_CDC_ATSDR_rgb_tiny.jpg",
+    "screenName" : "CDC"
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "g3fc-zmqn",
+    "displayName" : "CDC",
+    "profileImageUrlLarge" : "/images/profile/7958/3844/HHS_CDC_ATSDR_rgb_large.jpg",
+    "profileImageUrlMedium" : "/images/profile/7958/3844/HHS_CDC_ATSDR_rgb_thumb.jpg",
+    "profileImageUrlSmall" : "/images/profile/7958/3844/HHS_CDC_ATSDR_rgb_tiny.jpg",
+    "screenName" : "CDC"
+  },
+  "tags" : [ "brfss", "heath care access", "adults", "health care coverage" ],
+  "flags" : [ "default" ]
+}, {
+  "id" : "hfv6-755h",
+  "name" : "Annual Average for Health Care Coverage as Percent",
+  "averageRating" : 0,
+  "category" : "Health Statistics",
+  "createdAt" : 1376505618,
+  "description" : "Percentages are weighted to population characteristics. Data are not available if it did not meet BRFSS stability requirements. For more information on these requirements, as well as risk factors and calculated variables, see the Technical Documents and Survey Data for a specific year - http://www.cdc.gov/brfss/annual_data/annual_data.htm. Recommended citation: Centers for Disease Control and Prevention (CDC). Behavioral Risk Factor Surveillance System. Atlanta, Georgia: U.S. Department of Health and Human Services, Centers for Disease Control and Prevention, [appropriate year].",
+  "displayType" : "chart",
+  "downloadCount" : 11,
+  "indexUpdatedAt" : 1380735994,
+  "moderationStatus" : true,
+  "newBackend" : false,
+  "numberOfComments" : 0,
+  "oid" : 4923389,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1376414193,
+  "publicationGroup" : 983057,
+  "publicationStage" : "published",
+  "rowsUpdatedAt" : 1376414155,
+  "rowsUpdatedBy" : "g3fc-zmqn",
+  "signed" : false,
+  "tableId" : 1044775,
+  "totalTimesRated" : 0,
+  "viewCount" : 84,
+  "viewLastModified" : 1376506180,
+  "viewType" : "tabular",
+  "grants" : [ {
+    "inherited" : true,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "renderTypeConfig" : {
+      "visible" : {
+        "chart" : true,
+        "table" : true
+      }
+    },
+    "availableDisplayTypes" : [ "chart", "table", "fatrow", "page" ],
+    "thumbnail" : {
+      "page" : {
+        "created" : true,
+        "filename" : "page.png-1289.688.7.0.png",
+        "selection" : {
+          "height" : 688,
+          "width" : 1289,
+          "y1" : 0,
+          "y2" : 688,
+          "x2" : 1296,
+          "x1" : 7
+        }
+      }
+    },
+    "rdfSubject" : "0"
+  },
+  "owner" : {
+    "id" : "trij-xrnq",
+    "displayName" : "Meredith Slota",
+    "screenName" : "Meredith Slota",
+    "rights" : [ "create_datasets", "edit_others_datasets", "edit_sdp", "edit_site_theme", "moderate_comments", "manage_users", "chown_datasets", "edit_nominations", "approve_nominations", "feature_items", "federations", "manage_stories", "manage_approval", "change_configurations", "view_domain", "view_others_datasets", "edit_pages", "create_pages", "view_goals", "view_dashboards", "edit_goals", "edit_dashboards", "create_dashboards" ],
+    "flags" : [ "admin" ]
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "7vdi-f8f4",
+    "displayName" : "Mark@CDC",
+    "screenName" : "Mark@CDC"
+  },
+  "tags" : [ "brfss", "heath care access", "adults", "health care coverage" ]
+}, {
+  "id" : "ke9e-wxqy",
+  "name" : "Georgia Healthcare Access Trends 1995 - 2010",
+  "averageRating" : 0,
+  "category" : "Health Statistics",
+  "createdAt" : 1374155185,
+  "description" : "Percentages are weighted to population characteristics. Data are not available if it did not meet BRFSS stability requirements.\r\nFor more information on these requirements, as well as risk factors and calculated variables, see the Technical Documents and Survey Data for a specific year - http://www.cdc.gov/brfss/annual_data/annual_data.htm.\r\nRecommended citation: Centers for Disease Control and Prevention (CDC). Behavioral Risk Factor Surveillance System. Atlanta, Georgia: U.S. Department of Health and Human Services, Centers for Disease Control and Prevention, [appropriate year].",
+  "displayType" : "chart",
+  "downloadCount" : 22,
+  "indexUpdatedAt" : 1380735965,
+  "moderationStatus" : true,
+  "newBackend" : false,
+  "numberOfComments" : 0,
+  "oid" : 4904680,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1376414193,
+  "publicationGroup" : 983057,
+  "publicationStage" : "published",
+  "rowsUpdatedAt" : 1376414155,
+  "rowsUpdatedBy" : "g3fc-zmqn",
+  "signed" : false,
+  "tableId" : 1044775,
+  "totalTimesRated" : 0,
+  "viewCount" : 56,
+  "viewLastModified" : 1375466188,
+  "viewType" : "tabular",
+  "grants" : [ {
+    "inherited" : true,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "renderTypeConfig" : {
+      "visible" : {
+        "chart" : true
+      }
+    },
+    "availableDisplayTypes" : [ "chart", "table", "fatrow", "page" ],
+    "rdfSubject" : "0"
+  },
+  "owner" : {
+    "id" : "7vdi-f8f4",
+    "displayName" : "Mark@CDC",
+    "screenName" : "Mark@CDC"
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "7vdi-f8f4",
+    "displayName" : "Mark@CDC",
+    "screenName" : "Mark@CDC"
+  },
+  "tags" : [ "brfss", "heath care access", "adults", "health care coverage" ]
+}, {
+  "id" : "s64v-5nny",
+  "name" : "Adults who have any kind of health care coverage: Trends for 1995-2010",
+  "averageRating" : 0,
+  "category" : "Health Statistics",
+  "createdAt" : 1374679311,
+  "description" : "Percentages are weighted to population characteristics. Data are not available if it did not meet BRFSS stability requirements.\r\nFor more information on these requirements, as well as risk factors and calculated variables, see the Technical Documents and Survey Data for a specific year - http://www.cdc.gov/brfss/annual_data/annual_data.htm.\r\nRecommended citation: Centers for Disease Control and Prevention (CDC). Behavioral Risk Factor Surveillance System. Atlanta, Georgia: U.S. Department of Health and Human Services, Centers for Disease Control and Prevention, [appropriate year].",
+  "displayType" : "chart",
+  "downloadCount" : 18,
+  "indexUpdatedAt" : 1380735959,
+  "moderationStatus" : true,
+  "newBackend" : false,
+  "numberOfComments" : 0,
+  "oid" : 4904681,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1376414193,
+  "publicationGroup" : 983057,
+  "publicationStage" : "published",
+  "rowsUpdatedAt" : 1376414155,
+  "rowsUpdatedBy" : "g3fc-zmqn",
+  "signed" : false,
+  "tableId" : 1044775,
+  "totalTimesRated" : 0,
+  "viewCount" : 103,
+  "viewLastModified" : 1375383688,
+  "viewType" : "tabular",
+  "grants" : [ {
+    "inherited" : true,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "renderTypeConfig" : {
+      "visible" : {
+        "chart" : true
+      }
+    },
+    "availableDisplayTypes" : [ "chart", "table", "fatrow", "page" ],
+    "rdfSubject" : "0"
+  },
+  "owner" : {
+    "id" : "g3fc-zmqn",
+    "displayName" : "CDC",
+    "profileImageUrlLarge" : "/images/profile/7958/3844/HHS_CDC_ATSDR_rgb_large.jpg",
+    "profileImageUrlMedium" : "/images/profile/7958/3844/HHS_CDC_ATSDR_rgb_thumb.jpg",
+    "profileImageUrlSmall" : "/images/profile/7958/3844/HHS_CDC_ATSDR_rgb_tiny.jpg",
+    "screenName" : "CDC"
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "7vdi-f8f4",
+    "displayName" : "Mark@CDC",
+    "screenName" : "Mark@CDC"
+  },
+  "tags" : [ "brfss", "heath care access", "adults", "health care coverage" ]
+}, {
+  "id" : "t984-9cdv",
+  "name" : "BRFSS Prevalence And Trends Data: Health Care Access/Coverage for 1995-2010",
+  "averageRating" : 0,
+  "category" : "Health Statistics",
+  "createdAt" : 1374090874,
+  "description" : "Percentages are weighted to population characteristics. Data are not available if it did not meet BRFSS stability requirements. For more information on these requirements, as well as risk factors and calculated variables, see the Technical Documents and Survey Data for a specific year - http://www.cdc.gov/brfss/annual_data/annual_data.htm. Recommended citation: Centers for Disease Control and Prevention (CDC). Behavioral Risk Factor Surveillance System. Atlanta, Georgia: U.S. Department of Health and Human Services, Centers for Disease Control and Prevention, [appropriate year].",
+  "displayType" : "table",
+  "downloadCount" : 172,
+  "indexUpdatedAt" : 1380735994,
+  "newBackend" : false,
+  "numberOfComments" : 0,
+  "oid" : 4904678,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1376414193,
+  "publicationGroup" : 983057,
+  "publicationStage" : "published",
+  "rowsUpdatedAt" : 1376414155,
+  "rowsUpdatedBy" : "g3fc-zmqn",
+  "signed" : false,
+  "tableId" : 1044775,
+  "totalTimesRated" : 0,
+  "viewCount" : 798,
+  "viewLastModified" : 1376414193,
+  "viewType" : "tabular",
+  "grants" : [ {
+    "inherited" : true,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "renderTypeConfig" : {
+      "visible" : {
+        "table" : true
+      }
+    },
+    "availableDisplayTypes" : [ "table", "fatrow", "page" ],
+    "thumbnail" : {
+      "page" : {
+        "created" : true,
+        "filename" : "page.png-1289.688.7.0.png",
+        "selection" : {
+          "height" : 688,
+          "width" : 1289,
+          "y1" : 0,
+          "y2" : 688,
+          "x2" : 1296,
+          "x1" : 7
+        }
+      }
+    },
+    "rdfSubject" : "0"
+  },
+  "owner" : {
+    "id" : "7vdi-f8f4",
+    "displayName" : "Mark@CDC",
+    "screenName" : "Mark@CDC"
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "7vdi-f8f4",
+    "displayName" : "Mark@CDC",
+    "screenName" : "Mark@CDC"
+  },
+  "tags" : [ "brfss", "heath care access", "adults", "health care coverage" ],
+  "flags" : [ "default" ]
+}, {
+  "id" : "e7v7-x9fa",
+  "name" : "Column chart of seasonal and 2009 H1N1 vaccination coverage for pregnant women with live births, 2009-10 Influenza Season",
+  "averageRating" : 0,
+  "category" : "Pregnancy & Vaccination",
+  "createdAt" : 1378749850,
+  "description" : "For more information about the Pregnancy Risk Assessment Monitoring System please visit http://www.cdc.gov/prams/. See http://www.cdc.gov/mmwr/preview/mmwrhtml/mm6107a1.htm?s_cid=mm6107a1_e for the MMWR article.",
+  "displayType" : "chart",
+  "downloadCount" : 9,
+  "indexUpdatedAt" : 1386424474,
+  "moderationStatus" : true,
+  "newBackend" : false,
+  "numberOfComments" : 0,
+  "oid" : 5333698,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1371653240,
+  "publicationGroup" : 928297,
+  "publicationStage" : "published",
+  "rowClass" : "",
+  "rowsUpdatedAt" : 1371653155,
+  "rowsUpdatedBy" : "g3fc-zmqn",
+  "signed" : false,
+  "tableId" : 928297,
+  "totalTimesRated" : 0,
+  "viewCount" : 52,
+  "viewLastModified" : 1378749930,
+  "viewType" : "tabular",
+  "grants" : [ {
+    "inherited" : true,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "renderTypeConfig" : {
+      "visible" : {
+        "chart" : true
+      }
+    },
+    "availableDisplayTypes" : [ "chart", "table", "fatrow", "page" ],
+    "rdfSubject" : "0",
+    "rowIdentifier" : "0",
+    "rdfClass" : ""
+  },
+  "owner" : {
+    "id" : "g3fc-zmqn",
+    "displayName" : "CDC",
+    "profileImageUrlLarge" : "/images/profile/7958/3844/HHS_CDC_ATSDR_rgb_large.jpg",
+    "profileImageUrlMedium" : "/images/profile/7958/3844/HHS_CDC_ATSDR_rgb_thumb.jpg",
+    "profileImageUrlSmall" : "/images/profile/7958/3844/HHS_CDC_ATSDR_rgb_tiny.jpg",
+    "screenName" : "CDC"
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "g3fc-zmqn",
+    "displayName" : "CDC",
+    "profileImageUrlLarge" : "/images/profile/7958/3844/HHS_CDC_ATSDR_rgb_large.jpg",
+    "profileImageUrlMedium" : "/images/profile/7958/3844/HHS_CDC_ATSDR_rgb_thumb.jpg",
+    "profileImageUrlSmall" : "/images/profile/7958/3844/HHS_CDC_ATSDR_rgb_tiny.jpg",
+    "screenName" : "CDC"
+  },
+  "tags" : [ "prams", "flu shot", "pregnant women", "immunization" ]
+}, {
+  "id" : "mmi4-8ajr",
+  "name" : "State Specific Influenza Vaccination Coverage Among Women With Live Birth- PRAMS, 2009-10 Influenza Season",
+  "averageRating" : 0,
+  "category" : "Pregnancy & Vaccination",
+  "createdAt" : 1371652023,
+  "description" : "For more information about the Pregnancy Risk Assessment Monitoring System please visit http://www.cdc.gov/prams/. See http://www.cdc.gov/mmwr/preview/mmwrhtml/mm6107a1.htm?s_cid=mm6107a1_e for the MMWR article.",
+  "displayType" : "table",
+  "downloadCount" : 126,
+  "indexUpdatedAt" : 1386424502,
+  "newBackend" : false,
+  "numberOfComments" : 0,
+  "oid" : 4107140,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1371653240,
+  "publicationGroup" : 928297,
+  "publicationStage" : "published",
+  "rowClass" : "",
+  "rowsUpdatedAt" : 1371653155,
+  "rowsUpdatedBy" : "g3fc-zmqn",
+  "signed" : false,
+  "tableId" : 928297,
+  "totalTimesRated" : 0,
+  "viewCount" : 150,
+  "viewLastModified" : 1378749121,
+  "viewType" : "tabular",
+  "grants" : [ {
+    "inherited" : true,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "renderTypeConfig" : {
+      "visible" : {
+        "table" : true
+      }
+    },
+    "availableDisplayTypes" : [ "table", "fatrow", "page" ],
+    "rdfSubject" : "0",
+    "rowIdentifier" : "0",
+    "rdfClass" : ""
+  },
+  "owner" : {
+    "id" : "tcys-idpb",
+    "displayName" : "Helen Ding",
+    "screenName" : "Helen Ding"
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "g3fc-zmqn",
+    "displayName" : "CDC",
+    "profileImageUrlLarge" : "/images/profile/7958/3844/HHS_CDC_ATSDR_rgb_large.jpg",
+    "profileImageUrlMedium" : "/images/profile/7958/3844/HHS_CDC_ATSDR_rgb_thumb.jpg",
+    "profileImageUrlSmall" : "/images/profile/7958/3844/HHS_CDC_ATSDR_rgb_tiny.jpg",
+    "screenName" : "CDC"
+  },
+  "tags" : [ "prams", "flu shot", "pregnant women", "immunization" ],
+  "flags" : [ "default" ]
+}, {
+  "id" : "rxbz-avfv",
+  "name" : "Map of Seasonal Vaccination Coverage with live births from selected states 2009-10 Influenza Season",
+  "averageRating" : 0,
+  "category" : "Pregnancy & Vaccination",
+  "createdAt" : 1378749492,
+  "description" : "For more information about the Pregnancy Risk Assessment Monitoring System please visit http://www.cdc.gov/prams/. See http://www.cdc.gov/mmwr/preview/mmwrhtml/mm6107a1.htm?s_cid=mm6107a1_e for the MMWR article.",
+  "displayType" : "map",
+  "downloadCount" : 11,
+  "indexUpdatedAt" : 1386424490,
+  "moderationStatus" : true,
+  "newBackend" : false,
+  "numberOfComments" : 0,
+  "oid" : 5333568,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1371653240,
+  "publicationGroup" : 928297,
+  "publicationStage" : "published",
+  "rowClass" : "",
+  "rowsUpdatedAt" : 1371653155,
+  "rowsUpdatedBy" : "g3fc-zmqn",
+  "signed" : false,
+  "tableId" : 928297,
+  "totalTimesRated" : 0,
+  "viewCount" : 66,
+  "viewLastModified" : 1378749492,
+  "viewType" : "tabular",
+  "grants" : [ {
+    "inherited" : true,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "renderTypeConfig" : {
+      "visible" : {
+        "map" : true
+      }
+    },
+    "availableDisplayTypes" : [ "map", "table", "fatrow", "page" ],
+    "rdfSubject" : "0",
+    "rowIdentifier" : "0",
+    "rdfClass" : ""
+  },
+  "owner" : {
+    "id" : "g3fc-zmqn",
+    "displayName" : "CDC",
+    "profileImageUrlLarge" : "/images/profile/7958/3844/HHS_CDC_ATSDR_rgb_large.jpg",
+    "profileImageUrlMedium" : "/images/profile/7958/3844/HHS_CDC_ATSDR_rgb_thumb.jpg",
+    "profileImageUrlSmall" : "/images/profile/7958/3844/HHS_CDC_ATSDR_rgb_tiny.jpg",
+    "screenName" : "CDC"
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "g3fc-zmqn",
+    "displayName" : "CDC",
+    "profileImageUrlLarge" : "/images/profile/7958/3844/HHS_CDC_ATSDR_rgb_large.jpg",
+    "profileImageUrlMedium" : "/images/profile/7958/3844/HHS_CDC_ATSDR_rgb_thumb.jpg",
+    "profileImageUrlSmall" : "/images/profile/7958/3844/HHS_CDC_ATSDR_rgb_tiny.jpg",
+    "screenName" : "CDC"
+  },
+  "tags" : [ "prams", "flu shot", "pregnant women", "immunization" ]
+} ]

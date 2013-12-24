@@ -1,0 +1,5720 @@
+[ {
+  "id" : "umy7-gg7f",
+  "name" : "2012 Bond Funded Road Projects",
+  "averageRating" : 0,
+  "blobFilename" : "Road_Improvement_Program,_Local_Roads_PCI_05-31-13.zip",
+  "blobFileSize" : 79662,
+  "blobId" : "tdRhog15gAGwTFx3_e10Oeg-e4U0nvRWPMlqy5QWUU0",
+  "category" : "Neighborhoods",
+  "createdAt" : 1370356210,
+  "description" : "Collection of roadway improvement projects funded by the road bond approved in November, 2012. Projects will be scheduled over the 2013 to 2015 construction seasons.",
+  "displayType" : "map",
+  "downloadCount" : 0,
+  "indexUpdatedAt" : 1382580211,
+  "moderationStatus" : true,
+  "newBackend" : false,
+  "numberOfComments" : 0,
+  "oid" : 3890125,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1370014634,
+  "publicationGroup" : 891181,
+  "publicationStage" : "published",
+  "signed" : false,
+  "tableId" : 891181,
+  "totalTimesRated" : 0,
+  "viewCount" : 316,
+  "viewLastModified" : 1375291863,
+  "viewType" : "geo",
+  "childViews" : [ "833b-fm3s" ],
+  "grants" : [ {
+    "inherited" : true,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "renderTypeConfig" : {
+      "visible" : {
+        "map" : true
+      }
+    },
+    "availableDisplayTypes" : [ "map", "table", "fatrow", "page" ],
+    "geo" : {
+      "owsUrl" : "/api/geospatial/4xhj-gkpj",
+      "bbox" : "-71.46186482483479,41.778956859924214,-71.38143496712671,41.859352586963524",
+      "layers" : "geo_4xhj-gkpj-1",
+      "featureIdAttribute" : "_SocrataID",
+      "bboxCrs" : "EPSG:4326",
+      "namespace" : "geo_4xhj-gkpj"
+    }
+  },
+  "owner" : {
+    "id" : "v6h4-bzm6",
+    "displayName" : "Jim",
+    "screenName" : "Jim"
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "vbvz-fvm2",
+    "displayName" : "mcrocker",
+    "screenName" : "mcrocker"
+  },
+  "tags" : [ "construction", "paving", "roads" ]
+}, {
+  "id" : "sa6n-hp9d",
+  "name" : "FY2014 City of Providence Proposed Budget",
+  "averageRating" : 0,
+  "category" : "Finance",
+  "createdAt" : 1367346838,
+  "description" : "Proposed budget submitted to City Council for the Fiscal Year July 1, 2013 through June 30, 2014",
+  "displayType" : "table",
+  "downloadCount" : 10,
+  "indexUpdatedAt" : 1382045426,
+  "newBackend" : false,
+  "numberOfComments" : 0,
+  "oid" : 3412588,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1367347008,
+  "publicationGroup" : 828513,
+  "publicationStage" : "published",
+  "rowClass" : "",
+  "rowsUpdatedAt" : 1367346843,
+  "rowsUpdatedBy" : "v6h4-bzm6",
+  "signed" : false,
+  "tableId" : 828513,
+  "totalTimesRated" : 0,
+  "viewCount" : 111,
+  "viewLastModified" : 1382040803,
+  "viewType" : "tabular",
+  "grants" : [ {
+    "inherited" : false,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "renderTypeConfig" : {
+      "visible" : {
+        "table" : true
+      }
+    },
+    "availableDisplayTypes" : [ "table", "fatrow", "page" ],
+    "rdfSubject" : "0",
+    "rowIdentifier" : "0",
+    "rdfClass" : ""
+  },
+  "owner" : {
+    "id" : "v6h4-bzm6",
+    "displayName" : "Jim",
+    "screenName" : "Jim"
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "v6h4-bzm6",
+    "displayName" : "Jim",
+    "screenName" : "Jim"
+  },
+  "tags" : [ "budget", "fy2014" ],
+  "flags" : [ "default" ]
+}, {
+  "id" : "cuiu-2c8y",
+  "name" : "Wards 2012",
+  "averageRating" : 0,
+  "blobFilename" : "Wards_2012.zip",
+  "blobFileSize" : 41360,
+  "blobId" : "QLOE_3BV30jufjJ6AI2eEvQRQnsBv1gDAvvw5AALejI",
+  "blobMimeType" : "application/zip; charset=binary",
+  "category" : "Reference",
+  "createdAt" : 1364485464,
+  "description" : "Providence Ward Boundaries as of 2012",
+  "displayType" : "map",
+  "downloadCount" : 0,
+  "indexUpdatedAt" : 1372367976,
+  "newBackend" : false,
+  "numberOfComments" : 0,
+  "oid" : 2984201,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1364485466,
+  "publicationGroup" : 760796,
+  "publicationStage" : "published",
+  "signed" : false,
+  "tableId" : 760796,
+  "totalTimesRated" : 0,
+  "viewCount" : 84,
+  "viewLastModified" : 1372361741,
+  "viewType" : "geo",
+  "childViews" : [ "qncm-p9rp" ],
+  "grants" : [ {
+    "inherited" : false,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "renderTypeConfig" : {
+      "visible" : {
+        "map" : true
+      }
+    },
+    "availableDisplayTypes" : [ "map", "table", "fatrow", "page" ],
+    "geo" : {
+      "owsUrl" : "/api/geospatial/cuiu-2c8y",
+      "bbox" : "-71.47269446992239,41.77237379691065,-71.3695348351957,41.861586017674504",
+      "layers" : "geo_cuiu-2c8y-1",
+      "featureIdAttribute" : "_SocrataID",
+      "bboxCrs" : "EPSG:4326",
+      "namespace" : "geo_cuiu-2c8y"
+    }
+  },
+  "owner" : {
+    "id" : "v6h4-bzm6",
+    "displayName" : "Jim",
+    "screenName" : "Jim"
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "8zu9-a2mc",
+    "displayName" : "David",
+    "screenName" : "David"
+  },
+  "tags" : [ "wards" ],
+  "flags" : [ "default" ]
+}, {
+  "id" : "4xhj-gkpj",
+  "name" : "Road Improvement Program, Local Roads PCI 05-31-13",
+  "averageRating" : 0,
+  "blobFilename" : "Road_Improvement_Program,_Local_Roads_PCI_05-31-13.zip",
+  "blobFileSize" : 79662,
+  "blobId" : "tdRhog15gAGwTFx3_e10Oeg-e4U0nvRWPMlqy5QWUU0",
+  "blobMimeType" : "application/zip; charset=binary",
+  "category" : "Neighborhoods",
+  "createdAt" : 1370014631,
+  "description" : "Collection of roadways selected for improvements, based upon the measured Pavement Condition Index.",
+  "displayType" : "map",
+  "downloadCount" : 0,
+  "indexUpdatedAt" : 1382579985,
+  "newBackend" : false,
+  "numberOfComments" : 0,
+  "oid" : 3839260,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1370014634,
+  "publicationGroup" : 891181,
+  "publicationStage" : "published",
+  "signed" : false,
+  "tableId" : 891181,
+  "totalTimesRated" : 0,
+  "viewCount" : 87,
+  "viewLastModified" : 1370356472,
+  "viewType" : "geo",
+  "childViews" : [ "833b-fm3s" ],
+  "grants" : [ {
+    "inherited" : true,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "renderTypeConfig" : {
+      "visible" : {
+        "map" : true
+      }
+    },
+    "availableDisplayTypes" : [ "map", "table", "fatrow", "page" ],
+    "geo" : {
+      "owsUrl" : "/api/geospatial/4xhj-gkpj",
+      "bbox" : "-71.46186482483479,41.778956859924214,-71.38143496712671,41.859352586963524",
+      "layers" : "geo_4xhj-gkpj-1",
+      "featureIdAttribute" : "_SocrataID",
+      "bboxCrs" : "EPSG:4326",
+      "namespace" : "geo_4xhj-gkpj"
+    }
+  },
+  "owner" : {
+    "id" : "vbvz-fvm2",
+    "displayName" : "mcrocker",
+    "screenName" : "mcrocker"
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "vbvz-fvm2",
+    "displayName" : "mcrocker",
+    "screenName" : "mcrocker"
+  },
+  "tags" : [ "roads", "paving", "construction" ],
+  "flags" : [ "default" ]
+}, {
+  "id" : "7wa4-fft7",
+  "name" : "FY2013 City of Providence Budget",
+  "averageRating" : 0,
+  "category" : "Finance",
+  "createdAt" : 1363798284,
+  "description" : "July 1, 2012 through June 30, 2013",
+  "displayType" : "table",
+  "downloadCount" : 8,
+  "indexUpdatedAt" : 1369413037,
+  "newBackend" : false,
+  "numberOfComments" : 0,
+  "oid" : 2893243,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1363798405,
+  "publicationGroup" : 745382,
+  "publicationStage" : "published",
+  "rowClass" : "",
+  "rowsUpdatedAt" : 1363798289,
+  "rowsUpdatedBy" : "v6h4-bzm6",
+  "signed" : false,
+  "tableId" : 745382,
+  "totalTimesRated" : 0,
+  "viewCount" : 76,
+  "viewLastModified" : 1369411549,
+  "viewType" : "tabular",
+  "grants" : [ {
+    "inherited" : false,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "renderTypeConfig" : {
+      "visible" : {
+        "table" : true
+      }
+    },
+    "availableDisplayTypes" : [ "table", "fatrow", "page" ],
+    "thumbnail" : {
+      "page" : {
+        "created" : true
+      }
+    },
+    "rdfSubject" : "0",
+    "rowIdentifier" : "0",
+    "rdfClass" : ""
+  },
+  "owner" : {
+    "id" : "v6h4-bzm6",
+    "displayName" : "Jim",
+    "screenName" : "Jim"
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "v6h4-bzm6",
+    "displayName" : "Jim",
+    "screenName" : "Jim"
+  },
+  "tags" : [ "budget", "fy2013" ],
+  "flags" : [ "default" ]
+}, {
+  "id" : "nigu-z8tj",
+  "name" : "Neighborhood Index",
+  "averageRating" : 0,
+  "category" : "Reference",
+  "createdAt" : 1369407721,
+  "description" : "Providence Neighborhood Code with related Description. Useful to cross-reference tax assessment and collection data.",
+  "displayType" : "table",
+  "downloadCount" : 4,
+  "indexUpdatedAt" : 1369411796,
+  "newBackend" : false,
+  "numberOfComments" : 0,
+  "oid" : 3743772,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1369409528,
+  "publicationGroup" : 877424,
+  "publicationStage" : "published",
+  "rowClass" : "",
+  "rowsUpdatedAt" : 1369409501,
+  "rowsUpdatedBy" : "v6h4-bzm6",
+  "signed" : false,
+  "tableId" : 877474,
+  "totalTimesRated" : 0,
+  "viewCount" : 80,
+  "viewLastModified" : 1369411169,
+  "viewType" : "tabular",
+  "grants" : [ {
+    "inherited" : false,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "renderTypeConfig" : {
+      "visible" : {
+        "table" : true
+      }
+    },
+    "availableDisplayTypes" : [ "table", "fatrow", "page" ],
+    "rdfSubject" : "0",
+    "rowIdentifier" : "0",
+    "rdfClass" : ""
+  },
+  "owner" : {
+    "id" : "v6h4-bzm6",
+    "displayName" : "Jim",
+    "screenName" : "Jim"
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "v6h4-bzm6",
+    "displayName" : "Jim",
+    "screenName" : "Jim"
+  },
+  "tags" : [ "lookup", "neighborhood" ],
+  "flags" : [ "default" ]
+}, {
+  "id" : "uv9w-h8i4",
+  "name" : "Providence Tree Inventory",
+  "averageRating" : 0,
+  "category" : "Neighborhoods",
+  "createdAt" : 1369770326,
+  "description" : "A complete inventory was conducted in 2006 of all the City’s street trees, including trees located within sidewalks, between the sidewalk and the curb, or within 6 feet of the street if no sidewalk exists. One hundred volunteers were trained to record address and location, tree species, tree diameter, condition, and other related information. Trees located in parks and other public property were not included. Approximately 25,000 street trees were counted, and the data was loaded into a tree database that the Forestry Division uses daily to manage the trees, track tree work, and record constituent concerns.",
+  "displayType" : "table",
+  "downloadCount" : 18,
+  "indexUpdatedAt" : 1369861492,
+  "newBackend" : false,
+  "numberOfComments" : 0,
+  "oid" : 3799400,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1369831326,
+  "publicationGroup" : 885529,
+  "publicationStage" : "published",
+  "rowClass" : "",
+  "rowsUpdatedAt" : 1369789893,
+  "rowsUpdatedBy" : "v6h4-bzm6",
+  "signed" : false,
+  "tableId" : 885529,
+  "totalTimesRated" : 0,
+  "viewCount" : 166,
+  "viewLastModified" : 1369834767,
+  "viewType" : "tabular",
+  "grants" : [ {
+    "inherited" : false,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "renderTypeConfig" : {
+      "visible" : {
+        "table" : true
+      }
+    },
+    "availableDisplayTypes" : [ "table", "fatrow", "page" ],
+    "rdfSubject" : "0",
+    "rowIdentifier" : "0",
+    "rdfClass" : ""
+  },
+  "owner" : {
+    "id" : "v6h4-bzm6",
+    "displayName" : "Jim",
+    "screenName" : "Jim"
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "v6h4-bzm6",
+    "displayName" : "Jim",
+    "screenName" : "Jim"
+  },
+  "tags" : [ "trees" ],
+  "flags" : [ "default" ]
+}, {
+  "id" : "rehs-z98t",
+  "name" : "City of Providence Pension Payroll",
+  "averageRating" : 0,
+  "category" : "Finance",
+  "createdAt" : 1367951973,
+  "description" : "Monthly pension payroll, grouped by benefit type",
+  "displayType" : "table",
+  "downloadCount" : 2,
+  "indexUpdatedAt" : 1385133083,
+  "newBackend" : false,
+  "numberOfComments" : 0,
+  "oid" : 6533727,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1385129159,
+  "publicationGroup" : 843286,
+  "publicationStage" : "published",
+  "rowsUpdatedAt" : 1385129144,
+  "rowsUpdatedBy" : "v6h4-bzm6",
+  "signed" : false,
+  "tableId" : 1367695,
+  "totalTimesRated" : 0,
+  "viewCount" : 158,
+  "viewLastModified" : 1385129159,
+  "viewType" : "tabular",
+  "grants" : [ {
+    "inherited" : false,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "renderTypeConfig" : {
+      "visible" : {
+        "table" : true
+      }
+    },
+    "availableDisplayTypes" : [ "table", "fatrow", "page" ],
+    "rdfSubject" : "0"
+  },
+  "owner" : {
+    "id" : "v6h4-bzm6",
+    "displayName" : "Jim",
+    "screenName" : "Jim"
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "v6h4-bzm6",
+    "displayName" : "Jim",
+    "screenName" : "Jim"
+  },
+  "tags" : [ "pension", "retirement", "payroll" ],
+  "flags" : [ "default" ]
+}, {
+  "id" : "pmuv-pi4k",
+  "name" : "Road Improvement Program, Benefit Value 05-31-13",
+  "averageRating" : 0,
+  "blobFilename" : "Road_Improvement_Program,_BV_05-31-13.zip",
+  "blobFileSize" : 119475,
+  "blobId" : "Qv6-Dn8b-ABQfc9gzNSDB8jX5r_QFaxqTI7SLC7vJMM",
+  "blobMimeType" : "application/zip; charset=binary",
+  "category" : "Neighborhoods",
+  "createdAt" : 1370014546,
+  "description" : "Collection of roadways selected for improvements, based upon benefit value.",
+  "displayType" : "map",
+  "downloadCount" : 0,
+  "indexUpdatedAt" : 1370356729,
+  "newBackend" : false,
+  "numberOfComments" : 0,
+  "oid" : 3839252,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1370014548,
+  "publicationGroup" : 891175,
+  "publicationStage" : "published",
+  "signed" : false,
+  "tableId" : 891175,
+  "totalTimesRated" : 0,
+  "viewCount" : 55,
+  "viewLastModified" : 1370356372,
+  "viewType" : "geo",
+  "childViews" : [ "4v8a-k83r" ],
+  "grants" : [ {
+    "inherited" : false,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "renderTypeConfig" : {
+      "visible" : {
+        "map" : true
+      }
+    },
+    "availableDisplayTypes" : [ "map", "table", "fatrow", "page" ],
+    "geo" : {
+      "owsUrl" : "/api/geospatial/pmuv-pi4k",
+      "bbox" : "-71.47049379801778,41.77420552064302,-71.38151838827166,41.86036993539267",
+      "layers" : "geo_pmuv-pi4k-1",
+      "featureIdAttribute" : "_SocrataID",
+      "bboxCrs" : "EPSG:4326",
+      "namespace" : "geo_pmuv-pi4k"
+    }
+  },
+  "owner" : {
+    "id" : "vbvz-fvm2",
+    "displayName" : "mcrocker",
+    "screenName" : "mcrocker"
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "vbvz-fvm2",
+    "displayName" : "mcrocker",
+    "screenName" : "mcrocker"
+  },
+  "tags" : [ "roads", "paving", "construction" ],
+  "flags" : [ "default" ]
+}, {
+  "id" : "mvty-pca8",
+  "name" : "Roadway Projects with City Funding",
+  "averageRating" : 0,
+  "blobFilename" : "Other_Projects_05-31-13.zip",
+  "blobFileSize" : 51025,
+  "blobId" : "TMr2GiXhpFtjhYCY1ZpCXTeWJo9sGxVXW4HeLaCZYbk",
+  "blobMimeType" : "application/zip; charset=binary",
+  "category" : "Neighborhoods",
+  "createdAt" : 1370014718,
+  "description" : "Collection of roadway improvement projects in design or construction as of June, 2013",
+  "displayType" : "map",
+  "downloadCount" : 0,
+  "indexUpdatedAt" : 1374187831,
+  "newBackend" : false,
+  "numberOfComments" : 0,
+  "oid" : 3839310,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1370014721,
+  "publicationGroup" : 891186,
+  "publicationStage" : "published",
+  "signed" : false,
+  "tableId" : 891186,
+  "totalTimesRated" : 0,
+  "viewCount" : 94,
+  "viewLastModified" : 1370356146,
+  "viewType" : "geo",
+  "childViews" : [ "jusp-7qu3" ],
+  "grants" : [ {
+    "inherited" : false,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "renderTypeConfig" : {
+      "visible" : {
+        "map" : true
+      }
+    },
+    "availableDisplayTypes" : [ "map", "table", "fatrow", "page" ],
+    "geo" : {
+      "owsUrl" : "/api/geospatial/mvty-pca8",
+      "bbox" : "-71.46827501492082,41.798760465644776,-71.38640620268326,41.85669507921686",
+      "layers" : "geo_mvty-pca8-1",
+      "featureIdAttribute" : "_SocrataID",
+      "bboxCrs" : "EPSG:4326",
+      "namespace" : "geo_mvty-pca8"
+    }
+  },
+  "owner" : {
+    "id" : "vbvz-fvm2",
+    "displayName" : "mcrocker",
+    "screenName" : "mcrocker"
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "vbvz-fvm2",
+    "displayName" : "mcrocker",
+    "screenName" : "mcrocker"
+  },
+  "tags" : [ "road", "construction", "paving" ],
+  "flags" : [ "default" ]
+}, {
+  "id" : "yn24-dv5q",
+  "name" : "Neighborhood Boundaries",
+  "averageRating" : 0,
+  "blobFilename" : "Nhoods.zip",
+  "blobFileSize" : 49897,
+  "blobId" : "VSDTWjVPY9FQSmHMTwkGABJ4mwL42mYXPbGvhBUwJ04",
+  "blobMimeType" : "application/zip; charset=binary",
+  "category" : "Reference",
+  "createdAt" : 1367851841,
+  "description" : "Neighborhood boundaries for the City of Providence",
+  "displayType" : "map",
+  "downloadCount" : 0,
+  "indexUpdatedAt" : 1385133072,
+  "newBackend" : false,
+  "numberOfComments" : 0,
+  "oid" : 3490701,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1367851844,
+  "publicationGroup" : 840689,
+  "publicationStage" : "published",
+  "signed" : false,
+  "tableId" : 840689,
+  "totalTimesRated" : 0,
+  "viewCount" : 68,
+  "viewLastModified" : 1385128603,
+  "viewType" : "geo",
+  "childViews" : [ "wtyq-d4qk" ],
+  "grants" : [ {
+    "inherited" : false,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "renderTypeConfig" : {
+      "visible" : {
+        "map" : true
+      }
+    },
+    "availableDisplayTypes" : [ "map", "table", "fatrow", "page" ],
+    "geo" : {
+      "owsUrl" : "/api/geospatial/yn24-dv5q",
+      "bbox" : "-71.47243795900697,41.77238194314563,-71.37073475085666,41.86184597623469",
+      "layers" : "geo_yn24-dv5q-1",
+      "featureIdAttribute" : "_SocrataID",
+      "bboxCrs" : "EPSG:4326",
+      "namespace" : "geo_yn24-dv5q"
+    }
+  },
+  "owner" : {
+    "id" : "8zu9-a2mc",
+    "displayName" : "David",
+    "screenName" : "David"
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "8zu9-a2mc",
+    "displayName" : "David",
+    "screenName" : "David"
+  },
+  "tags" : [ "neighborhood", "boundaries" ],
+  "flags" : [ "default" ]
+}, {
+  "id" : "q3x3-jzkt",
+  "name" : "Local Union 1033 Union Contract 2011-2015",
+  "averageRating" : 0,
+  "blobFilename" : "Local Union 1033 Union Contract 2011-2015.pdf",
+  "blobFileSize" : 5633343,
+  "blobId" : "SZdtKLY70K37HdmVCTuM-ULm7Uioyu0QcJrVtdN50TY",
+  "blobMimeType" : "application/pdf; charset=binary",
+  "category" : "Reference",
+  "createdAt" : 1364322298,
+  "displayType" : "blob",
+  "downloadCount" : 59,
+  "indexUpdatedAt" : 1373318724,
+  "newBackend" : false,
+  "numberOfComments" : 0,
+  "oid" : 2963411,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1364322298,
+  "publicationGroup" : 757401,
+  "publicationStage" : "published",
+  "signed" : false,
+  "tableId" : 757401,
+  "totalTimesRated" : 0,
+  "viewCount" : 109,
+  "viewLastModified" : 1373045374,
+  "viewType" : "blobby",
+  "grants" : [ {
+    "inherited" : false,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "renderTypeConfig" : {
+      "visible" : {
+        "blob" : true
+      }
+    },
+    "availableDisplayTypes" : [ "blob" ]
+  },
+  "owner" : {
+    "id" : "v6h4-bzm6",
+    "displayName" : "Jim",
+    "screenName" : "Jim"
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "v6h4-bzm6",
+    "displayName" : "Jim",
+    "screenName" : "Jim"
+  },
+  "tags" : [ "union", "contract", "1033", "employees" ],
+  "flags" : [ "default" ]
+}, {
+  "id" : "8hv9-434r",
+  "name" : "Emergency Management Recovery Plan",
+  "averageRating" : 0,
+  "blobFilename" : "Recovery Plan_Final.pdf",
+  "blobFileSize" : 6402912,
+  "blobId" : "RL36nCVkmRzvZxTX1hgDMQk68AYMAym-UEUVhKKgrCM",
+  "blobMimeType" : "application/pdf; charset=binary",
+  "category" : "Public Safety",
+  "createdAt" : 1369832417,
+  "description" : "The Recovery Plan provides a framework for federal government support to local\r\nmunicipalities, non-governmental organizations (NGOs), and the private sector in order to enable community recovery from long-term consequences of a disaster affecting the City of Providence.",
+  "displayType" : "blob",
+  "downloadCount" : 23,
+  "indexUpdatedAt" : 1372367976,
+  "newBackend" : false,
+  "numberOfComments" : 0,
+  "oid" : 3810100,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1369832417,
+  "publicationGroup" : 886957,
+  "publicationStage" : "published",
+  "signed" : false,
+  "tableId" : 886957,
+  "totalTimesRated" : 0,
+  "viewCount" : 34,
+  "viewLastModified" : 1372361769,
+  "viewType" : "blobby",
+  "grants" : [ {
+    "inherited" : false,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "renderTypeConfig" : {
+      "visible" : {
+        "blob" : true
+      }
+    },
+    "availableDisplayTypes" : [ "blob" ]
+  },
+  "owner" : {
+    "id" : "v6h4-bzm6",
+    "displayName" : "Jim",
+    "screenName" : "Jim"
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "v6h4-bzm6",
+    "displayName" : "Jim",
+    "screenName" : "Jim"
+  },
+  "tags" : [ "pema", "emergency management" ],
+  "flags" : [ "default" ]
+}, {
+  "id" : "7dzy-sqtk",
+  "name" : "Repetitive Flooding In Providence",
+  "averageRating" : 0,
+  "blobFilename" : "RepetitiveFloodingInProvidence.pdf",
+  "blobFileSize" : 4368722,
+  "blobId" : "upzpUtSsXry7vOfAm2M0TE-q9sPVGHWr794p9u_1hLM",
+  "blobMimeType" : "application/pdf; charset=binary",
+  "createdAt" : 1369251836,
+  "description" : "This presentation describes the effects of rainwater runoff in the City of Providence",
+  "displayType" : "blob",
+  "downloadCount" : 22,
+  "indexUpdatedAt" : 1369252867,
+  "newBackend" : false,
+  "numberOfComments" : 0,
+  "oid" : 3716414,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1369251836,
+  "publicationGroup" : 873644,
+  "publicationStage" : "published",
+  "signed" : false,
+  "tableId" : 873644,
+  "totalTimesRated" : 0,
+  "viewCount" : 32,
+  "viewLastModified" : 1369251886,
+  "viewType" : "blobby",
+  "grants" : [ {
+    "inherited" : false,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "renderTypeConfig" : {
+      "visible" : {
+        "blob" : true
+      }
+    },
+    "availableDisplayTypes" : [ "blob" ]
+  },
+  "owner" : {
+    "id" : "v6h4-bzm6",
+    "displayName" : "Jim",
+    "screenName" : "Jim"
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "v6h4-bzm6",
+    "displayName" : "Jim",
+    "screenName" : "Jim"
+  },
+  "tags" : [ "pema" ],
+  "flags" : [ "default" ]
+}, {
+  "id" : "vc43-c4vf",
+  "name" : "PEMA Multiyear Strategic Plan",
+  "averageRating" : 0,
+  "blobFilename" : "PEMA Multiyear Strategic Plan_2012_Update_Final.pdf",
+  "blobFileSize" : 697978,
+  "blobId" : "sRRSInwYxFa21QLhVv-jVX5c6yDvfeyKtNnJiD9p_R8",
+  "blobMimeType" : "application/pdf; charset=binary",
+  "category" : "Public Safety",
+  "createdAt" : 1369832106,
+  "description" : "Providence Emergency Management's 2012 Strategic Plan",
+  "displayType" : "blob",
+  "downloadCount" : 20,
+  "indexUpdatedAt" : 1369855289,
+  "newBackend" : false,
+  "numberOfComments" : 0,
+  "oid" : 3810076,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1369832106,
+  "publicationGroup" : 886949,
+  "publicationStage" : "published",
+  "signed" : false,
+  "tableId" : 886949,
+  "totalTimesRated" : 0,
+  "viewCount" : 19,
+  "viewLastModified" : 1369832160,
+  "viewType" : "blobby",
+  "grants" : [ {
+    "inherited" : false,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "renderTypeConfig" : {
+      "visible" : {
+        "blob" : true
+      }
+    },
+    "availableDisplayTypes" : [ "blob" ]
+  },
+  "owner" : {
+    "id" : "v6h4-bzm6",
+    "displayName" : "Jim",
+    "screenName" : "Jim"
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "v6h4-bzm6",
+    "displayName" : "Jim",
+    "screenName" : "Jim"
+  },
+  "tags" : [ "pema", "emergency management" ],
+  "flags" : [ "default" ]
+}, {
+  "id" : "y8un-wc4d",
+  "name" : "Mayor's Contingency Account",
+  "averageRating" : 0,
+  "blobFilename" : "Mayor's Contingency Account.pdf",
+  "blobFileSize" : 2113220,
+  "blobId" : "ir_7c59kItoytkogrOnqrk0N1cv1CIMxLlxU5bgmdwA",
+  "blobMimeType" : "application/pdf; charset=binary",
+  "category" : "Finance",
+  "createdAt" : 1386609605,
+  "description" : "General Ledger Report - Mayors Office Contingency Account",
+  "displayType" : "blob",
+  "downloadCount" : 13,
+  "indexUpdatedAt" : 1386611133,
+  "newBackend" : false,
+  "numberOfComments" : 0,
+  "oid" : 6745288,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1386609605,
+  "publicationGroup" : 1392625,
+  "publicationStage" : "published",
+  "signed" : false,
+  "tableId" : 1392625,
+  "totalTimesRated" : 0,
+  "viewCount" : 21,
+  "viewLastModified" : 1386609653,
+  "viewType" : "blobby",
+  "grants" : [ {
+    "inherited" : false,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "renderTypeConfig" : {
+      "visible" : {
+        "blob" : true
+      }
+    },
+    "availableDisplayTypes" : [ "blob" ]
+  },
+  "owner" : {
+    "id" : "ib3f-d9gf",
+    "displayName" : "Toby",
+    "screenName" : "Toby"
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "ib3f-d9gf",
+    "displayName" : "Toby",
+    "screenName" : "Toby"
+  },
+  "flags" : [ "default" ]
+}, {
+  "id" : "6hyt-hwuu",
+  "name" : "HUD Final Report - PEDP",
+  "averageRating" : 0,
+  "blobFilename" : "HUDFinalReportPEDP.pdf",
+  "blobFileSize" : 594827,
+  "blobId" : "MY6tH2FLZOHnXXfXJk4Z9peN9isVaGUtGaLMG1j8914",
+  "blobMimeType" : "application/pdf; charset=binary",
+  "category" : "Finance",
+  "createdAt" : 1386274638,
+  "description" : "HUD Final Report to PEDP, December 5, 2013.",
+  "displayType" : "blob",
+  "downloadCount" : 7,
+  "indexUpdatedAt" : 1386335636,
+  "newBackend" : false,
+  "numberOfComments" : 0,
+  "oid" : 6708041,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1386274638,
+  "publicationGroup" : 1388189,
+  "publicationStage" : "published",
+  "signed" : false,
+  "tableId" : 1388189,
+  "totalTimesRated" : 0,
+  "viewCount" : 13,
+  "viewLastModified" : 1386274676,
+  "viewType" : "blobby",
+  "grants" : [ {
+    "inherited" : false,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "renderTypeConfig" : {
+      "visible" : {
+        "blob" : true
+      }
+    },
+    "availableDisplayTypes" : [ "blob" ]
+  },
+  "owner" : {
+    "id" : "v6h4-bzm6",
+    "displayName" : "Jim",
+    "screenName" : "Jim"
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "v6h4-bzm6",
+    "displayName" : "Jim",
+    "screenName" : "Jim"
+  },
+  "tags" : [ "pedp", "hud" ],
+  "flags" : [ "default" ]
+}, {
+  "id" : "2pca-62ru",
+  "name" : "1940 City Field Assessment Records",
+  "averageRating" : 0,
+  "category" : "Reference",
+  "createdAt" : 1382038859,
+  "description" : "Abstract: This digitized collection contains approximately 90,000 images of Residential Assessment Records (a.k.a. “field cards”) created by the Tax Assessors Department of the City of Providence, Rhode Island. These cards contain information on structural conditions of buildings (e.g., grades of condition for foundations, walls, roofs, building materials, etc.) organized by, street address, and plat & lot number within the City of Providence.  The verso of these cards contains structural diagrams, land valuations, and cost computations.\r\n-----------------------------------------------------------\r\nFinding aid:\r\nProvidence City Field Assessment Records \r\n-----------------------------------------------------------\r\n\r\nSeries 1: 1940\r\n-----------------------------------------------------------\r\n\r\nCreator: Providence City Archives\r\n------------------------------------------------------------\r\n\r\nLanguage of materials: English\r\n------------------------------------------------------\r\n\r\nRepository: Providence City Archives\r\n-------------------------------------------------------\r\nRecord Group Number: RG 131.3\r\n--------------------------------------------------------\r\nScope and Content: The field cards were developed as a measure to accurately grade the value of a structure for tax purposes within the City of Providence.  The strength of the collection, contemporarily, concerns the sections under “Land Valuation” on the verso of the digitized documents, particularly the status for which a building was zoned for (eg., house, apartment, industrial, or commercial structure, etc.).  This information helps distinguish the maximum amount of tenants a residential building can have within code. Other areas of interest include quality assessments from building materials to structural condition (eg., cost computation of values before and after deductions of existing conditions and improvements of a structure). \r\n-------------------------------------------------------------\r\nArrangement: The field cards are digitized and arranged in the Socrata database system accessed by address + plat/lot. \r\n------------------------------------------------------------------\r\nAccess to the collection: There are no restrictions to access. \r\n---------------------------------------------------------------------\r\nUse of materials: The materials are within public domain. However, researchers are kindly asked to cite the Providence City Archives if reproduced.\r\n-----------------------------------------------------------------\r\nPreferred citation:  Residential Assessment Records, RG131.3, Providence City Archives.",
+  "displayType" : "table",
+  "downloadCount" : 0,
+  "indexUpdatedAt" : 1385579347,
+  "newBackend" : false,
+  "numberOfComments" : 0,
+  "oid" : 6611652,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1385578338,
+  "publicationGroup" : 1260862,
+  "publicationStage" : "published",
+  "rowsUpdatedAt" : 1385578314,
+  "rowsUpdatedBy" : "v6h4-bzm6",
+  "signed" : false,
+  "tableId" : 1378193,
+  "totalTimesRated" : 0,
+  "viewCount" : 141,
+  "viewLastModified" : 1385578338,
+  "viewType" : "tabular",
+  "grants" : [ {
+    "inherited" : false,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "renderTypeConfig" : {
+      "visible" : {
+        "table" : true
+      }
+    },
+    "availableDisplayTypes" : [ "table", "fatrow", "page" ],
+    "rdfSubject" : "0"
+  },
+  "owner" : {
+    "id" : "v6h4-bzm6",
+    "displayName" : "Jim",
+    "screenName" : "Jim"
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "v6h4-bzm6",
+    "displayName" : "Jim",
+    "screenName" : "Jim"
+  },
+  "tags" : [ "assessment", "archives" ],
+  "flags" : [ "default" ]
+}, {
+  "id" : "6hhq-v98e",
+  "name" : "Base Zoning",
+  "averageRating" : 0,
+  "blobFilename" : "Zoning.zip",
+  "blobFileSize" : 355471,
+  "blobId" : "1it2jve4ppzxEjXBDlywmj7-L9E76t7rTkl7k2GzBpg",
+  "blobMimeType" : "application/zip; charset=binary",
+  "category" : "Reference",
+  "createdAt" : 1367852147,
+  "description" : "Base zoning districts for the City of Providence",
+  "displayType" : "map",
+  "downloadCount" : 0,
+  "indexUpdatedAt" : 1385133023,
+  "newBackend" : false,
+  "numberOfComments" : 0,
+  "oid" : 3490754,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1367852150,
+  "publicationGroup" : 840703,
+  "publicationStage" : "published",
+  "signed" : false,
+  "tableId" : 840703,
+  "totalTimesRated" : 0,
+  "viewCount" : 37,
+  "viewLastModified" : 1385128520,
+  "viewType" : "geo",
+  "childViews" : [ "4wx5-k8a7" ],
+  "grants" : [ {
+    "inherited" : false,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "renderTypeConfig" : {
+      "visible" : {
+        "map" : true
+      }
+    },
+    "availableDisplayTypes" : [ "map", "table", "fatrow", "page" ],
+    "geo" : {
+      "owsUrl" : "/api/geospatial/6hhq-v98e",
+      "bbox" : "-71.47243795901737,41.7723882514577,-71.37650781843773,41.86184595192566",
+      "layers" : "geo_6hhq-v98e-1",
+      "featureIdAttribute" : "_SocrataID",
+      "bboxCrs" : "EPSG:4326",
+      "namespace" : "geo_6hhq-v98e"
+    }
+  },
+  "owner" : {
+    "id" : "8zu9-a2mc",
+    "displayName" : "David",
+    "screenName" : "David"
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "8zu9-a2mc",
+    "displayName" : "David",
+    "screenName" : "David"
+  },
+  "tags" : [ "zoning" ],
+  "flags" : [ "default" ]
+}, {
+  "id" : "njzi-9fak",
+  "name" : "Hurricane Surge (Worst Case) Inundation Areas",
+  "averageRating" : 0,
+  "blobFilename" : "provHIA09.zip",
+  "blobFileSize" : 698260,
+  "blobId" : "iOGwhaYpxf4ZOHf1o54leVagWJuKx-SEOksYk3ke5rI",
+  "blobMimeType" : "application/zip; charset=binary",
+  "category" : "Reference",
+  "createdAt" : 1367851922,
+  "description" : "Worst case hurricane surge inundation areas for category 1 through 4 hurricanes striking the coast of Rhode Island.",
+  "displayType" : "map",
+  "downloadCount" : 0,
+  "indexUpdatedAt" : 1385132925,
+  "newBackend" : false,
+  "numberOfComments" : 0,
+  "oid" : 3490720,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1367851932,
+  "publicationGroup" : 840693,
+  "publicationStage" : "published",
+  "signed" : false,
+  "tableId" : 840693,
+  "totalTimesRated" : 0,
+  "viewCount" : 60,
+  "viewLastModified" : 1385128446,
+  "viewType" : "geo",
+  "childViews" : [ "ksyd-dhjs" ],
+  "grants" : [ {
+    "inherited" : false,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "renderTypeConfig" : {
+      "visible" : {
+        "map" : true
+      }
+    },
+    "availableDisplayTypes" : [ "map", "table", "fatrow", "page" ],
+    "geo" : {
+      "owsUrl" : "/api/geospatial/njzi-9fak",
+      "bbox" : "-71.45975349418556,41.732174906192185,-71.31768897483848,41.896860538657506",
+      "layers" : "geo_njzi-9fak-1",
+      "featureIdAttribute" : "_SocrataID",
+      "bboxCrs" : "EPSG:4326",
+      "namespace" : "geo_njzi-9fak"
+    }
+  },
+  "owner" : {
+    "id" : "8zu9-a2mc",
+    "displayName" : "David",
+    "screenName" : "David"
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "8zu9-a2mc",
+    "displayName" : "David",
+    "screenName" : "David"
+  },
+  "tags" : [ "hurricane surge", "inundation areas", "rhode island coast" ],
+  "flags" : [ "default" ]
+}, {
+  "id" : "i766-p32v",
+  "name" : "Investment Performance And Manager Review 2013-09",
+  "averageRating" : 0,
+  "blobFilename" : "Investment Performance and Manager Review 2013-09.pdf",
+  "blobFileSize" : 1964659,
+  "blobId" : "yfQ6yKylOsxDBVca0DxQJsqjGZCH59viFwUN_io2cz4",
+  "blobMimeType" : "application/pdf; charset=binary",
+  "category" : "Retirement",
+  "createdAt" : 1385071582,
+  "description" : "Performance Analysis for Providence Employees’ Retirement System, 2013-09",
+  "displayType" : "blob",
+  "downloadCount" : 24,
+  "indexUpdatedAt" : 1385080900,
+  "newBackend" : false,
+  "numberOfComments" : 0,
+  "oid" : 6522910,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1385071582,
+  "publicationGroup" : 1366290,
+  "publicationStage" : "published",
+  "signed" : false,
+  "tableId" : 1366290,
+  "totalTimesRated" : 0,
+  "viewCount" : 34,
+  "viewLastModified" : 1385071603,
+  "viewType" : "blobby",
+  "grants" : [ {
+    "inherited" : false,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "renderTypeConfig" : {
+      "visible" : {
+        "blob" : true
+      }
+    },
+    "availableDisplayTypes" : [ "blob" ]
+  },
+  "owner" : {
+    "id" : "v6h4-bzm6",
+    "displayName" : "Jim",
+    "screenName" : "Jim"
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "v6h4-bzm6",
+    "displayName" : "Jim",
+    "screenName" : "Jim"
+  },
+  "tags" : [ "retirement", "finance", "pension" ],
+  "flags" : [ "default" ]
+}, {
+  "id" : "f2qm-wrm7",
+  "name" : "Investment Performance And Manager Review 2013-08",
+  "averageRating" : 0,
+  "blobFilename" : "Investment Performance and Manager Review 2013-08.pdf",
+  "blobFileSize" : 1479424,
+  "blobId" : "1GnpQLh6LCzUdle39vmGU4Xoge2EZ5RWqm9yoOeO2co",
+  "blobMimeType" : "application/pdf; charset=binary",
+  "category" : "Retirement",
+  "createdAt" : 1385071537,
+  "description" : "Performance Analysis for Providence Employees’ Retirement System, 2013-08",
+  "displayType" : "blob",
+  "downloadCount" : 13,
+  "indexUpdatedAt" : 1385080900,
+  "newBackend" : false,
+  "numberOfComments" : 0,
+  "oid" : 6522907,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1385071537,
+  "publicationGroup" : 1366289,
+  "publicationStage" : "published",
+  "signed" : false,
+  "tableId" : 1366289,
+  "totalTimesRated" : 0,
+  "viewCount" : 9,
+  "viewLastModified" : 1385071559,
+  "viewType" : "blobby",
+  "grants" : [ {
+    "inherited" : false,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "renderTypeConfig" : {
+      "visible" : {
+        "blob" : true
+      }
+    },
+    "availableDisplayTypes" : [ "blob" ]
+  },
+  "owner" : {
+    "id" : "v6h4-bzm6",
+    "displayName" : "Jim",
+    "screenName" : "Jim"
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "v6h4-bzm6",
+    "displayName" : "Jim",
+    "screenName" : "Jim"
+  },
+  "tags" : [ "retirement", "finance", "pension" ],
+  "flags" : [ "default" ]
+}, {
+  "id" : "8w7s-tyi4",
+  "name" : "Investment Performance And Manager Review 2013-07",
+  "averageRating" : 0,
+  "blobFilename" : "Investment Performance and Manager Review 2013-07.pdf",
+  "blobFileSize" : 1998659,
+  "blobId" : "iJ7vGUYjNMLBTakCyOFTmeCrj8M6rlvBowZ6sIdMNE8",
+  "blobMimeType" : "application/pdf; charset=binary",
+  "category" : "Retirement",
+  "createdAt" : 1385071477,
+  "description" : "Performance Analysis for Providence Employees’ Retirement System, 2013-07",
+  "displayType" : "blob",
+  "downloadCount" : 21,
+  "indexUpdatedAt" : 1385080899,
+  "newBackend" : false,
+  "numberOfComments" : 0,
+  "oid" : 6522900,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1385071477,
+  "publicationGroup" : 1366286,
+  "publicationStage" : "published",
+  "signed" : false,
+  "tableId" : 1366286,
+  "totalTimesRated" : 0,
+  "viewCount" : 8,
+  "viewLastModified" : 1385071503,
+  "viewType" : "blobby",
+  "grants" : [ {
+    "inherited" : false,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "renderTypeConfig" : {
+      "visible" : {
+        "blob" : true
+      }
+    },
+    "availableDisplayTypes" : [ "blob" ]
+  },
+  "owner" : {
+    "id" : "v6h4-bzm6",
+    "displayName" : "Jim",
+    "screenName" : "Jim"
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "v6h4-bzm6",
+    "displayName" : "Jim",
+    "screenName" : "Jim"
+  },
+  "tags" : [ "retirement", "finance", "pension" ],
+  "flags" : [ "default" ]
+}, {
+  "id" : "9h5s-m3s2",
+  "name" : "Investment Performance And Manager Review 2013-06",
+  "averageRating" : 0,
+  "blobFilename" : "Investment Performance and Manager Review 2013-06.pdf",
+  "blobFileSize" : 1282818,
+  "blobId" : "-__oS_j-b4XFrtuuPEDGDH5h0QcxrR_x_1qiVPuYNwE",
+  "blobMimeType" : "application/pdf; charset=binary",
+  "category" : "Retirement",
+  "createdAt" : 1385071431,
+  "description" : "Performance Analysis for Providence Employees’ Retirement System, 2013-06",
+  "displayType" : "blob",
+  "downloadCount" : 12,
+  "indexUpdatedAt" : 1385080894,
+  "newBackend" : false,
+  "numberOfComments" : 0,
+  "oid" : 6522891,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1385071431,
+  "publicationGroup" : 1366283,
+  "publicationStage" : "published",
+  "signed" : false,
+  "tableId" : 1366283,
+  "totalTimesRated" : 0,
+  "viewCount" : 7,
+  "viewLastModified" : 1385071454,
+  "viewType" : "blobby",
+  "grants" : [ {
+    "inherited" : false,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "renderTypeConfig" : {
+      "visible" : {
+        "blob" : true
+      }
+    },
+    "availableDisplayTypes" : [ "blob" ]
+  },
+  "owner" : {
+    "id" : "v6h4-bzm6",
+    "displayName" : "Jim",
+    "screenName" : "Jim"
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "v6h4-bzm6",
+    "displayName" : "Jim",
+    "screenName" : "Jim"
+  },
+  "tags" : [ "retirement", "finance", "pension" ],
+  "flags" : [ "default" ]
+}, {
+  "id" : "bzwd-zsui",
+  "name" : "Investment Performance And Manager Review 2013-05",
+  "averageRating" : 0,
+  "blobFilename" : "Investment Performance and Manager Review 2013-05.pdf",
+  "blobFileSize" : 1268705,
+  "blobId" : "_ojG0wmcF9C4bZggS0xQNfgNIHpc_NUAlFh6zEqqIqo",
+  "blobMimeType" : "application/pdf; charset=binary",
+  "category" : "Retirement",
+  "createdAt" : 1385071390,
+  "description" : "Performance Analysis for Providence Employees’ Retirement System, 2013-05",
+  "displayType" : "blob",
+  "downloadCount" : 16,
+  "indexUpdatedAt" : 1385080897,
+  "newBackend" : false,
+  "numberOfComments" : 0,
+  "oid" : 6522887,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1385071390,
+  "publicationGroup" : 1366281,
+  "publicationStage" : "published",
+  "signed" : false,
+  "tableId" : 1366281,
+  "totalTimesRated" : 0,
+  "viewCount" : 8,
+  "viewLastModified" : 1385071412,
+  "viewType" : "blobby",
+  "grants" : [ {
+    "inherited" : false,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "renderTypeConfig" : {
+      "visible" : {
+        "blob" : true
+      }
+    },
+    "availableDisplayTypes" : [ "blob" ]
+  },
+  "owner" : {
+    "id" : "v6h4-bzm6",
+    "displayName" : "Jim",
+    "screenName" : "Jim"
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "v6h4-bzm6",
+    "displayName" : "Jim",
+    "screenName" : "Jim"
+  },
+  "tags" : [ "retirement", "finance", "pension" ],
+  "flags" : [ "default" ]
+}, {
+  "id" : "in7k-ezey",
+  "name" : "Investment Performance And Manager Review 2013-04",
+  "averageRating" : 0,
+  "blobFilename" : "Investment Performance and Manager Review 2013-04.pdf",
+  "blobFileSize" : 1229255,
+  "blobId" : "euBnw57S_5vuILCHVwVJyRVV5U56xUeAEewKc7z5adw",
+  "blobMimeType" : "application/pdf; charset=binary",
+  "category" : "Retirement",
+  "createdAt" : 1385071342,
+  "description" : "Performance Analysis for Providence Employees’ Retirement System, 2013-04",
+  "displayType" : "blob",
+  "downloadCount" : 18,
+  "indexUpdatedAt" : 1385080891,
+  "newBackend" : false,
+  "numberOfComments" : 0,
+  "oid" : 6522883,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1385071342,
+  "publicationGroup" : 1366278,
+  "publicationStage" : "published",
+  "signed" : false,
+  "tableId" : 1366278,
+  "totalTimesRated" : 0,
+  "viewCount" : 8,
+  "viewLastModified" : 1385071366,
+  "viewType" : "blobby",
+  "grants" : [ {
+    "inherited" : false,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "renderTypeConfig" : {
+      "visible" : {
+        "blob" : true
+      }
+    },
+    "availableDisplayTypes" : [ "blob" ]
+  },
+  "owner" : {
+    "id" : "v6h4-bzm6",
+    "displayName" : "Jim",
+    "screenName" : "Jim"
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "v6h4-bzm6",
+    "displayName" : "Jim",
+    "screenName" : "Jim"
+  },
+  "tags" : [ "retirement", "finance", "pension" ],
+  "flags" : [ "default" ]
+}, {
+  "id" : "scav-bece",
+  "name" : "Investment Performance And Manager Review 2013-03",
+  "averageRating" : 0,
+  "blobFilename" : "Investment Performance and Manager Review 2013-03.pdf",
+  "blobFileSize" : 1301365,
+  "blobId" : "9HHl3LIFFks08xdpjX3R982vDy9F92RMgVEWW2015oQ",
+  "blobMimeType" : "application/pdf; charset=binary",
+  "category" : "Retirement",
+  "createdAt" : 1385071292,
+  "description" : "Performance Analysis for Providence Employees’ Retirement System, 2013-03",
+  "displayType" : "blob",
+  "downloadCount" : 17,
+  "indexUpdatedAt" : 1385080893,
+  "newBackend" : false,
+  "numberOfComments" : 0,
+  "oid" : 6522881,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1385071292,
+  "publicationGroup" : 1366276,
+  "publicationStage" : "published",
+  "signed" : false,
+  "tableId" : 1366276,
+  "totalTimesRated" : 0,
+  "viewCount" : 8,
+  "viewLastModified" : 1385071317,
+  "viewType" : "blobby",
+  "grants" : [ {
+    "inherited" : false,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "renderTypeConfig" : {
+      "visible" : {
+        "blob" : true
+      }
+    },
+    "availableDisplayTypes" : [ "blob" ]
+  },
+  "owner" : {
+    "id" : "v6h4-bzm6",
+    "displayName" : "Jim",
+    "screenName" : "Jim"
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "v6h4-bzm6",
+    "displayName" : "Jim",
+    "screenName" : "Jim"
+  },
+  "tags" : [ "retirement", "finance", "pension" ],
+  "flags" : [ "default" ]
+}, {
+  "id" : "xngc-xgwj",
+  "name" : "Investment Performance And Manager Review 2013-02",
+  "averageRating" : 0,
+  "blobFilename" : "Investment Performance and Manager Review 2013-02.pdf",
+  "blobFileSize" : 1279451,
+  "blobId" : "cg6pkV39lZXrSPZebfALgOJKifnbRgKYDt751DNzB04",
+  "blobMimeType" : "application/pdf; charset=binary",
+  "category" : "Retirement",
+  "createdAt" : 1385071250,
+  "description" : "Performance Analysis for Providence Employees’ Retirement System, 2013-02",
+  "displayType" : "blob",
+  "downloadCount" : 12,
+  "indexUpdatedAt" : 1385080841,
+  "newBackend" : false,
+  "numberOfComments" : 0,
+  "oid" : 6522862,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1385071250,
+  "publicationGroup" : 1366275,
+  "publicationStage" : "published",
+  "signed" : false,
+  "tableId" : 1366275,
+  "totalTimesRated" : 0,
+  "viewCount" : 7,
+  "viewLastModified" : 1385071272,
+  "viewType" : "blobby",
+  "grants" : [ {
+    "inherited" : false,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "renderTypeConfig" : {
+      "visible" : {
+        "blob" : true
+      }
+    },
+    "availableDisplayTypes" : [ "blob" ]
+  },
+  "owner" : {
+    "id" : "v6h4-bzm6",
+    "displayName" : "Jim",
+    "screenName" : "Jim"
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "v6h4-bzm6",
+    "displayName" : "Jim",
+    "screenName" : "Jim"
+  },
+  "tags" : [ "retirement", "finance", "pension" ],
+  "flags" : [ "default" ]
+}, {
+  "id" : "xtta-252m",
+  "name" : "Investment Performance And Manager Review 2013-01",
+  "averageRating" : 0,
+  "blobFilename" : "Investment Performance and Manager Review 2013-01.pdf",
+  "blobFileSize" : 1524221,
+  "blobId" : "zmZ4tw07lYtV3pZ8I9EXWoPM2TR7Q3lJSJgYzDeKBEg",
+  "blobMimeType" : "application/pdf; charset=binary",
+  "category" : "Retirement",
+  "createdAt" : 1385071213,
+  "description" : "Performance Analysis for Providence Employees’ Retirement System, 2013-01",
+  "displayType" : "blob",
+  "downloadCount" : 19,
+  "indexUpdatedAt" : 1385080841,
+  "newBackend" : false,
+  "numberOfComments" : 0,
+  "oid" : 6522856,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1385071213,
+  "publicationGroup" : 1366271,
+  "publicationStage" : "published",
+  "signed" : false,
+  "tableId" : 1366271,
+  "totalTimesRated" : 0,
+  "viewCount" : 12,
+  "viewLastModified" : 1385071234,
+  "viewType" : "blobby",
+  "grants" : [ {
+    "inherited" : false,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "renderTypeConfig" : {
+      "visible" : {
+        "blob" : true
+      }
+    },
+    "availableDisplayTypes" : [ "blob" ]
+  },
+  "owner" : {
+    "id" : "v6h4-bzm6",
+    "displayName" : "Jim",
+    "screenName" : "Jim"
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "v6h4-bzm6",
+    "displayName" : "Jim",
+    "screenName" : "Jim"
+  },
+  "tags" : [ "retirement", "finance", "pension" ],
+  "flags" : [ "default" ]
+}, {
+  "id" : "ibiy-nsb2",
+  "name" : "Investment Performance And Manager Review 2012-12",
+  "averageRating" : 0,
+  "blobFilename" : "Investment Performance and Manager Review 2012-12.pdf",
+  "blobFileSize" : 1246246,
+  "blobId" : "ii-EYrU7cC9LgLs8P84jqjlyyPJn1lGlDJuVFa_x_ug",
+  "blobMimeType" : "application/pdf; charset=binary",
+  "category" : "Retirement",
+  "createdAt" : 1385071132,
+  "description" : "Performance Analysis for Providence Employees’ Retirement System, 2012-12",
+  "displayType" : "blob",
+  "downloadCount" : 16,
+  "indexUpdatedAt" : 1385080841,
+  "newBackend" : false,
+  "numberOfComments" : 0,
+  "oid" : 6522842,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1385071132,
+  "publicationGroup" : 1366266,
+  "publicationStage" : "published",
+  "signed" : false,
+  "tableId" : 1366266,
+  "totalTimesRated" : 0,
+  "viewCount" : 7,
+  "viewLastModified" : 1385071151,
+  "viewType" : "blobby",
+  "grants" : [ {
+    "inherited" : false,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "renderTypeConfig" : {
+      "visible" : {
+        "blob" : true
+      }
+    },
+    "availableDisplayTypes" : [ "blob" ]
+  },
+  "owner" : {
+    "id" : "v6h4-bzm6",
+    "displayName" : "Jim",
+    "screenName" : "Jim"
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "v6h4-bzm6",
+    "displayName" : "Jim",
+    "screenName" : "Jim"
+  },
+  "tags" : [ "retirement", "finance", "pension" ],
+  "flags" : [ "default" ]
+}, {
+  "id" : "gwuy-st22",
+  "name" : "Investment Performance And Manager Review 2012-11",
+  "averageRating" : 0,
+  "blobFilename" : "Investment Performance and Manager Review 2012-11.pdf",
+  "blobFileSize" : 1302602,
+  "blobId" : "EdhRRNAoaJytLgyo93bUvOU9rGQTq6-L0lUYea77D70",
+  "blobMimeType" : "application/pdf; charset=binary",
+  "category" : "Retirement",
+  "createdAt" : 1385071092,
+  "description" : "Performance Analysis for Providence Employees’ Retirement System, 2012-11",
+  "displayType" : "blob",
+  "downloadCount" : 3,
+  "indexUpdatedAt" : 1385080840,
+  "newBackend" : false,
+  "numberOfComments" : 0,
+  "oid" : 6522837,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1385071092,
+  "publicationGroup" : 1366263,
+  "publicationStage" : "published",
+  "signed" : false,
+  "tableId" : 1366263,
+  "totalTimesRated" : 0,
+  "viewCount" : 2,
+  "viewLastModified" : 1385071112,
+  "viewType" : "blobby",
+  "grants" : [ {
+    "inherited" : false,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "renderTypeConfig" : {
+      "visible" : {
+        "blob" : true
+      }
+    },
+    "availableDisplayTypes" : [ "blob" ]
+  },
+  "owner" : {
+    "id" : "v6h4-bzm6",
+    "displayName" : "Jim",
+    "screenName" : "Jim"
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "v6h4-bzm6",
+    "displayName" : "Jim",
+    "screenName" : "Jim"
+  },
+  "tags" : [ "retirement", "finance", "pension" ],
+  "flags" : [ "default" ]
+}, {
+  "id" : "vi5g-4jvr",
+  "name" : "Investment Performance And Manager Review 2012-10",
+  "averageRating" : 0,
+  "blobFilename" : "Investment Performance and Manager Review 2012-10.pdf",
+  "blobFileSize" : 1139581,
+  "blobId" : "1St2pkEMrk-2_mYovHrlvKrDNB1IULLT7rPnDzR2Vk4",
+  "blobMimeType" : "application/pdf; charset=binary",
+  "category" : "Retirement",
+  "createdAt" : 1385071040,
+  "description" : "Performance Analysis for Providence Employees’ Retirement System, 2012-10",
+  "displayType" : "blob",
+  "downloadCount" : 3,
+  "indexUpdatedAt" : 1385080815,
+  "newBackend" : false,
+  "numberOfComments" : 0,
+  "oid" : 6522836,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1385071040,
+  "publicationGroup" : 1366262,
+  "publicationStage" : "published",
+  "signed" : false,
+  "tableId" : 1366262,
+  "totalTimesRated" : 0,
+  "viewCount" : 1,
+  "viewLastModified" : 1385071062,
+  "viewType" : "blobby",
+  "grants" : [ {
+    "inherited" : false,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "renderTypeConfig" : {
+      "visible" : {
+        "blob" : true
+      }
+    },
+    "availableDisplayTypes" : [ "blob" ]
+  },
+  "owner" : {
+    "id" : "v6h4-bzm6",
+    "displayName" : "Jim",
+    "screenName" : "Jim"
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "v6h4-bzm6",
+    "displayName" : "Jim",
+    "screenName" : "Jim"
+  },
+  "tags" : [ "retirement", "finance", "pension" ],
+  "flags" : [ "default" ]
+}, {
+  "id" : "p8wt-dtu2",
+  "name" : "Investment Performance And Manager Review 2012-09",
+  "averageRating" : 0,
+  "blobFilename" : "Investment Performance and Manager Review 2012-09.pdf",
+  "blobFileSize" : 1250627,
+  "blobId" : "09gSWsFL1D_kHm0tcBmwsTSmDBGlz8Xm5iBqpRo0m-k",
+  "blobMimeType" : "application/pdf; charset=binary",
+  "category" : "Retirement",
+  "createdAt" : 1385071000,
+  "description" : "Performance Analysis for Providence Employees’ Retirement System, 2012-09",
+  "displayType" : "blob",
+  "downloadCount" : 2,
+  "indexUpdatedAt" : 1385080815,
+  "newBackend" : false,
+  "numberOfComments" : 0,
+  "oid" : 6522835,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1385071000,
+  "publicationGroup" : 1366261,
+  "publicationStage" : "published",
+  "signed" : false,
+  "tableId" : 1366261,
+  "totalTimesRated" : 0,
+  "viewCount" : 2,
+  "viewLastModified" : 1385071020,
+  "viewType" : "blobby",
+  "grants" : [ {
+    "inherited" : false,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "renderTypeConfig" : {
+      "visible" : {
+        "blob" : true
+      }
+    },
+    "availableDisplayTypes" : [ "blob" ]
+  },
+  "owner" : {
+    "id" : "v6h4-bzm6",
+    "displayName" : "Jim",
+    "screenName" : "Jim"
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "v6h4-bzm6",
+    "displayName" : "Jim",
+    "screenName" : "Jim"
+  },
+  "tags" : [ "retirement", "finance", "pension" ],
+  "flags" : [ "default" ]
+}, {
+  "id" : "x2pg-gzbc",
+  "name" : "Investment Performance And Manager Review 2012-08",
+  "averageRating" : 0,
+  "blobFilename" : "Investment Performance and Manager Review 2012-08.pdf",
+  "blobFileSize" : 1255292,
+  "blobId" : "Vowx3UXkCFoReZMX_eTc963T0aJVXrGMb8PK6Ktx3hw",
+  "blobMimeType" : "application/pdf; charset=binary",
+  "category" : "Retirement",
+  "createdAt" : 1385070953,
+  "description" : "Performance Analysis for Providence Employees’ Retirement System, 2012-08",
+  "displayType" : "blob",
+  "downloadCount" : 3,
+  "indexUpdatedAt" : 1385080808,
+  "newBackend" : false,
+  "numberOfComments" : 0,
+  "oid" : 6522833,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1385070953,
+  "publicationGroup" : 1366260,
+  "publicationStage" : "published",
+  "signed" : false,
+  "tableId" : 1366260,
+  "totalTimesRated" : 0,
+  "viewCount" : 2,
+  "viewLastModified" : 1385070975,
+  "viewType" : "blobby",
+  "grants" : [ {
+    "inherited" : false,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "renderTypeConfig" : {
+      "visible" : {
+        "blob" : true
+      }
+    },
+    "availableDisplayTypes" : [ "blob" ]
+  },
+  "owner" : {
+    "id" : "v6h4-bzm6",
+    "displayName" : "Jim",
+    "screenName" : "Jim"
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "v6h4-bzm6",
+    "displayName" : "Jim",
+    "screenName" : "Jim"
+  },
+  "tags" : [ "retirement", "finance", "pension" ],
+  "flags" : [ "default" ]
+}, {
+  "id" : "67pc-r366",
+  "name" : "Investment Performance And Manager Review 2012-07",
+  "averageRating" : 0,
+  "blobFilename" : "Investment Performance and Manager Review 2012-07.pdf",
+  "blobFileSize" : 1237760,
+  "blobId" : "UtoU0moqkbgwA2lBS6WpeYUgke6K_Ctw5OHkWe_vT_Q",
+  "blobMimeType" : "application/pdf; charset=binary",
+  "category" : "Retirement",
+  "createdAt" : 1385070905,
+  "description" : "Performance Analysis for Providence Employees’ Retirement System, 2012-07",
+  "displayType" : "blob",
+  "downloadCount" : 3,
+  "indexUpdatedAt" : 1385079848,
+  "newBackend" : false,
+  "numberOfComments" : 0,
+  "oid" : 6522829,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1385070905,
+  "publicationGroup" : 1366257,
+  "publicationStage" : "published",
+  "signed" : false,
+  "tableId" : 1366257,
+  "totalTimesRated" : 0,
+  "viewCount" : 2,
+  "viewLastModified" : 1385070928,
+  "viewType" : "blobby",
+  "grants" : [ {
+    "inherited" : false,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "renderTypeConfig" : {
+      "visible" : {
+        "blob" : true
+      }
+    },
+    "availableDisplayTypes" : [ "blob" ]
+  },
+  "owner" : {
+    "id" : "v6h4-bzm6",
+    "displayName" : "Jim",
+    "screenName" : "Jim"
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "v6h4-bzm6",
+    "displayName" : "Jim",
+    "screenName" : "Jim"
+  },
+  "tags" : [ "retirement", "finance", "pension" ],
+  "flags" : [ "default" ]
+}, {
+  "id" : "we7i-97b4",
+  "name" : "Investment Performance And Manager Review 2012-06",
+  "averageRating" : 0,
+  "blobFilename" : "Investment Performance and Manager Review 2012-06.pdf",
+  "blobFileSize" : 1164984,
+  "blobId" : "pUegQLh6FzfMBskYD0pgIxKDUkNKuJdw1rOPIvaY9JY",
+  "blobMimeType" : "application/pdf; charset=binary",
+  "category" : "Retirement",
+  "createdAt" : 1385070863,
+  "description" : "Performance Analysis for Providence Employees’ Retirement System, 2012-06",
+  "displayType" : "blob",
+  "downloadCount" : 3,
+  "indexUpdatedAt" : 1385079848,
+  "newBackend" : false,
+  "numberOfComments" : 0,
+  "oid" : 6522817,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1385070863,
+  "publicationGroup" : 1366255,
+  "publicationStage" : "published",
+  "signed" : false,
+  "tableId" : 1366255,
+  "totalTimesRated" : 0,
+  "viewCount" : 1,
+  "viewLastModified" : 1385070886,
+  "viewType" : "blobby",
+  "grants" : [ {
+    "inherited" : false,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "renderTypeConfig" : {
+      "visible" : {
+        "blob" : true
+      }
+    },
+    "availableDisplayTypes" : [ "blob" ]
+  },
+  "owner" : {
+    "id" : "v6h4-bzm6",
+    "displayName" : "Jim",
+    "screenName" : "Jim"
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "v6h4-bzm6",
+    "displayName" : "Jim",
+    "screenName" : "Jim"
+  },
+  "tags" : [ "retirement", "finance", "pension" ],
+  "flags" : [ "default" ]
+}, {
+  "id" : "58xg-viqi",
+  "name" : "Investment Performance And Manager Review 2012-05",
+  "averageRating" : 0,
+  "blobFilename" : "Investment Performance and Manager Review 2012-05.pdf",
+  "blobFileSize" : 1258010,
+  "blobId" : "L47QfSJ0AWYsGZVeHFiaOCI7BCw4Z69mBQN3-w116UA",
+  "blobMimeType" : "application/pdf; charset=binary",
+  "category" : "Retirement",
+  "createdAt" : 1385070809,
+  "description" : "Performance Analysis for Providence Employees’ Retirement System, 2012-05",
+  "displayType" : "blob",
+  "downloadCount" : 3,
+  "indexUpdatedAt" : 1385079848,
+  "newBackend" : false,
+  "numberOfComments" : 0,
+  "oid" : 6522815,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1385070809,
+  "publicationGroup" : 1366253,
+  "publicationStage" : "published",
+  "signed" : false,
+  "tableId" : 1366253,
+  "totalTimesRated" : 0,
+  "viewCount" : 1,
+  "viewLastModified" : 1385070835,
+  "viewType" : "blobby",
+  "grants" : [ {
+    "inherited" : false,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "renderTypeConfig" : {
+      "visible" : {
+        "blob" : true
+      }
+    },
+    "availableDisplayTypes" : [ "blob" ]
+  },
+  "owner" : {
+    "id" : "v6h4-bzm6",
+    "displayName" : "Jim",
+    "screenName" : "Jim"
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "v6h4-bzm6",
+    "displayName" : "Jim",
+    "screenName" : "Jim"
+  },
+  "tags" : [ "retirement", "finance", "pension" ],
+  "flags" : [ "default" ]
+}, {
+  "id" : "6t93-ppet",
+  "name" : "Investment Performance And Manager Review 2012-04",
+  "averageRating" : 0,
+  "blobFilename" : "Investment Performance and Manager Review 2012-04.pdf",
+  "blobFileSize" : 1242723,
+  "blobId" : "7RUrhqVTTw46A1khe-Yy1lEZVlJToX5cSfMnwvR8qRc",
+  "blobMimeType" : "application/pdf; charset=binary",
+  "category" : "Retirement",
+  "createdAt" : 1385070726,
+  "description" : "Performance Analysis for Providence Employees’ Retirement System, 2012-04",
+  "displayType" : "blob",
+  "downloadCount" : 3,
+  "indexUpdatedAt" : 1385079848,
+  "newBackend" : false,
+  "numberOfComments" : 0,
+  "oid" : 6522811,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1385070726,
+  "publicationGroup" : 1366251,
+  "publicationStage" : "published",
+  "signed" : false,
+  "tableId" : 1366251,
+  "totalTimesRated" : 0,
+  "viewCount" : 2,
+  "viewLastModified" : 1385070748,
+  "viewType" : "blobby",
+  "grants" : [ {
+    "inherited" : false,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "renderTypeConfig" : {
+      "visible" : {
+        "blob" : true
+      }
+    },
+    "availableDisplayTypes" : [ "blob" ]
+  },
+  "owner" : {
+    "id" : "v6h4-bzm6",
+    "displayName" : "Jim",
+    "screenName" : "Jim"
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "v6h4-bzm6",
+    "displayName" : "Jim",
+    "screenName" : "Jim"
+  },
+  "tags" : [ "retirement", "finance", "pension" ],
+  "flags" : [ "default" ]
+}, {
+  "id" : "px6e-prus",
+  "name" : "Investment Performance And Manager Review 2012-03",
+  "averageRating" : 0,
+  "blobFilename" : "Investment Performance and Manager Review 2012-03.pdf",
+  "blobFileSize" : 1246943,
+  "blobId" : "RuW152QiQJFa2E53FBw2msgVOvjJzjgrdSLv1T6Hz_g",
+  "blobMimeType" : "application/pdf; charset=binary",
+  "category" : "Retirement",
+  "createdAt" : 1385070645,
+  "description" : "Performance Analysis for Providence Employees’ Retirement System, 2012-03",
+  "displayType" : "blob",
+  "downloadCount" : 5,
+  "indexUpdatedAt" : 1385079848,
+  "newBackend" : false,
+  "numberOfComments" : 0,
+  "oid" : 6522810,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1385070645,
+  "publicationGroup" : 1366250,
+  "publicationStage" : "published",
+  "signed" : false,
+  "tableId" : 1366250,
+  "totalTimesRated" : 0,
+  "viewCount" : 2,
+  "viewLastModified" : 1385070673,
+  "viewType" : "blobby",
+  "grants" : [ {
+    "inherited" : false,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "renderTypeConfig" : {
+      "visible" : {
+        "blob" : true
+      }
+    },
+    "availableDisplayTypes" : [ "blob" ]
+  },
+  "owner" : {
+    "id" : "v6h4-bzm6",
+    "displayName" : "Jim",
+    "screenName" : "Jim"
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "v6h4-bzm6",
+    "displayName" : "Jim",
+    "screenName" : "Jim"
+  },
+  "tags" : [ "retirement", "finance", "pension" ],
+  "flags" : [ "default" ]
+}, {
+  "id" : "7a9z-e9v2",
+  "name" : "Investment Performance And Manager Review 2012-02",
+  "averageRating" : 0,
+  "blobFilename" : "Investment Performance and Manager Review 2012-02.pdf",
+  "blobFileSize" : 1047630,
+  "blobId" : "iuOFBmgiEKMpQH8h5pidlvpcmKBadp9pGoU9DaB0pW8",
+  "blobMimeType" : "application/pdf; charset=binary",
+  "category" : "Retirement",
+  "createdAt" : 1385070600,
+  "description" : "Performance Analysis for Providence Employees’ Retirement System, 2012-02",
+  "displayType" : "blob",
+  "downloadCount" : 4,
+  "indexUpdatedAt" : 1385079848,
+  "newBackend" : false,
+  "numberOfComments" : 0,
+  "oid" : 6522802,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1385070600,
+  "publicationGroup" : 1366248,
+  "publicationStage" : "published",
+  "signed" : false,
+  "tableId" : 1366248,
+  "totalTimesRated" : 0,
+  "viewCount" : 2,
+  "viewLastModified" : 1385070623,
+  "viewType" : "blobby",
+  "grants" : [ {
+    "inherited" : false,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "renderTypeConfig" : {
+      "visible" : {
+        "blob" : true
+      }
+    },
+    "availableDisplayTypes" : [ "blob" ]
+  },
+  "owner" : {
+    "id" : "v6h4-bzm6",
+    "displayName" : "Jim",
+    "screenName" : "Jim"
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "v6h4-bzm6",
+    "displayName" : "Jim",
+    "screenName" : "Jim"
+  },
+  "tags" : [ "retirement", "finance", "pension" ],
+  "flags" : [ "default" ]
+}, {
+  "id" : "4eik-4vf8",
+  "name" : "Investment Performance And Manager Review 2012-01",
+  "averageRating" : 0,
+  "blobFilename" : "Investment Performance and Manager Review 2012-01.pdf",
+  "blobFileSize" : 1891936,
+  "blobId" : "XD8Z60J3sUymnz-mJxNBOrTiTkhDukLIvNOlh16F9-s",
+  "blobMimeType" : "application/pdf; charset=binary",
+  "category" : "Retirement",
+  "createdAt" : 1385070530,
+  "description" : "Performance Analysis for Providence Employees’ Retirement System, 2012-01",
+  "displayType" : "blob",
+  "downloadCount" : 3,
+  "indexUpdatedAt" : 1385079848,
+  "newBackend" : false,
+  "numberOfComments" : 0,
+  "oid" : 6522793,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1385070530,
+  "publicationGroup" : 1366245,
+  "publicationStage" : "published",
+  "signed" : false,
+  "tableId" : 1366245,
+  "totalTimesRated" : 0,
+  "viewCount" : 1,
+  "viewLastModified" : 1385070557,
+  "viewType" : "blobby",
+  "grants" : [ {
+    "inherited" : false,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "renderTypeConfig" : {
+      "visible" : {
+        "blob" : true
+      }
+    },
+    "availableDisplayTypes" : [ "blob" ]
+  },
+  "owner" : {
+    "id" : "v6h4-bzm6",
+    "displayName" : "Jim",
+    "screenName" : "Jim"
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "v6h4-bzm6",
+    "displayName" : "Jim",
+    "screenName" : "Jim"
+  },
+  "tags" : [ "retirement", "finance", "pension" ],
+  "flags" : [ "default" ]
+}, {
+  "id" : "xi5t-9bi6",
+  "name" : "Investment Performance And Manager Review 2011-12",
+  "averageRating" : 0,
+  "blobFilename" : "Investment Performance and Manager Review 2011-12.pdf",
+  "blobFileSize" : 1501535,
+  "blobId" : "EJ5937vy4Vp-_2FFpeSQE7cdz_W54TYE04Fz-3Mfl-Y",
+  "blobMimeType" : "application/pdf; charset=binary",
+  "category" : "Retirement",
+  "createdAt" : 1385070397,
+  "description" : "Performance Analysis for Providence Employees’ Retirement System, 2011-12",
+  "displayType" : "blob",
+  "downloadCount" : 3,
+  "indexUpdatedAt" : 1385079848,
+  "newBackend" : false,
+  "numberOfComments" : 0,
+  "oid" : 6522783,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1385070397,
+  "publicationGroup" : 1366239,
+  "publicationStage" : "published",
+  "signed" : false,
+  "tableId" : 1366239,
+  "totalTimesRated" : 0,
+  "viewCount" : 1,
+  "viewLastModified" : 1385070419,
+  "viewType" : "blobby",
+  "grants" : [ {
+    "inherited" : false,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "renderTypeConfig" : {
+      "visible" : {
+        "blob" : true
+      }
+    },
+    "availableDisplayTypes" : [ "blob" ]
+  },
+  "owner" : {
+    "id" : "v6h4-bzm6",
+    "displayName" : "Jim",
+    "screenName" : "Jim"
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "v6h4-bzm6",
+    "displayName" : "Jim",
+    "screenName" : "Jim"
+  },
+  "tags" : [ "retirement", "finance", "pension" ],
+  "flags" : [ "default" ]
+}, {
+  "id" : "3y9i-6jiz",
+  "name" : "Investment Performance And Manager Review 2011-11",
+  "averageRating" : 0,
+  "blobFilename" : "Investment Performance and Manager Review 2011-11.pdf",
+  "blobFileSize" : 1531262,
+  "blobId" : "5ak0am42InSad2ss8-mXA_JVnIFi80GgtlUreruIcII",
+  "blobMimeType" : "application/pdf; charset=binary",
+  "category" : "Retirement",
+  "createdAt" : 1385070355,
+  "description" : "Performance Analysis for Providence Employees’ Retirement System, 2011-11",
+  "displayType" : "blob",
+  "downloadCount" : 3,
+  "indexUpdatedAt" : 1385079596,
+  "newBackend" : false,
+  "numberOfComments" : 0,
+  "oid" : 6522779,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1385070355,
+  "publicationGroup" : 1366238,
+  "publicationStage" : "published",
+  "signed" : false,
+  "tableId" : 1366238,
+  "totalTimesRated" : 0,
+  "viewCount" : 1,
+  "viewLastModified" : 1385070376,
+  "viewType" : "blobby",
+  "grants" : [ {
+    "inherited" : false,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "renderTypeConfig" : {
+      "visible" : {
+        "blob" : true
+      }
+    },
+    "availableDisplayTypes" : [ "blob" ]
+  },
+  "owner" : {
+    "id" : "v6h4-bzm6",
+    "displayName" : "Jim",
+    "screenName" : "Jim"
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "v6h4-bzm6",
+    "displayName" : "Jim",
+    "screenName" : "Jim"
+  },
+  "tags" : [ "retirement", "finance", "pension" ],
+  "flags" : [ "default" ]
+}, {
+  "id" : "59jn-e4dw",
+  "name" : "Investment Performance And Manager Review 2011-10",
+  "averageRating" : 0,
+  "blobFilename" : "Investment Performance and Manager Review 2011-10.pdf",
+  "blobFileSize" : 1678918,
+  "blobId" : "QIS4e5jL_qgFYM3KG1tp3mlJJowOkK-cmEMHXbc3tYg",
+  "blobMimeType" : "application/pdf; charset=binary",
+  "category" : "Retirement",
+  "createdAt" : 1385070269,
+  "description" : "Performance Analysis for Providence Employees’ Retirement System, 2011-10",
+  "displayType" : "blob",
+  "downloadCount" : 3,
+  "indexUpdatedAt" : 1385079596,
+  "newBackend" : false,
+  "numberOfComments" : 0,
+  "oid" : 6522765,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1385070269,
+  "publicationGroup" : 1366233,
+  "publicationStage" : "published",
+  "signed" : false,
+  "tableId" : 1366233,
+  "totalTimesRated" : 0,
+  "viewCount" : 1,
+  "viewLastModified" : 1385070292,
+  "viewType" : "blobby",
+  "grants" : [ {
+    "inherited" : false,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "renderTypeConfig" : {
+      "visible" : {
+        "blob" : true
+      }
+    },
+    "availableDisplayTypes" : [ "blob" ]
+  },
+  "owner" : {
+    "id" : "v6h4-bzm6",
+    "displayName" : "Jim",
+    "screenName" : "Jim"
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "v6h4-bzm6",
+    "displayName" : "Jim",
+    "screenName" : "Jim"
+  },
+  "tags" : [ "retirement", "finance", "pension" ],
+  "flags" : [ "default" ]
+}, {
+  "id" : "6six-9ftn",
+  "name" : "Investment Performance And Manager Review 2011-09",
+  "averageRating" : 0,
+  "blobFilename" : "Investment Performance and Manager Review 2011-09.pdf",
+  "blobFileSize" : 1490114,
+  "blobId" : "zfoQMdyhGT7b9m8i2IPpZRctXO3NXISOj-NQJQP2Wso",
+  "blobMimeType" : "application/pdf; charset=binary",
+  "category" : "Retirement",
+  "createdAt" : 1385070223,
+  "description" : "Performance Analysis for Providence Employees’ Retirement System, 2011-09",
+  "displayType" : "blob",
+  "downloadCount" : 3,
+  "indexUpdatedAt" : 1385079596,
+  "newBackend" : false,
+  "numberOfComments" : 0,
+  "oid" : 6522761,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1385070223,
+  "publicationGroup" : 1366229,
+  "publicationStage" : "published",
+  "signed" : false,
+  "tableId" : 1366229,
+  "totalTimesRated" : 0,
+  "viewCount" : 1,
+  "viewLastModified" : 1385070245,
+  "viewType" : "blobby",
+  "grants" : [ {
+    "inherited" : false,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "renderTypeConfig" : {
+      "visible" : {
+        "blob" : true
+      }
+    },
+    "availableDisplayTypes" : [ "blob" ]
+  },
+  "owner" : {
+    "id" : "v6h4-bzm6",
+    "displayName" : "Jim",
+    "screenName" : "Jim"
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "v6h4-bzm6",
+    "displayName" : "Jim",
+    "screenName" : "Jim"
+  },
+  "tags" : [ "finance", "retirement", "pension" ],
+  "flags" : [ "default" ]
+}, {
+  "id" : "asct-ayi4",
+  "name" : "Investment Performance And Manager Review 2011-08",
+  "averageRating" : 0,
+  "blobFilename" : "Investment Performance and Manager Review 2011-08.pdf",
+  "blobFileSize" : 1523637,
+  "blobId" : "OMycDZ2qEgbmEXFnl1cpWg4PZZFe5_1X3Yk--cErapY",
+  "blobMimeType" : "application/pdf; charset=binary",
+  "category" : "Retirement",
+  "createdAt" : 1385070178,
+  "description" : "Performance Analysis for Providence Employees’ Retirement System, 2011-08",
+  "displayType" : "blob",
+  "downloadCount" : 3,
+  "indexUpdatedAt" : 1385079596,
+  "newBackend" : false,
+  "numberOfComments" : 0,
+  "oid" : 6522757,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1385070178,
+  "publicationGroup" : 1366227,
+  "publicationStage" : "published",
+  "signed" : false,
+  "tableId" : 1366227,
+  "totalTimesRated" : 0,
+  "viewCount" : 1,
+  "viewLastModified" : 1385070199,
+  "viewType" : "blobby",
+  "grants" : [ {
+    "inherited" : false,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "renderTypeConfig" : {
+      "visible" : {
+        "blob" : true
+      }
+    },
+    "availableDisplayTypes" : [ "blob" ]
+  },
+  "owner" : {
+    "id" : "v6h4-bzm6",
+    "displayName" : "Jim",
+    "screenName" : "Jim"
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "v6h4-bzm6",
+    "displayName" : "Jim",
+    "screenName" : "Jim"
+  },
+  "tags" : [ "retirement", "finance", "pension" ],
+  "flags" : [ "default" ]
+}, {
+  "id" : "sa67-hu2q",
+  "name" : "Investment Performance And Manager Review 2011-07",
+  "averageRating" : 0,
+  "blobFilename" : "Investment Performance and Manager Review 2011-07.pdf",
+  "blobFileSize" : 1506743,
+  "blobId" : "gEkONKMpqFFcJiG99Z7-mhs7uI5hRpL1_oooLALuOhg",
+  "blobMimeType" : "application/pdf; charset=binary",
+  "category" : "Retirement",
+  "createdAt" : 1385070124,
+  "description" : "Performance Analysis for Providence Employees’ Retirement System, 2011-07",
+  "displayType" : "blob",
+  "downloadCount" : 3,
+  "indexUpdatedAt" : 1385079486,
+  "newBackend" : false,
+  "numberOfComments" : 0,
+  "oid" : 6522754,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1385070124,
+  "publicationGroup" : 1366225,
+  "publicationStage" : "published",
+  "signed" : false,
+  "tableId" : 1366225,
+  "totalTimesRated" : 0,
+  "viewCount" : 1,
+  "viewLastModified" : 1385070145,
+  "viewType" : "blobby",
+  "grants" : [ {
+    "inherited" : false,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "renderTypeConfig" : {
+      "visible" : {
+        "blob" : true
+      }
+    },
+    "availableDisplayTypes" : [ "blob" ]
+  },
+  "owner" : {
+    "id" : "v6h4-bzm6",
+    "displayName" : "Jim",
+    "screenName" : "Jim"
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "v6h4-bzm6",
+    "displayName" : "Jim",
+    "screenName" : "Jim"
+  },
+  "tags" : [ "retirement", "finance", "pension" ],
+  "flags" : [ "default" ]
+}, {
+  "id" : "nmpb-fik2",
+  "name" : "Investment Performance And Manager Review 2011-06",
+  "averageRating" : 0,
+  "blobFilename" : "Investment Performance and Manager Review 2011-06.pdf",
+  "blobFileSize" : 1147226,
+  "blobId" : "jIM1IpvvlpRvAUaVT0AEkWZg0zc-ORuH4smOUIFOGlA",
+  "blobMimeType" : "application/pdf; charset=binary",
+  "category" : "Retirement",
+  "createdAt" : 1385070078,
+  "description" : "Performance Analysis for Providence Employees’ Retirement System, 2011-06",
+  "displayType" : "blob",
+  "downloadCount" : 2,
+  "indexUpdatedAt" : 1385079487,
+  "newBackend" : false,
+  "numberOfComments" : 0,
+  "oid" : 6522703,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1385070078,
+  "publicationGroup" : 1366223,
+  "publicationStage" : "published",
+  "signed" : false,
+  "tableId" : 1366223,
+  "totalTimesRated" : 0,
+  "viewCount" : 1,
+  "viewLastModified" : 1385070099,
+  "viewType" : "blobby",
+  "grants" : [ {
+    "inherited" : false,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "renderTypeConfig" : {
+      "visible" : {
+        "blob" : true
+      }
+    },
+    "availableDisplayTypes" : [ "blob" ]
+  },
+  "owner" : {
+    "id" : "v6h4-bzm6",
+    "displayName" : "Jim",
+    "screenName" : "Jim"
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "v6h4-bzm6",
+    "displayName" : "Jim",
+    "screenName" : "Jim"
+  },
+  "tags" : [ "retirement", "finance", "pension" ],
+  "flags" : [ "default" ]
+}, {
+  "id" : "utkp-58qc",
+  "name" : "Investment Performance And Manager Review 2011-05",
+  "averageRating" : 0,
+  "blobFilename" : "Investment Performance and Manager Review 2011-05.pdf",
+  "blobFileSize" : 1491654,
+  "blobId" : "6Czi1VIRNUfMP5sr_L67AabEfYbTrfOMj3UhooyBKr4",
+  "blobMimeType" : "application/pdf; charset=binary",
+  "category" : "Retirement",
+  "createdAt" : 1385069634,
+  "description" : "Performance Analysis for Providence Employees’ Retirement System, 2011-05",
+  "displayType" : "blob",
+  "downloadCount" : 4,
+  "indexUpdatedAt" : 1385078679,
+  "newBackend" : false,
+  "numberOfComments" : 0,
+  "oid" : 6522524,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1385069634,
+  "publicationGroup" : 1366207,
+  "publicationStage" : "published",
+  "signed" : false,
+  "tableId" : 1366207,
+  "totalTimesRated" : 0,
+  "viewCount" : 1,
+  "viewLastModified" : 1385069661,
+  "viewType" : "blobby",
+  "grants" : [ {
+    "inherited" : false,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "renderTypeConfig" : {
+      "visible" : {
+        "blob" : true
+      }
+    },
+    "availableDisplayTypes" : [ "blob" ]
+  },
+  "owner" : {
+    "id" : "v6h4-bzm6",
+    "displayName" : "Jim",
+    "screenName" : "Jim"
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "v6h4-bzm6",
+    "displayName" : "Jim",
+    "screenName" : "Jim"
+  },
+  "tags" : [ "retirement", "finance", "pension" ],
+  "flags" : [ "default" ]
+}, {
+  "id" : "y5uq-2cvg",
+  "name" : "Investment Performance And Manager Review 2011-04",
+  "averageRating" : 0,
+  "blobFilename" : "Investment Performance and Manager Review 2011-04.pdf",
+  "blobFileSize" : 1541704,
+  "blobId" : "bMvXOiIHQ-wl11yvLJ6JeLZd9P1EVcyOY_CAjv_pjw4",
+  "blobMimeType" : "application/pdf; charset=binary",
+  "category" : "Retirement",
+  "createdAt" : 1385069580,
+  "description" : "Performance Analysis for Providence Employees’ Retirement System, 2011-04",
+  "displayType" : "blob",
+  "downloadCount" : 3,
+  "indexUpdatedAt" : 1385078644,
+  "newBackend" : false,
+  "numberOfComments" : 0,
+  "oid" : 6522517,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1385069580,
+  "publicationGroup" : 1366203,
+  "publicationStage" : "published",
+  "signed" : false,
+  "tableId" : 1366203,
+  "totalTimesRated" : 0,
+  "viewCount" : 1,
+  "viewLastModified" : 1385069610,
+  "viewType" : "blobby",
+  "grants" : [ {
+    "inherited" : false,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "renderTypeConfig" : {
+      "visible" : {
+        "blob" : true
+      }
+    },
+    "availableDisplayTypes" : [ "blob" ]
+  },
+  "owner" : {
+    "id" : "v6h4-bzm6",
+    "displayName" : "Jim",
+    "screenName" : "Jim"
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "v6h4-bzm6",
+    "displayName" : "Jim",
+    "screenName" : "Jim"
+  },
+  "tags" : [ "retirement", "finance", "pension" ],
+  "flags" : [ "default" ]
+}, {
+  "id" : "tac5-6sa8",
+  "name" : "Investment Performance And Manager Review 2011-03",
+  "averageRating" : 0,
+  "blobFilename" : "Investment Performance and Manager Review 2011-03.pdf",
+  "blobFileSize" : 1555644,
+  "blobId" : "CpaLKifjd5B7XUoHGKWGSe25PVon2Dz5pfPoJDP80E4",
+  "blobMimeType" : "application/pdf; charset=binary",
+  "category" : "Retirement",
+  "createdAt" : 1385061428,
+  "description" : "Performance Analysis for Providence Employees’ Retirement System, 2011-03",
+  "displayType" : "blob",
+  "downloadCount" : 4,
+  "indexUpdatedAt" : 1385078638,
+  "newBackend" : false,
+  "numberOfComments" : 0,
+  "oid" : 6520820,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1385061428,
+  "publicationGroup" : 1365993,
+  "publicationStage" : "published",
+  "signed" : false,
+  "tableId" : 1365993,
+  "totalTimesRated" : 0,
+  "viewCount" : 2,
+  "viewLastModified" : 1385061458,
+  "viewType" : "blobby",
+  "grants" : [ {
+    "inherited" : false,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "renderTypeConfig" : {
+      "visible" : {
+        "blob" : true
+      }
+    },
+    "availableDisplayTypes" : [ "blob" ]
+  },
+  "owner" : {
+    "id" : "v6h4-bzm6",
+    "displayName" : "Jim",
+    "screenName" : "Jim"
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "v6h4-bzm6",
+    "displayName" : "Jim",
+    "screenName" : "Jim"
+  },
+  "tags" : [ "retirement", "finance", "pension" ],
+  "flags" : [ "default" ]
+}, {
+  "id" : "yp7n-pb3v",
+  "name" : "Investment Performance And Manager Review 2011-02",
+  "averageRating" : 0,
+  "blobFilename" : "Investment Performance and Manager Review 2011-02.pdf",
+  "blobFileSize" : 1472352,
+  "blobId" : "i-TQqhv_6redLvdhGHntu-ySkp4Cgjk897QY0ZQW12w",
+  "blobMimeType" : "application/pdf; charset=binary",
+  "category" : "Retirement",
+  "createdAt" : 1385060654,
+  "description" : "Performance Analysis for Providence Employees’ Retirement System, 2011-02",
+  "displayType" : "blob",
+  "downloadCount" : 3,
+  "indexUpdatedAt" : 1385078019,
+  "newBackend" : false,
+  "numberOfComments" : 0,
+  "oid" : 6520670,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1385060654,
+  "publicationGroup" : 1365974,
+  "publicationStage" : "published",
+  "signed" : false,
+  "tableId" : 1365974,
+  "totalTimesRated" : 0,
+  "viewCount" : 2,
+  "viewLastModified" : 1385061357,
+  "viewType" : "blobby",
+  "grants" : [ {
+    "inherited" : false,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "renderTypeConfig" : {
+      "visible" : {
+        "blob" : true
+      }
+    },
+    "availableDisplayTypes" : [ "blob" ]
+  },
+  "owner" : {
+    "id" : "v6h4-bzm6",
+    "displayName" : "Jim",
+    "screenName" : "Jim"
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "v6h4-bzm6",
+    "displayName" : "Jim",
+    "screenName" : "Jim"
+  },
+  "tags" : [ "retirement", "finance", "pension" ],
+  "flags" : [ "default" ]
+}, {
+  "id" : "87bh-kcaa",
+  "name" : "Investment Performance And Manager Review 2011-01",
+  "averageRating" : 0,
+  "blobFilename" : "Investment Performance and Manager Review 2011-01.pdf",
+  "blobFileSize" : 1964761,
+  "blobId" : "tC44vj0pE-X8DAs-Tc4Hx242rTf0KTnWQTGTn9bTiU8",
+  "blobMimeType" : "application/pdf; charset=binary",
+  "category" : "Retirement",
+  "createdAt" : 1385060409,
+  "description" : "Performance Analysis for Providence Employees’ Retirement System, 2011-01",
+  "displayType" : "blob",
+  "downloadCount" : 4,
+  "indexUpdatedAt" : 1385062279,
+  "newBackend" : false,
+  "numberOfComments" : 0,
+  "oid" : 6520637,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1385060409,
+  "publicationGroup" : 1365966,
+  "publicationStage" : "published",
+  "signed" : false,
+  "tableId" : 1365966,
+  "totalTimesRated" : 0,
+  "viewCount" : 2,
+  "viewLastModified" : 1385060620,
+  "viewType" : "blobby",
+  "grants" : [ {
+    "inherited" : false,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "renderTypeConfig" : {
+      "visible" : {
+        "blob" : true
+      }
+    },
+    "availableDisplayTypes" : [ "blob" ]
+  },
+  "owner" : {
+    "id" : "v6h4-bzm6",
+    "displayName" : "Jim",
+    "screenName" : "Jim"
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "v6h4-bzm6",
+    "displayName" : "Jim",
+    "screenName" : "Jim"
+  },
+  "tags" : [ "retirement", "pension", "finance" ],
+  "flags" : [ "default" ]
+}, {
+  "id" : "7zmj-rgw2",
+  "name" : "FTE - 2010 To 2014 - City Of Providence",
+  "averageRating" : 0,
+  "category" : "Finance",
+  "createdAt" : 1384294432,
+  "description" : "Comparison of Providence FTE employee count from July 1, 2010 to July 1, 2013.",
+  "displayType" : "table",
+  "downloadCount" : 1,
+  "indexUpdatedAt" : 1384302529,
+  "newBackend" : false,
+  "numberOfComments" : 0,
+  "oid" : 6392405,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1384294594,
+  "publicationGroup" : 1349756,
+  "publicationStage" : "published",
+  "rowsUpdatedAt" : 1384294458,
+  "rowsUpdatedBy" : "ib3f-d9gf",
+  "signed" : false,
+  "tableId" : 1349756,
+  "totalTimesRated" : 0,
+  "viewCount" : 33,
+  "viewLastModified" : 1384294594,
+  "viewType" : "tabular",
+  "grants" : [ {
+    "inherited" : false,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "renderTypeConfig" : {
+      "visible" : {
+        "table" : true
+      }
+    },
+    "availableDisplayTypes" : [ "table", "fatrow", "page" ]
+  },
+  "owner" : {
+    "id" : "ib3f-d9gf",
+    "displayName" : "Toby",
+    "screenName" : "Toby"
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "ib3f-d9gf",
+    "displayName" : "Toby",
+    "screenName" : "Toby"
+  },
+  "tags" : [ "budget" ],
+  "flags" : [ "default" ]
+}, {
+  "id" : "akdv-76zs",
+  "name" : "City overall spending by Department FY2010 to FY2014",
+  "averageRating" : 0,
+  "category" : "Finance",
+  "createdAt" : 1384286888,
+  "description" : "City overall spending by Department, FY2010 to FY2014.  Note that 2013 and 2014 do not tie to the City budget due to budgeted transfers to the rainy day fund being excluded from this analysis.",
+  "displayType" : "table",
+  "downloadCount" : 0,
+  "indexUpdatedAt" : 1384287934,
+  "newBackend" : false,
+  "numberOfComments" : 0,
+  "oid" : 6391058,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1384286989,
+  "publicationGroup" : 1349371,
+  "publicationStage" : "published",
+  "rowsUpdatedAt" : 1384286900,
+  "rowsUpdatedBy" : "ib3f-d9gf",
+  "signed" : false,
+  "tableId" : 1349371,
+  "totalTimesRated" : 0,
+  "viewCount" : 35,
+  "viewLastModified" : 1384286989,
+  "viewType" : "tabular",
+  "grants" : [ {
+    "inherited" : false,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "renderTypeConfig" : {
+      "visible" : {
+        "table" : true
+      }
+    },
+    "availableDisplayTypes" : [ "table", "fatrow", "page" ]
+  },
+  "owner" : {
+    "id" : "ib3f-d9gf",
+    "displayName" : "Toby",
+    "screenName" : "Toby"
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "ib3f-d9gf",
+    "displayName" : "Toby",
+    "screenName" : "Toby"
+  },
+  "flags" : [ "default" ]
+}, {
+  "id" : "wzp9-47ag",
+  "name" : "9-2013 Investment Performance and Manager Review",
+  "averageRating" : 0,
+  "blobFilename" : "9-2013 Investment Performance and Manager Review.pdf",
+  "blobFileSize" : 930700,
+  "blobId" : "zvYud55ZnMX7cNBOQMcRnTkNMZJCLfE5RrYmOkQFjiY",
+  "blobMimeType" : "application/pdf; charset=binary",
+  "category" : "Retirement",
+  "createdAt" : 1382647664,
+  "description" : "September 2013 Presentation to the Board of Investment Commissioners on Investment Performance and Manager Review",
+  "displayType" : "blob",
+  "downloadCount" : 48,
+  "indexUpdatedAt" : 1385078680,
+  "newBackend" : false,
+  "numberOfComments" : 0,
+  "oid" : 6074343,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1382647664,
+  "publicationGroup" : 1283345,
+  "publicationStage" : "published",
+  "signed" : false,
+  "tableId" : 1283345,
+  "totalTimesRated" : 0,
+  "viewCount" : 81,
+  "viewLastModified" : 1385069706,
+  "viewType" : "blobby",
+  "grants" : [ {
+    "inherited" : false,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "renderTypeConfig" : {
+      "visible" : {
+        "blob" : true
+      }
+    },
+    "availableDisplayTypes" : [ "blob" ]
+  },
+  "owner" : {
+    "id" : "ib3f-d9gf",
+    "displayName" : "Toby",
+    "screenName" : "Toby"
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "ib3f-d9gf",
+    "displayName" : "Toby",
+    "screenName" : "Toby"
+  },
+  "tags" : [ "investment", "pension" ],
+  "flags" : [ "default" ]
+}, {
+  "id" : "6t85-j5x7",
+  "name" : "10-22-13 City Of Providence Employees' Retirement System - Current Investment Position And Performance Estimate",
+  "averageRating" : 0,
+  "blobFilename" : "10-22-13 City of Providence Employees' Retirement System - Current Investment Position and Performance Estimate.pdf",
+  "blobFileSize" : 17028,
+  "blobId" : "9uxrA76OU6QE-npdMAl0c4Lujt2b9tAXRV0bn5wjHHI",
+  "blobMimeType" : "application/pdf; charset=binary",
+  "category" : "Retirement",
+  "createdAt" : 1382647531,
+  "description" : "Current Investment Position and Performance Estimate for the City of Providence's Employees' Retirement System as of 10-22-13.",
+  "displayType" : "blob",
+  "downloadCount" : 64,
+  "indexUpdatedAt" : 1385078680,
+  "newBackend" : false,
+  "numberOfComments" : 0,
+  "oid" : 6074330,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1382647531,
+  "publicationGroup" : 1283337,
+  "publicationStage" : "published",
+  "signed" : false,
+  "tableId" : 1283337,
+  "totalTimesRated" : 0,
+  "viewCount" : 84,
+  "viewLastModified" : 1385069731,
+  "viewType" : "blobby",
+  "grants" : [ {
+    "inherited" : false,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "renderTypeConfig" : {
+      "visible" : {
+        "blob" : true
+      }
+    },
+    "availableDisplayTypes" : [ "blob" ]
+  },
+  "owner" : {
+    "id" : "ib3f-d9gf",
+    "displayName" : "Toby",
+    "screenName" : "Toby"
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "ib3f-d9gf",
+    "displayName" : "Toby",
+    "screenName" : "Toby"
+  },
+  "tags" : [ "investment", "pension" ],
+  "flags" : [ "default" ]
+}, {
+  "id" : "x8wi-285f",
+  "name" : "Comparison of City of Providence ERS to State of RI ERS",
+  "averageRating" : 0,
+  "blobFilename" : "Compasion of City of Providence ERS to State of RI ERS.pdf",
+  "blobFileSize" : 45692,
+  "blobId" : "s4iz6dId0qb3WguGJmWAj-JoKbZa8rqAG4bVX4bj0xE",
+  "blobMimeType" : "application/pdf; charset=binary",
+  "category" : "Retirement",
+  "createdAt" : 1382624292,
+  "description" : "Trailing returns for period 7/1/2003 through 6/30/2013",
+  "displayType" : "blob",
+  "downloadCount" : 26,
+  "indexUpdatedAt" : 1385078680,
+  "newBackend" : false,
+  "numberOfComments" : 0,
+  "oid" : 6069647,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1382624292,
+  "publicationGroup" : 1282270,
+  "publicationStage" : "published",
+  "signed" : false,
+  "tableId" : 1282270,
+  "totalTimesRated" : 0,
+  "viewCount" : 31,
+  "viewLastModified" : 1385069753,
+  "viewType" : "blobby",
+  "grants" : [ {
+    "inherited" : false,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "renderTypeConfig" : {
+      "visible" : {
+        "blob" : true
+      }
+    },
+    "availableDisplayTypes" : [ "blob" ]
+  },
+  "owner" : {
+    "id" : "ib3f-d9gf",
+    "displayName" : "Toby",
+    "screenName" : "Toby"
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "ib3f-d9gf",
+    "displayName" : "Toby",
+    "screenName" : "Toby"
+  },
+  "tags" : [ "investment", "pension" ],
+  "flags" : [ "default" ]
+}, {
+  "id" : "ef6x-pwwi",
+  "name" : "Providence Portfolio Fee Schedule 2013",
+  "averageRating" : 0,
+  "blobFilename" : "Providence Portfolio Fee Schedule 2013.pdf",
+  "blobFileSize" : 115004,
+  "blobId" : "ookPh7S8DTYUXAeOqW-tMGBZlROxgA2sGI1ghkFxF2w",
+  "blobMimeType" : "application/pdf; charset=binary",
+  "category" : "Retirement",
+  "createdAt" : 1382623452,
+  "description" : "City of Providence Employees' Retirement System Fee Schedule as of April 23, 2013",
+  "displayType" : "blob",
+  "downloadCount" : 37,
+  "indexUpdatedAt" : 1385078937,
+  "newBackend" : false,
+  "numberOfComments" : 0,
+  "oid" : 6069565,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1382623452,
+  "publicationGroup" : 1282238,
+  "publicationStage" : "published",
+  "signed" : false,
+  "tableId" : 1282238,
+  "totalTimesRated" : 0,
+  "viewCount" : 50,
+  "viewLastModified" : 1385069796,
+  "viewType" : "blobby",
+  "grants" : [ {
+    "inherited" : false,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "renderTypeConfig" : {
+      "visible" : {
+        "blob" : true
+      }
+    },
+    "availableDisplayTypes" : [ "blob" ]
+  },
+  "owner" : {
+    "id" : "ib3f-d9gf",
+    "displayName" : "Toby",
+    "screenName" : "Toby"
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "ib3f-d9gf",
+    "displayName" : "Toby",
+    "screenName" : "Toby"
+  },
+  "tags" : [ "investment", "pension" ],
+  "flags" : [ "default" ]
+}, {
+  "id" : "w379-diqf",
+  "name" : "Performance Analysis",
+  "averageRating" : 0,
+  "blobFilename" : "Performance Analysis.pdf",
+  "blobFileSize" : 112468,
+  "blobId" : "oryiwoUZIrmJiNOEAZ3CgnN9P6Cx_ZMcTkvqtQd3ZQA",
+  "blobMimeType" : "application/pdf; charset=binary",
+  "category" : "Retirement",
+  "createdAt" : 1382623369,
+  "description" : "City of Providence Employees' Retirement System - Performance Analysis",
+  "displayType" : "blob",
+  "downloadCount" : 27,
+  "indexUpdatedAt" : 1385078938,
+  "newBackend" : false,
+  "numberOfComments" : 0,
+  "oid" : 6069559,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1382623369,
+  "publicationGroup" : 1282234,
+  "publicationStage" : "published",
+  "signed" : false,
+  "tableId" : 1282234,
+  "totalTimesRated" : 0,
+  "viewCount" : 28,
+  "viewLastModified" : 1385069980,
+  "viewType" : "blobby",
+  "grants" : [ {
+    "inherited" : false,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "renderTypeConfig" : {
+      "visible" : {
+        "blob" : true
+      }
+    },
+    "availableDisplayTypes" : [ "blob" ]
+  },
+  "owner" : {
+    "id" : "ib3f-d9gf",
+    "displayName" : "Toby",
+    "screenName" : "Toby"
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "ib3f-d9gf",
+    "displayName" : "Toby",
+    "screenName" : "Toby"
+  },
+  "tags" : [ "investment", "pension" ],
+  "flags" : [ "default" ]
+}, {
+  "id" : "qwcy-tfd6",
+  "name" : "Hedge Fund Statistical Analysis",
+  "averageRating" : 0,
+  "blobFilename" : "Hedge Fund Statistical Analysis.pdf",
+  "blobFileSize" : 275291,
+  "blobId" : "xgQGMsPImcNMowVcvGVEpMx6sB5lktSIOrGgkY7bomo",
+  "blobMimeType" : "application/pdf; charset=binary",
+  "category" : "Retirement",
+  "createdAt" : 1382623270,
+  "description" : "City of Providence Employees' Retirement System - Hedge Fund Statistical Analysis",
+  "displayType" : "blob",
+  "downloadCount" : 34,
+  "indexUpdatedAt" : 1385078938,
+  "newBackend" : false,
+  "numberOfComments" : 0,
+  "oid" : 6069556,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1382623270,
+  "publicationGroup" : 1282231,
+  "publicationStage" : "published",
+  "signed" : false,
+  "tableId" : 1282231,
+  "totalTimesRated" : 0,
+  "viewCount" : 36,
+  "viewLastModified" : 1385069948,
+  "viewType" : "blobby",
+  "grants" : [ {
+    "inherited" : false,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "renderTypeConfig" : {
+      "visible" : {
+        "blob" : true
+      }
+    },
+    "availableDisplayTypes" : [ "blob" ]
+  },
+  "owner" : {
+    "id" : "ib3f-d9gf",
+    "displayName" : "Toby",
+    "screenName" : "Toby"
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "ib3f-d9gf",
+    "displayName" : "Toby",
+    "screenName" : "Toby"
+  },
+  "tags" : [ "investment", "pension" ],
+  "flags" : [ "default" ]
+}, {
+  "id" : "ff5b-7eev",
+  "name" : "City of Providence Employees' Retirement System - Investment Management Fees By Calendar Year",
+  "averageRating" : 0,
+  "blobFilename" : "City of Providence Employees' Retirement System - Investment Management Fees by Calendar Year.pdf",
+  "blobFileSize" : 80804,
+  "blobId" : "4BscAWNoqtKgg1MSXg9xrSMmJlyqcCyYTNRe-WHkNeg",
+  "blobMimeType" : "application/pdf; charset=binary",
+  "category" : "Retirement",
+  "createdAt" : 1382623049,
+  "description" : "City of Providence Employees' Retirement System - Investment Management Fees for Calendar Years 2010, 2011, 2012 and through April 30, 2013",
+  "displayType" : "blob",
+  "downloadCount" : 25,
+  "indexUpdatedAt" : 1385078937,
+  "newBackend" : false,
+  "numberOfComments" : 0,
+  "oid" : 6069513,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1382623049,
+  "publicationGroup" : 1282218,
+  "publicationStage" : "published",
+  "signed" : false,
+  "tableId" : 1282218,
+  "totalTimesRated" : 0,
+  "viewCount" : 27,
+  "viewLastModified" : 1385069871,
+  "viewType" : "blobby",
+  "grants" : [ {
+    "inherited" : false,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "renderTypeConfig" : {
+      "visible" : {
+        "blob" : true
+      }
+    },
+    "availableDisplayTypes" : [ "blob" ]
+  },
+  "owner" : {
+    "id" : "ib3f-d9gf",
+    "displayName" : "Toby",
+    "screenName" : "Toby"
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "ib3f-d9gf",
+    "displayName" : "Toby",
+    "screenName" : "Toby"
+  },
+  "tags" : [ "investment", "pension" ],
+  "flags" : [ "default" ]
+}, {
+  "id" : "cd9c-xfck",
+  "name" : "Calendar Year 2012 Fee In Dollars - REVISED",
+  "averageRating" : 0,
+  "blobFilename" : "Calendar Year 2012 Fee in Dollars - REVISED.pdf",
+  "blobFileSize" : 84376,
+  "blobId" : "3JX-eNczgKAHhi2Yyidp_VU6igTmRaWLIZhb3GkX7Hs",
+  "blobMimeType" : "application/pdf; charset=binary",
+  "category" : "Retirement",
+  "createdAt" : 1382622919,
+  "description" : "City of Providence Employees' Retirement System - Investment Management Fees for Calendar Year 2012 Revised",
+  "displayType" : "blob",
+  "downloadCount" : 23,
+  "indexUpdatedAt" : 1385078937,
+  "newBackend" : false,
+  "numberOfComments" : 0,
+  "oid" : 6069505,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1382622919,
+  "publicationGroup" : 1282214,
+  "publicationStage" : "published",
+  "signed" : false,
+  "tableId" : 1282214,
+  "totalTimesRated" : 0,
+  "viewCount" : 24,
+  "viewLastModified" : 1385069825,
+  "viewType" : "blobby",
+  "grants" : [ {
+    "inherited" : false,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "renderTypeConfig" : {
+      "visible" : {
+        "blob" : true
+      }
+    },
+    "availableDisplayTypes" : [ "blob" ]
+  },
+  "owner" : {
+    "id" : "ib3f-d9gf",
+    "displayName" : "Toby",
+    "screenName" : "Toby"
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "ib3f-d9gf",
+    "displayName" : "Toby",
+    "screenName" : "Toby"
+  },
+  "tags" : [ "investment", "pension" ],
+  "flags" : [ "default" ]
+}, {
+  "id" : "43n7-3xxs",
+  "name" : "Asset Allocation Of Similar Retirement Plans",
+  "averageRating" : 0,
+  "blobFilename" : "Asset Allocation of Similar Plans.pdf",
+  "blobFileSize" : 873757,
+  "blobId" : "E0bXf_5EbfGzFMQMVBVB7uU3yb9dx7HQrjIBln7YiaQ",
+  "blobMimeType" : "application/pdf; charset=binary",
+  "category" : "Retirement",
+  "createdAt" : 1382622146,
+  "description" : "Comparison of Asset Allocation - City of Providence Employees' Retirement System & Similar Plans",
+  "displayType" : "blob",
+  "downloadCount" : 23,
+  "indexUpdatedAt" : 1385078938,
+  "newBackend" : false,
+  "numberOfComments" : 0,
+  "oid" : 6069404,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1382622146,
+  "publicationGroup" : 1282179,
+  "publicationStage" : "published",
+  "signed" : false,
+  "tableId" : 1282179,
+  "totalTimesRated" : 0,
+  "viewCount" : 23,
+  "viewLastModified" : 1385069847,
+  "viewType" : "blobby",
+  "grants" : [ {
+    "inherited" : false,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "renderTypeConfig" : {
+      "visible" : {
+        "blob" : true
+      }
+    },
+    "availableDisplayTypes" : [ "blob" ]
+  },
+  "owner" : {
+    "id" : "ib3f-d9gf",
+    "displayName" : "Toby",
+    "screenName" : "Toby"
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "ib3f-d9gf",
+    "displayName" : "Toby",
+    "screenName" : "Toby"
+  },
+  "tags" : [ "investment", "pension" ],
+  "flags" : [ "default" ]
+}, {
+  "id" : "94u4-i9w2",
+  "name" : "6-30-13 City Of Providence Employees' Retirement System - Current Investment Position And Performance Estimate",
+  "averageRating" : 0,
+  "blobFilename" : "6-30-13 City of Providence Employees' Retirement System - Current Investment Position and Performance Estimate.pdf",
+  "blobFileSize" : 150027,
+  "blobId" : "SZsEaRwZT__5TC3yTAw9fS5MNHfcyJAhcG6t_Qw5ZdM",
+  "blobMimeType" : "application/pdf; charset=binary",
+  "category" : "Retirement",
+  "createdAt" : 1382621831,
+  "description" : "Current Investment Position and Performance Estimate for the City of Providence's Employees' Retirement System as of 6-30-13.  File also contains annualized net of fee returns for one, five, ten and twenty-five year time horizons.",
+  "displayType" : "blob",
+  "downloadCount" : 30,
+  "indexUpdatedAt" : 1385078938,
+  "newBackend" : false,
+  "numberOfComments" : 0,
+  "oid" : 6069192,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1382621831,
+  "publicationGroup" : 1282165,
+  "publicationStage" : "published",
+  "signed" : false,
+  "tableId" : 1282165,
+  "totalTimesRated" : 0,
+  "viewCount" : 22,
+  "viewLastModified" : 1385069774,
+  "viewType" : "blobby",
+  "grants" : [ {
+    "inherited" : false,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "renderTypeConfig" : {
+      "visible" : {
+        "blob" : true
+      }
+    },
+    "availableDisplayTypes" : [ "blob" ]
+  },
+  "owner" : {
+    "id" : "ib3f-d9gf",
+    "displayName" : "Toby",
+    "screenName" : "Toby"
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "ib3f-d9gf",
+    "displayName" : "Toby",
+    "screenName" : "Toby"
+  },
+  "tags" : [ "investment", "pension" ],
+  "flags" : [ "default" ]
+}, {
+  "id" : "kprs-aa8x",
+  "name" : "City Of Providence Employees' Retirement System - Investment Management Fees",
+  "averageRating" : 0,
+  "blobFilename" : "City of Providence Employees' Retirement System - Investment Management Fees.pdf",
+  "blobFileSize" : 149495,
+  "blobId" : "iQazJqFuqLioDrFM5DTDtpHs-bTaKOzlyfQLHnQ0sIA",
+  "blobMimeType" : "application/pdf; charset=binary",
+  "category" : "Retirement",
+  "createdAt" : 1382621247,
+  "description" : "Investment Management Fees for Fiscal Years 2010, 2011 and 2012",
+  "displayType" : "blob",
+  "downloadCount" : 16,
+  "indexUpdatedAt" : 1385079385,
+  "newBackend" : false,
+  "numberOfComments" : 0,
+  "oid" : 6069120,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1382621247,
+  "publicationGroup" : 1282136,
+  "publicationStage" : "published",
+  "signed" : false,
+  "tableId" : 1282136,
+  "totalTimesRated" : 0,
+  "viewCount" : 13,
+  "viewLastModified" : 1385070034,
+  "viewType" : "blobby",
+  "grants" : [ {
+    "inherited" : false,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "renderTypeConfig" : {
+      "visible" : {
+        "blob" : true
+      }
+    },
+    "availableDisplayTypes" : [ "blob" ]
+  },
+  "owner" : {
+    "id" : "ib3f-d9gf",
+    "displayName" : "Toby",
+    "screenName" : "Toby"
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "ib3f-d9gf",
+    "displayName" : "Toby",
+    "screenName" : "Toby"
+  },
+  "tags" : [ "investment", "pension" ],
+  "flags" : [ "default" ]
+}, {
+  "id" : "r4c3-bhcz",
+  "name" : "Providence Employees' Retirement System - Investment Position And Performance Estimate",
+  "averageRating" : 0,
+  "blobFilename" : "7-23-13 City of Providence Employees' Retirement System - Current Investment Position and Performance Estimate.pdf",
+  "blobFileSize" : 133806,
+  "blobId" : "7DxrVsLHfiKeHXJKtLaelBqNIgq7_n61QYp8jOpjS1s",
+  "blobMimeType" : "application/pdf; charset=binary",
+  "category" : "Retirement",
+  "createdAt" : 1382620142,
+  "description" : "Current Investment Position and Performance Estimate for the City of Providence's Employees' Retirement System as of 7-23-13",
+  "displayType" : "blob",
+  "downloadCount" : 13,
+  "indexUpdatedAt" : 1385078938,
+  "newBackend" : false,
+  "numberOfComments" : 0,
+  "oid" : 6068864,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1382620142,
+  "publicationGroup" : 1282084,
+  "publicationStage" : "published",
+  "signed" : false,
+  "tableId" : 1282084,
+  "totalTimesRated" : 0,
+  "viewCount" : 17,
+  "viewLastModified" : 1385070009,
+  "viewType" : "blobby",
+  "grants" : [ {
+    "inherited" : false,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "renderTypeConfig" : {
+      "visible" : {
+        "blob" : true
+      }
+    },
+    "availableDisplayTypes" : [ "blob" ]
+  },
+  "owner" : {
+    "id" : "ib3f-d9gf",
+    "displayName" : "Toby",
+    "screenName" : "Toby"
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "ib3f-d9gf",
+    "displayName" : "Toby",
+    "screenName" : "Toby"
+  },
+  "tags" : [ "investment", "pension" ],
+  "flags" : [ "default" ]
+}, {
+  "id" : "g8jv-9hja",
+  "name" : "Available Commercial Real Estate in Providence (FY14 Quarter 1)",
+  "averageRating" : 0,
+  "category" : "Reference",
+  "createdAt" : 1382035620,
+  "description" : "Summary of existing available commercial real estate in Providence",
+  "displayType" : "table",
+  "downloadCount" : 20,
+  "indexUpdatedAt" : 1382390957,
+  "newBackend" : false,
+  "numberOfComments" : 0,
+  "oid" : 6023855,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1382381533,
+  "publicationGroup" : 1260724,
+  "publicationStage" : "published",
+  "rowsUpdatedAt" : 1382381521,
+  "rowsUpdatedBy" : "v6h4-bzm6",
+  "signed" : false,
+  "tableId" : 1272501,
+  "totalTimesRated" : 0,
+  "viewCount" : 53,
+  "viewLastModified" : 1382381533,
+  "viewType" : "tabular",
+  "grants" : [ {
+    "inherited" : true,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "renderTypeConfig" : {
+      "visible" : {
+        "table" : true
+      }
+    },
+    "availableDisplayTypes" : [ "table", "fatrow", "page" ]
+  },
+  "owner" : {
+    "id" : "v6h4-bzm6",
+    "displayName" : "Jim",
+    "screenName" : "Jim"
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "v6h4-bzm6",
+    "displayName" : "Jim",
+    "screenName" : "Jim"
+  },
+  "tags" : [ "real estate", "commercial" ],
+  "flags" : [ "default" ]
+}, {
+  "id" : "hebr-j6az",
+  "name" : "Map View of Available Commercial Real Estate",
+  "averageRating" : 0,
+  "category" : "Reference",
+  "createdAt" : 1382035886,
+  "description" : "Summary of existing available commercial real estate in Providence",
+  "displayType" : "map",
+  "downloadCount" : 10,
+  "indexUpdatedAt" : 1382391033,
+  "moderationStatus" : true,
+  "newBackend" : false,
+  "numberOfComments" : 0,
+  "oid" : 6023905,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1382381533,
+  "publicationGroup" : 1260724,
+  "publicationStage" : "published",
+  "rowsUpdatedAt" : 1382381521,
+  "rowsUpdatedBy" : "v6h4-bzm6",
+  "signed" : false,
+  "tableId" : 1272501,
+  "totalTimesRated" : 0,
+  "viewCount" : 40,
+  "viewLastModified" : 1382035983,
+  "viewType" : "tabular",
+  "grants" : [ {
+    "inherited" : true,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "renderTypeConfig" : {
+      "visible" : {
+        "map" : true,
+        "table" : true
+      },
+      "active" : {
+        "table" : {
+          "id" : "self"
+        }
+      }
+    },
+    "availableDisplayTypes" : [ "map", "table", "fatrow", "page" ]
+  },
+  "owner" : {
+    "id" : "v6h4-bzm6",
+    "displayName" : "Jim",
+    "screenName" : "Jim"
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "v6h4-bzm6",
+    "displayName" : "Jim",
+    "screenName" : "Jim"
+  },
+  "tags" : [ "real estate", "commercial" ]
+}, {
+  "id" : "fcsc-jchz",
+  "name" : "2012 to 2014 Student Transportation Contract Extension",
+  "averageRating" : 0,
+  "blobFilename" : "2011StudentTransportationExtension.pdf",
+  "blobFileSize" : 116951,
+  "blobId" : "C3Iefq1KEzX7DqeB08w5czS6NP2iJOANuA5iCuQxKvY",
+  "blobMimeType" : "application/pdf; charset=binary",
+  "category" : "Reference",
+  "createdAt" : 1379958986,
+  "description" : "2012 to 2014 Providence Public Schools Student Transportation Contract Extension",
+  "displayType" : "blob",
+  "downloadCount" : 34,
+  "indexUpdatedAt" : 1379964619,
+  "newBackend" : false,
+  "numberOfComments" : 0,
+  "oid" : 5564395,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1379958986,
+  "publicationGroup" : 1177664,
+  "publicationStage" : "published",
+  "signed" : false,
+  "tableId" : 1177664,
+  "totalTimesRated" : 0,
+  "viewCount" : 44,
+  "viewLastModified" : 1379959224,
+  "viewType" : "blobby",
+  "grants" : [ {
+    "inherited" : false,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "renderTypeConfig" : {
+      "visible" : {
+        "blob" : true
+      }
+    },
+    "availableDisplayTypes" : [ "blob" ]
+  },
+  "owner" : {
+    "id" : "v6h4-bzm6",
+    "displayName" : "Jim",
+    "screenName" : "Jim"
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "v6h4-bzm6",
+    "displayName" : "Jim",
+    "screenName" : "Jim"
+  },
+  "tags" : [ "bus", "transportation" ],
+  "flags" : [ "default" ]
+}, {
+  "id" : "c3vb-dbec",
+  "name" : "2007 Student Transportation Contract and Extension",
+  "averageRating" : 0,
+  "blobFilename" : "Contract w First Extension.pdf",
+  "blobFileSize" : 3721038,
+  "blobId" : "WLMG46FovMyqip2cXmMS-eU-G57AifLTtgcAgHEqh7o",
+  "blobMimeType" : "application/pdf; charset=binary",
+  "category" : "Reference",
+  "createdAt" : 1379957638,
+  "description" : "2007 Providence Public Schools Student Transportation Contract and 2010 Contract Extension",
+  "displayType" : "blob",
+  "downloadCount" : 27,
+  "indexUpdatedAt" : 1379964604,
+  "newBackend" : false,
+  "numberOfComments" : 0,
+  "oid" : 5564067,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1379957638,
+  "publicationGroup" : 1177598,
+  "publicationStage" : "published",
+  "signed" : false,
+  "tableId" : 1177598,
+  "totalTimesRated" : 0,
+  "viewCount" : 35,
+  "viewLastModified" : 1379957717,
+  "viewType" : "blobby",
+  "grants" : [ {
+    "inherited" : false,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "renderTypeConfig" : {
+      "visible" : {
+        "blob" : true
+      }
+    },
+    "availableDisplayTypes" : [ "blob" ]
+  },
+  "owner" : {
+    "id" : "v6h4-bzm6",
+    "displayName" : "Jim",
+    "screenName" : "Jim"
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "v6h4-bzm6",
+    "displayName" : "Jim",
+    "screenName" : "Jim"
+  },
+  "tags" : [ "bus", "transportation" ],
+  "flags" : [ "default" ]
+}, {
+  "id" : "i54w-4idw",
+  "name" : "2007 Student Transportation RFP",
+  "averageRating" : 0,
+  "blobFilename" : "PPSD Transportation RFP.pdf",
+  "blobFileSize" : 4737070,
+  "blobId" : "eCdVDzD1gEVutuB8zr_1t1_xWwiYi76diyyGPSH_Ecg",
+  "blobMimeType" : "application/pdf; charset=binary",
+  "category" : "Reference",
+  "createdAt" : 1379957505,
+  "description" : "2007 Providence Public Schools Specifications and Proposal Forms for Student Transportation",
+  "displayType" : "blob",
+  "downloadCount" : 19,
+  "indexUpdatedAt" : 1379964604,
+  "newBackend" : false,
+  "numberOfComments" : 0,
+  "oid" : 5564042,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1379957505,
+  "publicationGroup" : 1177589,
+  "publicationStage" : "published",
+  "signed" : false,
+  "tableId" : 1177589,
+  "totalTimesRated" : 0,
+  "viewCount" : 22,
+  "viewLastModified" : 1379957561,
+  "viewType" : "blobby",
+  "grants" : [ {
+    "inherited" : false,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "renderTypeConfig" : {
+      "visible" : {
+        "blob" : true
+      }
+    },
+    "availableDisplayTypes" : [ "blob" ]
+  },
+  "owner" : {
+    "id" : "v6h4-bzm6",
+    "displayName" : "Jim",
+    "screenName" : "Jim"
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "v6h4-bzm6",
+    "displayName" : "Jim",
+    "screenName" : "Jim"
+  },
+  "tags" : [ "bus", "transportation" ],
+  "flags" : [ "default" ]
+}, {
+  "id" : "e6ib-h8wr",
+  "name" : "Zoning Overlay Districts",
+  "averageRating" : 0,
+  "blobFilename" : "ZoningOverlayDistricts.zip",
+  "blobFileSize" : 52627,
+  "blobId" : "WkUYUIxBLI3ZNj2pV2NR5KU8TE4njXt92cNj9hJTscg",
+  "blobMimeType" : "application/zip; charset=binary",
+  "category" : "City of Providence",
+  "createdAt" : 1368815377,
+  "description" : "Overlay zoning districts for the City of Providence",
+  "displayType" : "map",
+  "downloadCount" : 0,
+  "indexUpdatedAt" : 1368815522,
+  "newBackend" : false,
+  "numberOfComments" : 0,
+  "oid" : 3647661,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1368815379,
+  "publicationGroup" : 863477,
+  "publicationStage" : "published",
+  "signed" : false,
+  "tableId" : 863477,
+  "totalTimesRated" : 0,
+  "viewCount" : 45,
+  "viewLastModified" : 1368815519,
+  "viewType" : "geo",
+  "childViews" : [ "gyjt-gxxz" ],
+  "grants" : [ {
+    "inherited" : false,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "renderTypeConfig" : {
+      "visible" : {
+        "map" : true
+      }
+    },
+    "availableDisplayTypes" : [ "map", "table", "fatrow", "page" ],
+    "geo" : {
+      "owsUrl" : "/api/geospatial/e6ib-h8wr",
+      "bbox" : "-71.46799590701345,41.77251713461232,-71.37765244181499,41.85300321385442",
+      "layers" : "geo_e6ib-h8wr-1",
+      "featureIdAttribute" : "_SocrataID",
+      "bboxCrs" : "EPSG:4326",
+      "namespace" : "geo_e6ib-h8wr"
+    }
+  },
+  "owner" : {
+    "id" : "8zu9-a2mc",
+    "displayName" : "David",
+    "screenName" : "David"
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "8zu9-a2mc",
+    "displayName" : "David",
+    "screenName" : "David"
+  },
+  "tags" : [ "zoning", "overlay districts", "historic", "institutional", "corridors" ],
+  "flags" : [ "default" ]
+}, {
+  "id" : "xfu6-c3zx",
+  "name" : "FEMA Flood Zones",
+  "averageRating" : 0,
+  "blobFilename" : "DFIRM_Prov09.zip",
+  "blobFileSize" : 7008643,
+  "blobId" : "Yj7mJIDR36DV0W_ceAyn6UGryICznqgQg213rvTKH44",
+  "blobMimeType" : "application/zip; charset=binary",
+  "createdAt" : 1367851577,
+  "description" : "Digital Flood Insurance Rate Map (DFIRM) database for Providence County updated by the Federal Emergency Management Association in April 2011.",
+  "displayType" : "map",
+  "downloadCount" : 0,
+  "indexUpdatedAt" : 1367852284,
+  "newBackend" : false,
+  "numberOfComments" : 0,
+  "oid" : 3490671,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1367851596,
+  "publicationGroup" : 840676,
+  "publicationStage" : "published",
+  "signed" : false,
+  "tableId" : 840676,
+  "totalTimesRated" : 0,
+  "viewCount" : 34,
+  "viewLastModified" : 1367851722,
+  "viewType" : "geo",
+  "childViews" : [ "tapw-39gq" ],
+  "grants" : [ {
+    "inherited" : false,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "renderTypeConfig" : {
+      "visible" : {
+        "map" : true
+      }
+    },
+    "availableDisplayTypes" : [ "map", "table", "fatrow", "page" ],
+    "geo" : {
+      "owsUrl" : "/api/geospatial/xfu6-c3zx",
+      "bbox" : "-71.79931125743437,41.72455040917659,-71.31707876156572,42.01893312701278",
+      "layers" : "geo_xfu6-c3zx-1",
+      "featureIdAttribute" : "_SocrataID",
+      "bboxCrs" : "EPSG:4326",
+      "namespace" : "geo_xfu6-c3zx"
+    }
+  },
+  "owner" : {
+    "id" : "8zu9-a2mc",
+    "displayName" : "David",
+    "screenName" : "David"
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "8zu9-a2mc",
+    "displayName" : "David",
+    "screenName" : "David"
+  },
+  "tags" : [ "fema", "flood zones", "dfirm" ],
+  "flags" : [ "default" ]
+}, {
+  "id" : "2jv9-4u9y",
+  "name" : "Local Historic District",
+  "averageRating" : 0,
+  "blobFilename" : "LocalHistoricDistrict.zip",
+  "blobFileSize" : 108831,
+  "blobId" : "gmfDUJ5o8Xhmjs_YIABCAq1i5Kws3bCCdlCyv58f4iI",
+  "blobMimeType" : "application/zip; charset=binary",
+  "category" : "Reference",
+  "createdAt" : 1367851756,
+  "description" : "Local Historic Districts for the City of Providence",
+  "displayType" : "map",
+  "downloadCount" : 0,
+  "indexUpdatedAt" : 1385133022,
+  "newBackend" : false,
+  "numberOfComments" : 0,
+  "oid" : 3490686,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1372347463,
+  "publicationGroup" : 840685,
+  "publicationStage" : "published",
+  "signed" : false,
+  "tableId" : 840685,
+  "totalTimesRated" : 0,
+  "viewCount" : 51,
+  "viewLastModified" : 1385128479,
+  "viewType" : "geo",
+  "childViews" : [ "ijj6-44id", "6cgf-f86u" ],
+  "grants" : [ {
+    "inherited" : false,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "renderTypeConfig" : {
+      "visible" : {
+        "map" : true
+      }
+    },
+    "availableDisplayTypes" : [ "map", "table", "fatrow", "page" ],
+    "geo" : {
+      "owsUrl" : "/api/geospatial/2jv9-4u9y",
+      "bbox" : "-71.4646805755511,41.77697894800153,-71.38159450182914,41.8569136747801",
+      "layers" : "geo_2jv9-4u9y-1,geo_2jv9-4u9y-2",
+      "featureIdAttribute" : "_SocrataID",
+      "bboxCrs" : "EPSG:4326",
+      "namespace" : "geo_2jv9-4u9y"
+    }
+  },
+  "owner" : {
+    "id" : "8zu9-a2mc",
+    "displayName" : "David",
+    "screenName" : "David"
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "8zu9-a2mc",
+    "displayName" : "David",
+    "screenName" : "David"
+  },
+  "tags" : [ "historic districts" ],
+  "flags" : [ "default" ]
+}, {
+  "id" : "4nyi-9b7c",
+  "name" : "FY2014 Approved Budget Publication",
+  "averageRating" : 0,
+  "blobFilename" : "Budget.pdf",
+  "blobFileSize" : 5033824,
+  "blobId" : "n0R5y_djaJC-2cx9gP-6J4iGpjlYP1DP8hEPiG0V2_Y",
+  "blobMimeType" : "application/pdf; charset=binary",
+  "category" : "Finance",
+  "createdAt" : 1372167180,
+  "description" : "This dataset contains the official Budget, Revenue and Expenditure book, with supporting documentation, as distributed for the fiscal year beginning July 1, 2013.",
+  "displayType" : "blob",
+  "downloadCount" : 29,
+  "indexUpdatedAt" : 1372723616,
+  "newBackend" : false,
+  "numberOfComments" : 0,
+  "oid" : 4191526,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1372167180,
+  "publicationGroup" : 939924,
+  "publicationStage" : "published",
+  "signed" : false,
+  "tableId" : 939924,
+  "totalTimesRated" : 0,
+  "viewCount" : 67,
+  "viewLastModified" : 1372434202,
+  "viewType" : "blobby",
+  "grants" : [ {
+    "inherited" : false,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "renderTypeConfig" : {
+      "visible" : {
+        "blob" : true
+      }
+    },
+    "availableDisplayTypes" : [ "blob" ]
+  },
+  "owner" : {
+    "id" : "v6h4-bzm6",
+    "displayName" : "Jim",
+    "screenName" : "Jim"
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "v6h4-bzm6",
+    "displayName" : "Jim",
+    "screenName" : "Jim"
+  },
+  "tags" : [ "budget", "fy2014" ],
+  "flags" : [ "default" ]
+}, {
+  "id" : "i8k3-9bzq",
+  "name" : "FY2013 City Employee Salary Schedule",
+  "averageRating" : 0,
+  "category" : "Finance",
+  "createdAt" : 1372165819,
+  "description" : "This dataset contains the range of salaries of full-time city staff, by department and title, as of June, 2013.",
+  "displayType" : "table",
+  "downloadCount" : 14,
+  "indexUpdatedAt" : 1373574681,
+  "newBackend" : false,
+  "numberOfComments" : 0,
+  "oid" : 4226217,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1372366548,
+  "publicationGroup" : 939879,
+  "publicationStage" : "published",
+  "rowClass" : "",
+  "rowsUpdatedAt" : 1372366466,
+  "rowsUpdatedBy" : "v6h4-bzm6",
+  "signed" : false,
+  "tableId" : 945101,
+  "totalTimesRated" : 0,
+  "viewCount" : 856,
+  "viewLastModified" : 1373571377,
+  "viewType" : "tabular",
+  "grants" : [ {
+    "inherited" : false,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "renderTypeConfig" : {
+      "visible" : {
+        "table" : true
+      }
+    },
+    "availableDisplayTypes" : [ "table", "fatrow", "page" ],
+    "rdfSubject" : "0",
+    "rowIdentifier" : "0",
+    "rdfClass" : ""
+  },
+  "owner" : {
+    "id" : "v6h4-bzm6",
+    "displayName" : "Jim",
+    "screenName" : "Jim"
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "v6h4-bzm6",
+    "displayName" : "Jim",
+    "screenName" : "Jim"
+  },
+  "tags" : [ "salaries", "employees", "fy2013" ],
+  "flags" : [ "default" ]
+}, {
+  "id" : "kwdj-tdry",
+  "name" : "Enterprise Zones",
+  "averageRating" : 0,
+  "blobFilename" : "EnterpriseZones.zip",
+  "blobFileSize" : 29207,
+  "blobId" : "AuB52INNZ6qFfitFoJAE43H8Wtu1X3tR8aWhimgR0RM",
+  "blobMimeType" : "application/zip; charset=binary",
+  "createdAt" : 1373560734,
+  "description" : "The Enterprise Zone Program is designed to offer tax incentives to businesses that expand their workforce at facilities located in a designated area",
+  "displayType" : "map",
+  "downloadCount" : 0,
+  "indexUpdatedAt" : 1373570379,
+  "newBackend" : false,
+  "numberOfComments" : 0,
+  "oid" : 4418396,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1373560750,
+  "publicationGroup" : 970857,
+  "publicationStage" : "published",
+  "signed" : false,
+  "tableId" : 970857,
+  "totalTimesRated" : 0,
+  "viewCount" : 60,
+  "viewLastModified" : 1373567250,
+  "viewType" : "geo",
+  "childViews" : [ "vynu-sgur" ],
+  "grants" : [ {
+    "inherited" : false,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "renderTypeConfig" : {
+      "visible" : {
+        "map" : true
+      }
+    },
+    "availableDisplayTypes" : [ "map", "table", "fatrow", "page" ],
+    "geo" : {
+      "owsUrl" : "/api/geospatial/kwdj-tdry",
+      "bbox" : "-71.47057511315914,41.78339820759844,-71.37009565009278,41.83624828036508",
+      "layers" : "geo_kwdj-tdry-1",
+      "featureIdAttribute" : "_SocrataID",
+      "bboxCrs" : "EPSG:4326",
+      "namespace" : "geo_kwdj-tdry"
+    }
+  },
+  "owner" : {
+    "id" : "8zu9-a2mc",
+    "displayName" : "David",
+    "screenName" : "David"
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "8zu9-a2mc",
+    "displayName" : "David",
+    "screenName" : "David"
+  },
+  "tags" : [ "economic development", "enterprise zone", "workforce", "tax incentitives", "business" ],
+  "flags" : [ "default" ]
+}, {
+  "id" : "2d8k-gbfp",
+  "name" : "Zip Codes",
+  "averageRating" : 0,
+  "blobFilename" : "ZipCodes.zip",
+  "blobFileSize" : 32614,
+  "blobId" : "LtRNyKAlEbCl03znoYLyG9RPC7j3slYQoPOotOvKG7Q",
+  "blobMimeType" : "application/zip; charset=binary",
+  "category" : "Reference",
+  "createdAt" : 1373561752,
+  "description" : "Postal zip code boundaries for the City of Providence",
+  "displayType" : "map",
+  "downloadCount" : 0,
+  "indexUpdatedAt" : 1373574627,
+  "newBackend" : false,
+  "numberOfComments" : 0,
+  "oid" : 4418525,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1373561754,
+  "publicationGroup" : 970887,
+  "publicationStage" : "published",
+  "signed" : false,
+  "tableId" : 970887,
+  "totalTimesRated" : 0,
+  "viewCount" : 45,
+  "viewLastModified" : 1373570174,
+  "viewType" : "geo",
+  "childViews" : [ "sm57-du4m" ],
+  "grants" : [ {
+    "inherited" : false,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "renderTypeConfig" : {
+      "visible" : {
+        "map" : true
+      }
+    },
+    "availableDisplayTypes" : [ "map", "table", "fatrow", "page" ],
+    "geo" : {
+      "owsUrl" : "/api/geospatial/2d8k-gbfp",
+      "bbox" : "-71.47243795900697,41.77238194314563,-71.37073475085666,41.86184597623469",
+      "layers" : "geo_2d8k-gbfp-1",
+      "featureIdAttribute" : "_SocrataID",
+      "bboxCrs" : "EPSG:4326",
+      "namespace" : "geo_2d8k-gbfp"
+    }
+  },
+  "owner" : {
+    "id" : "8zu9-a2mc",
+    "displayName" : "David",
+    "screenName" : "David"
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "8zu9-a2mc",
+    "displayName" : "David",
+    "screenName" : "David"
+  },
+  "tags" : [ "postal", "zip", "codes", "boundaries" ],
+  "flags" : [ "default" ]
+}, {
+  "id" : "5iz9-7wjz",
+  "name" : "Providence Teachers Union Contract 2011-2014",
+  "averageRating" : 0,
+  "blobFilename" : "TeacherContract.pdf",
+  "blobFileSize" : 541287,
+  "blobId" : "DsEhj3TtRw_fMcOwYhCPrboznormgJJqpOw2GjSFi0s",
+  "blobMimeType" : "application/pdf; charset=binary",
+  "category" : "Reference",
+  "createdAt" : 1373045149,
+  "description" : "Agreement between the Providence Teachers Union, AFT Local 958, AFL-CIO and the City of Providence. September 1, 2011 to August 31, 2014",
+  "displayType" : "blob",
+  "downloadCount" : 202,
+  "indexUpdatedAt" : 1373318725,
+  "newBackend" : false,
+  "numberOfComments" : 0,
+  "oid" : 4336111,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1373045149,
+  "publicationGroup" : 959766,
+  "publicationStage" : "published",
+  "signed" : false,
+  "tableId" : 959766,
+  "totalTimesRated" : 0,
+  "viewCount" : 586,
+  "viewLastModified" : 1373045387,
+  "viewType" : "blobby",
+  "grants" : [ {
+    "inherited" : false,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "renderTypeConfig" : {
+      "visible" : {
+        "blob" : true
+      }
+    },
+    "availableDisplayTypes" : [ "blob" ]
+  },
+  "owner" : {
+    "id" : "v6h4-bzm6",
+    "displayName" : "Jim",
+    "screenName" : "Jim"
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "v6h4-bzm6",
+    "displayName" : "Jim",
+    "screenName" : "Jim"
+  },
+  "tags" : [ "union", "contract", "958", "employees" ],
+  "flags" : [ "default" ]
+}, {
+  "id" : "dc32-wtws",
+  "name" : "FY2014 Approved Financial Ordinances Publication",
+  "averageRating" : 0,
+  "blobFilename" : "Ordinances.pdf",
+  "blobFileSize" : 7974548,
+  "blobId" : "4bqqrVEZO-EOBzwe4XNIhiTkIr03FlIuIf-PxXs4pbk",
+  "blobMimeType" : "application/pdf; charset=binary",
+  "category" : "Finance",
+  "createdAt" : 1372434303,
+  "description" : "This dataset contains the official Levy, Appropriation, Classification and Compensation Ordinances for the City of Providence, as well as the Appropriation Ordinance for the Providence School Department. The document is distributed for the fiscal year beginning July 1, 2013.",
+  "displayType" : "blob",
+  "downloadCount" : 34,
+  "indexUpdatedAt" : 1372723640,
+  "newBackend" : false,
+  "numberOfComments" : 0,
+  "oid" : 4238281,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1372434303,
+  "publicationGroup" : 946730,
+  "publicationStage" : "published",
+  "signed" : false,
+  "tableId" : 946730,
+  "totalTimesRated" : 0,
+  "viewCount" : 54,
+  "viewLastModified" : 1372434505,
+  "viewType" : "blobby",
+  "grants" : [ {
+    "inherited" : false,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "renderTypeConfig" : {
+      "visible" : {
+        "blob" : true
+      }
+    },
+    "availableDisplayTypes" : [ "blob" ]
+  },
+  "owner" : {
+    "id" : "v6h4-bzm6",
+    "displayName" : "Jim",
+    "screenName" : "Jim"
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "v6h4-bzm6",
+    "displayName" : "Jim",
+    "screenName" : "Jim"
+  },
+  "tags" : [ "ordinance", "fy2014" ],
+  "flags" : [ "default" ]
+}, {
+  "id" : "apvu-8y72",
+  "name" : "2013 Residential Assessment",
+  "averageRating" : 0,
+  "category" : "Finance",
+  "createdAt" : 1368018539,
+  "description" : "Residential Property Assessment details for 2013 and 2010",
+  "displayType" : "table",
+  "downloadCount" : 54,
+  "indexUpdatedAt" : 1372270052,
+  "newBackend" : false,
+  "numberOfComments" : 0,
+  "oid" : 4206979,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1372255387,
+  "publicationGroup" : 844806,
+  "publicationStage" : "published",
+  "rowsUpdatedAt" : 1372255328,
+  "rowsUpdatedBy" : "v6h4-bzm6",
+  "signed" : false,
+  "tableId" : 942117,
+  "totalTimesRated" : 0,
+  "viewCount" : 1442,
+  "viewLastModified" : 1372255492,
+  "viewType" : "tabular",
+  "grants" : [ {
+    "inherited" : false,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "renderTypeConfig" : {
+      "visible" : {
+        "table" : true
+      }
+    },
+    "availableDisplayTypes" : [ "table", "fatrow", "page" ],
+    "rdfSubject" : "0",
+    "thumbnail" : {
+      "page" : {
+        "created" : true
+      }
+    }
+  },
+  "owner" : {
+    "id" : "v6h4-bzm6",
+    "displayName" : "Jim",
+    "screenName" : "Jim"
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "v6h4-bzm6",
+    "displayName" : "Jim",
+    "screenName" : "Jim"
+  },
+  "tags" : [ "assessment", "property value" ],
+  "flags" : [ "default" ]
+}, {
+  "id" : "ngcr-pwjt",
+  "name" : "FY2013 Approved Financial Ordinances Publication",
+  "averageRating" : 0,
+  "blobFilename" : "FY2013_ADOPTED_BUDGET_ORDINANCES.PDF",
+  "blobFileSize" : 2740843,
+  "blobId" : "76wpnKT-VOtxXuD_KHayxE4c14OE1aDOJfnVsH9KBOk",
+  "blobMimeType" : "application/pdf; charset=binary",
+  "category" : "Finance",
+  "createdAt" : 1373571137,
+  "description" : "This dataset contains the official Levy, Appropriation, Classification and Compensation Ordinances for the City of Providence, as well as the Appropriation Ordinance for the Providence School Department. The document is distributed for the fiscal year beginning July 1, 2013.",
+  "displayType" : "blob",
+  "downloadCount" : 21,
+  "indexUpdatedAt" : 1373574689,
+  "newBackend" : false,
+  "numberOfComments" : 0,
+  "oid" : 4419772,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1373571137,
+  "publicationGroup" : 971131,
+  "publicationStage" : "published",
+  "signed" : false,
+  "tableId" : 971131,
+  "totalTimesRated" : 0,
+  "viewCount" : 42,
+  "viewLastModified" : 1373571203,
+  "viewType" : "blobby",
+  "grants" : [ {
+    "inherited" : false,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "renderTypeConfig" : {
+      "visible" : {
+        "blob" : true
+      }
+    },
+    "availableDisplayTypes" : [ "blob" ]
+  },
+  "owner" : {
+    "id" : "v6h4-bzm6",
+    "displayName" : "Jim",
+    "screenName" : "Jim"
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "v6h4-bzm6",
+    "displayName" : "Jim",
+    "screenName" : "Jim"
+  },
+  "tags" : [ "ordinance", "fy2014" ],
+  "flags" : [ "default" ]
+}, {
+  "id" : "m8eq-rx6y",
+  "name" : "FY2013 Approved Budget Publication",
+  "averageRating" : 0,
+  "blobFilename" : "FY2013_ADOPTED_BUDGET.PDF",
+  "blobFileSize" : 5225280,
+  "blobId" : "gLDkjbeAQR9zgllS-lCIxpWjnEFHobzwUzpfklNGaho",
+  "blobMimeType" : "application/pdf; charset=binary",
+  "category" : "Finance",
+  "createdAt" : 1373570993,
+  "description" : "This dataset contains the official Budget, Revenue and Expenditure book, with supporting documentation, as distributed for the fiscal year beginning July 1, 2012.",
+  "displayType" : "blob",
+  "downloadCount" : 26,
+  "indexUpdatedAt" : 1373574680,
+  "newBackend" : false,
+  "numberOfComments" : 0,
+  "oid" : 4419760,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1373570993,
+  "publicationGroup" : 971126,
+  "publicationStage" : "published",
+  "signed" : false,
+  "tableId" : 971126,
+  "totalTimesRated" : 0,
+  "viewCount" : 43,
+  "viewLastModified" : 1373571088,
+  "viewType" : "blobby",
+  "grants" : [ {
+    "inherited" : false,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "renderTypeConfig" : {
+      "visible" : {
+        "blob" : true
+      }
+    },
+    "availableDisplayTypes" : [ "blob" ]
+  },
+  "owner" : {
+    "id" : "v6h4-bzm6",
+    "displayName" : "Jim",
+    "screenName" : "Jim"
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "v6h4-bzm6",
+    "displayName" : "Jim",
+    "screenName" : "Jim"
+  },
+  "tags" : [ "budget", "fy2013" ],
+  "flags" : [ "default" ]
+}, {
+  "id" : "8fz9-3mx3",
+  "name" : "Elmwood Ave SNAP Vendors",
+  "averageRating" : 0,
+  "category" : "Neighborhoods",
+  "createdAt" : 1374080314,
+  "description" : "Supplemental Nutrition Assistance Program (SNAP) offers nutrition assistance to millions of eligible, low-income individuals and families and provides economic benefits to communities. SNAP is the largest program in the domestic hunger safety net. The Food and Nutrition Service works with State agencies, nutrition educators, and neighborhood and faith-based organizations to ensure that those eligible for nutrition assistance can make informed decisions about applying for the program and can access benefits. FNS also works with State partners and the retail community to improve program administration and ensure program integrity. Data collected as of July, 2013.",
+  "displayType" : "map",
+  "downloadCount" : 34,
+  "indexUpdatedAt" : 1375292569,
+  "moderationStatus" : true,
+  "newBackend" : false,
+  "numberOfComments" : 0,
+  "oid" : 4521024,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1374168566,
+  "publicationGroup" : 973123,
+  "publicationStage" : "published",
+  "rowClass" : "",
+  "rowsUpdatedAt" : 1374168548,
+  "rowsUpdatedBy" : "v6h4-bzm6",
+  "signed" : false,
+  "tableId" : 984923,
+  "totalTimesRated" : 0,
+  "viewCount" : 52,
+  "viewLastModified" : 1375291843,
+  "viewType" : "tabular",
+  "grants" : [ {
+    "inherited" : true,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "renderTypeConfig" : {
+      "visible" : {
+        "map" : true
+      },
+      "active" : {
+        "table" : {
+          "id" : "self"
+        }
+      }
+    },
+    "availableDisplayTypes" : [ "map", "table", "fatrow", "page" ],
+    "rdfSubject" : "0",
+    "conditionalFormatting" : [ {
+      "icon" : "/api/assets/DC12AEAC-4FBA-44F0-803D-D36D223CE26D",
+      "condition" : {
+        "_key" : "(12129730|EQUALS|CG)",
+        "value" : "CG",
+        "tableColumnId" : 12129730,
+        "operator" : "EQUALS"
+      },
+      "description" : "Chain Store/Gas Station"
+    }, {
+      "icon" : "/api/assets/1AC48F9F-414B-4321-99FC-0ED7B9203BBF",
+      "condition" : {
+        "_key" : "(12129730|EQUALS|CS)",
+        "value" : "CS",
+        "tableColumnId" : 12129730,
+        "operator" : "EQUALS"
+      },
+      "description" : "Corner Store"
+    }, {
+      "icon" : "/api/assets/1FDE7571-F164-45A3-8590-DF46434AE9F0",
+      "condition" : {
+        "_key" : "(12129730|EQUALS|SP)",
+        "value" : "SP",
+        "tableColumnId" : 12129730,
+        "operator" : "EQUALS"
+      },
+      "description" : "Specialty"
+    }, {
+      "icon" : "/api/assets/08650422-DA10-45A2-A781-9F3B28443935",
+      "condition" : {
+        "_key" : "(12129730|EQUALS|GR)",
+        "value" : "GR",
+        "tableColumnId" : 12129730,
+        "operator" : "EQUALS"
+      },
+      "description" : "Grocery"
+    }, {
+      "icon" : "/api/assets/8FB90B6D-F3B4-49C4-B7D4-D07F0E7EC89B",
+      "condition" : {
+        "_key" : "(12129730|EQUALS|FM)",
+        "value" : "FM",
+        "tableColumnId" : 12129730,
+        "operator" : "EQUALS"
+      },
+      "description" : "Farmers Market"
+    } ],
+    "rowIdentifier" : "0",
+    "rdfClass" : ""
+  },
+  "owner" : {
+    "id" : "8zu9-a2mc",
+    "displayName" : "David",
+    "screenName" : "David"
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "8zu9-a2mc",
+    "displayName" : "David",
+    "screenName" : "David"
+  },
+  "tags" : [ "snap", "nutrition", "food", "benefits" ]
+}, {
+  "id" : "cvbu-xhqr",
+  "name" : "SNAP Vendor List",
+  "averageRating" : 0,
+  "category" : "Neighborhoods",
+  "createdAt" : 1373654568,
+  "description" : "Supplemental Nutrition Assistance Program (SNAP) offers nutrition assistance to millions of eligible, low-income individuals and families and provides economic benefits to communities. SNAP is the largest program in the domestic hunger safety net. The Food and Nutrition Service works with State agencies, nutrition educators, and neighborhood and faith-based organizations to ensure that those eligible for nutrition assistance can make informed decisions about applying for the program and can access benefits. FNS also works with State partners and the retail community to improve program administration and ensure program integrity. Data collected as of July, 2013.",
+  "displayType" : "table",
+  "downloadCount" : 38,
+  "indexUpdatedAt" : 1375292429,
+  "newBackend" : false,
+  "numberOfComments" : 0,
+  "oid" : 4521018,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1374168566,
+  "publicationGroup" : 973123,
+  "publicationStage" : "published",
+  "rowClass" : "",
+  "rowsUpdatedAt" : 1374168548,
+  "rowsUpdatedBy" : "v6h4-bzm6",
+  "signed" : false,
+  "tableId" : 984923,
+  "totalTimesRated" : 0,
+  "viewCount" : 58,
+  "viewLastModified" : 1374520983,
+  "viewType" : "tabular",
+  "grants" : [ {
+    "inherited" : true,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "renderTypeConfig" : {
+      "visible" : {
+        "table" : true
+      }
+    },
+    "availableDisplayTypes" : [ "table", "fatrow", "page" ],
+    "rdfSubject" : "0",
+    "rowIdentifier" : "0",
+    "rdfClass" : ""
+  },
+  "owner" : {
+    "id" : "8zu9-a2mc",
+    "displayName" : "David",
+    "screenName" : "David"
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "8zu9-a2mc",
+    "displayName" : "David",
+    "screenName" : "David"
+  },
+  "tags" : [ "snap", "nutrition", "food", "benefits" ],
+  "flags" : [ "default" ]
+}, {
+  "id" : "cwi7-qfsa",
+  "name" : "Silver Lake SNAP Vendors",
+  "averageRating" : 0,
+  "category" : "Neighborhoods",
+  "createdAt" : 1374080169,
+  "description" : "Supplemental Nutrition Assistance Program (SNAP) offers nutrition assistance to millions of eligible, low-income individuals and families and provides economic benefits to communities. SNAP is the largest program in the domestic hunger safety net. The Food and Nutrition Service works with State agencies, nutrition educators, and neighborhood and faith-based organizations to ensure that those eligible for nutrition assistance can make informed decisions about applying for the program and can access benefits. FNS also works with State partners and the retail community to improve program administration and ensure program integrity. Data collected as of July, 2013.",
+  "displayType" : "map",
+  "downloadCount" : 9,
+  "indexUpdatedAt" : 1375292570,
+  "moderationStatus" : true,
+  "newBackend" : false,
+  "numberOfComments" : 0,
+  "oid" : 4521031,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1374168566,
+  "publicationGroup" : 973123,
+  "publicationStage" : "published",
+  "rowClass" : "",
+  "rowsUpdatedAt" : 1374168548,
+  "rowsUpdatedBy" : "v6h4-bzm6",
+  "signed" : false,
+  "tableId" : 984923,
+  "totalTimesRated" : 0,
+  "viewCount" : 43,
+  "viewLastModified" : 1375291850,
+  "viewType" : "tabular",
+  "grants" : [ {
+    "inherited" : true,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "renderTypeConfig" : {
+      "visible" : {
+        "map" : true
+      },
+      "active" : {
+        "table" : {
+          "id" : "self"
+        }
+      }
+    },
+    "availableDisplayTypes" : [ "map", "table", "fatrow", "page" ],
+    "rdfSubject" : "0",
+    "conditionalFormatting" : [ {
+      "icon" : "/api/assets/DC12AEAC-4FBA-44F0-803D-D36D223CE26D",
+      "condition" : {
+        "_key" : "(12129730|EQUALS|CG)",
+        "value" : "CG",
+        "tableColumnId" : 12129730,
+        "operator" : "EQUALS"
+      },
+      "description" : "Chain Store/Gas Station"
+    }, {
+      "icon" : "/api/assets/1AC48F9F-414B-4321-99FC-0ED7B9203BBF",
+      "condition" : {
+        "_key" : "(12129730|EQUALS|CS)",
+        "value" : "CS",
+        "tableColumnId" : 12129730,
+        "operator" : "EQUALS"
+      },
+      "description" : "Corner Store"
+    }, {
+      "icon" : "/api/assets/1FDE7571-F164-45A3-8590-DF46434AE9F0",
+      "condition" : {
+        "_key" : "(12129730|EQUALS|SP)",
+        "value" : "SP",
+        "tableColumnId" : 12129730,
+        "operator" : "EQUALS"
+      },
+      "description" : "Specialty"
+    }, {
+      "icon" : "/api/assets/08650422-DA10-45A2-A781-9F3B28443935",
+      "condition" : {
+        "_key" : "(12129730|EQUALS|GR)",
+        "value" : "GR",
+        "tableColumnId" : 12129730,
+        "operator" : "EQUALS"
+      },
+      "description" : "Grocery"
+    }, {
+      "icon" : "/api/assets/8FB90B6D-F3B4-49C4-B7D4-D07F0E7EC89B",
+      "condition" : {
+        "_key" : "(12129730|EQUALS|FM)",
+        "value" : "FM",
+        "tableColumnId" : 12129730,
+        "operator" : "EQUALS"
+      },
+      "description" : "Farmers Market"
+    } ],
+    "rowIdentifier" : "0",
+    "rdfClass" : ""
+  },
+  "owner" : {
+    "id" : "8zu9-a2mc",
+    "displayName" : "David",
+    "screenName" : "David"
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "8zu9-a2mc",
+    "displayName" : "David",
+    "screenName" : "David"
+  },
+  "tags" : [ "snap", "nutrition", "food", "benefits" ]
+}, {
+  "id" : "hszu-su54",
+  "name" : "Academy Ave SNAP Vendors",
+  "averageRating" : 0,
+  "category" : "Neighborhoods",
+  "createdAt" : 1374080614,
+  "description" : "Supplemental Nutrition Assistance Program (SNAP) offers nutrition assistance to millions of eligible, low-income individuals and families and provides economic benefits to communities. SNAP is the largest program in the domestic hunger safety net. The Food and Nutrition Service works with State agencies, nutrition educators, and neighborhood and faith-based organizations to ensure that those eligible for nutrition assistance can make informed decisions about applying for the program and can access benefits. FNS also works with State partners and the retail community to improve program administration and ensure program integrity. Data collected as of July, 2013.",
+  "displayType" : "map",
+  "downloadCount" : 41,
+  "indexUpdatedAt" : 1375292569,
+  "moderationStatus" : true,
+  "newBackend" : false,
+  "numberOfComments" : 0,
+  "oid" : 4521026,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1374168566,
+  "publicationGroup" : 973123,
+  "publicationStage" : "published",
+  "rowClass" : "",
+  "rowsUpdatedAt" : 1374168548,
+  "rowsUpdatedBy" : "v6h4-bzm6",
+  "signed" : false,
+  "tableId" : 984923,
+  "totalTimesRated" : 0,
+  "viewCount" : 53,
+  "viewLastModified" : 1375291839,
+  "viewType" : "tabular",
+  "grants" : [ {
+    "inherited" : true,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "renderTypeConfig" : {
+      "visible" : {
+        "map" : true
+      },
+      "active" : {
+        "table" : {
+          "id" : "self"
+        }
+      }
+    },
+    "availableDisplayTypes" : [ "map", "table", "fatrow", "page" ],
+    "rdfSubject" : "0",
+    "conditionalFormatting" : [ {
+      "icon" : "/api/assets/DC12AEAC-4FBA-44F0-803D-D36D223CE26D",
+      "condition" : {
+        "_key" : "(12129730|EQUALS|CG)",
+        "value" : "CG",
+        "tableColumnId" : 12129730,
+        "operator" : "EQUALS"
+      },
+      "description" : "Chain Store/Gas Station"
+    }, {
+      "icon" : "/api/assets/1AC48F9F-414B-4321-99FC-0ED7B9203BBF",
+      "condition" : {
+        "_key" : "(12129730|EQUALS|CS)",
+        "value" : "CS",
+        "tableColumnId" : 12129730,
+        "operator" : "EQUALS"
+      },
+      "description" : "Corner Store"
+    }, {
+      "icon" : "/api/assets/1FDE7571-F164-45A3-8590-DF46434AE9F0",
+      "condition" : {
+        "_key" : "(12129730|EQUALS|SP)",
+        "value" : "SP",
+        "tableColumnId" : 12129730,
+        "operator" : "EQUALS"
+      },
+      "description" : "Specialty"
+    }, {
+      "icon" : "/api/assets/08650422-DA10-45A2-A781-9F3B28443935",
+      "condition" : {
+        "_key" : "(12129730|EQUALS|GR)",
+        "value" : "GR",
+        "tableColumnId" : 12129730,
+        "operator" : "EQUALS"
+      },
+      "description" : "Grocery"
+    }, {
+      "icon" : "/api/assets/8FB90B6D-F3B4-49C4-B7D4-D07F0E7EC89B",
+      "condition" : {
+        "_key" : "(12129730|EQUALS|FM)",
+        "value" : "FM",
+        "tableColumnId" : 12129730,
+        "operator" : "EQUALS"
+      },
+      "description" : "Farmers Market"
+    } ],
+    "rowIdentifier" : "0",
+    "rdfClass" : ""
+  },
+  "owner" : {
+    "id" : "8zu9-a2mc",
+    "displayName" : "David",
+    "screenName" : "David"
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "8zu9-a2mc",
+    "displayName" : "David",
+    "screenName" : "David"
+  },
+  "tags" : [ "snap", "nutrition", "food", "benefits" ]
+}, {
+  "id" : "r9hk-46z3",
+  "name" : "Citywide SNAP Vendors",
+  "averageRating" : 0,
+  "category" : "Neighborhoods",
+  "createdAt" : 1374079757,
+  "description" : "Supplemental Nutrition Assistance Program (SNAP) offers nutrition assistance to millions of eligible, low-income individuals and families and provides economic benefits to communities. SNAP is the largest program in the domestic hunger safety net. The Food and Nutrition Service works with State agencies, nutrition educators, and neighborhood and faith-based organizations to ensure that those eligible for nutrition assistance can make informed decisions about applying for the program and can access benefits. FNS also works with State partners and the retail community to improve program administration and ensure program integrity. Data collected as of July, 2013.",
+  "displayType" : "map",
+  "downloadCount" : 11,
+  "indexUpdatedAt" : 1375292569,
+  "moderationStatus" : true,
+  "newBackend" : false,
+  "numberOfComments" : 0,
+  "oid" : 4521029,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1374168566,
+  "publicationGroup" : 973123,
+  "publicationStage" : "published",
+  "rowClass" : "",
+  "rowsUpdatedAt" : 1374168548,
+  "rowsUpdatedBy" : "v6h4-bzm6",
+  "signed" : false,
+  "tableId" : 984923,
+  "totalTimesRated" : 0,
+  "viewCount" : 51,
+  "viewLastModified" : 1375291854,
+  "viewType" : "tabular",
+  "grants" : [ {
+    "inherited" : true,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "renderTypeConfig" : {
+      "visible" : {
+        "map" : true
+      },
+      "active" : {
+        "table" : {
+          "id" : "self"
+        }
+      }
+    },
+    "availableDisplayTypes" : [ "map", "table", "fatrow", "page" ],
+    "rdfSubject" : "0",
+    "conditionalFormatting" : [ {
+      "icon" : "/api/assets/DC12AEAC-4FBA-44F0-803D-D36D223CE26D",
+      "condition" : {
+        "_key" : "(12129730|EQUALS|CG)",
+        "value" : "CG",
+        "tableColumnId" : 12129730,
+        "operator" : "EQUALS"
+      },
+      "description" : "Chain Store/Gas Station"
+    }, {
+      "icon" : "/api/assets/1AC48F9F-414B-4321-99FC-0ED7B9203BBF",
+      "condition" : {
+        "_key" : "(12129730|EQUALS|CS)",
+        "value" : "CS",
+        "tableColumnId" : 12129730,
+        "operator" : "EQUALS"
+      },
+      "description" : "Corner Store"
+    }, {
+      "icon" : "/api/assets/1FDE7571-F164-45A3-8590-DF46434AE9F0",
+      "condition" : {
+        "_key" : "(12129730|EQUALS|SP)",
+        "value" : "SP",
+        "tableColumnId" : 12129730,
+        "operator" : "EQUALS"
+      },
+      "description" : "Specialty"
+    }, {
+      "icon" : "/api/assets/08650422-DA10-45A2-A781-9F3B28443935",
+      "condition" : {
+        "_key" : "(12129730|EQUALS|GR)",
+        "value" : "GR",
+        "tableColumnId" : 12129730,
+        "operator" : "EQUALS"
+      },
+      "description" : "Grocery"
+    }, {
+      "icon" : "/api/assets/8FB90B6D-F3B4-49C4-B7D4-D07F0E7EC89B",
+      "condition" : {
+        "_key" : "(12129730|EQUALS|FM)",
+        "value" : "FM",
+        "tableColumnId" : 12129730,
+        "operator" : "EQUALS"
+      },
+      "description" : "Farmers Market"
+    } ],
+    "rowIdentifier" : "0",
+    "rdfClass" : ""
+  },
+  "owner" : {
+    "id" : "8zu9-a2mc",
+    "displayName" : "David",
+    "screenName" : "David"
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "8zu9-a2mc",
+    "displayName" : "David",
+    "screenName" : "David"
+  },
+  "tags" : [ "snap", "nutrition", "food", "benefits" ]
+}, {
+  "id" : "yfqm-r6vc",
+  "name" : "Upper South Providence SNAP Vendors",
+  "averageRating" : 0,
+  "category" : "Neighborhoods",
+  "createdAt" : 1374080226,
+  "description" : "Supplemental Nutrition Assistance Program (SNAP) offers nutrition assistance to millions of eligible, low-income individuals and families and provides economic benefits to communities. SNAP is the largest program in the domestic hunger safety net. The Food and Nutrition Service works with State agencies, nutrition educators, and neighborhood and faith-based organizations to ensure that those eligible for nutrition assistance can make informed decisions about applying for the program and can access benefits. FNS also works with State partners and the retail community to improve program administration and ensure program integrity. Data collected as of July, 2013.",
+  "displayType" : "map",
+  "downloadCount" : 15,
+  "indexUpdatedAt" : 1375292429,
+  "moderationStatus" : true,
+  "newBackend" : false,
+  "numberOfComments" : 0,
+  "oid" : 4521027,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1374168566,
+  "publicationGroup" : 973123,
+  "publicationStage" : "published",
+  "rowClass" : "",
+  "rowsUpdatedAt" : 1374168548,
+  "rowsUpdatedBy" : "v6h4-bzm6",
+  "signed" : false,
+  "tableId" : 984923,
+  "totalTimesRated" : 0,
+  "viewCount" : 46,
+  "viewLastModified" : 1375291847,
+  "viewType" : "tabular",
+  "grants" : [ {
+    "inherited" : true,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "renderTypeConfig" : {
+      "visible" : {
+        "map" : true
+      },
+      "active" : {
+        "table" : {
+          "id" : "self"
+        }
+      }
+    },
+    "availableDisplayTypes" : [ "map", "table", "fatrow", "page" ],
+    "rdfSubject" : "0",
+    "conditionalFormatting" : [ {
+      "icon" : "/api/assets/DC12AEAC-4FBA-44F0-803D-D36D223CE26D",
+      "condition" : {
+        "_key" : "(12129730|EQUALS|CG)",
+        "value" : "CG",
+        "tableColumnId" : 12129730,
+        "operator" : "EQUALS"
+      },
+      "description" : "Chain Store/Gas Station"
+    }, {
+      "icon" : "/api/assets/1AC48F9F-414B-4321-99FC-0ED7B9203BBF",
+      "condition" : {
+        "_key" : "(12129730|EQUALS|CS)",
+        "value" : "CS",
+        "tableColumnId" : 12129730,
+        "operator" : "EQUALS"
+      },
+      "description" : "Corner Store"
+    }, {
+      "icon" : "/api/assets/1FDE7571-F164-45A3-8590-DF46434AE9F0",
+      "condition" : {
+        "_key" : "(12129730|EQUALS|SP)",
+        "value" : "SP",
+        "tableColumnId" : 12129730,
+        "operator" : "EQUALS"
+      },
+      "description" : "Specialty"
+    }, {
+      "icon" : "/api/assets/08650422-DA10-45A2-A781-9F3B28443935",
+      "condition" : {
+        "_key" : "(12129730|EQUALS|GR)",
+        "value" : "GR",
+        "tableColumnId" : 12129730,
+        "operator" : "EQUALS"
+      },
+      "description" : "Grocery"
+    }, {
+      "icon" : "/api/assets/8FB90B6D-F3B4-49C4-B7D4-D07F0E7EC89B",
+      "condition" : {
+        "_key" : "(12129730|EQUALS|FM)",
+        "value" : "FM",
+        "tableColumnId" : 12129730,
+        "operator" : "EQUALS"
+      },
+      "description" : "Farmers Market"
+    } ],
+    "rowIdentifier" : "0",
+    "rdfClass" : ""
+  },
+  "owner" : {
+    "id" : "8zu9-a2mc",
+    "displayName" : "David",
+    "screenName" : "David"
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "8zu9-a2mc",
+    "displayName" : "David",
+    "screenName" : "David"
+  },
+  "tags" : [ "snap", "nutrition", "food", "benefits" ]
+}, {
+  "id" : "79wa-nv22",
+  "name" : "2013 City Holiday Calendar",
+  "averageRating" : 0,
+  "category" : "Reference",
+  "createdAt" : 1374065922,
+  "description" : "City offices will be closed on official holidays",
+  "displayType" : "calendar",
+  "downloadCount" : 6,
+  "indexUpdatedAt" : 1375292845,
+  "moderationStatus" : true,
+  "newBackend" : false,
+  "numberOfComments" : 0,
+  "oid" : 4501826,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1374066113,
+  "publicationGroup" : 982342,
+  "publicationStage" : "published",
+  "rowClass" : "",
+  "rowsUpdatedAt" : 1374066081,
+  "rowsUpdatedBy" : "v6h4-bzm6",
+  "signed" : false,
+  "tableId" : 982358,
+  "totalTimesRated" : 0,
+  "viewCount" : 56,
+  "viewLastModified" : 1375291857,
+  "viewType" : "tabular",
+  "grants" : [ {
+    "inherited" : true,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "renderTypeConfig" : {
+      "visible" : {
+        "page" : true,
+        "table" : true,
+        "calendar" : true
+      }
+    },
+    "availableDisplayTypes" : [ "calendar", "table", "fatrow", "page" ],
+    "rdfSubject" : "0",
+    "rowIdentifier" : "0",
+    "rdfClass" : ""
+  },
+  "owner" : {
+    "id" : "v6h4-bzm6",
+    "displayName" : "Jim",
+    "screenName" : "Jim"
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "v6h4-bzm6",
+    "displayName" : "Jim",
+    "screenName" : "Jim"
+  },
+  "tags" : [ "2013", "holiday" ]
+}, {
+  "id" : "ubra-37q7",
+  "name" : "2013 City Holiday Schedule",
+  "averageRating" : 0,
+  "category" : "Reference",
+  "createdAt" : 1374065412,
+  "description" : "City offices will be closed on official holidays",
+  "displayType" : "table",
+  "downloadCount" : 5,
+  "indexUpdatedAt" : 1375292844,
+  "newBackend" : false,
+  "numberOfComments" : 0,
+  "oid" : 4501807,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1374066113,
+  "publicationGroup" : 982342,
+  "publicationStage" : "published",
+  "rowsUpdatedAt" : 1374066081,
+  "rowsUpdatedBy" : "v6h4-bzm6",
+  "signed" : false,
+  "tableId" : 982358,
+  "totalTimesRated" : 0,
+  "viewCount" : 41,
+  "viewLastModified" : 1374066113,
+  "viewType" : "tabular",
+  "grants" : [ {
+    "inherited" : true,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "renderTypeConfig" : {
+      "visible" : {
+        "page" : true,
+        "table" : true
+      }
+    },
+    "availableDisplayTypes" : [ "table", "fatrow", "page" ]
+  },
+  "owner" : {
+    "id" : "v6h4-bzm6",
+    "displayName" : "Jim",
+    "screenName" : "Jim"
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "v6h4-bzm6",
+    "displayName" : "Jim",
+    "screenName" : "Jim"
+  },
+  "tags" : [ "2013", "holiday" ],
+  "flags" : [ "default" ]
+}, {
+  "id" : "iuy2-4fux",
+  "name" : "City of Providence Fire Hydrant Locations",
+  "averageRating" : 0,
+  "category" : "Reference",
+  "createdAt" : 1375292146,
+  "description" : "2013 survey of fire hydrants",
+  "displayType" : "table",
+  "downloadCount" : 18,
+  "indexUpdatedAt" : 1375373376,
+  "newBackend" : false,
+  "numberOfComments" : 0,
+  "oid" : 4708612,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1375292667,
+  "publicationGroup" : 1010719,
+  "publicationStage" : "published",
+  "rowClass" : "",
+  "rowsUpdatedAt" : 1375292569,
+  "rowsUpdatedBy" : "v6h4-bzm6",
+  "signed" : false,
+  "tableId" : 1010727,
+  "totalTimesRated" : 0,
+  "viewCount" : 87,
+  "viewLastModified" : 1375363826,
+  "viewType" : "tabular",
+  "grants" : [ {
+    "inherited" : true,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "renderTypeConfig" : {
+      "visible" : {
+        "table" : true
+      }
+    },
+    "availableDisplayTypes" : [ "table", "fatrow", "page" ],
+    "rdfSubject" : "0",
+    "rowIdentifier" : "0",
+    "rdfClass" : ""
+  },
+  "owner" : {
+    "id" : "v6h4-bzm6",
+    "displayName" : "Jim",
+    "screenName" : "Jim"
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "v6h4-bzm6",
+    "displayName" : "Jim",
+    "screenName" : "Jim"
+  },
+  "tags" : [ "fire hydrants", "water" ],
+  "flags" : [ "default" ]
+}, {
+  "id" : "pna5-29w9",
+  "name" : "Map view of Providence Fire Hydrants",
+  "averageRating" : 0,
+  "category" : "Reference",
+  "createdAt" : 1375292734,
+  "description" : "2013 survey of fire hydrants in the City of Providence.",
+  "displayType" : "map",
+  "downloadCount" : 16,
+  "indexUpdatedAt" : 1375373508,
+  "moderationStatus" : true,
+  "newBackend" : false,
+  "numberOfComments" : 0,
+  "oid" : 4708633,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1375292667,
+  "publicationGroup" : 1010719,
+  "publicationStage" : "published",
+  "rowClass" : "",
+  "rowsUpdatedAt" : 1375292569,
+  "rowsUpdatedBy" : "v6h4-bzm6",
+  "signed" : false,
+  "tableId" : 1010727,
+  "totalTimesRated" : 0,
+  "viewCount" : 115,
+  "viewLastModified" : 1375363795,
+  "viewType" : "tabular",
+  "grants" : [ {
+    "inherited" : true,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "renderTypeConfig" : {
+      "visible" : {
+        "map" : true,
+        "table" : true
+      }
+    },
+    "availableDisplayTypes" : [ "map", "table", "fatrow", "page" ],
+    "rdfSubject" : "0",
+    "rowIdentifier" : "0",
+    "rdfClass" : ""
+  },
+  "owner" : {
+    "id" : "v6h4-bzm6",
+    "displayName" : "Jim",
+    "screenName" : "Jim"
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "v6h4-bzm6",
+    "displayName" : "Jim",
+    "screenName" : "Jim"
+  },
+  "tags" : [ "fire hydrants", "water" ]
+}, {
+  "id" : "9wdt-fd2q",
+  "name" : "Tree Map of FY2014 Expenditures",
+  "averageRating" : 0,
+  "category" : "Finance",
+  "createdAt" : 1378478786,
+  "description" : "Budget enacted by the City Council for the Fiscal Year July 1, 2013 through June 30, 2014",
+  "displayType" : "chart",
+  "downloadCount" : 4,
+  "indexUpdatedAt" : 1378480867,
+  "moderationStatus" : true,
+  "newBackend" : false,
+  "numberOfComments" : 0,
+  "oid" : 5287760,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1378479440,
+  "publicationGroup" : 930344,
+  "publicationStage" : "published",
+  "rowsUpdatedAt" : 1378479398,
+  "rowsUpdatedBy" : "v6h4-bzm6",
+  "signed" : false,
+  "tableId" : 1121345,
+  "totalTimesRated" : 0,
+  "viewCount" : 55,
+  "viewLastModified" : 1378478786,
+  "viewType" : "tabular",
+  "grants" : [ {
+    "inherited" : true,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "renderTypeConfig" : {
+      "visible" : {
+        "chart" : true,
+        "table" : true
+      }
+    },
+    "availableDisplayTypes" : [ "chart", "table", "fatrow", "page" ],
+    "thumbnail" : {
+      "page" : {
+        "created" : true
+      }
+    }
+  },
+  "owner" : {
+    "id" : "v6h4-bzm6",
+    "displayName" : "Jim",
+    "screenName" : "Jim"
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "v6h4-bzm6",
+    "displayName" : "Jim",
+    "screenName" : "Jim"
+  },
+  "tags" : [ "budget", "fy2014" ]
+}, {
+  "id" : "iz5i-za3j",
+  "name" : "FY2014 City of Providence Enacted Budget",
+  "averageRating" : 0,
+  "category" : "Finance",
+  "createdAt" : 1371741613,
+  "description" : "Budget enacted by the City Council for the Fiscal Year July 1, 2013 through June 30, 2014",
+  "displayType" : "table",
+  "downloadCount" : 93,
+  "indexUpdatedAt" : 1378480870,
+  "newBackend" : false,
+  "numberOfComments" : 0,
+  "oid" : 5287698,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1378479440,
+  "publicationGroup" : 930344,
+  "publicationStage" : "published",
+  "rowsUpdatedAt" : 1378479398,
+  "rowsUpdatedBy" : "v6h4-bzm6",
+  "signed" : false,
+  "tableId" : 1121345,
+  "totalTimesRated" : 0,
+  "viewCount" : 302,
+  "viewLastModified" : 1378479440,
+  "viewType" : "tabular",
+  "grants" : [ {
+    "inherited" : true,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "renderTypeConfig" : {
+      "visible" : {
+        "table" : true
+      }
+    },
+    "availableDisplayTypes" : [ "table", "fatrow", "page" ],
+    "thumbnail" : {
+      "page" : {
+        "created" : true
+      }
+    }
+  },
+  "owner" : {
+    "id" : "v6h4-bzm6",
+    "displayName" : "Jim",
+    "screenName" : "Jim"
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "v6h4-bzm6",
+    "displayName" : "Jim",
+    "screenName" : "Jim"
+  },
+  "tags" : [ "budget", "fy2014" ],
+  "flags" : [ "default" ]
+}, {
+  "id" : "v82m-ujjx",
+  "name" : "Tree Map of FY2014 Department Spending",
+  "averageRating" : 0,
+  "category" : "Finance",
+  "createdAt" : 1378480527,
+  "description" : "Budget enacted by the City Council for the Fiscal Year July 1, 2013 through June 30, 2014",
+  "displayType" : "chart",
+  "downloadCount" : 0,
+  "indexUpdatedAt" : 1378480867,
+  "moderationStatus" : true,
+  "newBackend" : false,
+  "numberOfComments" : 0,
+  "oid" : 5288096,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1378479440,
+  "publicationGroup" : 930344,
+  "publicationStage" : "published",
+  "rowsUpdatedAt" : 1378479398,
+  "rowsUpdatedBy" : "v6h4-bzm6",
+  "signed" : false,
+  "tableId" : 1121345,
+  "totalTimesRated" : 0,
+  "viewCount" : 62,
+  "viewLastModified" : 1378480623,
+  "viewType" : "tabular",
+  "grants" : [ {
+    "inherited" : true,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "renderTypeConfig" : {
+      "visible" : {
+        "chart" : true
+      }
+    },
+    "availableDisplayTypes" : [ "chart", "table", "fatrow", "page" ],
+    "thumbnail" : {
+      "page" : {
+        "created" : true
+      }
+    }
+  },
+  "owner" : {
+    "id" : "v6h4-bzm6",
+    "displayName" : "Jim",
+    "screenName" : "Jim"
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "v6h4-bzm6",
+    "displayName" : "Jim",
+    "screenName" : "Jim"
+  },
+  "tags" : [ "budget", "fy2014" ]
+}, {
+  "id" : "wnqp-9a9h",
+  "name" : "Summary Account view of FY2011 through FY2015",
+  "averageRating" : 0,
+  "category" : "Finance",
+  "createdAt" : 1378478714,
+  "description" : "Budget enacted by the City Council for the Fiscal Year July 1, 2013 through June 30, 2014",
+  "displayType" : "table",
+  "downloadCount" : 4,
+  "indexUpdatedAt" : 1378480866,
+  "moderationStatus" : true,
+  "newBackend" : false,
+  "numberOfComments" : 0,
+  "oid" : 5287759,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1378479440,
+  "publicationGroup" : 930344,
+  "publicationStage" : "published",
+  "rowsUpdatedAt" : 1378479398,
+  "rowsUpdatedBy" : "v6h4-bzm6",
+  "signed" : false,
+  "tableId" : 1121345,
+  "totalTimesRated" : 0,
+  "viewCount" : 42,
+  "viewLastModified" : 1378480093,
+  "viewType" : "tabular",
+  "grants" : [ {
+    "inherited" : true,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "renderTypeConfig" : {
+      "visible" : {
+        "table" : true
+      }
+    },
+    "availableDisplayTypes" : [ "table", "fatrow", "page" ],
+    "thumbnail" : {
+      "page" : {
+        "created" : true
+      }
+    }
+  },
+  "owner" : {
+    "id" : "v6h4-bzm6",
+    "displayName" : "Jim",
+    "screenName" : "Jim"
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "v6h4-bzm6",
+    "displayName" : "Jim",
+    "screenName" : "Jim"
+  },
+  "tags" : [ "budget", "fy2014" ]
+}, {
+  "id" : "vwzg-zhtp",
+  "name" : "FY2014 City Employee Salary Schedule",
+  "averageRating" : 0,
+  "category" : "Finance",
+  "createdAt" : 1374095037,
+  "description" : "This dataset contains the range of salaries of full-time city staff, by department and title, as of July, 2013.",
+  "displayType" : "table",
+  "downloadCount" : 67,
+  "indexUpdatedAt" : 1378480883,
+  "newBackend" : false,
+  "numberOfComments" : 0,
+  "oid" : 4506251,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1374095185,
+  "publicationGroup" : 983191,
+  "publicationStage" : "published",
+  "rowsUpdatedAt" : 1374095092,
+  "rowsUpdatedBy" : "v6h4-bzm6",
+  "signed" : false,
+  "tableId" : 983191,
+  "totalTimesRated" : 0,
+  "viewCount" : 446,
+  "viewLastModified" : 1374095185,
+  "viewType" : "tabular",
+  "grants" : [ {
+    "inherited" : false,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "renderTypeConfig" : {
+      "visible" : {
+        "table" : true
+      }
+    },
+    "availableDisplayTypes" : [ "table", "fatrow", "page" ]
+  },
+  "owner" : {
+    "id" : "v6h4-bzm6",
+    "displayName" : "Jim",
+    "screenName" : "Jim"
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "v6h4-bzm6",
+    "displayName" : "Jim",
+    "screenName" : "Jim"
+  },
+  "tags" : [ "salaries", "employees", "fy2014" ],
+  "flags" : [ "default" ]
+}, {
+  "id" : "hz5e-abki",
+  "name" : "Citywide Paving Projects, 2013 to 2015",
+  "averageRating" : 0,
+  "blobFilename" : "Road_Improvement_Program,_Local_Roads_PCI_05-31-13.zip",
+  "blobFileSize" : 79662,
+  "blobId" : "tdRhog15gAGwTFx3_e10Oeg-e4U0nvRWPMlqy5QWUU0",
+  "category" : "Neighborhoods",
+  "createdAt" : 1374247460,
+  "description" : "Collection of roadway improvement projects funded by City budgeted funds and the road bond approved in November, 2012. Projects will be scheduled over the 2013 to 2015 construction seasons.",
+  "displayType" : "map",
+  "downloadCount" : 0,
+  "indexUpdatedAt" : 1382580238,
+  "moderationStatus" : true,
+  "newBackend" : false,
+  "numberOfComments" : 0,
+  "oid" : 4534262,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1370014634,
+  "publicationGroup" : 891181,
+  "publicationStage" : "published",
+  "signed" : false,
+  "tableId" : 891181,
+  "totalTimesRated" : 0,
+  "viewCount" : 1626,
+  "viewLastModified" : 1375291835,
+  "viewType" : "geo",
+  "childViews" : [ "833b-fm3s" ],
+  "grants" : [ {
+    "inherited" : true,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "renderTypeConfig" : {
+      "visible" : {
+        "map" : true
+      }
+    },
+    "availableDisplayTypes" : [ "map", "table", "fatrow", "page" ],
+    "geo" : {
+      "owsUrl" : "/api/geospatial/4xhj-gkpj",
+      "bbox" : "-71.46186482483479,41.778956859924214,-71.38143496712671,41.859352586963524",
+      "layers" : "geo_4xhj-gkpj-1",
+      "featureIdAttribute" : "_SocrataID",
+      "bboxCrs" : "EPSG:4326",
+      "namespace" : "geo_4xhj-gkpj"
+    }
+  },
+  "owner" : {
+    "id" : "v6h4-bzm6",
+    "displayName" : "Jim",
+    "screenName" : "Jim"
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "vbvz-fvm2",
+    "displayName" : "mcrocker",
+    "screenName" : "mcrocker"
+  },
+  "tags" : [ "paving", "construction" ]
+} ]

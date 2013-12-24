@@ -1,0 +1,4710 @@
+[ {
+  "id" : "cmae-djp4",
+  "name" : "ENERGY STAR Certified Residential Clothes Washers",
+  "averageRating" : 0,
+  "category" : "Government",
+  "createdAt" : 1346878037,
+  "description" : "Certified models meet all ENERGY STAR requirements as listed in the Version 6.1 ENERGY STAR Program Requirements for Clothes Washers that are effective as of February 1, 2013. A detailed listing of key efficiency criteria are available at http://www.energystar.gov/index.cfm?c=clotheswash.pr_crit_clothes_washers",
+  "displayType" : "table",
+  "downloadCount" : 47441,
+  "indexUpdatedAt" : 1387724602,
+  "newBackend" : false,
+  "numberOfComments" : 0,
+  "oid" : 6893354,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1387721229,
+  "publicationGroup" : 419225,
+  "publicationStage" : "published",
+  "rowIdentifierColumnId" : 124082119,
+  "rowsUpdatedAt" : 1387721174,
+  "rowsUpdatedBy" : "guxy-scz5",
+  "signed" : false,
+  "state" : "normal",
+  "tableId" : 1409798,
+  "totalTimesRated" : 0,
+  "viewCount" : 16804,
+  "viewLastModified" : 1387721229,
+  "viewType" : "tabular",
+  "grants" : [ {
+    "inherited" : true,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "custom_fields" : {
+      "API Foundry" : {
+        "Type" : ""
+      }
+    },
+    "renderTypeConfig" : {
+      "visible" : {
+        "table" : true
+      }
+    },
+    "availableDisplayTypes" : [ "table", "fatrow", "page" ],
+    "rdfSubject" : "0",
+    "filterCondition" : {
+      "value" : "AND",
+      "children" : [ {
+        "value" : "OR",
+        "type" : "operator",
+        "metadata" : {
+          "customValues" : [ [ "Samsung" ] ],
+          "tableColumnId" : {
+            "419225" : 4047765
+          },
+          "operator" : "EQUALS"
+        }
+      } ],
+      "type" : "operator",
+      "metadata" : {
+        "unifiedVersion" : 2,
+        "advanced" : true
+      }
+    },
+    "rowIdentifier" : 124082119
+  },
+  "owner" : {
+    "id" : "guxy-scz5",
+    "displayName" : "ESddas",
+    "screenName" : "ESddas"
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "guxy-scz5",
+    "displayName" : "ESddas",
+    "screenName" : "ESddas"
+  },
+  "flags" : [ "default" ]
+}, {
+  "id" : "58b3-559d",
+  "name" : "ENERGY STAR Certified Residential Dishwashers",
+  "averageRating" : 0,
+  "category" : "Government",
+  "createdAt" : 1351095080,
+  "description" : "Certified models meet all ENERGY STAR requirements as listed in the Version 5.2 ENERGY STAR Program Requirements for Residential Dishwashers that are effective as of January 20, 2012. A detailed listing of key efficiency criteria are available at http://www.energystar.gov/index.cfm?c=dishwash.pr_crit_dishwashers",
+  "displayType" : "table",
+  "downloadCount" : 41474,
+  "indexUpdatedAt" : 1387725922,
+  "newBackend" : false,
+  "numberOfComments" : 0,
+  "oid" : 6893460,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1387721320,
+  "publicationGroup" : 461625,
+  "publicationStage" : "published",
+  "rowIdentifierColumnId" : 124084150,
+  "rowsUpdatedAt" : 1387721311,
+  "rowsUpdatedBy" : "guxy-scz5",
+  "signed" : false,
+  "state" : "normal",
+  "tableId" : 1409800,
+  "totalTimesRated" : 0,
+  "viewCount" : 2577,
+  "viewLastModified" : 1387721321,
+  "viewType" : "tabular",
+  "grants" : [ {
+    "inherited" : true,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "custom_fields" : {
+      "API Foundry" : {
+        "Type" : "API"
+      }
+    },
+    "renderTypeConfig" : {
+      "visible" : {
+        "table" : true
+      }
+    },
+    "availableDisplayTypes" : [ "table", "fatrow", "page" ],
+    "rdfSubject" : "0",
+    "rowIdentifier" : 124084150
+  },
+  "owner" : {
+    "id" : "8wsd-etwg",
+    "displayName" : "Jon Luzader",
+    "screenName" : "Jon Luzader"
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "8wsd-etwg",
+    "displayName" : "Jon Luzader",
+    "screenName" : "Jon Luzader"
+  },
+  "flags" : [ "default" ]
+}, {
+  "id" : "tjzj-25n7",
+  "name" : "ENERGY STAR Certified Room Air Conditioners",
+  "averageRating" : 0,
+  "category" : "Government",
+  "createdAt" : 1360860076,
+  "description" : "Certified models meet all ENERGY STAR requirements as listed in the Version 3.0 ENERGY STAR Program Requirements for Room Air Conditioners that are effective as of October 1, 2013. A detailed listing of key efficiency criteria are available at http://www.energystar.gov/index.cfm?c=roomac.pr_crit_room_ac",
+  "displayType" : "table",
+  "downloadCount" : 41732,
+  "indexUpdatedAt" : 1387725939,
+  "newBackend" : false,
+  "numberOfComments" : 0,
+  "oid" : 6893480,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1387721499,
+  "publicationGroup" : 677334,
+  "publicationStage" : "published",
+  "rowIdentifierColumnId" : 124084758,
+  "rowsUpdatedAt" : 1387721496,
+  "rowsUpdatedBy" : "guxy-scz5",
+  "signed" : false,
+  "state" : "normal",
+  "tableId" : 1409807,
+  "totalTimesRated" : 0,
+  "viewCount" : 2306,
+  "viewLastModified" : 1387721499,
+  "viewType" : "tabular",
+  "grants" : [ {
+    "inherited" : true,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "custom_fields" : {
+      "API Foundry" : {
+        "Type" : ""
+      }
+    },
+    "renderTypeConfig" : {
+      "visible" : {
+        "table" : true
+      }
+    },
+    "availableDisplayTypes" : [ "table", "fatrow", "page" ],
+    "rdfSubject" : "0",
+    "rowIdentifier" : 124084758
+  },
+  "owner" : {
+    "id" : "guxy-scz5",
+    "displayName" : "ESddas",
+    "screenName" : "ESddas"
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "guxy-scz5",
+    "displayName" : "ESddas",
+    "screenName" : "ESddas"
+  },
+  "flags" : [ "default" ]
+}, {
+  "id" : "a6ci-4jvy",
+  "name" : "ENERGY STAR Certified Cordless Phones",
+  "averageRating" : 0,
+  "category" : "Government",
+  "createdAt" : 1346723022,
+  "description" : "Certified models meet all ENERGY STAR requirements as listed in the Version 2.2 ENERGY STAR Program Requirements for Telephony (cordless phones) that are effective as of November 1, 2008. A detailed listing of key efficiency criteria are available at http://www.energystar.gov/index.cfm?c=phones.pr_crit_phones",
+  "displayType" : "table",
+  "downloadCount" : 40045,
+  "indexUpdatedAt" : 1387721535,
+  "newBackend" : false,
+  "numberOfComments" : 0,
+  "oid" : 6893199,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1387720860,
+  "publicationGroup" : 417824,
+  "publicationStage" : "published",
+  "rowIdentifierColumnId" : 124079742,
+  "rowsUpdatedAt" : 1387720858,
+  "rowsUpdatedBy" : "guxy-scz5",
+  "signed" : false,
+  "state" : "normal",
+  "tableId" : 1409782,
+  "totalTimesRated" : 0,
+  "viewCount" : 1649,
+  "viewLastModified" : 1387720860,
+  "viewType" : "tabular",
+  "grants" : [ {
+    "inherited" : true,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "custom_fields" : {
+      "API Foundry" : {
+        "Type" : ""
+      }
+    },
+    "renderTypeConfig" : {
+      "visible" : {
+        "table" : true
+      }
+    },
+    "availableDisplayTypes" : [ "table", "fatrow", "page" ],
+    "rdfSubject" : "0",
+    "rowIdentifier" : 124079742
+  },
+  "owner" : {
+    "id" : "guxy-scz5",
+    "displayName" : "ESddas",
+    "screenName" : "ESddas"
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "guxy-scz5",
+    "displayName" : "ESddas",
+    "screenName" : "ESddas"
+  },
+  "flags" : [ "default" ]
+}, {
+  "id" : "gp4i-t95q",
+  "name" : "ENERGY STAR Certified Roof Products",
+  "averageRating" : 0,
+  "category" : "Government",
+  "createdAt" : 1361986694,
+  "description" : "Certified models meet all ENERGY STAR requirements as listed in the Version 2.3 ENERGY STAR Program Requirements for Roof Products that are effective as of July 1, 2012. A detailed listing of key efficiency criteria are available at http://www.energystar.gov/index.cfm?c=roof_prods.pr_crit_roof_products",
+  "displayType" : "table",
+  "downloadCount" : 40697,
+  "indexUpdatedAt" : 1387725984,
+  "newBackend" : false,
+  "numberOfComments" : 0,
+  "oid" : 6893597,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1387722350,
+  "publicationGroup" : 703486,
+  "publicationStage" : "published",
+  "rowIdentifierColumnId" : 124087241,
+  "rowsUpdatedAt" : 1387722347,
+  "rowsUpdatedBy" : "guxy-scz5",
+  "signed" : false,
+  "state" : "normal",
+  "tableId" : 1409822,
+  "totalTimesRated" : 0,
+  "viewCount" : 3163,
+  "viewLastModified" : 1387722350,
+  "viewType" : "tabular",
+  "grants" : [ {
+    "inherited" : true,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "custom_fields" : {
+      "API Foundry" : {
+        "Type" : ""
+      }
+    },
+    "renderTypeConfig" : {
+      "visible" : {
+        "table" : true
+      }
+    },
+    "availableDisplayTypes" : [ "table", "fatrow", "page" ],
+    "rdfSubject" : "0",
+    "rowIdentifier" : 124087241
+  },
+  "owner" : {
+    "id" : "guxy-scz5",
+    "displayName" : "ESddas",
+    "screenName" : "ESddas"
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "guxy-scz5",
+    "displayName" : "ESddas",
+    "screenName" : "ESddas"
+  },
+  "flags" : [ "default" ]
+}, {
+  "id" : "acvd-5wvz",
+  "name" : "ENERGY STAR Certified Geothermal Heat Pumps",
+  "averageRating" : 0,
+  "category" : "Government",
+  "createdAt" : 1360857491,
+  "description" : "Certified models meet all ENERGY STAR requirements as listed in the Version 3.0 ENERGY STAR Program Requirements for Geothermal Heat Pumps that are effective as of January 1, 2012. A detailed listing of key efficiency criteria are available at http://www.energystar.gov/index.cfm?c=geo_heat.pr_crit_geo_heat_pumps",
+  "displayType" : "table",
+  "downloadCount" : 39826,
+  "indexUpdatedAt" : 1387726491,
+  "newBackend" : false,
+  "numberOfComments" : 0,
+  "oid" : 6893656,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1387722836,
+  "publicationGroup" : 677242,
+  "publicationStage" : "published",
+  "rowIdentifierColumnId" : 124088435,
+  "rowsUpdatedAt" : 1387722835,
+  "rowsUpdatedBy" : "guxy-scz5",
+  "signed" : false,
+  "state" : "normal",
+  "tableId" : 1409839,
+  "totalTimesRated" : 0,
+  "viewCount" : 2882,
+  "viewLastModified" : 1387722836,
+  "viewType" : "tabular",
+  "grants" : [ {
+    "inherited" : true,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "custom_fields" : {
+      "API Foundry" : {
+        "Type" : ""
+      }
+    },
+    "renderTypeConfig" : {
+      "visible" : {
+        "table" : true
+      }
+    },
+    "availableDisplayTypes" : [ "table", "fatrow", "page" ],
+    "rdfSubject" : "0",
+    "rowIdentifier" : 124088435
+  },
+  "owner" : {
+    "id" : "guxy-scz5",
+    "displayName" : "ESddas",
+    "screenName" : "ESddas"
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "guxy-scz5",
+    "displayName" : "ESddas",
+    "screenName" : "ESddas"
+  },
+  "flags" : [ "default" ]
+}, {
+  "id" : "hjyq-w9z5",
+  "name" : "ENERGY STAR Certified Clothes Washers",
+  "averageRating" : 0,
+  "category" : "Government",
+  "createdAt" : 1349451674,
+  "description" : "This API contains all current ENERGY STAR Certified Clothes Washers.",
+  "displayType" : "api",
+  "downloadCount" : 516,
+  "indexUpdatedAt" : 1387724628,
+  "moderationStatus" : true,
+  "newBackend" : false,
+  "numberOfComments" : 0,
+  "oid" : 6893404,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1387721229,
+  "publicationGroup" : 419225,
+  "publicationStage" : "published",
+  "resourceName" : "energy-star-certified-clothes-washers",
+  "rowsUpdatedAt" : 1387721174,
+  "rowsUpdatedBy" : "guxy-scz5",
+  "signed" : false,
+  "state" : "normal",
+  "tableId" : 1409798,
+  "totalTimesRated" : 0,
+  "viewCount" : 450,
+  "viewLastModified" : 1380649222,
+  "viewType" : "tabular",
+  "grants" : [ {
+    "inherited" : true,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "custom_fields" : {
+      "API Foundry" : {
+        "Type" : ""
+      }
+    },
+    "renderTypeConfig" : {
+      "visible" : {
+        "api" : true
+      }
+    },
+    "availableDisplayTypes" : [ "api" ],
+    "rdfSubject" : "0"
+  },
+  "owner" : {
+    "id" : "8wsd-etwg",
+    "displayName" : "Jon Luzader",
+    "screenName" : "Jon Luzader"
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "guxy-scz5",
+    "displayName" : "ESddas",
+    "screenName" : "ESddas"
+  }
+}, {
+  "id" : "3gp2-af4x",
+  "name" : "ENERGY STAR Certified Water Heaters",
+  "averageRating" : 0,
+  "category" : "Government",
+  "createdAt" : 1357678762,
+  "description" : "Certified models meet all ENERGY STAR requirements as listed in the Version 2.0 ENERGY STAR Program Requirements for Water Heaters that are effective as of July 1, 2013. A detailed listing of key efficiency criteria are available at http://www.energystar.gov/index.cfm?c=water_heat.pr_crit_water_heaters",
+  "displayType" : "table",
+  "downloadCount" : 40787,
+  "indexUpdatedAt" : 1387725942,
+  "newBackend" : false,
+  "numberOfComments" : 0,
+  "oid" : 6893488,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1387721580,
+  "publicationGroup" : 602590,
+  "publicationStage" : "published",
+  "rowIdentifierColumnId" : 124084874,
+  "rowsUpdatedAt" : 1387721570,
+  "rowsUpdatedBy" : "guxy-scz5",
+  "signed" : false,
+  "state" : "normal",
+  "tableId" : 1409809,
+  "totalTimesRated" : 0,
+  "viewCount" : 2661,
+  "viewLastModified" : 1387721580,
+  "viewType" : "tabular",
+  "grants" : [ {
+    "inherited" : true,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "custom_fields" : {
+      "API Foundry" : {
+        "Type" : ""
+      }
+    },
+    "renderTypeConfig" : {
+      "visible" : {
+        "table" : true
+      }
+    },
+    "availableDisplayTypes" : [ "table", "fatrow", "page" ],
+    "rdfSubject" : "0",
+    "rowIdentifier" : 124084874
+  },
+  "owner" : {
+    "id" : "guxy-scz5",
+    "displayName" : "ESddas",
+    "screenName" : "ESddas"
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "guxy-scz5",
+    "displayName" : "ESddas",
+    "screenName" : "ESddas"
+  },
+  "flags" : [ "default" ]
+}, {
+  "id" : "2wic-jicu",
+  "name" : "ENERGY STAR Certified Displays",
+  "averageRating" : 0,
+  "category" : "Government",
+  "createdAt" : 1357065239,
+  "description" : "Certified models meet all ENERGY STAR requirements as listed in the Version 6.0 ENERGY STAR Program Requirements for Displays that are effective as of June 1, 2013. A detailed listing of key efficiency criteria are available at https://www.energystar.gov/index.cfm?c=monitors.pr_crit_monitors.",
+  "displayType" : "table",
+  "downloadCount" : 40367,
+  "indexUpdatedAt" : 1387723059,
+  "newBackend" : false,
+  "numberOfComments" : 0,
+  "oid" : 6893302,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1387721027,
+  "publicationGroup" : 590330,
+  "publicationStage" : "published",
+  "rowIdentifierColumnId" : 124081255,
+  "rowsUpdatedAt" : 1387721015,
+  "rowsUpdatedBy" : "guxy-scz5",
+  "signed" : false,
+  "state" : "normal",
+  "tableId" : 1409790,
+  "totalTimesRated" : 0,
+  "viewCount" : 1598,
+  "viewLastModified" : 1387721028,
+  "viewType" : "tabular",
+  "grants" : [ {
+    "inherited" : false,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "custom_fields" : {
+      "API Foundry" : {
+        "Type" : ""
+      }
+    },
+    "renderTypeConfig" : {
+      "visible" : {
+        "table" : true
+      }
+    },
+    "availableDisplayTypes" : [ "table", "fatrow", "page" ],
+    "rdfSubject" : "0",
+    "rowIdentifier" : 124081255
+  },
+  "owner" : {
+    "id" : "hdmj-s3aw",
+    "displayName" : "John Line",
+    "screenName" : "John Line"
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "hdmj-s3aw",
+    "displayName" : "John Line",
+    "screenName" : "John Line"
+  },
+  "flags" : [ "default" ]
+}, {
+  "id" : "n6gj-5es2",
+  "name" : "ENERGY STAR Certified Televisions",
+  "averageRating" : 0,
+  "category" : "Government",
+  "createdAt" : 1357750857,
+  "description" : "Certified models meet all ENERGY STAR requirements as listed in the Version 6.0 ENERGY STAR Program Requirements for Televisions that are effective as of  June 1, 2013. A detailed listing of key efficiency criteria are available at https://www.energystar.gov/index.cfm?c=tv_vcr.pr_crit_tv_vcr.",
+  "displayType" : "table",
+  "downloadCount" : 41219,
+  "indexUpdatedAt" : 1387725994,
+  "newBackend" : false,
+  "numberOfComments" : 0,
+  "oid" : 6893606,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1387722439,
+  "publicationGroup" : 604081,
+  "publicationStage" : "published",
+  "rowIdentifierColumnId" : 124087451,
+  "rowsUpdatedAt" : 1387722433,
+  "rowsUpdatedBy" : "guxy-scz5",
+  "signed" : false,
+  "state" : "normal",
+  "tableId" : 1409825,
+  "totalTimesRated" : 0,
+  "viewCount" : 1844,
+  "viewLastModified" : 1387722439,
+  "viewType" : "tabular",
+  "grants" : [ {
+    "inherited" : true,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "custom_fields" : {
+      "API Foundry" : {
+        "Type" : ""
+      }
+    },
+    "renderTypeConfig" : {
+      "visible" : {
+        "table" : true
+      }
+    },
+    "availableDisplayTypes" : [ "table", "fatrow", "page" ],
+    "rdfSubject" : "0",
+    "rowIdentifier" : 124087451
+  },
+  "owner" : {
+    "id" : "guxy-scz5",
+    "displayName" : "ESddas",
+    "screenName" : "ESddas"
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "guxy-scz5",
+    "displayName" : "ESddas",
+    "screenName" : "ESddas"
+  },
+  "flags" : [ "default" ]
+}, {
+  "id" : "uc6q-9632",
+  "name" : "ENERGY STAR Certified Room Air Cleaners",
+  "averageRating" : 0,
+  "category" : "Government",
+  "createdAt" : 1357680820,
+  "description" : "Certified models meet all ENERGY STAR requirements as listed in the Version 1.2 ENERGY STAR Program Requirements for Room Air Cleaners that are effective as of July 1, 2004. A detailed listing of key efficiency criteria are available at http://www.energystar.gov/index.cfm?c=room_airclean.pr_crit_room_airclean",
+  "displayType" : "table",
+  "downloadCount" : 39984,
+  "indexUpdatedAt" : 1387723533,
+  "newBackend" : false,
+  "numberOfComments" : 0,
+  "oid" : 6893344,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1387721107,
+  "publicationGroup" : 602637,
+  "publicationStage" : "published",
+  "rowIdentifierColumnId" : 124081947,
+  "rowsUpdatedAt" : 1387721105,
+  "rowsUpdatedBy" : "guxy-scz5",
+  "signed" : false,
+  "state" : "normal",
+  "tableId" : 1409793,
+  "totalTimesRated" : 0,
+  "viewCount" : 608,
+  "viewLastModified" : 1387721107,
+  "viewType" : "tabular",
+  "grants" : [ {
+    "inherited" : true,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "custom_fields" : {
+      "API Foundry" : {
+        "Type" : ""
+      }
+    },
+    "renderTypeConfig" : {
+      "visible" : {
+        "table" : true
+      }
+    },
+    "availableDisplayTypes" : [ "table", "fatrow", "page" ],
+    "rdfSubject" : "0",
+    "rowIdentifier" : 124081947
+  },
+  "owner" : {
+    "id" : "guxy-scz5",
+    "displayName" : "ESddas",
+    "screenName" : "ESddas"
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "guxy-scz5",
+    "displayName" : "ESddas",
+    "screenName" : "ESddas"
+  },
+  "flags" : [ "default" ]
+}, {
+  "id" : "pk8q-dim8",
+  "name" : "ENERGY STAR Certified Commercial Dishwashers",
+  "averageRating" : 0,
+  "category" : "Government",
+  "createdAt" : 1363640551,
+  "description" : "Certified models meet all ENERGY STAR requirements as listed in the Version 2.0 ENERGY STAR Program Requirements for Commercial Dishwashers that are effective as of February 1, 2013. A detailed listing of key efficiency criteria are available at http://www.energystar.gov/index.cfm?c=comm_dishwashers.pr_crit_comm_dishwashers",
+  "displayType" : "table",
+  "downloadCount" : 39658,
+  "indexUpdatedAt" : 1387726492,
+  "newBackend" : false,
+  "numberOfComments" : 0,
+  "oid" : 6893658,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1387722856,
+  "publicationGroup" : 741261,
+  "publicationStage" : "published",
+  "rowIdentifierColumnId" : 124088461,
+  "rowsUpdatedAt" : 1387722855,
+  "rowsUpdatedBy" : "guxy-scz5",
+  "signed" : false,
+  "state" : "normal",
+  "tableId" : 1409840,
+  "totalTimesRated" : 0,
+  "viewCount" : 427,
+  "viewLastModified" : 1387722856,
+  "viewType" : "tabular",
+  "grants" : [ {
+    "inherited" : true,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "custom_fields" : {
+      "API Foundry" : {
+        "Type" : ""
+      }
+    },
+    "renderTypeConfig" : {
+      "visible" : {
+        "table" : true
+      }
+    },
+    "availableDisplayTypes" : [ "table", "fatrow", "page" ],
+    "rdfSubject" : "0",
+    "rowIdentifier" : 124088461
+  },
+  "owner" : {
+    "id" : "guxy-scz5",
+    "displayName" : "ESddas",
+    "screenName" : "ESddas"
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "guxy-scz5",
+    "displayName" : "ESddas",
+    "screenName" : "ESddas"
+  },
+  "flags" : [ "default" ]
+}, {
+  "id" : "mvyi-jgae",
+  "name" : "ENERGY STAR Certified Dehumidifiers",
+  "averageRating" : 0,
+  "category" : "Government",
+  "createdAt" : 1367614570,
+  "description" : "Certified models meet all ENERGY STAR requirements as listed in the Version 3.0 ENERGY STAR Program Requirements for Dehumidifiers that are effective as of October 1, 2012. A detailed listing of key efficiency criteria are available at http://www.energystar.gov/index.cfm?c=dehumid.pr_crit_dehumidifiers",
+  "displayType" : "table",
+  "downloadCount" : 40065,
+  "indexUpdatedAt" : 1387723415,
+  "newBackend" : false,
+  "numberOfComments" : 0,
+  "oid" : 6893336,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1387721058,
+  "publicationGroup" : 835454,
+  "publicationStage" : "published",
+  "rowsUpdatedAt" : 1387721055,
+  "rowsUpdatedBy" : "guxy-scz5",
+  "signed" : false,
+  "state" : "normal",
+  "tableId" : 1409791,
+  "totalTimesRated" : 0,
+  "viewCount" : 1244,
+  "viewLastModified" : 1387721058,
+  "viewType" : "tabular",
+  "grants" : [ {
+    "inherited" : true,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "custom_fields" : {
+      "API Foundry" : {
+        "Type" : ""
+      }
+    },
+    "renderTypeConfig" : {
+      "visible" : {
+        "table" : true
+      }
+    },
+    "availableDisplayTypes" : [ "table", "fatrow", "page" ],
+    "rdfSubject" : "0"
+  },
+  "owner" : {
+    "id" : "guxy-scz5",
+    "displayName" : "ESddas",
+    "screenName" : "ESddas"
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "guxy-scz5",
+    "displayName" : "ESddas",
+    "screenName" : "ESddas"
+  },
+  "flags" : [ "default" ]
+}, {
+  "id" : "6rww-hpns",
+  "name" : "ENERGY STAR Certified Boilers",
+  "averageRating" : 0,
+  "category" : "Government",
+  "createdAt" : 1367943399,
+  "description" : "Certified models meet all ENERGY STAR requirements as listed in the Version 2.1 ENERGY STAR Program Requirements for Boilers that are effective as of April 1, 2002. A detailed listing of key efficiency criteria are available at http://www.energystar.gov/index.cfm?fuseaction=find_a_product.showProductGroup&pgw_code=BO",
+  "displayType" : "table",
+  "downloadCount" : 38945,
+  "indexUpdatedAt" : 1387725972,
+  "newBackend" : false,
+  "numberOfComments" : 0,
+  "oid" : 6893562,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1387721971,
+  "publicationGroup" : 843027,
+  "publicationStage" : "published",
+  "rowsUpdatedAt" : 1387721967,
+  "rowsUpdatedBy" : "guxy-scz5",
+  "signed" : false,
+  "state" : "normal",
+  "tableId" : 1409817,
+  "totalTimesRated" : 0,
+  "viewCount" : 1805,
+  "viewLastModified" : 1387721971,
+  "viewType" : "tabular",
+  "grants" : [ {
+    "inherited" : true,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "custom_fields" : {
+      "API Foundry" : {
+        "Type" : ""
+      }
+    },
+    "renderTypeConfig" : {
+      "visible" : {
+        "table" : true
+      }
+    },
+    "availableDisplayTypes" : [ "table", "fatrow", "page" ],
+    "rdfSubject" : "0"
+  },
+  "owner" : {
+    "id" : "guxy-scz5",
+    "displayName" : "ESddas",
+    "screenName" : "ESddas"
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "guxy-scz5",
+    "displayName" : "ESddas",
+    "screenName" : "ESddas"
+  },
+  "flags" : [ "default" ]
+}, {
+  "id" : "28dp-wyst",
+  "name" : "ENERGY STAR Certified Furnaces",
+  "averageRating" : 0,
+  "category" : "Government",
+  "createdAt" : 1367865507,
+  "description" : "Certified models meet all ENERGY STAR requirements as listed in the Version 4.0 ENERGY STAR Program Requirements for Furnaces that are effective as of February 1, 2013. A detailed listing of key efficiency criteria are available at http://www.energystar.gov/index.cfm?c=furnaces.pr_crit_furnaces",
+  "displayType" : "table",
+  "downloadCount" : 39724,
+  "indexUpdatedAt" : 1387726292,
+  "newBackend" : false,
+  "numberOfComments" : 0,
+  "oid" : 6893640,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1387722696,
+  "publicationGroup" : 841063,
+  "publicationStage" : "published",
+  "rowsUpdatedAt" : 1387722693,
+  "rowsUpdatedBy" : "guxy-scz5",
+  "signed" : false,
+  "state" : "normal",
+  "tableId" : 1409833,
+  "totalTimesRated" : 0,
+  "viewCount" : 1727,
+  "viewLastModified" : 1387722696,
+  "viewType" : "tabular",
+  "grants" : [ {
+    "inherited" : true,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "custom_fields" : {
+      "API Foundry" : {
+        "Type" : ""
+      }
+    },
+    "renderTypeConfig" : {
+      "visible" : {
+        "table" : true
+      }
+    },
+    "availableDisplayTypes" : [ "table", "fatrow", "page" ],
+    "rdfSubject" : "0"
+  },
+  "owner" : {
+    "id" : "guxy-scz5",
+    "displayName" : "ESddas",
+    "screenName" : "ESddas"
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "guxy-scz5",
+    "displayName" : "ESddas",
+    "screenName" : "ESddas"
+  },
+  "flags" : [ "default" ]
+}, {
+  "id" : "2ppn-v3hp",
+  "name" : "ENERGY STAR Certified Pool Pumps",
+  "averageRating" : 0,
+  "category" : "Government",
+  "createdAt" : 1367515452,
+  "description" : "Certified models meet all ENERGY STAR requirements as listed in the Version 1.0 ENERGY STAR Program Requirements for Pool Pumps that are effective as of February 15, 2013. A detailed listing of key efficiency criteria are available at http://www.energystar.gov/index.cfm?c=poolpumps.pr_crit_poolpumps",
+  "displayType" : "table",
+  "downloadCount" : 39637,
+  "indexUpdatedAt" : 1387725987,
+  "newBackend" : false,
+  "numberOfComments" : 0,
+  "oid" : 6893603,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1387722395,
+  "publicationGroup" : 832810,
+  "publicationStage" : "published",
+  "rowsUpdatedAt" : 1387722393,
+  "rowsUpdatedBy" : "guxy-scz5",
+  "signed" : false,
+  "state" : "normal",
+  "tableId" : 1409824,
+  "totalTimesRated" : 0,
+  "viewCount" : 492,
+  "viewLastModified" : 1387722395,
+  "viewType" : "tabular",
+  "grants" : [ {
+    "inherited" : true,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "custom_fields" : {
+      "API Foundry" : {
+        "Type" : ""
+      }
+    },
+    "renderTypeConfig" : {
+      "visible" : {
+        "table" : true
+      }
+    },
+    "availableDisplayTypes" : [ "table", "fatrow", "page" ],
+    "rdfSubject" : "0"
+  },
+  "owner" : {
+    "id" : "guxy-scz5",
+    "displayName" : "ESddas",
+    "screenName" : "ESddas"
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "guxy-scz5",
+    "displayName" : "ESddas",
+    "screenName" : "ESddas"
+  },
+  "flags" : [ "default" ]
+}, {
+  "id" : "8qjd-zcsy",
+  "name" : "ENERGY STAR Certified Light Bulbs",
+  "averageRating" : 0,
+  "category" : "Government",
+  "createdAt" : 1367001007,
+  "description" : "Certified models meet all ENERGY STAR requirements as listed in the Version 4.3 ENERGY STAR Program Requirements for Compact Fluorescent Lamps (CFLs) that are effective as of December 2, 2008 or the Integral LED Lamps Version 1.4 Requirements that are effective as of August 31, 2010. Some data may not be available for products certified before January 1, 2011. A detailed listing of key efficiency criteria are available at http://www.energystar.gov/index.cfm?c=cfls.pr_crit_cfls or http://www.energystar.gov/index.cfm?c=iledl.pr_key_product",
+  "displayType" : "table",
+  "downloadCount" : 49674,
+  "indexUpdatedAt" : 1387725954,
+  "newBackend" : false,
+  "numberOfComments" : 0,
+  "oid" : 6893513,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1387721912,
+  "publicationGroup" : 820794,
+  "publicationStage" : "published",
+  "rowIdentifierColumnId" : 124085459,
+  "rowsUpdatedAt" : 1387721874,
+  "rowsUpdatedBy" : "guxy-scz5",
+  "signed" : false,
+  "state" : "normal",
+  "tableId" : 1409814,
+  "totalTimesRated" : 0,
+  "viewCount" : 8524,
+  "viewLastModified" : 1387721912,
+  "viewType" : "tabular",
+  "grants" : [ {
+    "inherited" : true,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "custom_fields" : {
+      "API Foundry" : {
+        "Type" : ""
+      }
+    },
+    "renderTypeConfig" : {
+      "visible" : {
+        "table" : true
+      }
+    },
+    "availableDisplayTypes" : [ "table", "fatrow", "page" ],
+    "rdfSubject" : "0",
+    "filterCondition" : {
+      "value" : "AND",
+      "children" : [ {
+        "value" : "OR",
+        "type" : "operator",
+        "metadata" : {
+          "includeAuto" : 20,
+          "tableColumnId" : {
+            "820794" : 9875835
+          },
+          "operator" : "EQUALS"
+        }
+      }, {
+        "value" : "OR",
+        "type" : "operator",
+        "metadata" : {
+          "includeAuto" : 20,
+          "tableColumnId" : {
+            "820794" : 9875840
+          },
+          "operator" : "EQUALS"
+        }
+      }, {
+        "value" : "OR",
+        "type" : "operator",
+        "metadata" : {
+          "includeAuto" : 20,
+          "tableColumnId" : {
+            "820794" : 9875832
+          },
+          "operator" : "EQUALS"
+        }
+      }, {
+        "value" : "OR",
+        "type" : "operator",
+        "metadata" : {
+          "tableColumnId" : {
+            "820794" : 9875836
+          },
+          "operator" : "GREATER_THAN_OR_EQUALS"
+        }
+      }, {
+        "value" : "OR",
+        "type" : "operator",
+        "metadata" : {
+          "includeAuto" : 5,
+          "tableColumnId" : {
+            "820794" : 9875839
+          },
+          "operator" : "EQUALS"
+        }
+      }, {
+        "value" : "OR",
+        "type" : "operator",
+        "metadata" : {
+          "includeAuto" : 20,
+          "tableColumnId" : {
+            "820794" : 9875843
+          },
+          "operator" : "EQUALS"
+        }
+      }, {
+        "value" : "OR",
+        "type" : "operator",
+        "metadata" : {
+          "tableColumnId" : {
+            "820794" : 9875842
+          },
+          "operator" : "GREATER_THAN_OR_EQUALS"
+        }
+      } ],
+      "type" : "operator",
+      "metadata" : {
+        "unifiedVersion" : 2,
+        "advanced" : true
+      }
+    },
+    "rowIdentifier" : 124085459
+  },
+  "owner" : {
+    "id" : "guxy-scz5",
+    "displayName" : "ESddas",
+    "screenName" : "ESddas"
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "guxy-scz5",
+    "displayName" : "ESddas",
+    "screenName" : "ESddas"
+  },
+  "flags" : [ "default" ]
+}, {
+  "id" : "avqz-y3um",
+  "name" : "ENERGY STAR Certified Residential Dishwashers",
+  "averageRating" : 0,
+  "category" : "Government",
+  "createdAt" : 1351095080,
+  "description" : "Below are currently qualified ENERGY STAR models available for sale in the U.S. and Canada.",
+  "displayType" : "api",
+  "downloadCount" : 201,
+  "indexUpdatedAt" : 1387725923,
+  "moderationStatus" : true,
+  "newBackend" : false,
+  "numberOfComments" : 0,
+  "oid" : 6893465,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1387721320,
+  "publicationGroup" : 461625,
+  "publicationStage" : "published",
+  "resourceName" : "energy-star-certified-residential-dishwashers",
+  "rowsUpdatedAt" : 1387721311,
+  "rowsUpdatedBy" : "guxy-scz5",
+  "signed" : false,
+  "state" : "normal",
+  "tableId" : 1409800,
+  "totalTimesRated" : 0,
+  "viewCount" : 279,
+  "viewLastModified" : 1380649293,
+  "viewType" : "tabular",
+  "grants" : [ {
+    "inherited" : true,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "custom_fields" : {
+      "API Foundry" : {
+        "Type" : "API"
+      }
+    },
+    "renderTypeConfig" : {
+      "visible" : {
+        "api" : true
+      }
+    },
+    "availableDisplayTypes" : [ "api" ],
+    "rdfSubject" : "0"
+  },
+  "owner" : {
+    "id" : "8wsd-etwg",
+    "displayName" : "Jon Luzader",
+    "screenName" : "Jon Luzader"
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "8wsd-etwg",
+    "displayName" : "Jon Luzader",
+    "screenName" : "Jon Luzader"
+  },
+  "tags" : [ "dishwashers appliances certified products residential" ]
+}, {
+  "id" : "hvt3-cwar",
+  "name" : "ENERGY STAR Certified Cordless Phones",
+  "averageRating" : 0,
+  "category" : "Government",
+  "createdAt" : 1349835065,
+  "description" : "ENERGY STAR Certified Cordless Phones",
+  "displayType" : "api",
+  "downloadCount" : 189,
+  "indexUpdatedAt" : 1387721535,
+  "moderationStatus" : true,
+  "newBackend" : false,
+  "numberOfComments" : 0,
+  "oid" : 6893219,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1387720860,
+  "publicationGroup" : 417824,
+  "publicationStage" : "published",
+  "resourceName" : "certified-cordless-phones",
+  "rowsUpdatedAt" : 1387720858,
+  "rowsUpdatedBy" : "guxy-scz5",
+  "signed" : false,
+  "state" : "normal",
+  "tableId" : 1409782,
+  "totalTimesRated" : 0,
+  "viewCount" : 525,
+  "viewLastModified" : 1380649259,
+  "viewType" : "tabular",
+  "grants" : [ {
+    "inherited" : true,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "custom_fields" : {
+      "API Foundry" : {
+        "Type" : ""
+      }
+    },
+    "renderTypeConfig" : {
+      "visible" : {
+        "api" : true
+      }
+    },
+    "availableDisplayTypes" : [ "api" ],
+    "rdfSubject" : "0"
+  },
+  "owner" : {
+    "id" : "gyd7-94dj",
+    "displayName" : "mlouie",
+    "screenName" : "mlouie",
+    "rights" : [ "create_datasets", "edit_others_datasets", "edit_sdp", "edit_site_theme", "moderate_comments", "manage_users", "chown_datasets", "edit_nominations", "approve_nominations", "feature_items", "federations", "manage_stories", "manage_approval", "change_configurations", "view_domain", "view_others_datasets", "edit_pages", "create_pages", "view_goals", "view_dashboards", "edit_goals", "edit_dashboards", "create_dashboards" ],
+    "flags" : [ "admin" ]
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "guxy-scz5",
+    "displayName" : "ESddas",
+    "screenName" : "ESddas"
+  }
+}, {
+  "id" : "wyt9-72bp",
+  "name" : "ENERGY STAR Certified Light Fixtures",
+  "averageRating" : 0,
+  "category" : "Government",
+  "createdAt" : 1367347097,
+  "description" : "Certified models meet all ENERGY STAR requirements as listed in the Version 1.2 ENERGY STAR Program Requirements for Luminaires. A detailed listing of key efficiency criteria are available at http://www.energystar.gov/index.cfm?fuseaction=find_a_product.showProductGroup&pgw_code=LU#specs",
+  "displayType" : "table",
+  "downloadCount" : 42259,
+  "indexUpdatedAt" : 1387725998,
+  "newBackend" : false,
+  "numberOfComments" : 0,
+  "oid" : 6893612,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1387722608,
+  "publicationGroup" : 828526,
+  "publicationStage" : "published",
+  "rowIdentifierColumnId" : 124087708,
+  "rowsUpdatedAt" : 1387722602,
+  "rowsUpdatedBy" : "guxy-scz5",
+  "signed" : false,
+  "state" : "normal",
+  "tableId" : 1409826,
+  "totalTimesRated" : 0,
+  "viewCount" : 4520,
+  "viewLastModified" : 1387722608,
+  "viewType" : "tabular",
+  "grants" : [ {
+    "inherited" : true,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "custom_fields" : {
+      "API Foundry" : {
+        "Type" : ""
+      }
+    },
+    "renderTypeConfig" : {
+      "visible" : {
+        "table" : true
+      }
+    },
+    "availableDisplayTypes" : [ "table", "fatrow", "page" ],
+    "rdfSubject" : "0",
+    "rowIdentifier" : 124087708
+  },
+  "owner" : {
+    "id" : "guxy-scz5",
+    "displayName" : "ESddas",
+    "screenName" : "ESddas"
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "guxy-scz5",
+    "displayName" : "ESddas",
+    "screenName" : "ESddas"
+  },
+  "flags" : [ "default" ]
+}, {
+  "id" : "cfrc-cncg",
+  "name" : "ENERGY STAR Certified Televisions",
+  "averageRating" : 0,
+  "category" : "Government",
+  "createdAt" : 1357750857,
+  "description" : "",
+  "displayType" : "api",
+  "downloadCount" : 137,
+  "indexUpdatedAt" : 1387725996,
+  "moderationStatus" : true,
+  "newBackend" : false,
+  "numberOfComments" : 0,
+  "oid" : 6893607,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1387722439,
+  "publicationGroup" : 604081,
+  "publicationStage" : "published",
+  "resourceName" : "energy-star-certified-televisions",
+  "rowsUpdatedAt" : 1387722433,
+  "rowsUpdatedBy" : "guxy-scz5",
+  "signed" : false,
+  "state" : "normal",
+  "tableId" : 1409825,
+  "totalTimesRated" : 0,
+  "viewCount" : 470,
+  "viewLastModified" : 1380649317,
+  "viewType" : "tabular",
+  "grants" : [ {
+    "inherited" : true,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "custom_fields" : {
+      "API Foundry" : {
+        "Type" : ""
+      }
+    },
+    "renderTypeConfig" : {
+      "visible" : {
+        "api" : true
+      }
+    },
+    "availableDisplayTypes" : [ "api" ],
+    "rdfSubject" : "0"
+  },
+  "owner" : {
+    "id" : "guxy-scz5",
+    "displayName" : "ESddas",
+    "screenName" : "ESddas"
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "guxy-scz5",
+    "displayName" : "ESddas",
+    "screenName" : "ESddas"
+  }
+}, {
+  "id" : "4w6v-thuy",
+  "name" : "ENERGY STAR Certified Roof Products",
+  "averageRating" : 0,
+  "category" : "Government",
+  "createdAt" : 1361986694,
+  "description" : "",
+  "displayType" : "api",
+  "downloadCount" : 226,
+  "indexUpdatedAt" : 1387725985,
+  "moderationStatus" : true,
+  "newBackend" : false,
+  "numberOfComments" : 0,
+  "oid" : 6893599,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1387722350,
+  "publicationGroup" : 703486,
+  "publicationStage" : "published",
+  "resourceName" : "energy-star-certified-roof-products",
+  "rowsUpdatedAt" : 1387722347,
+  "rowsUpdatedBy" : "guxy-scz5",
+  "signed" : false,
+  "state" : "normal",
+  "tableId" : 1409822,
+  "totalTimesRated" : 0,
+  "viewCount" : 2231,
+  "viewLastModified" : 1380649303,
+  "viewType" : "tabular",
+  "grants" : [ {
+    "inherited" : true,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "custom_fields" : {
+      "API Foundry" : {
+        "Type" : ""
+      }
+    },
+    "renderTypeConfig" : {
+      "visible" : {
+        "api" : true
+      }
+    },
+    "availableDisplayTypes" : [ "api" ],
+    "rdfSubject" : "0"
+  },
+  "owner" : {
+    "id" : "guxy-scz5",
+    "displayName" : "ESddas",
+    "screenName" : "ESddas"
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "guxy-scz5",
+    "displayName" : "ESddas",
+    "screenName" : "ESddas"
+  }
+}, {
+  "id" : "gfcc-r8v6",
+  "name" : "ENERGY STAR Certified Room Air Conditioners",
+  "averageRating" : 0,
+  "category" : "Government",
+  "createdAt" : 1360860076,
+  "description" : "",
+  "displayType" : "api",
+  "downloadCount" : 166,
+  "indexUpdatedAt" : 1387725940,
+  "moderationStatus" : true,
+  "newBackend" : false,
+  "numberOfComments" : 0,
+  "oid" : 6893484,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1387721499,
+  "publicationGroup" : 677334,
+  "publicationStage" : "published",
+  "resourceName" : "energy-star-certified-room-air-conditioners",
+  "rowsUpdatedAt" : 1387721496,
+  "rowsUpdatedBy" : "guxy-scz5",
+  "signed" : false,
+  "state" : "normal",
+  "tableId" : 1409807,
+  "totalTimesRated" : 0,
+  "viewCount" : 417,
+  "viewLastModified" : 1380649309,
+  "viewType" : "tabular",
+  "grants" : [ {
+    "inherited" : true,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "custom_fields" : {
+      "API Foundry" : {
+        "Type" : ""
+      }
+    },
+    "renderTypeConfig" : {
+      "visible" : {
+        "api" : true
+      }
+    },
+    "availableDisplayTypes" : [ "api" ],
+    "rdfSubject" : "0"
+  },
+  "owner" : {
+    "id" : "guxy-scz5",
+    "displayName" : "ESddas",
+    "screenName" : "ESddas"
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "guxy-scz5",
+    "displayName" : "ESddas",
+    "screenName" : "ESddas"
+  }
+}, {
+  "id" : "mj8j-2jhz",
+  "name" : "ENERGY STAR Certified Ceiling Fans",
+  "averageRating" : 0,
+  "category" : "Government",
+  "createdAt" : 1367424531,
+  "description" : "Certified models meet all ENERGY STAR requirements as listed in the Version 3.0 ENERGY STAR Program Requirements for Ceiling Fans that are effective as of April 1, 2012. A detailed listing of key efficiency criteria are available at http://www.energystar.gov/index.cfm?c=ceiling_fans.pr_crit_ceiling_fans",
+  "displayType" : "table",
+  "downloadCount" : 39358,
+  "indexUpdatedAt" : 1387725988,
+  "newBackend" : false,
+  "numberOfComments" : 0,
+  "oid" : 6893601,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1387722377,
+  "publicationGroup" : 830469,
+  "publicationStage" : "published",
+  "rowsUpdatedAt" : 1387722375,
+  "rowsUpdatedBy" : "guxy-scz5",
+  "signed" : false,
+  "state" : "normal",
+  "tableId" : 1409823,
+  "totalTimesRated" : 0,
+  "viewCount" : 749,
+  "viewLastModified" : 1387722377,
+  "viewType" : "tabular",
+  "grants" : [ {
+    "inherited" : true,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "custom_fields" : {
+      "API Foundry" : {
+        "Type" : ""
+      }
+    },
+    "renderTypeConfig" : {
+      "visible" : {
+        "table" : true
+      }
+    },
+    "availableDisplayTypes" : [ "table", "fatrow", "page" ],
+    "rdfSubject" : "0"
+  },
+  "owner" : {
+    "id" : "guxy-scz5",
+    "displayName" : "ESddas",
+    "screenName" : "ESddas"
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "guxy-scz5",
+    "displayName" : "ESddas",
+    "screenName" : "ESddas"
+  },
+  "flags" : [ "default" ]
+}, {
+  "id" : "8dv7-nngq",
+  "name" : "ENERGY STAR Certified Ventilating Fans",
+  "averageRating" : 0,
+  "category" : "Government",
+  "createdAt" : 1367428196,
+  "description" : "Certified models meet all ENERGY STAR requirements as listed in the Version 3.2 ENERGY STAR Program Requirements for Ventilating Fans that are effective as of April 1, 2012. A detailed listing of key efficiency criteria are available at http://www.energystar.gov/index.cfm?c=vent_fans.pr_crit_vent_fans",
+  "displayType" : "table",
+  "downloadCount" : 38664,
+  "indexUpdatedAt" : 1387721536,
+  "newBackend" : false,
+  "numberOfComments" : 0,
+  "oid" : 6893228,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1387720901,
+  "publicationGroup" : 830552,
+  "publicationStage" : "published",
+  "rowIdentifierColumnId" : 124080110,
+  "rowsUpdatedAt" : 1387720898,
+  "rowsUpdatedBy" : "guxy-scz5",
+  "signed" : false,
+  "state" : "normal",
+  "tableId" : 1409785,
+  "totalTimesRated" : 0,
+  "viewCount" : 792,
+  "viewLastModified" : 1387720901,
+  "viewType" : "tabular",
+  "grants" : [ {
+    "inherited" : true,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "custom_fields" : {
+      "API Foundry" : {
+        "Type" : ""
+      }
+    },
+    "renderTypeConfig" : {
+      "visible" : {
+        "table" : true
+      }
+    },
+    "availableDisplayTypes" : [ "table", "fatrow", "page" ],
+    "rdfSubject" : "0",
+    "rowIdentifier" : 124080110
+  },
+  "owner" : {
+    "id" : "guxy-scz5",
+    "displayName" : "ESddas",
+    "screenName" : "ESddas"
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "guxy-scz5",
+    "displayName" : "ESddas",
+    "screenName" : "ESddas"
+  },
+  "flags" : [ "default" ]
+}, {
+  "id" : "9bwe-ibaf",
+  "name" : "ENERGY STAR Certified Decorative Light Strings",
+  "averageRating" : 0,
+  "category" : "Government",
+  "createdAt" : 1374502973,
+  "description" : "Certified models meet all ENERGY STAR requirements as listed in the Version 1.5 ENERGY STAR Program Requirements for Decorative Light Strings that are effective as of March 1, 2008. A detailed listing of key efficiency criteria are available at http://www.energystar.gov/index.cfm?fuseaction=find_a_product.showProductGroup&pgw_code=DS",
+  "displayType" : "table",
+  "downloadCount" : 59,
+  "indexUpdatedAt" : 1387726340,
+  "newBackend" : false,
+  "numberOfComments" : 0,
+  "oid" : 6893649,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1387722751,
+  "publicationGroup" : 992138,
+  "publicationStage" : "published",
+  "rowIdentifierColumnId" : 124088305,
+  "rowsUpdatedAt" : 1387722750,
+  "rowsUpdatedBy" : "guxy-scz5",
+  "signed" : false,
+  "state" : "normal",
+  "tableId" : 1409835,
+  "totalTimesRated" : 0,
+  "viewCount" : 840,
+  "viewLastModified" : 1387722751,
+  "viewType" : "tabular",
+  "grants" : [ {
+    "inherited" : true,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "custom_fields" : {
+      "API Foundry" : {
+        "Type" : ""
+      }
+    },
+    "renderTypeConfig" : {
+      "visible" : {
+        "table" : true
+      }
+    },
+    "availableDisplayTypes" : [ "table", "fatrow", "page" ],
+    "rdfSubject" : "0",
+    "rowIdentifier" : 124088305
+  },
+  "owner" : {
+    "id" : "guxy-scz5",
+    "displayName" : "ESddas",
+    "screenName" : "ESddas"
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "guxy-scz5",
+    "displayName" : "ESddas",
+    "screenName" : "ESddas"
+  },
+  "flags" : [ "default" ]
+}, {
+  "id" : "edi8-b5vk",
+  "name" : "ENERGY STAR Certified Commercial Fryers",
+  "averageRating" : 0,
+  "category" : "Government",
+  "createdAt" : 1370373479,
+  "description" : "Certified models meet all ENERGY STAR requirements as listed in the Version 2.0 ENERGY STAR Program Requirements for Commercial Fryers that are effective as of April 22, 2011. A detailed listing of key efficiency criteria are available at http://www.energystar.gov/index.cfm?c=fryers.pr_crit_fryers",
+  "displayType" : "table",
+  "downloadCount" : 40192,
+  "indexUpdatedAt" : 1387723573,
+  "newBackend" : false,
+  "numberOfComments" : 0,
+  "oid" : 6893352,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1387721151,
+  "publicationGroup" : 898866,
+  "publicationStage" : "published",
+  "rowIdentifierColumnId" : 124082083,
+  "rowsUpdatedAt" : 1387721148,
+  "rowsUpdatedBy" : "guxy-scz5",
+  "signed" : false,
+  "state" : "normal",
+  "tableId" : 1409797,
+  "totalTimesRated" : 0,
+  "viewCount" : 340,
+  "viewLastModified" : 1387721151,
+  "viewType" : "tabular",
+  "grants" : [ {
+    "inherited" : true,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "custom_fields" : {
+      "API Foundry" : {
+        "Type" : ""
+      }
+    },
+    "renderTypeConfig" : {
+      "visible" : {
+        "table" : true
+      }
+    },
+    "availableDisplayTypes" : [ "table", "fatrow", "page" ],
+    "rdfSubject" : "0",
+    "rowIdentifier" : 124082083
+  },
+  "owner" : {
+    "id" : "guxy-scz5",
+    "displayName" : "ESddas",
+    "screenName" : "ESddas"
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "guxy-scz5",
+    "displayName" : "ESddas",
+    "screenName" : "ESddas"
+  },
+  "flags" : [ "default" ]
+}, {
+  "id" : "2f83-p388",
+  "name" : "ENERGY STAR Certified Geothermal Heatpumps",
+  "averageRating" : 0,
+  "category" : "Government",
+  "createdAt" : 1360857491,
+  "description" : "This document describes how to use the API for ENERGY STAR Certified Geothermal Heatpumps.",
+  "displayType" : "api",
+  "downloadCount" : 220,
+  "indexUpdatedAt" : 1387726490,
+  "moderationStatus" : true,
+  "newBackend" : false,
+  "numberOfComments" : 0,
+  "oid" : 6893657,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1387722836,
+  "publicationGroup" : 677242,
+  "publicationStage" : "published",
+  "resourceName" : "energy-star-certified-geothermal-heatpumps",
+  "rowsUpdatedAt" : 1387722835,
+  "rowsUpdatedBy" : "guxy-scz5",
+  "signed" : false,
+  "state" : "normal",
+  "tableId" : 1409839,
+  "totalTimesRated" : 0,
+  "viewCount" : 1957,
+  "viewLastModified" : 1380649275,
+  "viewType" : "tabular",
+  "grants" : [ {
+    "inherited" : true,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "custom_fields" : {
+      "API Foundry" : {
+        "Type" : ""
+      }
+    },
+    "renderTypeConfig" : {
+      "visible" : {
+        "api" : true
+      }
+    },
+    "availableDisplayTypes" : [ "api" ],
+    "rdfSubject" : "0"
+  },
+  "owner" : {
+    "id" : "guxy-scz5",
+    "displayName" : "ESddas",
+    "screenName" : "ESddas"
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "guxy-scz5",
+    "displayName" : "ESddas",
+    "screenName" : "ESddas"
+  }
+}, {
+  "id" : "gjih-4yet",
+  "name" : "ENERGY STAR Certified Room Air Cleaners",
+  "averageRating" : 0,
+  "category" : "Government",
+  "createdAt" : 1357680820,
+  "description" : "",
+  "displayType" : "api",
+  "downloadCount" : 145,
+  "indexUpdatedAt" : 1387723529,
+  "moderationStatus" : true,
+  "newBackend" : false,
+  "numberOfComments" : 0,
+  "oid" : 6893345,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1387721107,
+  "publicationGroup" : 602637,
+  "publicationStage" : "published",
+  "resourceName" : "energy-star-certified-room-air-cleaners",
+  "rowsUpdatedAt" : 1387721105,
+  "rowsUpdatedBy" : "guxy-scz5",
+  "signed" : false,
+  "state" : "normal",
+  "tableId" : 1409793,
+  "totalTimesRated" : 0,
+  "viewCount" : 136,
+  "viewLastModified" : 1380649307,
+  "viewType" : "tabular",
+  "grants" : [ {
+    "inherited" : true,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "custom_fields" : {
+      "API Foundry" : {
+        "Type" : ""
+      }
+    },
+    "renderTypeConfig" : {
+      "visible" : {
+        "api" : true
+      }
+    },
+    "availableDisplayTypes" : [ "api" ],
+    "rdfSubject" : "0"
+  },
+  "owner" : {
+    "id" : "guxy-scz5",
+    "displayName" : "ESddas",
+    "screenName" : "ESddas"
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "guxy-scz5",
+    "displayName" : "ESddas",
+    "screenName" : "ESddas"
+  }
+}, {
+  "id" : "xsaq-9wt3",
+  "name" : "ENERGY STAR Certified Commercial Ice Machines",
+  "averageRating" : 0,
+  "category" : "Government",
+  "createdAt" : 1370378727,
+  "description" : "Certified models meet all ENERGY STAR requirements as listed in the Version 2.0 ENERGY STAR Program Requirements for Automatic Commercial Ice Makers that are effective as of February 1, 2013. A detailed listing of key efficiency criteria are available at http://www.energystar.gov/index.cfm?c=comm_ice_machines.pr_crit_comm_ice_machines",
+  "displayType" : "table",
+  "downloadCount" : 40280,
+  "indexUpdatedAt" : 1387724681,
+  "newBackend" : false,
+  "numberOfComments" : 0,
+  "oid" : 6893457,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1387721287,
+  "publicationGroup" : 899059,
+  "publicationStage" : "published",
+  "rowIdentifierColumnId" : 124084096,
+  "rowsUpdatedAt" : 1387721285,
+  "rowsUpdatedBy" : "guxy-scz5",
+  "signed" : false,
+  "state" : "normal",
+  "tableId" : 1409799,
+  "totalTimesRated" : 0,
+  "viewCount" : 411,
+  "viewLastModified" : 1387721287,
+  "viewType" : "tabular",
+  "grants" : [ {
+    "inherited" : true,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "custom_fields" : {
+      "API Foundry" : {
+        "Type" : ""
+      }
+    },
+    "renderTypeConfig" : {
+      "visible" : {
+        "table" : true
+      }
+    },
+    "availableDisplayTypes" : [ "table", "fatrow", "page" ],
+    "rdfSubject" : "0",
+    "rowIdentifier" : 124084096
+  },
+  "owner" : {
+    "id" : "guxy-scz5",
+    "displayName" : "ESddas",
+    "screenName" : "ESddas"
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "guxy-scz5",
+    "displayName" : "ESddas",
+    "screenName" : "ESddas"
+  },
+  "flags" : [ "default" ]
+}, {
+  "id" : "j624-u8ux",
+  "name" : "ENERGY STAR Certified Vending Machines",
+  "averageRating" : 0,
+  "category" : "Government",
+  "createdAt" : 1370544427,
+  "description" : "Certified models meet all ENERGY STAR requirements as listed in the Version 3.0 ENERGY STAR Program Requirements for Refrigerated Beverage Vending Machines that are effective as of March 1, 2013. A detailed listing of key efficiency criteria are available at",
+  "displayType" : "table",
+  "downloadCount" : 36236,
+  "indexUpdatedAt" : 1387723528,
+  "newBackend" : false,
+  "numberOfComments" : 0,
+  "oid" : 6893342,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1387721087,
+  "publicationGroup" : 903094,
+  "publicationStage" : "published",
+  "rowIdentifierColumnId" : 124081905,
+  "rowsUpdatedAt" : 1387721085,
+  "rowsUpdatedBy" : "guxy-scz5",
+  "signed" : false,
+  "state" : "normal",
+  "tableId" : 1409792,
+  "totalTimesRated" : 0,
+  "viewCount" : 253,
+  "viewLastModified" : 1387721087,
+  "viewType" : "tabular",
+  "grants" : [ {
+    "inherited" : true,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "custom_fields" : {
+      "API Foundry" : {
+        "Type" : ""
+      }
+    },
+    "renderTypeConfig" : {
+      "visible" : {
+        "table" : true
+      }
+    },
+    "availableDisplayTypes" : [ "table", "fatrow", "page" ],
+    "rdfSubject" : "0",
+    "rowIdentifier" : 124081905
+  },
+  "owner" : {
+    "id" : "guxy-scz5",
+    "displayName" : "ESddas",
+    "screenName" : "ESddas"
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "guxy-scz5",
+    "displayName" : "ESddas",
+    "screenName" : "ESddas"
+  },
+  "flags" : [ "default" ]
+}, {
+  "id" : "ewhi-bvce",
+  "name" : "ENERGY STAR Certified Audio Video",
+  "averageRating" : 0,
+  "category" : "Government",
+  "createdAt" : 1370266514,
+  "description" : "Certified models meet all ENERGY STAR requirements as listed in the Version 3.0 ENERGY STAR Program Requirements for Audio Video Equipment that are effective as of May 1, 2013. A detailed listing of key efficiency criteria are available at http://www.energystar.gov/index.cfm?c=audio_dvd.pr_crit_audio_dvd",
+  "displayType" : "table",
+  "downloadCount" : 31712,
+  "indexUpdatedAt" : 1387726004,
+  "newBackend" : false,
+  "numberOfComments" : 0,
+  "oid" : 6893633,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1387722675,
+  "publicationGroup" : 896157,
+  "publicationStage" : "published",
+  "rowIdentifierColumnId" : 124088081,
+  "rowsUpdatedAt" : 1387722674,
+  "rowsUpdatedBy" : "guxy-scz5",
+  "signed" : false,
+  "state" : "normal",
+  "tableId" : 1409832,
+  "totalTimesRated" : 0,
+  "viewCount" : 332,
+  "viewLastModified" : 1387722675,
+  "viewType" : "tabular",
+  "grants" : [ {
+    "inherited" : false,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "custom_fields" : {
+      "API Foundry" : {
+        "Type" : ""
+      }
+    },
+    "renderTypeConfig" : {
+      "visible" : {
+        "table" : true
+      }
+    },
+    "availableDisplayTypes" : [ "table", "fatrow", "page" ],
+    "rdfSubject" : "0",
+    "rowIdentifier" : 124088081
+  },
+  "owner" : {
+    "id" : "guxy-scz5",
+    "displayName" : "ESddas",
+    "screenName" : "ESddas"
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "guxy-scz5",
+    "displayName" : "ESddas",
+    "screenName" : "ESddas"
+  },
+  "flags" : [ "default" ]
+}, {
+  "id" : "ke8v-murg",
+  "name" : "ENERGY STAR Certified Light Commercial HVAC",
+  "averageRating" : 0,
+  "category" : "Government",
+  "createdAt" : 1370542718,
+  "description" : "Certified models meet all ENERGY STAR requirements as listed in the Version 2.0 ENERGY STAR Program Requirements for Light Commercial HVAC that are effective as of January 1, 2011. A detailed listing of key efficiency criteria are available at http://www.energystar.gov/index.cfm?c=lchvac.pr_crit_lchvac",
+  "displayType" : "table",
+  "downloadCount" : 31193,
+  "indexUpdatedAt" : 1387726491,
+  "newBackend" : false,
+  "numberOfComments" : 0,
+  "oid" : 6893661,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1387722930,
+  "publicationGroup" : 903054,
+  "publicationStage" : "published",
+  "rowIdentifierColumnId" : 124088511,
+  "rowsUpdatedAt" : 1387722929,
+  "rowsUpdatedBy" : "guxy-scz5",
+  "signed" : false,
+  "state" : "normal",
+  "tableId" : 1409842,
+  "totalTimesRated" : 0,
+  "viewCount" : 774,
+  "viewLastModified" : 1387722931,
+  "viewType" : "tabular",
+  "grants" : [ {
+    "inherited" : false,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "custom_fields" : {
+      "API Foundry" : {
+        "Type" : ""
+      }
+    },
+    "renderTypeConfig" : {
+      "visible" : {
+        "table" : true
+      }
+    },
+    "availableDisplayTypes" : [ "table", "fatrow", "page" ],
+    "rdfSubject" : "0",
+    "rowIdentifier" : 124088511
+  },
+  "owner" : {
+    "id" : "guxy-scz5",
+    "displayName" : "ESddas",
+    "screenName" : "ESddas"
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "guxy-scz5",
+    "displayName" : "ESddas",
+    "screenName" : "ESddas"
+  },
+  "flags" : [ "default" ]
+}, {
+  "id" : "56yh-pcbu",
+  "name" : "ENERGY STAR Certified Commercial Water Heaters",
+  "averageRating" : 0,
+  "category" : "Government",
+  "createdAt" : 1370459384,
+  "description" : "Certified models meet all ENERGY STAR requirements as listed in the Version 1.0 ENERGY STAR Program Requirements for Commercial Water Heaters that are effective as of February 18, 2013. A detailed listing of key efficiency criteria are available at http://www.energystar.gov/index.cfm?fuseaction=find_a_product.showProductGroup&pgw_code=CWH#specs",
+  "displayType" : "table",
+  "downloadCount" : 37667,
+  "indexUpdatedAt" : 1387728214,
+  "newBackend" : false,
+  "numberOfComments" : 0,
+  "oid" : 6893984,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1387724853,
+  "publicationGroup" : 901030,
+  "publicationStage" : "published",
+  "rowIdentifierColumnId" : 124093111,
+  "rowsUpdatedAt" : 1387724851,
+  "rowsUpdatedBy" : "guxy-scz5",
+  "signed" : false,
+  "state" : "normal",
+  "tableId" : 1409873,
+  "totalTimesRated" : 0,
+  "viewCount" : 169,
+  "viewLastModified" : 1387724853,
+  "viewType" : "tabular",
+  "grants" : [ {
+    "inherited" : true,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "custom_fields" : {
+      "API Foundry" : {
+        "Type" : ""
+      }
+    },
+    "renderTypeConfig" : {
+      "visible" : {
+        "table" : true
+      }
+    },
+    "availableDisplayTypes" : [ "table", "fatrow", "page" ],
+    "rdfSubject" : "0",
+    "rowIdentifier" : 124093111
+  },
+  "owner" : {
+    "id" : "guxy-scz5",
+    "displayName" : "ESddas",
+    "screenName" : "ESddas"
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "guxy-scz5",
+    "displayName" : "ESddas",
+    "screenName" : "ESddas"
+  },
+  "flags" : [ "default" ]
+}, {
+  "id" : "nw5s-r5ca",
+  "name" : "ENERGY STAR Certified Commercial Griddles",
+  "averageRating" : 0,
+  "category" : "Government",
+  "createdAt" : 1370290214,
+  "description" : "Certified models meet all ENERGY STAR requirements as listed in the Version 1.1 ENERGY STAR Program Requirements for Commercial Griddles that are effective as of May 8, 2009 or January 1, 2011. A detailed listing of key efficiency criteria are available at http://www.energystar.gov/index.cfm?c=griddles.pr_crit_comm_griddles",
+  "displayType" : "table",
+  "downloadCount" : 39612,
+  "indexUpdatedAt" : 1387725929,
+  "newBackend" : false,
+  "numberOfComments" : 0,
+  "oid" : 6893470,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1387721348,
+  "publicationGroup" : 896836,
+  "publicationStage" : "published",
+  "rowIdentifierColumnId" : 124084310,
+  "rowsUpdatedAt" : 1387721346,
+  "rowsUpdatedBy" : "guxy-scz5",
+  "signed" : false,
+  "state" : "normal",
+  "tableId" : 1409801,
+  "totalTimesRated" : 0,
+  "viewCount" : 170,
+  "viewLastModified" : 1387721348,
+  "viewType" : "tabular",
+  "grants" : [ {
+    "inherited" : true,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "custom_fields" : {
+      "API Foundry" : {
+        "Type" : ""
+      }
+    },
+    "renderTypeConfig" : {
+      "visible" : {
+        "table" : true
+      }
+    },
+    "availableDisplayTypes" : [ "table", "fatrow", "page" ],
+    "rdfSubject" : "0",
+    "rowIdentifier" : 124084310
+  },
+  "owner" : {
+    "id" : "guxy-scz5",
+    "displayName" : "ESddas",
+    "screenName" : "ESddas"
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "guxy-scz5",
+    "displayName" : "ESddas",
+    "screenName" : "ESddas"
+  },
+  "flags" : [ "default" ]
+}, {
+  "id" : "vtsv-aq9u",
+  "name" : "ENERGY STAR Certified Commercial Steam Cookers",
+  "averageRating" : 0,
+  "category" : "Government",
+  "createdAt" : 1370381887,
+  "description" : "Certified models meet all ENERGY STAR requirements as listed in the Version 1.2 ENERGY STAR Program Requirements for Commercial Steam Cookers that are effective as of August 1, 2003. A detailed listing of key efficiency criteria are available at  http://www.energystar.gov/index.cfm?c=steamcookers.pr_crit_steamcookers",
+  "displayType" : "table",
+  "downloadCount" : 36533,
+  "indexUpdatedAt" : 1387721526,
+  "newBackend" : false,
+  "numberOfComments" : 0,
+  "oid" : 6893158,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1387720822,
+  "publicationGroup" : 899137,
+  "publicationStage" : "published",
+  "rowIdentifierColumnId" : 124078936,
+  "rowsUpdatedAt" : 1387720820,
+  "rowsUpdatedBy" : "guxy-scz5",
+  "signed" : false,
+  "state" : "normal",
+  "tableId" : 1409779,
+  "totalTimesRated" : 0,
+  "viewCount" : 251,
+  "viewLastModified" : 1387720822,
+  "viewType" : "tabular",
+  "grants" : [ {
+    "inherited" : true,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "custom_fields" : {
+      "API Foundry" : {
+        "Type" : ""
+      }
+    },
+    "renderTypeConfig" : {
+      "visible" : {
+        "table" : true
+      }
+    },
+    "availableDisplayTypes" : [ "table", "fatrow", "page" ],
+    "rdfSubject" : "0",
+    "rowIdentifier" : 124078936
+  },
+  "owner" : {
+    "id" : "guxy-scz5",
+    "displayName" : "ESddas",
+    "screenName" : "ESddas"
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "guxy-scz5",
+    "displayName" : "ESddas",
+    "screenName" : "ESddas"
+  },
+  "flags" : [ "default" ]
+}, {
+  "id" : "wyw6-sr4d",
+  "name" : "ENERGY STAR Certified Commercial Hot Food Holding Cabinet",
+  "averageRating" : 0,
+  "category" : "Government",
+  "createdAt" : 1370534668,
+  "description" : "Certified models meet all ENERGY STAR requirements as listed in the Version 2.0 ENERGY STAR Program Requirements for Commercial Hot Food Holding Cabinets that are effective as of October 1, 2011. A detailed listing of key efficiency criteria are available at http://www.energystar.gov/index.cfm?c=hfhc.pr_crit_hfhc",
+  "displayType" : "table",
+  "downloadCount" : 39640,
+  "indexUpdatedAt" : 1387723545,
+  "newBackend" : false,
+  "numberOfComments" : 0,
+  "oid" : 6893347,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1387721129,
+  "publicationGroup" : 902860,
+  "publicationStage" : "published",
+  "rowsUpdatedAt" : 1387721127,
+  "rowsUpdatedBy" : "guxy-scz5",
+  "signed" : false,
+  "state" : "normal",
+  "tableId" : 1409795,
+  "totalTimesRated" : 0,
+  "viewCount" : 248,
+  "viewLastModified" : 1387721129,
+  "viewType" : "tabular",
+  "grants" : [ {
+    "inherited" : true,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "custom_fields" : {
+      "API Foundry" : {
+        "Type" : ""
+      }
+    },
+    "renderTypeConfig" : {
+      "visible" : {
+        "table" : true
+      }
+    },
+    "availableDisplayTypes" : [ "table", "fatrow", "page" ],
+    "rdfSubject" : "0"
+  },
+  "owner" : {
+    "id" : "guxy-scz5",
+    "displayName" : "ESddas",
+    "screenName" : "ESddas"
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "guxy-scz5",
+    "displayName" : "ESddas",
+    "screenName" : "ESddas"
+  },
+  "flags" : [ "default" ]
+}, {
+  "id" : "6i7e-6h2g",
+  "name" : "ENERGY STAR Certified Displays",
+  "averageRating" : 0,
+  "category" : "Government",
+  "createdAt" : 1357065239,
+  "description" : "This list contains all currently ENERGY STAR certified displays. A detailed listing of key efficiency criteria are available at https://www.energystar.gov/index.cfm?c=monitors.pr_crit_monitors.",
+  "displayType" : "api",
+  "downloadCount" : 113,
+  "indexUpdatedAt" : 1387723059,
+  "moderationStatus" : true,
+  "modifyingViewUid" : "2wic-jicu",
+  "newBackend" : false,
+  "numberOfComments" : 0,
+  "oid" : 6893330,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1387721027,
+  "publicationGroup" : 590330,
+  "publicationStage" : "published",
+  "resourceName" : "energy-star-certified-displays",
+  "rowsUpdatedAt" : 1387721015,
+  "rowsUpdatedBy" : "guxy-scz5",
+  "signed" : false,
+  "state" : "normal",
+  "tableId" : 1409790,
+  "totalTimesRated" : 0,
+  "viewCount" : 227,
+  "viewLastModified" : 1380649268,
+  "viewType" : "tabular",
+  "grants" : [ {
+    "inherited" : true,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "custom_fields" : {
+      "API Foundry" : {
+        "Type" : ""
+      }
+    },
+    "renderTypeConfig" : {
+      "visible" : {
+        "api" : true
+      }
+    },
+    "availableDisplayTypes" : [ "api" ],
+    "rdfSubject" : "0"
+  },
+  "owner" : {
+    "id" : "guxy-scz5",
+    "displayName" : "ESddas",
+    "screenName" : "ESddas"
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "hdmj-s3aw",
+    "displayName" : "John Line",
+    "screenName" : "John Line"
+  },
+  "tags" : [ "display", "led", "lcd" ]
+}, {
+  "id" : "3hq2-gkpg",
+  "name" : "ENERGY STAR Certified Commercial Dishwashers",
+  "averageRating" : 0,
+  "category" : "Government",
+  "createdAt" : 1363640551,
+  "description" : "",
+  "displayType" : "api",
+  "downloadCount" : 139,
+  "indexUpdatedAt" : 1387726492,
+  "moderationStatus" : true,
+  "newBackend" : false,
+  "numberOfComments" : 0,
+  "oid" : 6893659,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1387722856,
+  "publicationGroup" : 741261,
+  "publicationStage" : "published",
+  "resourceName" : "energy-star-certified-commercial-dishwashers",
+  "rowsUpdatedAt" : 1387722855,
+  "rowsUpdatedBy" : "guxy-scz5",
+  "signed" : false,
+  "state" : "normal",
+  "tableId" : 1409840,
+  "totalTimesRated" : 0,
+  "viewCount" : 136,
+  "viewLastModified" : 1380649229,
+  "viewType" : "tabular",
+  "grants" : [ {
+    "inherited" : true,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "custom_fields" : {
+      "API Foundry" : {
+        "Type" : ""
+      }
+    },
+    "renderTypeConfig" : {
+      "visible" : {
+        "api" : true
+      }
+    },
+    "availableDisplayTypes" : [ "api" ],
+    "rdfSubject" : "0"
+  },
+  "owner" : {
+    "id" : "guxy-scz5",
+    "displayName" : "ESddas",
+    "screenName" : "ESddas"
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "guxy-scz5",
+    "displayName" : "ESddas",
+    "screenName" : "ESddas"
+  }
+}, {
+  "id" : "dfcg-wapx",
+  "name" : "ENERGY STAR Certified Water Heaters",
+  "averageRating" : 0,
+  "category" : "Government",
+  "createdAt" : 1357678762,
+  "description" : "This document describes how to use the API for ENERGY STAR  Certified Water Heaters.",
+  "displayType" : "api",
+  "downloadCount" : 158,
+  "indexUpdatedAt" : 1387725942,
+  "moderationStatus" : true,
+  "newBackend" : false,
+  "numberOfComments" : 0,
+  "oid" : 6893490,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1387721580,
+  "publicationGroup" : 602590,
+  "publicationStage" : "published",
+  "resourceName" : "energy-star-certified-water-heaters",
+  "rowsUpdatedAt" : 1387721570,
+  "rowsUpdatedBy" : "guxy-scz5",
+  "signed" : false,
+  "state" : "normal",
+  "tableId" : 1409809,
+  "totalTimesRated" : 0,
+  "viewCount" : 376,
+  "viewLastModified" : 1380649339,
+  "viewType" : "tabular",
+  "grants" : [ {
+    "inherited" : true,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "custom_fields" : {
+      "API Foundry" : {
+        "Type" : ""
+      }
+    },
+    "renderTypeConfig" : {
+      "visible" : {
+        "api" : true
+      }
+    },
+    "availableDisplayTypes" : [ "api" ],
+    "rdfSubject" : "0"
+  },
+  "owner" : {
+    "id" : "guxy-scz5",
+    "displayName" : "ESddas",
+    "screenName" : "ESddas"
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "guxy-scz5",
+    "displayName" : "ESddas",
+    "screenName" : "ESddas"
+  }
+}, {
+  "id" : "2wah-sjxr",
+  "name" : "ENERGY STAR Certified Residential Freezers",
+  "averageRating" : 0,
+  "category" : "Government",
+  "createdAt" : 1374076624,
+  "description" : "Certified models meet all ENERGY STAR requirements as listed in the Version 4.1 ENERGY STAR Program Requirements for Residential Refrigerators and Freezers that are effective as of April 28, 2008 or the Version 5.0 ENERGY STAR Program Requirements for Residential Refrigerators and Freezers that are effective as of September 15, 2014. A detailed listing of key efficiency criteria are available at http://www.energystar.gov/index.cfm?c=refrig.pr_crit_refrigerators",
+  "displayType" : "table",
+  "downloadCount" : 32119,
+  "indexUpdatedAt" : 1387728203,
+  "newBackend" : false,
+  "numberOfComments" : 0,
+  "oid" : 6893982,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1387724823,
+  "publicationGroup" : 982702,
+  "publicationStage" : "published",
+  "rowIdentifierColumnId" : 124093075,
+  "rowsUpdatedAt" : 1387724821,
+  "rowsUpdatedBy" : "guxy-scz5",
+  "signed" : false,
+  "state" : "normal",
+  "tableId" : 1409872,
+  "totalTimesRated" : 0,
+  "viewCount" : 608,
+  "viewLastModified" : 1387724823,
+  "viewType" : "tabular",
+  "grants" : [ {
+    "inherited" : true,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "custom_fields" : {
+      "API Foundry" : {
+        "Type" : ""
+      }
+    },
+    "renderTypeConfig" : {
+      "visible" : {
+        "table" : true
+      }
+    },
+    "availableDisplayTypes" : [ "table", "fatrow", "page" ],
+    "rdfSubject" : "0",
+    "rowIdentifier" : 124093075
+  },
+  "owner" : {
+    "id" : "guxy-scz5",
+    "displayName" : "ESddas",
+    "screenName" : "ESddas"
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "guxy-scz5",
+    "displayName" : "ESddas",
+    "screenName" : "ESddas"
+  },
+  "flags" : [ "default" ]
+}, {
+  "id" : "x2ej-cb9k",
+  "name" : "ENERGY STAR Certified Residential Freezers",
+  "averageRating" : 0,
+  "category" : "Government",
+  "createdAt" : 1374076624,
+  "description" : "Certified models meet all ENERGY STAR requirements as listed in the Version 4.1 ENERGY STAR Program Requirements for Residential Refrigerators and Freezers that are effective as of April 28, 2008 or the Version 5.0 ENERGY STAR Program Requirements for Residential Refrigerators and Freezers that are effective as of September 15, 2014. A detailed listing of key efficiency criteria are available at http://www.energystar.gov/index.cfm?c=refrig.pr_crit_refrigerators",
+  "displayType" : "api",
+  "downloadCount" : 111,
+  "indexUpdatedAt" : 1387728208,
+  "moderationStatus" : true,
+  "newBackend" : false,
+  "numberOfComments" : 0,
+  "oid" : 6893983,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1387724823,
+  "publicationGroup" : 982702,
+  "publicationStage" : "published",
+  "resourceName" : "energy-star-certified-residential-freezers",
+  "rowsUpdatedAt" : 1387724821,
+  "rowsUpdatedBy" : "guxy-scz5",
+  "signed" : false,
+  "state" : "normal",
+  "tableId" : 1409872,
+  "totalTimesRated" : 0,
+  "viewCount" : 135,
+  "viewLastModified" : 1380649296,
+  "viewType" : "tabular",
+  "grants" : [ {
+    "inherited" : true,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "custom_fields" : {
+      "API Foundry" : {
+        "Type" : ""
+      }
+    },
+    "renderTypeConfig" : {
+      "visible" : {
+        "api" : true
+      }
+    },
+    "availableDisplayTypes" : [ "api" ],
+    "rdfSubject" : "0"
+  },
+  "owner" : {
+    "id" : "guxy-scz5",
+    "displayName" : "ESddas",
+    "screenName" : "ESddas"
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "guxy-scz5",
+    "displayName" : "ESddas",
+    "screenName" : "ESddas"
+  }
+}, {
+  "id" : "dgpf-upjt",
+  "name" : "ENERGY STAR Certified Residential Refrigerators",
+  "averageRating" : 0,
+  "category" : "Government",
+  "createdAt" : 1374071146,
+  "description" : "Certified models meet all ENERGY STAR requirements as listed in the Version 4.1 ENERGY STAR Program Requirements for Residential Refrigerators and Freezers that are effective as of April 28, 2008 or the Version 5.0 ENERGY STAR Program Requirements for Residential Refrigerators and Freezers that are effective as of September 15, 2014. A detailed listing of key efficiency criteria are available at http://www.energystar.gov/index.cfm?c=refrig.pr_crit_refrigerators",
+  "displayType" : "table",
+  "downloadCount" : 36671,
+  "indexUpdatedAt" : 1387728190,
+  "newBackend" : false,
+  "numberOfComments" : 0,
+  "oid" : 6893978,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1387724799,
+  "publicationGroup" : 982525,
+  "publicationStage" : "published",
+  "rowIdentifierColumnId" : 124093003,
+  "rowsUpdatedAt" : 1387724797,
+  "rowsUpdatedBy" : "guxy-scz5",
+  "signed" : false,
+  "state" : "normal",
+  "tableId" : 1409871,
+  "totalTimesRated" : 0,
+  "viewCount" : 3046,
+  "viewLastModified" : 1387724799,
+  "viewType" : "tabular",
+  "grants" : [ {
+    "inherited" : true,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "custom_fields" : {
+      "API Foundry" : {
+        "Type" : ""
+      }
+    },
+    "renderTypeConfig" : {
+      "visible" : {
+        "table" : true
+      }
+    },
+    "availableDisplayTypes" : [ "table", "fatrow", "page" ],
+    "rdfSubject" : "0",
+    "rowIdentifier" : 124093003
+  },
+  "owner" : {
+    "id" : "guxy-scz5",
+    "displayName" : "ESddas",
+    "screenName" : "ESddas"
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "guxy-scz5",
+    "displayName" : "ESddas",
+    "screenName" : "ESddas"
+  },
+  "flags" : [ "default" ]
+}, {
+  "id" : "tuyp-wctg",
+  "name" : "ENERGY STAR Certified Residential Refrigerators",
+  "averageRating" : 0,
+  "category" : "Government",
+  "createdAt" : 1374071146,
+  "description" : "Certified models meet all ENERGY STAR requirements as listed in the Version 4.1 ENERGY STAR Program Requirements for Residential Refrigerators and Freezers that are effective as of April 28, 2008 or the Version 5.0 ENERGY STAR Program Requirements for Residential Refrigerators and Freezers that are effective as of September 15, 2014. A detailed listing of key efficiency criteria are available at http://www.energystar.gov/index.cfm?c=refrig.pr_crit_refrigerators",
+  "displayType" : "api",
+  "downloadCount" : 155,
+  "indexUpdatedAt" : 1387728191,
+  "moderationStatus" : true,
+  "newBackend" : false,
+  "numberOfComments" : 0,
+  "oid" : 6893979,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1387724799,
+  "publicationGroup" : 982525,
+  "publicationStage" : "published",
+  "resourceName" : "energy-star-certified-residential-refrigerators",
+  "rowsUpdatedAt" : 1387724797,
+  "rowsUpdatedBy" : "guxy-scz5",
+  "signed" : false,
+  "state" : "normal",
+  "tableId" : 1409871,
+  "totalTimesRated" : 0,
+  "viewCount" : 617,
+  "viewLastModified" : 1380649300,
+  "viewType" : "tabular",
+  "grants" : [ {
+    "inherited" : true,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "custom_fields" : {
+      "API Foundry" : {
+        "Type" : ""
+      }
+    },
+    "renderTypeConfig" : {
+      "visible" : {
+        "api" : true
+      }
+    },
+    "availableDisplayTypes" : [ "api" ],
+    "rdfSubject" : "0"
+  },
+  "owner" : {
+    "id" : "guxy-scz5",
+    "displayName" : "ESddas",
+    "screenName" : "ESddas"
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "guxy-scz5",
+    "displayName" : "ESddas",
+    "screenName" : "ESddas"
+  }
+}, {
+  "id" : "vtea-6zjz",
+  "name" : "ENERGY STAR Certified Computers",
+  "averageRating" : 0,
+  "category" : "Government",
+  "createdAt" : 1377533483,
+  "description" : "Certified models meet all ENERGY STAR requirements as listed in the Version 5.0 ENERGY STAR Program Requirements for Computers that are effective as of July 1, 2009. A detailed listing of key efficiency criteria are available at http://www.energystar.gov/index.cfm?c=computers.pr_crit_computers",
+  "displayType" : "table",
+  "downloadCount" : 18562,
+  "indexUpdatedAt" : 1387726914,
+  "newBackend" : false,
+  "numberOfComments" : 0,
+  "oid" : 6893968,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1387724747,
+  "publicationGroup" : 1086685,
+  "publicationStage" : "published",
+  "rowIdentifierColumnId" : 124092617,
+  "rowsUpdatedAt" : 1387724739,
+  "rowsUpdatedBy" : "guxy-scz5",
+  "signed" : false,
+  "state" : "normal",
+  "tableId" : 1409867,
+  "totalTimesRated" : 0,
+  "viewCount" : 1262,
+  "viewLastModified" : 1387724748,
+  "viewType" : "tabular",
+  "grants" : [ {
+    "inherited" : false,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "custom_fields" : {
+      "API Foundry" : {
+        "Type" : ""
+      }
+    },
+    "renderTypeConfig" : {
+      "visible" : {
+        "table" : true
+      }
+    },
+    "availableDisplayTypes" : [ "table", "fatrow", "page" ],
+    "rdfSubject" : "0",
+    "rowIdentifier" : 124092617
+  },
+  "owner" : {
+    "id" : "guxy-scz5",
+    "displayName" : "ESddas",
+    "screenName" : "ESddas"
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "guxy-scz5",
+    "displayName" : "ESddas",
+    "screenName" : "ESddas"
+  },
+  "flags" : [ "default" ]
+}, {
+  "id" : "pzuf-4vbf",
+  "name" : "ENERGY STAR Certified Small Network Equipment",
+  "averageRating" : 0,
+  "category" : "Government",
+  "createdAt" : 1386095587,
+  "description" : "Certified models meet all ENERGY STAR requirements as listed in the Version 1.0 ENERGY STAR Program Requirements for Small Networking Equipment that are effective as of September 3, 2013. A detailed listing of key efficiency criteria are available at https://www.energystar.gov/index.cfm?c=small_network_equipment.pr_crit_small_network_equipment",
+  "displayType" : "table",
+  "downloadCount" : 1560,
+  "indexUpdatedAt" : 1387726488,
+  "newBackend" : false,
+  "numberOfComments" : 0,
+  "oid" : 6893651,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1387722773,
+  "publicationGroup" : 1385504,
+  "publicationStage" : "published",
+  "rowIdentifierColumnId" : 124088325,
+  "rowsUpdatedAt" : 1387722772,
+  "rowsUpdatedBy" : "guxy-scz5",
+  "signed" : false,
+  "state" : "normal",
+  "tableId" : 1409836,
+  "totalTimesRated" : 0,
+  "viewCount" : 41,
+  "viewLastModified" : 1387722774,
+  "viewType" : "tabular",
+  "grants" : [ {
+    "inherited" : false,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "custom_fields" : {
+      "API Foundry" : {
+        "Type" : ""
+      }
+    },
+    "renderTypeConfig" : {
+      "visible" : {
+        "table" : true
+      }
+    },
+    "availableDisplayTypes" : [ "table", "fatrow", "page" ],
+    "rdfSubject" : "0",
+    "rowIdentifier" : 124088325
+  },
+  "owner" : {
+    "id" : "guxy-scz5",
+    "displayName" : "ESddas",
+    "screenName" : "ESddas"
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "guxy-scz5",
+    "displayName" : "ESddas",
+    "screenName" : "ESddas"
+  },
+  "flags" : [ "default" ]
+}, {
+  "id" : "2377-fina",
+  "name" : "ENERGY STAR Certified Commercial Water Heaters",
+  "averageRating" : 0,
+  "category" : "Government",
+  "createdAt" : 1370459384,
+  "description" : "Certified models meet all ENERGY STAR requirements as listed in the Version 1.0 ENERGY STAR Program Requirements for Commercial Water Heaters that are effective as of February 18, 2013. A detailed listing of key efficiency criteria are available at http://www.energystar.gov/index.cfm?fuseaction=find_a_product.showProductGroup&pgw_code=CWH#specs",
+  "displayType" : "api",
+  "downloadCount" : 119,
+  "indexUpdatedAt" : 1387728214,
+  "moderationStatus" : true,
+  "newBackend" : false,
+  "numberOfComments" : 0,
+  "oid" : 6893986,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1387724853,
+  "publicationGroup" : 901030,
+  "publicationStage" : "published",
+  "resourceName" : "energy-star-certified-commercial-water-heaters",
+  "rowsUpdatedAt" : 1387724851,
+  "rowsUpdatedBy" : "guxy-scz5",
+  "signed" : false,
+  "state" : "normal",
+  "tableId" : 1409873,
+  "totalTimesRated" : 0,
+  "viewCount" : 82,
+  "viewLastModified" : 1380649256,
+  "viewType" : "tabular",
+  "grants" : [ {
+    "inherited" : true,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "custom_fields" : {
+      "API Foundry" : {
+        "Type" : ""
+      }
+    },
+    "renderTypeConfig" : {
+      "visible" : {
+        "api" : true
+      }
+    },
+    "availableDisplayTypes" : [ "api" ],
+    "rdfSubject" : "0"
+  },
+  "owner" : {
+    "id" : "guxy-scz5",
+    "displayName" : "ESddas",
+    "screenName" : "ESddas"
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "guxy-scz5",
+    "displayName" : "ESddas",
+    "screenName" : "ESddas"
+  }
+}, {
+  "id" : "uyqh-qsu8",
+  "name" : "ENERGY STAR Certified Decorative Light Strings",
+  "averageRating" : 0,
+  "category" : "Government",
+  "createdAt" : 1374502973,
+  "description" : "Certified models meet all ENERGY STAR requirements as listed in the Version 1.5 ENERGY STAR Program Requirements for Decorative Light Strings that are effective as of March 1, 2008. A detailed listing of key efficiency criteria are available at http://www.energystar.gov/index.cfm?fuseaction=find_a_product.showProductGroup&pgw_code=DS",
+  "displayType" : "api",
+  "downloadCount" : 100,
+  "indexUpdatedAt" : 1387726488,
+  "moderationStatus" : true,
+  "newBackend" : false,
+  "numberOfComments" : 0,
+  "oid" : 6893650,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1387722751,
+  "publicationGroup" : 992138,
+  "publicationStage" : "published",
+  "resourceName" : "energy-star-certified-decorative-light-strings",
+  "rowsUpdatedAt" : 1387722750,
+  "rowsUpdatedBy" : "guxy-scz5",
+  "signed" : false,
+  "state" : "normal",
+  "tableId" : 1409835,
+  "totalTimesRated" : 0,
+  "viewCount" : 309,
+  "viewLastModified" : 1380649263,
+  "viewType" : "tabular",
+  "grants" : [ {
+    "inherited" : true,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "custom_fields" : {
+      "API Foundry" : {
+        "Type" : ""
+      }
+    },
+    "renderTypeConfig" : {
+      "visible" : {
+        "api" : true
+      }
+    },
+    "availableDisplayTypes" : [ "api" ],
+    "rdfSubject" : "0"
+  },
+  "owner" : {
+    "id" : "guxy-scz5",
+    "displayName" : "ESddas",
+    "screenName" : "ESddas"
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "guxy-scz5",
+    "displayName" : "ESddas",
+    "screenName" : "ESddas"
+  }
+}, {
+  "id" : "943j-p6ib",
+  "name" : "ENERGY STAR Certified Furnaces",
+  "averageRating" : 0,
+  "category" : "Government",
+  "createdAt" : 1367865507,
+  "description" : "Certified models meet all ENERGY STAR requirements as listed in the Version 4.0 ENERGY STAR Program Requirements for Furnaces that are effective as of February 1, 2013. A detailed listing of key efficiency criteria are available at http://www.energystar.gov/index.cfm?c=furnaces.pr_crit_furnaces",
+  "displayType" : "api",
+  "downloadCount" : 119,
+  "indexUpdatedAt" : 1387726299,
+  "moderationStatus" : true,
+  "newBackend" : false,
+  "numberOfComments" : 0,
+  "oid" : 6893644,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1387722696,
+  "publicationGroup" : 841063,
+  "publicationStage" : "published",
+  "resourceName" : "energy-star-certified-furnaces",
+  "rowsUpdatedAt" : 1387722693,
+  "rowsUpdatedBy" : "guxy-scz5",
+  "signed" : false,
+  "state" : "normal",
+  "tableId" : 1409833,
+  "totalTimesRated" : 0,
+  "viewCount" : 292,
+  "viewLastModified" : 1380649272,
+  "viewType" : "tabular",
+  "grants" : [ {
+    "inherited" : true,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "custom_fields" : {
+      "API Foundry" : {
+        "Type" : ""
+      }
+    },
+    "renderTypeConfig" : {
+      "visible" : {
+        "api" : true
+      }
+    },
+    "availableDisplayTypes" : [ "api" ],
+    "rdfSubject" : "0"
+  },
+  "owner" : {
+    "id" : "guxy-scz5",
+    "displayName" : "ESddas",
+    "screenName" : "ESddas"
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "guxy-scz5",
+    "displayName" : "ESddas",
+    "screenName" : "ESddas"
+  }
+}, {
+  "id" : "kk99-r365",
+  "name" : "ENERGY STAR Certified Pool Pumps",
+  "averageRating" : 0,
+  "category" : "Government",
+  "createdAt" : 1367515452,
+  "description" : "Certified models meet all ENERGY STAR requirements as listed in the Version 1.0 ENERGY STAR Program Requirements for Pool Pumps that are effective as of February 15, 2013. A detailed listing of key efficiency criteria are available at http://www.energystar.gov/index.cfm?c=poolpumps.pr_crit_poolpumps",
+  "displayType" : "api",
+  "downloadCount" : 105,
+  "indexUpdatedAt" : 1387725990,
+  "moderationStatus" : true,
+  "newBackend" : false,
+  "numberOfComments" : 0,
+  "oid" : 6893605,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1387722395,
+  "publicationGroup" : 832810,
+  "publicationStage" : "published",
+  "resourceName" : "energy-star-certified-pool-pumps",
+  "rowsUpdatedAt" : 1387722393,
+  "rowsUpdatedBy" : "guxy-scz5",
+  "signed" : false,
+  "state" : "normal",
+  "tableId" : 1409824,
+  "totalTimesRated" : 0,
+  "viewCount" : 92,
+  "viewLastModified" : 1380649290,
+  "viewType" : "tabular",
+  "grants" : [ {
+    "inherited" : true,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "custom_fields" : {
+      "API Foundry" : {
+        "Type" : ""
+      }
+    },
+    "renderTypeConfig" : {
+      "visible" : {
+        "api" : true
+      }
+    },
+    "availableDisplayTypes" : [ "api" ],
+    "rdfSubject" : "0"
+  },
+  "owner" : {
+    "id" : "guxy-scz5",
+    "displayName" : "ESddas",
+    "screenName" : "ESddas"
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "guxy-scz5",
+    "displayName" : "ESddas",
+    "screenName" : "ESddas"
+  }
+}, {
+  "id" : "iwf3-ywhk",
+  "name" : "ENERGY STAR Certified Ceiling Fans",
+  "averageRating" : 0,
+  "category" : "Government",
+  "createdAt" : 1367424531,
+  "description" : "Certified models meet all ENERGY STAR requirements as listed in the Version 3.0 ENERGY STAR Program Requirements for Ceiling Fans that are effective as of April 1, 2012. A detailed listing of key efficiency criteria are available at http://www.energystar.gov/index.cfm?c=ceiling_fans.pr_crit_ceiling_fans",
+  "displayType" : "api",
+  "downloadCount" : 109,
+  "indexUpdatedAt" : 1387725988,
+  "moderationStatus" : true,
+  "newBackend" : false,
+  "numberOfComments" : 0,
+  "oid" : 6893602,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1387722377,
+  "publicationGroup" : 830469,
+  "publicationStage" : "published",
+  "resourceName" : "energy-star-certified-ceiling-fans",
+  "rowsUpdatedAt" : 1387722375,
+  "rowsUpdatedBy" : "guxy-scz5",
+  "signed" : false,
+  "state" : "normal",
+  "tableId" : 1409823,
+  "totalTimesRated" : 0,
+  "viewCount" : 187,
+  "viewLastModified" : 1380649218,
+  "viewType" : "tabular",
+  "grants" : [ {
+    "inherited" : true,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "custom_fields" : {
+      "API Foundry" : {
+        "Type" : ""
+      }
+    },
+    "renderTypeConfig" : {
+      "visible" : {
+        "api" : true
+      }
+    },
+    "availableDisplayTypes" : [ "api" ],
+    "rdfSubject" : "0"
+  },
+  "owner" : {
+    "id" : "guxy-scz5",
+    "displayName" : "ESddas",
+    "screenName" : "ESddas"
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "guxy-scz5",
+    "displayName" : "ESddas",
+    "screenName" : "ESddas"
+  }
+}, {
+  "id" : "t2v6-g4nf",
+  "name" : "ENERGY STAR Certified Imaging Equipment",
+  "averageRating" : 0,
+  "category" : "Government",
+  "createdAt" : 1377722879,
+  "description" : "Certified models meet all ENERGY STAR requirements as listed in the Version 1.2 ENERGY STAR Program Requirements for Imaging Equipment that are effective as of July 1, 2009 or the Version 2.0 ENERGY STAR Program Requirements for Imaging Equipment that are effective as of January 1, 2014. A detailed listing of key efficiency criteria are available at http://www.energystar.gov/index.cfm?fuseaction=find_a_product.showProductGroup&pgw_code=IEQ",
+  "displayType" : "table",
+  "downloadCount" : 24667,
+  "indexUpdatedAt" : 1387725976,
+  "newBackend" : false,
+  "numberOfComments" : 0,
+  "oid" : 6893575,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1387722253,
+  "publicationGroup" : 1094280,
+  "publicationStage" : "published",
+  "rowIdentifierColumnId" : 124086844,
+  "rowsUpdatedAt" : 1387722250,
+  "rowsUpdatedBy" : "guxy-scz5",
+  "signed" : false,
+  "state" : "normal",
+  "tableId" : 1409820,
+  "totalTimesRated" : 0,
+  "viewCount" : 1788,
+  "viewLastModified" : 1387722253,
+  "viewType" : "tabular",
+  "grants" : [ {
+    "inherited" : false,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "custom_fields" : {
+      "API Foundry" : {
+        "Type" : ""
+      }
+    },
+    "renderTypeConfig" : {
+      "visible" : {
+        "table" : true
+      }
+    },
+    "availableDisplayTypes" : [ "table", "fatrow", "page" ],
+    "rdfSubject" : "0",
+    "rowIdentifier" : 124086844
+  },
+  "owner" : {
+    "id" : "guxy-scz5",
+    "displayName" : "ESddas",
+    "screenName" : "ESddas"
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "guxy-scz5",
+    "displayName" : "ESddas",
+    "screenName" : "ESddas"
+  },
+  "flags" : [ "default" ]
+}, {
+  "id" : "59dq-uw25",
+  "name" : "ENERGY STAR Certified Commercial Refrigerators and Freezers",
+  "averageRating" : 0,
+  "category" : "Government",
+  "createdAt" : 1373398674,
+  "description" : "Certified models meet all ENERGY STAR requirements as listed in the Version 2.1 ENERGY STAR Program Requirements for Commercial Refrigerators and Freezers that are effective as of January 1, 2010. A detailed listing of key efficiency criteria are available at http://www.energystar.gov/index.cfm?c=commer_refrig.pr_crit_commercial_refrigerators",
+  "displayType" : "table",
+  "downloadCount" : 33350,
+  "indexUpdatedAt" : 1387725974,
+  "newBackend" : false,
+  "numberOfComments" : 0,
+  "oid" : 6893569,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1387722010,
+  "publicationGroup" : 967118,
+  "publicationStage" : "published",
+  "rowIdentifierColumnId" : 124086718,
+  "rowsUpdatedAt" : 1387722007,
+  "rowsUpdatedBy" : "guxy-scz5",
+  "signed" : false,
+  "state" : "normal",
+  "tableId" : 1409818,
+  "totalTimesRated" : 0,
+  "viewCount" : 1015,
+  "viewLastModified" : 1387722010,
+  "viewType" : "tabular",
+  "grants" : [ {
+    "inherited" : true,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "custom_fields" : {
+      "API Foundry" : {
+        "Type" : ""
+      }
+    },
+    "renderTypeConfig" : {
+      "visible" : {
+        "table" : true
+      }
+    },
+    "availableDisplayTypes" : [ "table", "fatrow", "page" ],
+    "rdfSubject" : "0",
+    "rowIdentifier" : 124086718
+  },
+  "owner" : {
+    "id" : "guxy-scz5",
+    "displayName" : "ESddas",
+    "screenName" : "ESddas"
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "guxy-scz5",
+    "displayName" : "ESddas",
+    "screenName" : "ESddas"
+  },
+  "flags" : [ "default" ]
+}, {
+  "id" : "s2mp-w6tu",
+  "name" : "ENERGY STAR Certified Commercial Refrigerators and Freezers",
+  "averageRating" : 0,
+  "category" : "Government",
+  "createdAt" : 1373398674,
+  "description" : "Certified models meet all ENERGY STAR requirements as listed in the Version 2.1 ENERGY STAR Program Requirements for Commercial Refrigerators and Freezers that are effective as of January 1, 2010. A detailed listing of key efficiency criteria are available at http://www.energystar.gov/index.cfm?c=commer_refrig.pr_crit_commercial_refrigerators",
+  "displayType" : "api",
+  "downloadCount" : 173,
+  "indexUpdatedAt" : 1387725974,
+  "moderationStatus" : true,
+  "newBackend" : false,
+  "numberOfComments" : 0,
+  "oid" : 6893571,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1387722010,
+  "publicationGroup" : 967118,
+  "publicationStage" : "published",
+  "resourceName" : "energy-star-certified-commercial-refrigerators-and-freezers",
+  "rowsUpdatedAt" : 1387722007,
+  "rowsUpdatedBy" : "guxy-scz5",
+  "signed" : false,
+  "state" : "normal",
+  "tableId" : 1409818,
+  "totalTimesRated" : 0,
+  "viewCount" : 471,
+  "viewLastModified" : 1380649249,
+  "viewType" : "tabular",
+  "grants" : [ {
+    "inherited" : true,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "custom_fields" : {
+      "API Foundry" : {
+        "Type" : ""
+      }
+    },
+    "renderTypeConfig" : {
+      "visible" : {
+        "api" : true
+      }
+    },
+    "availableDisplayTypes" : [ "api" ],
+    "rdfSubject" : "0"
+  },
+  "owner" : {
+    "id" : "guxy-scz5",
+    "displayName" : "ESddas",
+    "screenName" : "ESddas"
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "guxy-scz5",
+    "displayName" : "ESddas",
+    "screenName" : "ESddas"
+  }
+}, {
+  "id" : "thb8-8csi",
+  "name" : "ENERGY STAR Certified Boilers",
+  "averageRating" : 0,
+  "category" : "Government",
+  "createdAt" : 1367943399,
+  "description" : "Certified models meet all ENERGY STAR requirements as listed in the Version 2.1 ENERGY STAR Program Requirements for Boilers that are effective as of April 1, 2002. A detailed listing of key efficiency criteria are available at http://www.energystar.gov/index.cfm?fuseaction=find_a_product.showProductGroup&pgw_code=BO",
+  "displayType" : "api",
+  "downloadCount" : 110,
+  "indexUpdatedAt" : 1387725972,
+  "moderationStatus" : true,
+  "newBackend" : false,
+  "numberOfComments" : 0,
+  "oid" : 6893565,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1387721971,
+  "publicationGroup" : 843027,
+  "publicationStage" : "published",
+  "resourceName" : "energy-star-certified-boilers",
+  "rowsUpdatedAt" : 1387721967,
+  "rowsUpdatedBy" : "guxy-scz5",
+  "signed" : false,
+  "state" : "normal",
+  "tableId" : 1409817,
+  "totalTimesRated" : 0,
+  "viewCount" : 383,
+  "viewLastModified" : 1380649213,
+  "viewType" : "tabular",
+  "grants" : [ {
+    "inherited" : true,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "custom_fields" : {
+      "API Foundry" : {
+        "Type" : ""
+      }
+    },
+    "renderTypeConfig" : {
+      "visible" : {
+        "api" : true
+      }
+    },
+    "availableDisplayTypes" : [ "api" ],
+    "rdfSubject" : "0"
+  },
+  "owner" : {
+    "id" : "guxy-scz5",
+    "displayName" : "ESddas",
+    "screenName" : "ESddas"
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "guxy-scz5",
+    "displayName" : "ESddas",
+    "screenName" : "ESddas"
+  }
+}, {
+  "id" : "3v8z-x9uy",
+  "name" : "ENERGY STAR Certified Commercial Clothes Washers",
+  "averageRating" : 0,
+  "category" : "Government",
+  "createdAt" : 1373988402,
+  "description" : "Certified models meet all ENERGY STAR requirements as listed in the Version 6.1 ENERGY STAR Program Requirements for Clothes Washers that are effective as of February 1, 2013. A detailed listing of key efficiency criteria are available at http://www.energystar.gov/index.cfm?c=clotheswash.pr_crit_clothes_washers",
+  "displayType" : "api",
+  "downloadCount" : 111,
+  "indexUpdatedAt" : 1387726004,
+  "moderationStatus" : true,
+  "newBackend" : false,
+  "numberOfComments" : 0,
+  "oid" : 6893631,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1387722656,
+  "publicationGroup" : 980565,
+  "publicationStage" : "published",
+  "resourceName" : "energy-star-certified-commercial-clothes-washers",
+  "rowsUpdatedAt" : 1387722655,
+  "rowsUpdatedBy" : "guxy-scz5",
+  "signed" : false,
+  "state" : "normal",
+  "tableId" : 1409830,
+  "totalTimesRated" : 0,
+  "viewCount" : 65,
+  "viewLastModified" : 1380649226,
+  "viewType" : "tabular",
+  "grants" : [ {
+    "inherited" : true,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "custom_fields" : {
+      "API Foundry" : {
+        "Type" : ""
+      }
+    },
+    "renderTypeConfig" : {
+      "visible" : {
+        "api" : true
+      }
+    },
+    "availableDisplayTypes" : [ "api" ],
+    "rdfSubject" : "0"
+  },
+  "owner" : {
+    "id" : "guxy-scz5",
+    "displayName" : "ESddas",
+    "screenName" : "ESddas"
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "guxy-scz5",
+    "displayName" : "ESddas",
+    "screenName" : "ESddas"
+  }
+}, {
+  "id" : "9g6r-cpdt",
+  "name" : "ENERGY STAR Certified Commercial Clothes Washers",
+  "averageRating" : 0,
+  "category" : "Government",
+  "createdAt" : 1373988402,
+  "description" : "Certified models meet all ENERGY STAR requirements as listed in the Version 6.1 ENERGY STAR Program Requirements for Clothes Washers that are effective as of February 1, 2013. A detailed listing of key efficiency criteria are available at http://www.energystar.gov/index.cfm?c=clotheswash.pr_crit_clothes_washers",
+  "displayType" : "table",
+  "downloadCount" : 35846,
+  "indexUpdatedAt" : 1387726003,
+  "newBackend" : false,
+  "numberOfComments" : 0,
+  "oid" : 6893630,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1387722656,
+  "publicationGroup" : 980565,
+  "publicationStage" : "published",
+  "rowIdentifierColumnId" : 124088039,
+  "rowsUpdatedAt" : 1387722655,
+  "rowsUpdatedBy" : "guxy-scz5",
+  "signed" : false,
+  "state" : "normal",
+  "tableId" : 1409830,
+  "totalTimesRated" : 0,
+  "viewCount" : 254,
+  "viewLastModified" : 1387722656,
+  "viewType" : "tabular",
+  "grants" : [ {
+    "inherited" : true,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "custom_fields" : {
+      "API Foundry" : {
+        "Type" : ""
+      }
+    },
+    "renderTypeConfig" : {
+      "visible" : {
+        "table" : true
+      }
+    },
+    "availableDisplayTypes" : [ "table", "fatrow", "page" ],
+    "rdfSubject" : "0",
+    "rowIdentifier" : 124088039
+  },
+  "owner" : {
+    "id" : "guxy-scz5",
+    "displayName" : "ESddas",
+    "screenName" : "ESddas"
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "guxy-scz5",
+    "displayName" : "ESddas",
+    "screenName" : "ESddas"
+  },
+  "flags" : [ "default" ]
+}, {
+  "id" : "cker-n33t",
+  "name" : "ENERGY STAR Certified Non-AHRI Central Air Conditioner Equipment and Air Source Heat Pump",
+  "averageRating" : 0,
+  "category" : "Government",
+  "createdAt" : 1374161869,
+  "description" : "Certified models meet all ENERGY STAR requirements as listed in the Version 4.1 ENERGY STAR Program Requirements for Air Source Heat Pump and Central Air Conditioner Equipment that are effective as of January 1, 2009. A detailed listing of key efficiency criteria are available at http://www.energystar.gov/index.cfm?c=airsrc_heat.pr_crit_as_heat_pumps Listed products have been submitted to EPA by ENERGY STAR partners that do not participate in the AHRI certification program. EPA will continue to update this list with products that are certified by EPA-recognized certification bodies other than AHRI. The majority of ENERGY STAR products, certified by AHRI, can be found on the CEE/AHRI Verified Directory at http://www.ceedirectory.org/",
+  "displayType" : "table",
+  "downloadCount" : 119,
+  "indexUpdatedAt" : 1387726003,
+  "newBackend" : false,
+  "numberOfComments" : 0,
+  "oid" : 6893626,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1387722638,
+  "publicationGroup" : 984743,
+  "publicationStage" : "published",
+  "rowIdentifierColumnId" : 124087975,
+  "rowsUpdatedAt" : 1387722636,
+  "rowsUpdatedBy" : "guxy-scz5",
+  "signed" : false,
+  "state" : "normal",
+  "tableId" : 1409829,
+  "totalTimesRated" : 0,
+  "viewCount" : 1472,
+  "viewLastModified" : 1387722638,
+  "viewType" : "tabular",
+  "grants" : [ {
+    "inherited" : true,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "custom_fields" : {
+      "API Foundry" : {
+        "Type" : ""
+      }
+    },
+    "renderTypeConfig" : {
+      "visible" : {
+        "table" : true
+      }
+    },
+    "availableDisplayTypes" : [ "table", "fatrow", "page" ],
+    "rdfSubject" : "0",
+    "rowIdentifier" : 124087975
+  },
+  "owner" : {
+    "id" : "guxy-scz5",
+    "displayName" : "ESddas",
+    "screenName" : "ESddas"
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "guxy-scz5",
+    "displayName" : "ESddas",
+    "screenName" : "ESddas"
+  },
+  "flags" : [ "default" ]
+}, {
+  "id" : "n5a3-hpt5",
+  "name" : "ENERGY STAR Certified Non-AHRI Central Air Conditioner Equipment and Air Source Heat Pump",
+  "averageRating" : 0,
+  "category" : "Government",
+  "createdAt" : 1374161869,
+  "description" : "Certified models meet all ENERGY STAR requirements as listed in the Version 4.1 ENERGY STAR Program Requirements for Air Source Heat Pump and Central Air Conditioner Equipment that are effective as of January 1, 2009. A detailed listing of key efficiency criteria are available at http://www.energystar.gov/index.cfm?c=airsrc_heat.pr_crit_as_heat_pumps Listed products have been submitted to EPA by ENERGY STAR partners that do not participate in the AHRI certification program. EPA will continue to update this list with products that are certified by EPA-recognized certification bodies other than AHRI. The majority of ENERGY STAR products, certified by AHRI, can be found on the CEE/AHRI Verified Directory at http://www.ceedirectory.org/",
+  "displayType" : "api",
+  "downloadCount" : 141,
+  "indexUpdatedAt" : 1387726002,
+  "moderationStatus" : true,
+  "newBackend" : false,
+  "numberOfComments" : 0,
+  "oid" : 6893629,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1387722638,
+  "publicationGroup" : 984743,
+  "publicationStage" : "published",
+  "resourceName" : "energy-star-certified-non-ahri-central-air-conditioner-equipment-and-air-source-heat-pump",
+  "rowsUpdatedAt" : 1387722636,
+  "rowsUpdatedBy" : "guxy-scz5",
+  "signed" : false,
+  "state" : "normal",
+  "tableId" : 1409829,
+  "totalTimesRated" : 0,
+  "viewCount" : 106,
+  "viewLastModified" : 1380649286,
+  "viewType" : "tabular",
+  "grants" : [ {
+    "inherited" : true,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "custom_fields" : {
+      "API Foundry" : {
+        "Type" : ""
+      }
+    },
+    "renderTypeConfig" : {
+      "visible" : {
+        "api" : true
+      }
+    },
+    "availableDisplayTypes" : [ "api" ],
+    "rdfSubject" : "0"
+  },
+  "owner" : {
+    "id" : "guxy-scz5",
+    "displayName" : "ESddas",
+    "screenName" : "ESddas"
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "guxy-scz5",
+    "displayName" : "ESddas",
+    "screenName" : "ESddas"
+  }
+}, {
+  "id" : "6g2v-8kvb",
+  "name" : "ES Fixture Types",
+  "averageRating" : 0,
+  "category" : "Government",
+  "createdAt" : 1383240149,
+  "description" : "Certified models meet all ENERGY STAR requirements as listed in the Version 1.2 ENERGY STAR Program Requirements for Luminaires. A detailed listing of key efficiency criteria are available at http://www.energystar.gov/index.cfm?fuseaction=find_a_product.showProductGroup&pgw_code=LU#specs",
+  "displayType" : "chart",
+  "downloadCount" : 24,
+  "indexUpdatedAt" : 1387726000,
+  "moderationStatus" : true,
+  "newBackend" : false,
+  "numberOfComments" : 0,
+  "oid" : 6893618,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1387722608,
+  "publicationGroup" : 828526,
+  "publicationStage" : "published",
+  "rowsUpdatedAt" : 1387722602,
+  "rowsUpdatedBy" : "guxy-scz5",
+  "signed" : false,
+  "state" : "normal",
+  "tableId" : 1409826,
+  "totalTimesRated" : 0,
+  "viewCount" : 22,
+  "viewLastModified" : 1383240467,
+  "viewType" : "tabular",
+  "grants" : [ {
+    "inherited" : true,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "custom_fields" : {
+      "API Foundry" : {
+        "Type" : ""
+      }
+    },
+    "renderTypeConfig" : {
+      "visible" : {
+        "chart" : true,
+        "table" : true
+      }
+    },
+    "availableDisplayTypes" : [ "chart", "table", "fatrow", "page" ],
+    "rdfSubject" : "0"
+  },
+  "owner" : {
+    "id" : "h6dz-zm6t",
+    "displayName" : "kathleenvokes",
+    "screenName" : "kathleenvokes"
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "guxy-scz5",
+    "displayName" : "ESddas",
+    "screenName" : "ESddas"
+  }
+}, {
+  "id" : "apxw-sgrr",
+  "name" : "ENERGY STAR Certified Light Fixtures",
+  "averageRating" : 0,
+  "category" : "Government",
+  "createdAt" : 1367347097,
+  "description" : "Certified models meet all ENERGY STAR requirements as listed in the Version 1.2 ENERGY STAR Program Requirements for Luminaires. A detailed listing of key efficiency criteria are available at http://www.energystar.gov/index.cfm?fuseaction=find_a_product.showProductGroup&pgw_code=LU#specs",
+  "displayType" : "api",
+  "downloadCount" : 213,
+  "indexUpdatedAt" : 1387726000,
+  "moderationStatus" : true,
+  "newBackend" : false,
+  "numberOfComments" : 0,
+  "oid" : 6893613,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1387722608,
+  "publicationGroup" : 828526,
+  "publicationStage" : "published",
+  "resourceName" : "energy-star-certified-light-fixtures",
+  "rowsUpdatedAt" : 1387722602,
+  "rowsUpdatedBy" : "guxy-scz5",
+  "signed" : false,
+  "state" : "normal",
+  "tableId" : 1409826,
+  "totalTimesRated" : 0,
+  "viewCount" : 1809,
+  "viewLastModified" : 1380649283,
+  "viewType" : "tabular",
+  "grants" : [ {
+    "inherited" : true,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "custom_fields" : {
+      "API Foundry" : {
+        "Type" : ""
+      }
+    },
+    "renderTypeConfig" : {
+      "visible" : {
+        "api" : true
+      }
+    },
+    "availableDisplayTypes" : [ "api" ],
+    "rdfSubject" : "0"
+  },
+  "owner" : {
+    "id" : "guxy-scz5",
+    "displayName" : "ESddas",
+    "screenName" : "ESddas"
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "guxy-scz5",
+    "displayName" : "ESddas",
+    "screenName" : "ESddas"
+  }
+}, {
+  "id" : "hcz4-erpv",
+  "name" : "ENERGY STAR Certified Light Bulbs",
+  "averageRating" : 0,
+  "category" : "Government",
+  "createdAt" : 1367001007,
+  "description" : "Certified models meet all ENERGY STAR requirements as listed in the Version 4.3 ENERGY STAR Program Requirements for Compact Fluorescent Lamps (CFLs) that are effective as of December 2, 2008 or the Integral LED Lamps Version 1.4 Requirements that are effective as of August 31, 2010. Some data may not be available for products certified before January 1, 2011. A detailed listing of key efficiency criteria are available at http://www.energystar.gov/index.cfm?c=cfls.pr_crit_cfls or http://www.energystar.gov/index.cfm?c=iledl.pr_key_product",
+  "displayType" : "api",
+  "downloadCount" : 327,
+  "indexUpdatedAt" : 1387725954,
+  "moderationStatus" : true,
+  "newBackend" : false,
+  "numberOfComments" : 0,
+  "oid" : 6893521,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1387721912,
+  "publicationGroup" : 820794,
+  "publicationStage" : "published",
+  "resourceName" : "energy-star-certified-light-bulbs",
+  "rowsUpdatedAt" : 1387721874,
+  "rowsUpdatedBy" : "guxy-scz5",
+  "signed" : false,
+  "state" : "normal",
+  "tableId" : 1409814,
+  "totalTimesRated" : 0,
+  "viewCount" : 1774,
+  "viewLastModified" : 1380649281,
+  "viewType" : "tabular",
+  "grants" : [ {
+    "inherited" : true,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "custom_fields" : {
+      "API Foundry" : {
+        "Type" : ""
+      }
+    },
+    "renderTypeConfig" : {
+      "visible" : {
+        "api" : true
+      }
+    },
+    "availableDisplayTypes" : [ "api" ],
+    "rdfSubject" : "0"
+  },
+  "owner" : {
+    "id" : "guxy-scz5",
+    "displayName" : "ESddas",
+    "screenName" : "ESddas"
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "guxy-scz5",
+    "displayName" : "ESddas",
+    "screenName" : "ESddas"
+  }
+}, {
+  "id" : "x39k-wz7q",
+  "name" : "ENERGY STAR Certified Water Coolers",
+  "averageRating" : 0,
+  "category" : "Government",
+  "createdAt" : 1374089808,
+  "description" : "Certified models meet all ENERGY STAR requirements as listed in the Version 1.3 ENERGY STAR Program Requirements for Water Coolers that are effective as of January 22, 2010 or the Version 2.0 ENERGY STAR Program Requirements for Water Coolers that are effective as of February 1, 2014. A detailed listing of key efficiency criteria are available at http://www.energystar.gov/index.cfm?fuseaction=find_a_product.showProductGroup&pgw_code=WA#specs",
+  "displayType" : "table",
+  "downloadCount" : 31525,
+  "indexUpdatedAt" : 1387725941,
+  "newBackend" : false,
+  "numberOfComments" : 0,
+  "oid" : 6893486,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1387721526,
+  "publicationGroup" : 983027,
+  "publicationStage" : "published",
+  "rowIdentifierColumnId" : 124084848,
+  "rowsUpdatedAt" : 1387721524,
+  "rowsUpdatedBy" : "guxy-scz5",
+  "signed" : false,
+  "state" : "normal",
+  "tableId" : 1409808,
+  "totalTimesRated" : 0,
+  "viewCount" : 438,
+  "viewLastModified" : 1387721526,
+  "viewType" : "tabular",
+  "grants" : [ {
+    "inherited" : true,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "custom_fields" : {
+      "API Foundry" : {
+        "Type" : ""
+      }
+    },
+    "renderTypeConfig" : {
+      "visible" : {
+        "table" : true
+      }
+    },
+    "availableDisplayTypes" : [ "table", "fatrow", "page" ],
+    "rdfSubject" : "0",
+    "rowIdentifier" : 124084848
+  },
+  "owner" : {
+    "id" : "guxy-scz5",
+    "displayName" : "ESddas",
+    "screenName" : "ESddas"
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "guxy-scz5",
+    "displayName" : "ESddas",
+    "screenName" : "ESddas"
+  },
+  "flags" : [ "default" ]
+}, {
+  "id" : "x97r-b78n",
+  "name" : "ENERGY STAR Certified Water Coolers",
+  "averageRating" : 0,
+  "category" : "Government",
+  "createdAt" : 1374089808,
+  "description" : "Certified models meet all ENERGY STAR requirements as listed in the Version 1.3 ENERGY STAR Program Requirements for Water Coolers that are effective as of January 22, 2010 or the Version 2.0 ENERGY STAR Program Requirements for Water Coolers that are effective as of February 1, 2014. A detailed listing of key efficiency criteria are available at http://www.energystar.gov/index.cfm?fuseaction=find_a_product.showProductGroup&pgw_code=WA#specs",
+  "displayType" : "api",
+  "downloadCount" : 109,
+  "indexUpdatedAt" : 1387725941,
+  "moderationStatus" : true,
+  "newBackend" : false,
+  "numberOfComments" : 0,
+  "oid" : 6893487,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1387721526,
+  "publicationGroup" : 983027,
+  "publicationStage" : "published",
+  "resourceName" : "energy-star-certified-water-coolers",
+  "rowsUpdatedAt" : 1387721524,
+  "rowsUpdatedBy" : "guxy-scz5",
+  "signed" : false,
+  "state" : "normal",
+  "tableId" : 1409808,
+  "totalTimesRated" : 0,
+  "viewCount" : 238,
+  "viewLastModified" : 1380649337,
+  "viewType" : "tabular",
+  "grants" : [ {
+    "inherited" : true,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "custom_fields" : {
+      "API Foundry" : {
+        "Type" : ""
+      }
+    },
+    "renderTypeConfig" : {
+      "visible" : {
+        "api" : true
+      }
+    },
+    "availableDisplayTypes" : [ "api" ],
+    "rdfSubject" : "0"
+  },
+  "owner" : {
+    "id" : "guxy-scz5",
+    "displayName" : "ESddas",
+    "screenName" : "ESddas"
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "guxy-scz5",
+    "displayName" : "ESddas",
+    "screenName" : "ESddas"
+  }
+}, {
+  "id" : "kj3z-gvun",
+  "name" : "ENERGY STAR Certified Commercial Ovens",
+  "averageRating" : 0,
+  "category" : "Government",
+  "createdAt" : 1375990473,
+  "description" : "Certified models meet all ENERGY STAR requirements as listed in the Version 1.1 ENERGY STAR Program Requirements for Commercial Ovens that are effective as of May 16, 2009 or the Version 2.0 ENERGY STAR Program Requirements for Commercial Ovens that are effective as of January 1, 2014. A detailed listing of key efficiency criteria are available at http://www.energystar.gov/index.cfm?c=ovens.pr_crit_comm_ovens",
+  "displayType" : "table",
+  "downloadCount" : 19142,
+  "indexUpdatedAt" : 1387725939,
+  "newBackend" : false,
+  "numberOfComments" : 0,
+  "oid" : 6893479,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1387721476,
+  "publicationGroup" : 1028143,
+  "publicationStage" : "published",
+  "rowIdentifierColumnId" : 124084723,
+  "rowsUpdatedAt" : 1387721475,
+  "rowsUpdatedBy" : "guxy-scz5",
+  "signed" : false,
+  "state" : "normal",
+  "tableId" : 1409806,
+  "totalTimesRated" : 0,
+  "viewCount" : 162,
+  "viewLastModified" : 1387721477,
+  "viewType" : "tabular",
+  "grants" : [ {
+    "inherited" : false,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "custom_fields" : {
+      "API Foundry" : {
+        "Type" : ""
+      }
+    },
+    "renderTypeConfig" : {
+      "visible" : {
+        "table" : true
+      }
+    },
+    "availableDisplayTypes" : [ "table", "fatrow", "page" ],
+    "rdfSubject" : "0",
+    "rowIdentifier" : 124084723
+  },
+  "owner" : {
+    "id" : "guxy-scz5",
+    "displayName" : "ESddas",
+    "screenName" : "ESddas"
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "guxy-scz5",
+    "displayName" : "ESddas",
+    "screenName" : "ESddas"
+  },
+  "flags" : [ "default" ]
+}, {
+  "id" : "46gm-kmbv",
+  "name" : "ENERGY STAR Certified Enterprise Servers",
+  "averageRating" : 0,
+  "category" : "Government",
+  "createdAt" : 1385408637,
+  "description" : "Certified models meet all ENERGY STAR requirements as listed in the Version 2.0 ENERGY STAR Program Requirements for Enterprise Servers that are effective as of December 16, 2013. A detailed listing of key efficiency criteria are available at http://www.energystar.gov/certified-products/detail/enterprise_servers",
+  "displayType" : "table",
+  "downloadCount" : 2399,
+  "indexUpdatedAt" : 1387725936,
+  "newBackend" : false,
+  "numberOfComments" : 0,
+  "oid" : 6893474,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1387721412,
+  "publicationGroup" : 1374721,
+  "publicationStage" : "published",
+  "rowIdentifierColumnId" : 124084400,
+  "rowsUpdatedAt" : 1387721410,
+  "rowsUpdatedBy" : "guxy-scz5",
+  "signed" : false,
+  "state" : "normal",
+  "tableId" : 1409803,
+  "totalTimesRated" : 0,
+  "viewCount" : 52,
+  "viewLastModified" : 1387721414,
+  "viewType" : "tabular",
+  "grants" : [ {
+    "inherited" : false,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "custom_fields" : {
+      "API Foundry" : {
+        "Type" : ""
+      }
+    },
+    "renderTypeConfig" : {
+      "visible" : {
+        "table" : true
+      }
+    },
+    "availableDisplayTypes" : [ "table", "fatrow", "page" ],
+    "rdfSubject" : "0",
+    "rowIdentifier" : 124084400
+  },
+  "owner" : {
+    "id" : "guxy-scz5",
+    "displayName" : "ESddas",
+    "screenName" : "ESddas"
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "guxy-scz5",
+    "displayName" : "ESddas",
+    "screenName" : "ESddas"
+  },
+  "flags" : [ "default" ]
+}, {
+  "id" : "8tmc-egc3",
+  "name" : "ENERGY STAR Certified Set Top Boxes",
+  "averageRating" : 0,
+  "category" : "Government",
+  "createdAt" : 1371653834,
+  "description" : "Certified models meet all ENERGY STAR requirements as listed in the Version 3.0 ENERGY STAR Program Requirements for Set-top Boxes that are effective as of September 1, 2011. A detailed listing of key efficiency criteria are available at http://www.energystar.gov/index.cfm?fuseaction=find_a_product.showProductGroup&pgw_code=ST",
+  "displayType" : "api",
+  "downloadCount" : 118,
+  "indexUpdatedAt" : 1387725933,
+  "moderationStatus" : true,
+  "newBackend" : false,
+  "numberOfComments" : 0,
+  "oid" : 6893473,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1387721368,
+  "publicationGroup" : 928352,
+  "publicationStage" : "published",
+  "resourceName" : "energy-star-certified-set-top-boxes",
+  "rowsUpdatedAt" : 1387721366,
+  "rowsUpdatedBy" : "guxy-scz5",
+  "signed" : false,
+  "state" : "normal",
+  "tableId" : 1409802,
+  "totalTimesRated" : 0,
+  "viewCount" : 66,
+  "viewLastModified" : 1380649314,
+  "viewType" : "tabular",
+  "grants" : [ {
+    "inherited" : true,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "custom_fields" : {
+      "API Foundry" : {
+        "Type" : ""
+      }
+    },
+    "renderTypeConfig" : {
+      "visible" : {
+        "api" : true
+      }
+    },
+    "availableDisplayTypes" : [ "api" ],
+    "rdfSubject" : "0"
+  },
+  "owner" : {
+    "id" : "guxy-scz5",
+    "displayName" : "ESddas",
+    "screenName" : "ESddas"
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "guxy-scz5",
+    "displayName" : "ESddas",
+    "screenName" : "ESddas"
+  }
+}, {
+  "id" : "e567-rku5",
+  "name" : "ENERGY STAR Certified Set Top Boxes",
+  "averageRating" : 0,
+  "category" : "Government",
+  "createdAt" : 1371653834,
+  "description" : "Certified models meet all ENERGY STAR requirements as listed in the Version 3.0 ENERGY STAR Program Requirements for Set-top Boxes that are effective as of September 1, 2011. A detailed listing of key efficiency criteria are available at http://www.energystar.gov/index.cfm?fuseaction=find_a_product.showProductGroup&pgw_code=ST",
+  "displayType" : "table",
+  "downloadCount" : 35002,
+  "indexUpdatedAt" : 1387725931,
+  "newBackend" : false,
+  "numberOfComments" : 0,
+  "oid" : 6893472,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1387721368,
+  "publicationGroup" : 928352,
+  "publicationStage" : "published",
+  "rowIdentifierColumnId" : 124084354,
+  "rowsUpdatedAt" : 1387721366,
+  "rowsUpdatedBy" : "guxy-scz5",
+  "signed" : false,
+  "state" : "normal",
+  "tableId" : 1409802,
+  "totalTimesRated" : 0,
+  "viewCount" : 272,
+  "viewLastModified" : 1387721368,
+  "viewType" : "tabular",
+  "grants" : [ {
+    "inherited" : true,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "custom_fields" : {
+      "API Foundry" : {
+        "Type" : ""
+      }
+    },
+    "renderTypeConfig" : {
+      "visible" : {
+        "table" : true
+      }
+    },
+    "availableDisplayTypes" : [ "table", "fatrow", "page" ],
+    "rdfSubject" : "0",
+    "rowIdentifier" : 124084354
+  },
+  "owner" : {
+    "id" : "guxy-scz5",
+    "displayName" : "ESddas",
+    "screenName" : "ESddas"
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "guxy-scz5",
+    "displayName" : "ESddas",
+    "screenName" : "ESddas"
+  },
+  "flags" : [ "default" ]
+}, {
+  "id" : "8qxk-4gvv",
+  "name" : "ENERGY STAR Certified Commercial Ice Machines",
+  "averageRating" : 0,
+  "category" : "Government",
+  "createdAt" : 1370378727,
+  "description" : "Certified models meet all ENERGY STAR requirements as listed in the Version 2.0 ENERGY STAR Program Requirements for Automatic Commercial Ice Makers that are effective as of February 1, 2013. A detailed listing of key efficiency criteria are available at http://www.energystar.gov/index.cfm?c=comm_ice_machines.pr_crit_comm_ice_machines",
+  "displayType" : "api",
+  "downloadCount" : 114,
+  "indexUpdatedAt" : 1387724681,
+  "moderationStatus" : true,
+  "newBackend" : false,
+  "numberOfComments" : 0,
+  "oid" : 6893458,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1387721287,
+  "publicationGroup" : 899059,
+  "publicationStage" : "published",
+  "resourceName" : "energy-star-certified-commercial-ice-machines",
+  "rowsUpdatedAt" : 1387721285,
+  "rowsUpdatedBy" : "guxy-scz5",
+  "signed" : false,
+  "state" : "normal",
+  "tableId" : 1409799,
+  "totalTimesRated" : 0,
+  "viewCount" : 117,
+  "viewLastModified" : 1380649245,
+  "viewType" : "tabular",
+  "grants" : [ {
+    "inherited" : true,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "custom_fields" : {
+      "API Foundry" : {
+        "Type" : ""
+      }
+    },
+    "renderTypeConfig" : {
+      "visible" : {
+        "api" : true
+      }
+    },
+    "availableDisplayTypes" : [ "api" ],
+    "rdfSubject" : "0"
+  },
+  "owner" : {
+    "id" : "guxy-scz5",
+    "displayName" : "ESddas",
+    "screenName" : "ESddas"
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "guxy-scz5",
+    "displayName" : "ESddas",
+    "screenName" : "ESddas"
+  }
+}, {
+  "id" : "eq82-5piy",
+  "name" : "ENERGY STAR Certified Commercial Fryers",
+  "averageRating" : 0,
+  "category" : "Government",
+  "createdAt" : 1370373479,
+  "description" : "Certified models meet all ENERGY STAR requirements as listed in the Version 2.0 ENERGY STAR Program Requirements for Commercial Fryers that are effective as of April 22, 2011. A detailed listing of key efficiency criteria are available at http://www.energystar.gov/index.cfm?c=fryers.pr_crit_fryers",
+  "displayType" : "api",
+  "downloadCount" : 116,
+  "indexUpdatedAt" : 1387723575,
+  "moderationStatus" : true,
+  "newBackend" : false,
+  "numberOfComments" : 0,
+  "oid" : 6893353,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1387721151,
+  "publicationGroup" : 898866,
+  "publicationStage" : "published",
+  "resourceName" : "energy-star-certified-commercial-fryers",
+  "rowsUpdatedAt" : 1387721148,
+  "rowsUpdatedBy" : "guxy-scz5",
+  "signed" : false,
+  "state" : "normal",
+  "tableId" : 1409797,
+  "totalTimesRated" : 0,
+  "viewCount" : 105,
+  "viewLastModified" : 1380649234,
+  "viewType" : "tabular",
+  "grants" : [ {
+    "inherited" : true,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "custom_fields" : {
+      "API Foundry" : {
+        "Type" : ""
+      }
+    },
+    "renderTypeConfig" : {
+      "visible" : {
+        "api" : true
+      }
+    },
+    "availableDisplayTypes" : [ "api" ],
+    "rdfSubject" : "0"
+  },
+  "owner" : {
+    "id" : "guxy-scz5",
+    "displayName" : "ESddas",
+    "screenName" : "ESddas"
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "guxy-scz5",
+    "displayName" : "ESddas",
+    "screenName" : "ESddas"
+  }
+}, {
+  "id" : "gqpg-7be2",
+  "name" : "ENERGY STAR Certified Commercial Hot Food Holding Cabinet",
+  "averageRating" : 0,
+  "category" : "Government",
+  "createdAt" : 1370534668,
+  "description" : "Certified models meet all ENERGY STAR requirements as listed in the Version 2.0 ENERGY STAR Program Requirements for Commercial Hot Food Holding Cabinets that are effective as of October 1, 2011. A detailed listing of key efficiency criteria are available at http://www.energystar.gov/index.cfm?c=hfhc.pr_crit_hfhc",
+  "displayType" : "api",
+  "downloadCount" : 130,
+  "indexUpdatedAt" : 1387723545,
+  "moderationStatus" : true,
+  "newBackend" : false,
+  "numberOfComments" : 0,
+  "oid" : 6893348,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1387721129,
+  "publicationGroup" : 902860,
+  "publicationStage" : "published",
+  "resourceName" : "energy-star-certified-commercial-hot-food-holding-cabinet",
+  "rowsUpdatedAt" : 1387721127,
+  "rowsUpdatedBy" : "guxy-scz5",
+  "signed" : false,
+  "state" : "normal",
+  "tableId" : 1409795,
+  "totalTimesRated" : 0,
+  "viewCount" : 80,
+  "viewLastModified" : 1380649241,
+  "viewType" : "tabular",
+  "grants" : [ {
+    "inherited" : true,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "custom_fields" : {
+      "API Foundry" : {
+        "Type" : ""
+      }
+    },
+    "renderTypeConfig" : {
+      "visible" : {
+        "api" : true
+      }
+    },
+    "availableDisplayTypes" : [ "api" ],
+    "rdfSubject" : "0"
+  },
+  "owner" : {
+    "id" : "guxy-scz5",
+    "displayName" : "ESddas",
+    "screenName" : "ESddas"
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "guxy-scz5",
+    "displayName" : "ESddas",
+    "screenName" : "ESddas"
+  }
+}, {
+  "id" : "3js5-e9d6",
+  "name" : "ENERGY STAR Certified Uninterruptible Power Supplies",
+  "averageRating" : 0,
+  "category" : "Government",
+  "createdAt" : 1367866756,
+  "description" : "Certified models meet all ENERGY STAR requirements as listed in the Version 1.0 ENERGY STAR Program Requirements for Uninterruptible Power Supplies that are effective as of August 1, 2012. A detailed listing of key efficiency criteria are available at http://www.energystar.gov/index.cfm?c=uninterruptible_power_supplies.pr_crit_uninterruptible_power_supplies",
+  "displayType" : "table",
+  "downloadCount" : 13724,
+  "indexUpdatedAt" : 1387722106,
+  "newBackend" : false,
+  "numberOfComments" : 0,
+  "oid" : 6893235,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1387720980,
+  "publicationGroup" : 841095,
+  "publicationStage" : "published",
+  "rowIdentifierColumnId" : 124080245,
+  "rowsUpdatedAt" : 1387720975,
+  "rowsUpdatedBy" : "guxy-scz5",
+  "signed" : false,
+  "state" : "normal",
+  "tableId" : 1409786,
+  "totalTimesRated" : 0,
+  "viewCount" : 225,
+  "viewLastModified" : 1387720981,
+  "viewType" : "tabular",
+  "grants" : [ {
+    "inherited" : false,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "custom_fields" : {
+      "API Foundry" : {
+        "Type" : ""
+      }
+    },
+    "renderTypeConfig" : {
+      "visible" : {
+        "table" : true
+      }
+    },
+    "availableDisplayTypes" : [ "table", "fatrow", "page" ],
+    "rdfSubject" : "0",
+    "rowIdentifier" : 124080245
+  },
+  "owner" : {
+    "id" : "guxy-scz5",
+    "displayName" : "ESddas",
+    "screenName" : "ESddas"
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "guxy-scz5",
+    "displayName" : "ESddas",
+    "screenName" : "ESddas"
+  },
+  "flags" : [ "default" ]
+}, {
+  "id" : "x79i-rsw8",
+  "name" : "ENERGY STAR Certified Commercial Griddles",
+  "averageRating" : 0,
+  "category" : "Government",
+  "createdAt" : 1370290214,
+  "description" : "Certified models meet all ENERGY STAR requirements as listed in the Version 1.1 ENERGY STAR Program Requirements for Commercial Griddles that are effective as of May 8, 2009 or January 1, 2011. A detailed listing of key efficiency criteria are available at http://www.energystar.gov/index.cfm?c=griddles.pr_crit_comm_griddles",
+  "displayType" : "api",
+  "downloadCount" : 112,
+  "indexUpdatedAt" : 1387725929,
+  "moderationStatus" : true,
+  "newBackend" : false,
+  "numberOfComments" : 0,
+  "oid" : 6893471,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1387721348,
+  "publicationGroup" : 896836,
+  "publicationStage" : "published",
+  "resourceName" : "energy-star-certified-commercial-griddles",
+  "rowsUpdatedAt" : 1387721346,
+  "rowsUpdatedBy" : "guxy-scz5",
+  "signed" : false,
+  "state" : "normal",
+  "tableId" : 1409801,
+  "totalTimesRated" : 0,
+  "viewCount" : 24,
+  "viewLastModified" : 1380649238,
+  "viewType" : "tabular",
+  "grants" : [ {
+    "inherited" : true,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "custom_fields" : {
+      "API Foundry" : {
+        "Type" : ""
+      }
+    },
+    "renderTypeConfig" : {
+      "visible" : {
+        "api" : true
+      }
+    },
+    "availableDisplayTypes" : [ "api" ],
+    "rdfSubject" : "0"
+  },
+  "owner" : {
+    "id" : "guxy-scz5",
+    "displayName" : "ESddas",
+    "screenName" : "ESddas"
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "guxy-scz5",
+    "displayName" : "ESddas",
+    "screenName" : "ESddas"
+  }
+}, {
+  "id" : "7ufw-fucz",
+  "name" : "ENERGY STAR Certified Ventilating Fans",
+  "averageRating" : 0,
+  "category" : "Government",
+  "createdAt" : 1367428196,
+  "description" : "Certified models meet all ENERGY STAR requirements as listed in the Version 3.2 ENERGY STAR Program Requirements for Ventilating Fans that are effective as of April 1, 2012. A detailed listing of key efficiency criteria are available at http://www.energystar.gov/index.cfm?c=vent_fans.pr_crit_vent_fans",
+  "displayType" : "api",
+  "downloadCount" : 112,
+  "indexUpdatedAt" : 1387722097,
+  "moderationStatus" : true,
+  "newBackend" : false,
+  "numberOfComments" : 0,
+  "oid" : 6893230,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1387720901,
+  "publicationGroup" : 830552,
+  "publicationStage" : "published",
+  "resourceName" : "energy-star-certified-ventilating-fans",
+  "rowsUpdatedAt" : 1387720898,
+  "rowsUpdatedBy" : "guxy-scz5",
+  "signed" : false,
+  "state" : "normal",
+  "tableId" : 1409785,
+  "totalTimesRated" : 0,
+  "viewCount" : 373,
+  "viewLastModified" : 1380649334,
+  "viewType" : "tabular",
+  "grants" : [ {
+    "inherited" : true,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "custom_fields" : {
+      "API Foundry" : {
+        "Type" : ""
+      }
+    },
+    "renderTypeConfig" : {
+      "visible" : {
+        "api" : true
+      }
+    },
+    "availableDisplayTypes" : [ "api" ],
+    "rdfSubject" : "0"
+  },
+  "owner" : {
+    "id" : "guxy-scz5",
+    "displayName" : "ESddas",
+    "screenName" : "ESddas"
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "guxy-scz5",
+    "displayName" : "ESddas",
+    "screenName" : "ESddas"
+  }
+}, {
+  "id" : "aszw-hu8n",
+  "name" : "ENERGY STAR Certified Commercial Steam Cookers",
+  "averageRating" : 0,
+  "category" : "Government",
+  "createdAt" : 1370381887,
+  "description" : "Certified models meet all ENERGY STAR requirements as listed in the Version 1.2 ENERGY STAR Program Requirements for Commercial Steam Cookers that are effective as of August 1, 2003. A detailed listing of key efficiency criteria are available at  http://www.energystar.gov/index.cfm?c=steamcookers.pr_crit_steamcookers",
+  "displayType" : "api",
+  "downloadCount" : 108,
+  "indexUpdatedAt" : 1387721527,
+  "moderationStatus" : true,
+  "newBackend" : false,
+  "numberOfComments" : 0,
+  "oid" : 6893161,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1387720822,
+  "publicationGroup" : 899137,
+  "publicationStage" : "published",
+  "resourceName" : "energy-star-certified-commercial-steam-cookers",
+  "rowsUpdatedAt" : 1387720820,
+  "rowsUpdatedBy" : "guxy-scz5",
+  "signed" : false,
+  "state" : "normal",
+  "tableId" : 1409779,
+  "totalTimesRated" : 0,
+  "viewCount" : 103,
+  "viewLastModified" : 1380649252,
+  "viewType" : "tabular",
+  "grants" : [ {
+    "inherited" : true,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "custom_fields" : {
+      "API Foundry" : {
+        "Type" : ""
+      }
+    },
+    "renderTypeConfig" : {
+      "visible" : {
+        "api" : true
+      }
+    },
+    "availableDisplayTypes" : [ "api" ],
+    "rdfSubject" : "0"
+  },
+  "owner" : {
+    "id" : "guxy-scz5",
+    "displayName" : "ESddas",
+    "screenName" : "ESddas"
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "guxy-scz5",
+    "displayName" : "ESddas",
+    "screenName" : "ESddas"
+  }
+}, {
+  "id" : "jgwf-7qrr",
+  "name" : "EPA Recognized Laboratories For Lighting Products",
+  "averageRating" : 0,
+  "createdAt" : 1377809663,
+  "displayType" : "table",
+  "downloadCount" : 166,
+  "indexUpdatedAt" : 1387651124,
+  "newBackend" : false,
+  "numberOfComments" : 0,
+  "oid" : 6885726,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1387650419,
+  "publicationGroup" : 1097007,
+  "publicationStage" : "published",
+  "rowsUpdatedAt" : 1387650330,
+  "rowsUpdatedBy" : "jp46-ume2",
+  "signed" : false,
+  "tableId" : 1408981,
+  "totalTimesRated" : 0,
+  "viewCount" : 1319,
+  "viewLastModified" : 1387650419,
+  "viewType" : "tabular",
+  "grants" : [ {
+    "inherited" : false,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "custom_fields" : {
+      "API Foundry" : {
+        "Type" : ""
+      }
+    },
+    "renderTypeConfig" : {
+      "visible" : {
+        "table" : true
+      }
+    },
+    "availableDisplayTypes" : [ "table", "fatrow", "page" ],
+    "jsonQuery" : {
+      "order" : [ {
+        "ascending" : true,
+        "columnFieldName" : "product_category"
+      } ]
+    }
+  },
+  "owner" : {
+    "id" : "8wsd-etwg",
+    "displayName" : "Jon Luzader",
+    "screenName" : "Jon Luzader"
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "8wsd-etwg",
+    "displayName" : "Jon Luzader",
+    "screenName" : "Jon Luzader"
+  },
+  "flags" : [ "default" ]
+}, {
+  "id" : "6j7c-zgkb",
+  "name" : "ENERGY STAR Certified Vending Machines",
+  "averageRating" : 0,
+  "category" : "Government",
+  "createdAt" : 1370544427,
+  "description" : "Certified models meet all ENERGY STAR requirements as listed in the Version 3.0 ENERGY STAR Program Requirements for Refrigerated Beverage Vending Machines that are effective as of March 1, 2013. A detailed listing of key efficiency criteria are available at",
+  "displayType" : "api",
+  "downloadCount" : 105,
+  "indexUpdatedAt" : 1387723529,
+  "moderationStatus" : true,
+  "newBackend" : false,
+  "numberOfComments" : 0,
+  "oid" : 6893343,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1387721087,
+  "publicationGroup" : 903094,
+  "publicationStage" : "published",
+  "resourceName" : "energy-star-certified-vending-machines",
+  "rowsUpdatedAt" : 1387721085,
+  "rowsUpdatedBy" : "guxy-scz5",
+  "signed" : false,
+  "state" : "normal",
+  "tableId" : 1409792,
+  "totalTimesRated" : 0,
+  "viewCount" : 83,
+  "viewLastModified" : 1380649331,
+  "viewType" : "tabular",
+  "grants" : [ {
+    "inherited" : true,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "custom_fields" : {
+      "API Foundry" : {
+        "Type" : ""
+      }
+    },
+    "renderTypeConfig" : {
+      "visible" : {
+        "api" : true
+      }
+    },
+    "availableDisplayTypes" : [ "api" ],
+    "rdfSubject" : "0"
+  },
+  "owner" : {
+    "id" : "guxy-scz5",
+    "displayName" : "ESddas",
+    "screenName" : "ESddas"
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "guxy-scz5",
+    "displayName" : "ESddas",
+    "screenName" : "ESddas"
+  }
+}, {
+  "id" : "yetg-54vs",
+  "name" : "ENERGY STAR Certified Dehumidifiers",
+  "averageRating" : 0,
+  "category" : "Government",
+  "createdAt" : 1367614570,
+  "description" : "Certified models meet all ENERGY STAR requirements as listed in the Version 3.0 ENERGY STAR Program Requirements for Dehumidifiers that are effective as of October 1, 2012. A detailed listing of key efficiency criteria are available at http://www.energystar.gov/index.cfm?c=dehumid.pr_crit_dehumidifiers",
+  "displayType" : "api",
+  "downloadCount" : 121,
+  "indexUpdatedAt" : 1387723415,
+  "moderationStatus" : true,
+  "newBackend" : false,
+  "numberOfComments" : 0,
+  "oid" : 6893337,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1387721058,
+  "publicationGroup" : 835454,
+  "publicationStage" : "published",
+  "resourceName" : "energy-star-certified-dehumidifiers",
+  "rowsUpdatedAt" : 1387721055,
+  "rowsUpdatedBy" : "guxy-scz5",
+  "signed" : false,
+  "state" : "normal",
+  "tableId" : 1409791,
+  "totalTimesRated" : 0,
+  "viewCount" : 123,
+  "viewLastModified" : 1380649265,
+  "viewType" : "tabular",
+  "grants" : [ {
+    "inherited" : true,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "custom_fields" : {
+      "API Foundry" : {
+        "Type" : ""
+      }
+    },
+    "renderTypeConfig" : {
+      "visible" : {
+        "api" : true
+      }
+    },
+    "availableDisplayTypes" : [ "api" ],
+    "rdfSubject" : "0"
+  },
+  "owner" : {
+    "id" : "guxy-scz5",
+    "displayName" : "ESddas",
+    "screenName" : "ESddas"
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "guxy-scz5",
+    "displayName" : "ESddas",
+    "screenName" : "ESddas"
+  }
+}, {
+  "id" : "774p-4hhk",
+  "name" : "EPA Recognized Certification Bodies For Lighting Products",
+  "averageRating" : 0,
+  "createdAt" : 1377889168,
+  "displayType" : "table",
+  "downloadCount" : 68,
+  "indexUpdatedAt" : 1385588097,
+  "newBackend" : false,
+  "numberOfComments" : 0,
+  "oid" : 6610204,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1385567328,
+  "publicationGroup" : 1099249,
+  "publicationStage" : "published",
+  "rowsUpdatedAt" : 1385567268,
+  "rowsUpdatedBy" : "jyix-a7bv",
+  "signed" : false,
+  "tableId" : 1377954,
+  "totalTimesRated" : 0,
+  "viewCount" : 216,
+  "viewLastModified" : 1385567328,
+  "viewType" : "tabular",
+  "grants" : [ {
+    "inherited" : false,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "custom_fields" : {
+      "API Foundry" : {
+        "Type" : ""
+      }
+    },
+    "renderTypeConfig" : {
+      "visible" : {
+        "table" : true
+      }
+    },
+    "availableDisplayTypes" : [ "table", "fatrow", "page" ]
+  },
+  "owner" : {
+    "id" : "8wsd-etwg",
+    "displayName" : "Jon Luzader",
+    "screenName" : "Jon Luzader"
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "8wsd-etwg",
+    "displayName" : "Jon Luzader",
+    "screenName" : "Jon Luzader"
+  },
+  "flags" : [ "default" ]
+} ]

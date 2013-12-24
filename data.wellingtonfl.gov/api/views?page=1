@@ -1,0 +1,1681 @@
+[ {
+  "id" : "duvw-hfu5",
+  "name" : "Roof Inspections",
+  "averageRating" : 0,
+  "category" : "Government",
+  "createdAt" : 1344607746,
+  "description" : "Listing of all Roof Inspections recorded in Wellington as of 8/9/2012",
+  "displayType" : "table",
+  "downloadCount" : 47,
+  "newBackend" : false,
+  "numberOfComments" : 0,
+  "oid" : 964648,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1344620702,
+  "publicationGroup" : 400450,
+  "publicationStage" : "published",
+  "rowsUpdatedAt" : 1344609363,
+  "rowsUpdatedBy" : "rfnb-s8w3",
+  "signed" : false,
+  "tableId" : 400450,
+  "totalTimesRated" : 0,
+  "viewCount" : 1436,
+  "viewLastModified" : 1344620702,
+  "viewType" : "tabular",
+  "grants" : [ {
+    "inherited" : true,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "renderTypeConfig" : {
+      "visible" : {
+        "table" : true
+      }
+    },
+    "availableDisplayTypes" : [ "table", "fatrow", "page" ]
+  },
+  "owner" : {
+    "id" : "rfnb-s8w3",
+    "displayName" : "Tom",
+    "profileImageUrlLarge" : "/images/profile/4282/9579/Tom_Amburgey_large.jpg",
+    "profileImageUrlMedium" : "/images/profile/4282/9579/Tom_Amburgey_thumb.jpg",
+    "profileImageUrlSmall" : "/images/profile/4282/9579/Tom_Amburgey_tiny.jpg",
+    "screenName" : "Tom"
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "rfnb-s8w3",
+    "displayName" : "Tom",
+    "profileImageUrlLarge" : "/images/profile/4282/9579/Tom_Amburgey_large.jpg",
+    "profileImageUrlMedium" : "/images/profile/4282/9579/Tom_Amburgey_thumb.jpg",
+    "profileImageUrlSmall" : "/images/profile/4282/9579/Tom_Amburgey_tiny.jpg",
+    "screenName" : "Tom"
+  },
+  "tags" : [ "wellington", "building", "roof", "inspection", "insurance" ],
+  "flags" : [ "default" ]
+}, {
+  "id" : "3xrt-ting",
+  "name" : "RE-ROOF",
+  "averageRating" : 0,
+  "category" : "Government",
+  "createdAt" : 1344893510,
+  "description" : "Listing of all Roof Inspections recorded in Wellington as of 8/9/2012",
+  "displayType" : "table",
+  "downloadCount" : 40,
+  "newBackend" : false,
+  "numberOfComments" : 0,
+  "oid" : 974931,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1344620702,
+  "publicationGroup" : 400450,
+  "publicationStage" : "published",
+  "rowsUpdatedAt" : 1344609363,
+  "rowsUpdatedBy" : "rfnb-s8w3",
+  "searchString" : "13879",
+  "signed" : false,
+  "tableId" : 400450,
+  "totalTimesRated" : 0,
+  "viewCount" : 607,
+  "viewLastModified" : 1344893510,
+  "viewType" : "tabular",
+  "grants" : [ {
+    "inherited" : true,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "renderTypeConfig" : {
+      "visible" : {
+        "table" : true
+      }
+    },
+    "availableDisplayTypes" : [ "table", "fatrow", "page" ]
+  },
+  "owner" : {
+    "id" : "47xv-u47g",
+    "displayName" : "MIKEC",
+    "screenName" : "MIKEC"
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "rfnb-s8w3",
+    "displayName" : "Tom",
+    "profileImageUrlLarge" : "/images/profile/4282/9579/Tom_Amburgey_large.jpg",
+    "profileImageUrlMedium" : "/images/profile/4282/9579/Tom_Amburgey_thumb.jpg",
+    "profileImageUrlSmall" : "/images/profile/4282/9579/Tom_Amburgey_tiny.jpg",
+    "screenName" : "Tom"
+  },
+  "tags" : [ "wellington", "building", "roof", "inspection", "insurance" ]
+}, {
+  "id" : "ezn9-g8km",
+  "name" : "Building-permits",
+  "averageRating" : 0,
+  "createdAt" : 1336072189,
+  "description" : "List of Building Permits",
+  "displayType" : "table",
+  "downloadCount" : 47,
+  "newBackend" : false,
+  "numberOfComments" : 0,
+  "oid" : 652163,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1336072382,
+  "publicationGroup" : 333196,
+  "publicationStage" : "published",
+  "rowsUpdatedAt" : 1336072378,
+  "rowsUpdatedBy" : "zs8p-j3v5",
+  "signed" : false,
+  "tableId" : 333198,
+  "totalTimesRated" : 0,
+  "viewCount" : 518,
+  "viewLastModified" : 1336072382,
+  "viewType" : "tabular",
+  "grants" : [ {
+    "inherited" : true,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "renderTypeConfig" : {
+      "visible" : {
+        "table" : true
+      }
+    },
+    "availableDisplayTypes" : [ "table", "fatrow", "page" ]
+  },
+  "owner" : {
+    "id" : "zs8p-j3v5",
+    "displayName" : "Darrell Cabales",
+    "profileImageUrlLarge" : "/images/profile/7678/5871/Darrell-03-2012_large.jpg",
+    "profileImageUrlMedium" : "/images/profile/7678/5871/Darrell-03-2012_thumb.jpg",
+    "profileImageUrlSmall" : "/images/profile/7678/5871/Darrell-03-2012_tiny.jpg",
+    "screenName" : "Darrell Cabales",
+    "rights" : [ "create_datasets", "edit_others_datasets", "edit_sdp", "edit_site_theme", "moderate_comments", "manage_users", "chown_datasets", "edit_nominations", "approve_nominations", "feature_items", "federations", "manage_stories", "manage_approval", "change_configurations", "view_domain", "view_others_datasets", "edit_pages", "create_pages", "view_goals", "view_dashboards", "edit_goals", "edit_dashboards", "create_dashboards" ],
+    "flags" : [ "admin" ]
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "zs8p-j3v5",
+    "displayName" : "Darrell Cabales",
+    "profileImageUrlLarge" : "/images/profile/7678/5871/Darrell-03-2012_large.jpg",
+    "profileImageUrlMedium" : "/images/profile/7678/5871/Darrell-03-2012_thumb.jpg",
+    "profileImageUrlSmall" : "/images/profile/7678/5871/Darrell-03-2012_tiny.jpg",
+    "screenName" : "Darrell Cabales",
+    "rights" : [ "create_datasets", "edit_others_datasets", "edit_sdp", "edit_site_theme", "moderate_comments", "manage_users", "chown_datasets", "edit_nominations", "approve_nominations", "feature_items", "federations", "manage_stories", "manage_approval", "change_configurations", "view_domain", "view_others_datasets", "edit_pages", "create_pages", "view_goals", "view_dashboards", "edit_goals", "edit_dashboards", "create_dashboards" ],
+    "flags" : [ "admin" ]
+  },
+  "tags" : [ "building permits" ],
+  "flags" : [ "default" ]
+}, {
+  "id" : "9yb5-p9fa",
+  "name" : "Vendor Listing",
+  "averageRating" : 0,
+  "category" : "Government",
+  "createdAt" : 1344604395,
+  "description" : "Listing of rgistered vendors with Wellington through July 31, 2012",
+  "displayType" : "table",
+  "downloadCount" : 2114,
+  "newBackend" : false,
+  "numberOfComments" : 0,
+  "oid" : 964532,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1344605013,
+  "publicationGroup" : 400411,
+  "publicationStage" : "published",
+  "rowsUpdatedAt" : 1344604785,
+  "rowsUpdatedBy" : "rfnb-s8w3",
+  "signed" : false,
+  "tableId" : 400411,
+  "totalTimesRated" : 0,
+  "viewCount" : 342,
+  "viewLastModified" : 1344605013,
+  "viewType" : "tabular",
+  "grants" : [ {
+    "inherited" : false,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "renderTypeConfig" : {
+      "visible" : {
+        "table" : true
+      }
+    },
+    "availableDisplayTypes" : [ "table", "fatrow", "page" ]
+  },
+  "owner" : {
+    "id" : "rfnb-s8w3",
+    "displayName" : "Tom",
+    "profileImageUrlLarge" : "/images/profile/4282/9579/Tom_Amburgey_large.jpg",
+    "profileImageUrlMedium" : "/images/profile/4282/9579/Tom_Amburgey_thumb.jpg",
+    "profileImageUrlSmall" : "/images/profile/4282/9579/Tom_Amburgey_tiny.jpg",
+    "screenName" : "Tom"
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "rfnb-s8w3",
+    "displayName" : "Tom",
+    "profileImageUrlLarge" : "/images/profile/4282/9579/Tom_Amburgey_large.jpg",
+    "profileImageUrlMedium" : "/images/profile/4282/9579/Tom_Amburgey_thumb.jpg",
+    "profileImageUrlSmall" : "/images/profile/4282/9579/Tom_Amburgey_tiny.jpg",
+    "screenName" : "Tom"
+  },
+  "tags" : [ "wellington", "village", "vendors", "purchasing", "list", "business" ],
+  "flags" : [ "default" ]
+}, {
+  "id" : "sa92-xi27",
+  "name" : "2012 Code Cases by Type Chart",
+  "averageRating" : 0,
+  "category" : "Government",
+  "createdAt" : 1336659984,
+  "description" : "This dataset list all of the Code Enforcement Cases in Wellington since 2000.  This list only includes publically available cases.",
+  "displayType" : "chart",
+  "downloadCount" : 55,
+  "newBackend" : false,
+  "numberOfComments" : 0,
+  "oid" : 669410,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1336564629,
+  "publicationGroup" : 336640,
+  "publicationStage" : "published",
+  "rowsUpdatedAt" : 1336564556,
+  "rowsUpdatedBy" : "rfnb-s8w3",
+  "signed" : false,
+  "tableId" : 337012,
+  "totalTimesRated" : 0,
+  "viewCount" : 354,
+  "viewLastModified" : 1336659984,
+  "viewType" : "tabular",
+  "grants" : [ {
+    "inherited" : true,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "renderTypeConfig" : {
+      "visible" : {
+        "chart" : true,
+        "table" : true
+      }
+    },
+    "availableDisplayTypes" : [ "chart", "table", "fatrow", "page" ]
+  },
+  "owner" : {
+    "id" : "rfnb-s8w3",
+    "displayName" : "Tom",
+    "profileImageUrlLarge" : "/images/profile/4282/9579/Tom_Amburgey_large.jpg",
+    "profileImageUrlMedium" : "/images/profile/4282/9579/Tom_Amburgey_thumb.jpg",
+    "profileImageUrlSmall" : "/images/profile/4282/9579/Tom_Amburgey_tiny.jpg",
+    "screenName" : "Tom"
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "rfnb-s8w3",
+    "displayName" : "Tom",
+    "profileImageUrlLarge" : "/images/profile/4282/9579/Tom_Amburgey_large.jpg",
+    "profileImageUrlMedium" : "/images/profile/4282/9579/Tom_Amburgey_thumb.jpg",
+    "profileImageUrlSmall" : "/images/profile/4282/9579/Tom_Amburgey_tiny.jpg",
+    "screenName" : "Tom"
+  },
+  "tags" : [ "wellington", "code enforcement", "case" ]
+}, {
+  "id" : "gria-8rsx",
+  "name" : "Test SD Active Rental Licenses",
+  "averageRating" : 0,
+  "category" : "Personal",
+  "createdAt" : 1352441144,
+  "description" : "test dataset by Mahesh",
+  "displayType" : "table",
+  "downloadCount" : 151,
+  "indexUpdatedAt" : 1356343071,
+  "newBackend" : false,
+  "numberOfComments" : 0,
+  "oid" : 2099887,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1356342724,
+  "publicationGroup" : 489477,
+  "publicationStage" : "published",
+  "rowsUpdatedAt" : 1356342641,
+  "rowsUpdatedBy" : "qj22-e5f6",
+  "signed" : false,
+  "tableId" : 575134,
+  "totalTimesRated" : 0,
+  "viewCount" : 249,
+  "viewLastModified" : 1356342725,
+  "viewType" : "tabular",
+  "grants" : [ {
+    "inherited" : false,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "renderTypeConfig" : {
+      "visible" : {
+        "table" : true
+      },
+      "active" : {
+        "page" : {
+          "id" : "296"
+        }
+      }
+    },
+    "availableDisplayTypes" : [ "table", "fatrow", "page" ]
+  },
+  "owner" : {
+    "id" : "qj22-e5f6",
+    "displayName" : "Mahesh",
+    "screenName" : "Mahesh"
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "qj22-e5f6",
+    "displayName" : "Mahesh",
+    "screenName" : "Mahesh"
+  },
+  "flags" : [ "default" ]
+}, {
+  "id" : "6aei-bxzm",
+  "name" : "Code Enforcement Cases",
+  "averageRating" : 0,
+  "category" : "Government",
+  "createdAt" : 1336513253,
+  "description" : "This dataset list all of the Code Enforcement Cases in Wellington since 2000.  This list only includes publically available cases.",
+  "displayType" : "table",
+  "downloadCount" : 80,
+  "newBackend" : false,
+  "numberOfComments" : 0,
+  "oid" : 666330,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1336564629,
+  "publicationGroup" : 336640,
+  "publicationStage" : "published",
+  "rowsUpdatedAt" : 1336564556,
+  "rowsUpdatedBy" : "rfnb-s8w3",
+  "signed" : false,
+  "tableId" : 337012,
+  "totalTimesRated" : 0,
+  "viewCount" : 207,
+  "viewLastModified" : 1336564629,
+  "viewType" : "tabular",
+  "grants" : [ {
+    "inherited" : true,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "renderTypeConfig" : {
+      "visible" : {
+        "table" : true
+      }
+    },
+    "availableDisplayTypes" : [ "table", "fatrow", "page" ]
+  },
+  "owner" : {
+    "id" : "rfnb-s8w3",
+    "displayName" : "Tom",
+    "profileImageUrlLarge" : "/images/profile/4282/9579/Tom_Amburgey_large.jpg",
+    "profileImageUrlMedium" : "/images/profile/4282/9579/Tom_Amburgey_thumb.jpg",
+    "profileImageUrlSmall" : "/images/profile/4282/9579/Tom_Amburgey_tiny.jpg",
+    "screenName" : "Tom"
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "rfnb-s8w3",
+    "displayName" : "Tom",
+    "profileImageUrlLarge" : "/images/profile/4282/9579/Tom_Amburgey_large.jpg",
+    "profileImageUrlMedium" : "/images/profile/4282/9579/Tom_Amburgey_thumb.jpg",
+    "profileImageUrlSmall" : "/images/profile/4282/9579/Tom_Amburgey_tiny.jpg",
+    "screenName" : "Tom"
+  },
+  "tags" : [ "wellington", "code enforcement", "case" ],
+  "flags" : [ "default" ]
+}, {
+  "id" : "6snd-rfqw",
+  "name" : "CO",
+  "averageRating" : 0,
+  "category" : "Government",
+  "createdAt" : 1344283824,
+  "description" : "Listing of all Certificate of Occupancy issued since January 1, 2000.",
+  "displayType" : "table",
+  "downloadCount" : 46,
+  "newBackend" : false,
+  "numberOfComments" : 0,
+  "oid" : 949248,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1344305192,
+  "publicationGroup" : 397429,
+  "publicationStage" : "published",
+  "rowsUpdatedAt" : 1344284277,
+  "rowsUpdatedBy" : "rfnb-s8w3",
+  "signed" : false,
+  "tableId" : 397429,
+  "totalTimesRated" : 0,
+  "viewCount" : 248,
+  "viewLastModified" : 1344305192,
+  "viewType" : "tabular",
+  "grants" : [ {
+    "inherited" : true,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "renderTypeConfig" : {
+      "visible" : {
+        "table" : true
+      }
+    },
+    "availableDisplayTypes" : [ "table", "fatrow", "page" ]
+  },
+  "owner" : {
+    "id" : "rfnb-s8w3",
+    "displayName" : "Tom",
+    "profileImageUrlLarge" : "/images/profile/4282/9579/Tom_Amburgey_large.jpg",
+    "profileImageUrlMedium" : "/images/profile/4282/9579/Tom_Amburgey_thumb.jpg",
+    "profileImageUrlSmall" : "/images/profile/4282/9579/Tom_Amburgey_tiny.jpg",
+    "screenName" : "Tom"
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "rfnb-s8w3",
+    "displayName" : "Tom",
+    "profileImageUrlLarge" : "/images/profile/4282/9579/Tom_Amburgey_large.jpg",
+    "profileImageUrlMedium" : "/images/profile/4282/9579/Tom_Amburgey_thumb.jpg",
+    "profileImageUrlSmall" : "/images/profile/4282/9579/Tom_Amburgey_tiny.jpg",
+    "screenName" : "Tom"
+  },
+  "tags" : [ "wellington", "village", "building", "department", "permit", "co", "certificate of occupancy", "inspection" ],
+  "flags" : [ "default" ]
+}, {
+  "id" : "yqre-p89d",
+  "name" : "Parcels",
+  "averageRating" : 0,
+  "blobFilename" : "Wellington Parcels.zip",
+  "blobFileSize" : 10695231,
+  "blobId" : "2DGHCdaRE8HHyEbNGPLuQtcYqSW24nbd-WOH8CIUwQk",
+  "blobMimeType" : "application/zip; charset=binary",
+  "category" : "Government",
+  "createdAt" : 1336500726,
+  "description" : "Wellington Parcels",
+  "displayType" : "map",
+  "downloadCount" : 0,
+  "newBackend" : false,
+  "numberOfComments" : 0,
+  "oid" : 664378,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1336500821,
+  "publicationGroup" : 336518,
+  "publicationStage" : "published",
+  "signed" : false,
+  "tableId" : 336518,
+  "totalTimesRated" : 0,
+  "viewCount" : 100,
+  "viewLastModified" : 1336503404,
+  "viewType" : "geo",
+  "grants" : [ {
+    "inherited" : false,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "renderTypeConfig" : {
+      "visible" : {
+        "map" : true
+      }
+    },
+    "availableDisplayTypes" : [ "map", "table", "fatrow", "page" ],
+    "geo" : {
+      "owsUrl" : "/api/geospatial/yqre-p89d",
+      "bbox" : "-80.39071980079625,26.570489095790936,-80.16669203389921,26.695114133495515",
+      "layers" : "geo_yqre-p89d-1",
+      "featureIdAttribute" : "_SocrataID",
+      "bboxCrs" : "EPSG:4326",
+      "namespace" : "geo_yqre-p89d"
+    }
+  },
+  "owner" : {
+    "id" : "4uxn-6ib2",
+    "displayName" : "Nestor Navarro",
+    "screenName" : "Nestor Navarro"
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "4uxn-6ib2",
+    "displayName" : "Nestor Navarro",
+    "screenName" : "Nestor Navarro"
+  },
+  "tags" : [ "wellington", "parcels" ],
+  "flags" : [ "default" ]
+}, {
+  "id" : "wkzt-vhm6",
+  "name" : "Purchase Order Listing",
+  "averageRating" : 0,
+  "category" : "Government",
+  "createdAt" : 1344605381,
+  "description" : "Listing of all purchase orders issued in Wellington as of July 31, 2012",
+  "displayType" : "table",
+  "downloadCount" : 380,
+  "newBackend" : false,
+  "numberOfComments" : 0,
+  "oid" : 964541,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1344606271,
+  "publicationGroup" : 400419,
+  "publicationStage" : "published",
+  "rowsUpdatedAt" : 1344605393,
+  "rowsUpdatedBy" : "rfnb-s8w3",
+  "signed" : false,
+  "tableId" : 400419,
+  "totalTimesRated" : 0,
+  "viewCount" : 210,
+  "viewLastModified" : 1344606271,
+  "viewType" : "tabular",
+  "grants" : [ {
+    "inherited" : false,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "renderTypeConfig" : {
+      "visible" : {
+        "table" : true
+      }
+    },
+    "availableDisplayTypes" : [ "table", "fatrow", "page" ]
+  },
+  "owner" : {
+    "id" : "rfnb-s8w3",
+    "displayName" : "Tom",
+    "profileImageUrlLarge" : "/images/profile/4282/9579/Tom_Amburgey_large.jpg",
+    "profileImageUrlMedium" : "/images/profile/4282/9579/Tom_Amburgey_thumb.jpg",
+    "profileImageUrlSmall" : "/images/profile/4282/9579/Tom_Amburgey_tiny.jpg",
+    "screenName" : "Tom"
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "rfnb-s8w3",
+    "displayName" : "Tom",
+    "profileImageUrlLarge" : "/images/profile/4282/9579/Tom_Amburgey_large.jpg",
+    "profileImageUrlMedium" : "/images/profile/4282/9579/Tom_Amburgey_thumb.jpg",
+    "profileImageUrlSmall" : "/images/profile/4282/9579/Tom_Amburgey_tiny.jpg",
+    "screenName" : "Tom"
+  },
+  "tags" : [ "wellington", "village", "purchase orders", "listing", "vendors" ],
+  "flags" : [ "default" ]
+}, {
+  "id" : "fykz-53hw",
+  "name" : "Test_Dataset1",
+  "averageRating" : 0,
+  "category" : "Government",
+  "createdAt" : 1351586006,
+  "description" : "Test Dataset by mahesh",
+  "displayType" : "table",
+  "downloadCount" : 25,
+  "newBackend" : false,
+  "numberOfComments" : 0,
+  "oid" : 1606155,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1352440376,
+  "publicationGroup" : 470698,
+  "publicationStage" : "published",
+  "rowsUpdatedAt" : 1352440375,
+  "rowsUpdatedBy" : "qj22-e5f6",
+  "signed" : false,
+  "tableId" : 489460,
+  "totalTimesRated" : 0,
+  "viewCount" : 61,
+  "viewLastModified" : 1352440376,
+  "viewType" : "tabular",
+  "grants" : [ {
+    "inherited" : false,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "renderTypeConfig" : {
+      "visible" : {
+        "table" : true
+      }
+    },
+    "availableDisplayTypes" : [ "table", "fatrow", "page" ]
+  },
+  "owner" : {
+    "id" : "qj22-e5f6",
+    "displayName" : "Mahesh",
+    "screenName" : "Mahesh"
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "qj22-e5f6",
+    "displayName" : "Mahesh",
+    "screenName" : "Mahesh"
+  },
+  "flags" : [ "default" ]
+}, {
+  "id" : "g9js-e7hn",
+  "name" : "Roof Inspections Map",
+  "averageRating" : 0,
+  "category" : "Government",
+  "createdAt" : 1352396151,
+  "description" : "Listing of all Roof Inspections recorded in Wellington as of 8/9/2012",
+  "displayType" : "map",
+  "downloadCount" : 8,
+  "newBackend" : false,
+  "numberOfComments" : 0,
+  "oid" : 1599878,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1344620702,
+  "publicationGroup" : 400450,
+  "publicationStage" : "published",
+  "rowsUpdatedAt" : 1344609363,
+  "rowsUpdatedBy" : "rfnb-s8w3",
+  "signed" : false,
+  "tableId" : 400450,
+  "totalTimesRated" : 0,
+  "viewCount" : 50,
+  "viewLastModified" : 1353112869,
+  "viewType" : "tabular",
+  "grants" : [ {
+    "inherited" : true,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "renderTypeConfig" : {
+      "visible" : {
+        "map" : true
+      }
+    },
+    "availableDisplayTypes" : [ "map", "table", "fatrow", "page" ],
+    "query" : {
+      "g9js-e7hn" : {
+        "filterCondition" : {
+          "value" : "AND",
+          "children" : [ {
+            "value" : "OR",
+            "children" : [ {
+              "value" : "GREATER_THAN",
+              "children" : [ {
+                "columnId" : 27426016,
+                "type" : "column"
+              }, {
+                "value" : "2012-08-01T00:00:00",
+                "type" : "literal"
+              } ],
+              "type" : "operator",
+              "metadata" : {
+                "freeform" : true
+              }
+            } ],
+            "type" : "operator",
+            "metadata" : {
+              "tableColumnId" : {
+                "400450" : 3764171
+              },
+              "operator" : "GREATER_THAN"
+            }
+          } ],
+          "type" : "operator",
+          "metadata" : {
+            "unifiedVersion" : 2
+          }
+        }
+      }
+    }
+  },
+  "owner" : {
+    "id" : "nux4-azwn",
+    "displayName" : "bryantlau",
+    "screenName" : "bryantlau",
+    "rights" : [ "create_datasets", "edit_others_datasets", "edit_sdp", "edit_site_theme", "moderate_comments", "manage_users", "chown_datasets", "edit_nominations", "approve_nominations", "feature_items", "federations", "manage_stories", "manage_approval", "change_configurations", "view_domain", "view_others_datasets", "edit_pages", "create_pages", "view_goals", "view_dashboards", "edit_goals", "edit_dashboards", "create_dashboards" ],
+    "flags" : [ "admin" ]
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "rfnb-s8w3",
+    "displayName" : "Tom",
+    "profileImageUrlLarge" : "/images/profile/4282/9579/Tom_Amburgey_large.jpg",
+    "profileImageUrlMedium" : "/images/profile/4282/9579/Tom_Amburgey_thumb.jpg",
+    "profileImageUrlSmall" : "/images/profile/4282/9579/Tom_Amburgey_tiny.jpg",
+    "screenName" : "Tom"
+  },
+  "tags" : [ "wellington", "building", "roof", "inspection", "insurance" ]
+}, {
+  "id" : "fg2a-eh5h",
+  "name" : "2012 Business Licenses - Non-Contractor",
+  "averageRating" : 0,
+  "category" : "Business",
+  "createdAt" : 1336493728,
+  "description" : "Listing of active buisness licenses in Wellington for Fiscal Year 2012.  Includes license and contact information.",
+  "displayType" : "table",
+  "downloadCount" : 371,
+  "newBackend" : false,
+  "numberOfComments" : 0,
+  "oid" : 663992,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1336494166,
+  "publicationGroup" : 336413,
+  "publicationStage" : "published",
+  "rowsUpdatedAt" : 1336493916,
+  "rowsUpdatedBy" : "rfnb-s8w3",
+  "signed" : false,
+  "tableId" : 336413,
+  "totalTimesRated" : 0,
+  "viewCount" : 39,
+  "viewLastModified" : 1336494166,
+  "viewType" : "tabular",
+  "grants" : [ {
+    "inherited" : true,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "renderTypeConfig" : {
+      "visible" : {
+        "table" : true
+      }
+    },
+    "availableDisplayTypes" : [ "table", "fatrow", "page" ]
+  },
+  "owner" : {
+    "id" : "rfnb-s8w3",
+    "displayName" : "Tom",
+    "profileImageUrlLarge" : "/images/profile/4282/9579/Tom_Amburgey_large.jpg",
+    "profileImageUrlMedium" : "/images/profile/4282/9579/Tom_Amburgey_thumb.jpg",
+    "profileImageUrlSmall" : "/images/profile/4282/9579/Tom_Amburgey_tiny.jpg",
+    "screenName" : "Tom"
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "rfnb-s8w3",
+    "displayName" : "Tom",
+    "profileImageUrlLarge" : "/images/profile/4282/9579/Tom_Amburgey_large.jpg",
+    "profileImageUrlMedium" : "/images/profile/4282/9579/Tom_Amburgey_thumb.jpg",
+    "profileImageUrlSmall" : "/images/profile/4282/9579/Tom_Amburgey_tiny.jpg",
+    "screenName" : "Tom"
+  },
+  "tags" : [ "wellington", "license", "business" ],
+  "flags" : [ "default" ]
+}, {
+  "id" : "3wx5-9qcg",
+  "name" : "Inspections-2",
+  "averageRating" : 0,
+  "category" : "Government",
+  "createdAt" : 1347069694,
+  "description" : "Listing of Inspections completed by Wellington Building Department",
+  "displayType" : "table",
+  "downloadCount" : 16,
+  "newBackend" : false,
+  "numberOfComments" : 0,
+  "oid" : 1054871,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1347106059,
+  "publicationGroup" : 421010,
+  "publicationStage" : "published",
+  "rowsUpdatedAt" : 1347078299,
+  "rowsUpdatedBy" : "rfnb-s8w3",
+  "signed" : false,
+  "tableId" : 421010,
+  "totalTimesRated" : 0,
+  "viewCount" : 58,
+  "viewLastModified" : 1347106059,
+  "viewType" : "tabular",
+  "grants" : [ {
+    "inherited" : false,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "renderTypeConfig" : {
+      "visible" : {
+        "table" : true
+      }
+    },
+    "availableDisplayTypes" : [ "table", "fatrow", "page" ]
+  },
+  "owner" : {
+    "id" : "rfnb-s8w3",
+    "displayName" : "Tom",
+    "profileImageUrlLarge" : "/images/profile/4282/9579/Tom_Amburgey_large.jpg",
+    "profileImageUrlMedium" : "/images/profile/4282/9579/Tom_Amburgey_thumb.jpg",
+    "profileImageUrlSmall" : "/images/profile/4282/9579/Tom_Amburgey_tiny.jpg",
+    "screenName" : "Tom"
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "rfnb-s8w3",
+    "displayName" : "Tom",
+    "profileImageUrlLarge" : "/images/profile/4282/9579/Tom_Amburgey_large.jpg",
+    "profileImageUrlMedium" : "/images/profile/4282/9579/Tom_Amburgey_thumb.jpg",
+    "profileImageUrlSmall" : "/images/profile/4282/9579/Tom_Amburgey_tiny.jpg",
+    "screenName" : "Tom"
+  },
+  "tags" : [ "wellington", "building", "permit", "inspections" ],
+  "flags" : [ "default" ]
+}, {
+  "id" : "ku3p-pbxj",
+  "name" : "re-roof",
+  "averageRating" : 0,
+  "category" : "Government",
+  "createdAt" : 1348535756,
+  "description" : "Listing of all Roof Inspections recorded in Wellington as of 8/9/2012",
+  "displayType" : "table",
+  "downloadCount" : 3,
+  "newBackend" : false,
+  "numberOfComments" : 0,
+  "oid" : 1116923,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1344620702,
+  "publicationGroup" : 400450,
+  "publicationStage" : "published",
+  "rowsUpdatedAt" : 1344609363,
+  "rowsUpdatedBy" : "rfnb-s8w3",
+  "signed" : false,
+  "tableId" : 400450,
+  "totalTimesRated" : 0,
+  "viewCount" : 62,
+  "viewLastModified" : 1348535756,
+  "viewType" : "tabular",
+  "grants" : [ {
+    "inherited" : true,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "renderTypeConfig" : {
+      "visible" : {
+        "page" : true,
+        "table" : true
+      }
+    },
+    "availableDisplayTypes" : [ "table", "fatrow", "page" ]
+  },
+  "owner" : {
+    "id" : "bkak-qyfz",
+    "displayName" : "USBI",
+    "screenName" : "USBI"
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "rfnb-s8w3",
+    "displayName" : "Tom",
+    "profileImageUrlLarge" : "/images/profile/4282/9579/Tom_Amburgey_large.jpg",
+    "profileImageUrlMedium" : "/images/profile/4282/9579/Tom_Amburgey_thumb.jpg",
+    "profileImageUrlSmall" : "/images/profile/4282/9579/Tom_Amburgey_tiny.jpg",
+    "screenName" : "Tom"
+  },
+  "tags" : [ "wellington", "building", "roof", "inspection", "insurance" ]
+}, {
+  "id" : "pnde-vucq",
+  "name" : "2012 Code Cases By Type",
+  "averageRating" : 0,
+  "category" : "Government",
+  "createdAt" : 1336659674,
+  "description" : "This dataset list all of the Code Enforcement Cases in Wellington since 2000.  This list only includes publically available cases.",
+  "displayType" : "table",
+  "downloadCount" : 19,
+  "newBackend" : false,
+  "numberOfComments" : 0,
+  "oid" : 669406,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1336564629,
+  "publicationGroup" : 336640,
+  "publicationStage" : "published",
+  "rowsUpdatedAt" : 1336564556,
+  "rowsUpdatedBy" : "rfnb-s8w3",
+  "signed" : false,
+  "tableId" : 337012,
+  "totalTimesRated" : 0,
+  "viewCount" : 41,
+  "viewLastModified" : 1336659674,
+  "viewType" : "tabular",
+  "grants" : [ {
+    "inherited" : true,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "renderTypeConfig" : {
+      "visible" : {
+        "table" : true
+      }
+    },
+    "availableDisplayTypes" : [ "table", "fatrow", "page" ]
+  },
+  "owner" : {
+    "id" : "rfnb-s8w3",
+    "displayName" : "Tom",
+    "profileImageUrlLarge" : "/images/profile/4282/9579/Tom_Amburgey_large.jpg",
+    "profileImageUrlMedium" : "/images/profile/4282/9579/Tom_Amburgey_thumb.jpg",
+    "profileImageUrlSmall" : "/images/profile/4282/9579/Tom_Amburgey_tiny.jpg",
+    "screenName" : "Tom"
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "rfnb-s8w3",
+    "displayName" : "Tom",
+    "profileImageUrlLarge" : "/images/profile/4282/9579/Tom_Amburgey_large.jpg",
+    "profileImageUrlMedium" : "/images/profile/4282/9579/Tom_Amburgey_thumb.jpg",
+    "profileImageUrlSmall" : "/images/profile/4282/9579/Tom_Amburgey_tiny.jpg",
+    "screenName" : "Tom"
+  },
+  "tags" : [ "wellington", "code enforcement", "case" ]
+}, {
+  "id" : "2eiw-55u9",
+  "name" : "COs issued in 2012",
+  "averageRating" : 0,
+  "category" : "Government",
+  "createdAt" : 1344305435,
+  "description" : "Listing of all Certificate of Occupancy issued since January 1, 2000.",
+  "displayType" : "table",
+  "downloadCount" : 9,
+  "newBackend" : false,
+  "numberOfComments" : 0,
+  "oid" : 950071,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1344305192,
+  "publicationGroup" : 397429,
+  "publicationStage" : "published",
+  "rowsUpdatedAt" : 1344284277,
+  "rowsUpdatedBy" : "rfnb-s8w3",
+  "signed" : false,
+  "tableId" : 397429,
+  "totalTimesRated" : 0,
+  "viewCount" : 35,
+  "viewLastModified" : 1344305435,
+  "viewType" : "tabular",
+  "grants" : [ {
+    "inherited" : true,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "renderTypeConfig" : {
+      "visible" : {
+        "table" : true
+      }
+    },
+    "availableDisplayTypes" : [ "table", "fatrow", "page" ]
+  },
+  "owner" : {
+    "id" : "rfnb-s8w3",
+    "displayName" : "Tom",
+    "profileImageUrlLarge" : "/images/profile/4282/9579/Tom_Amburgey_large.jpg",
+    "profileImageUrlMedium" : "/images/profile/4282/9579/Tom_Amburgey_thumb.jpg",
+    "profileImageUrlSmall" : "/images/profile/4282/9579/Tom_Amburgey_tiny.jpg",
+    "screenName" : "Tom"
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "rfnb-s8w3",
+    "displayName" : "Tom",
+    "profileImageUrlLarge" : "/images/profile/4282/9579/Tom_Amburgey_large.jpg",
+    "profileImageUrlMedium" : "/images/profile/4282/9579/Tom_Amburgey_thumb.jpg",
+    "profileImageUrlSmall" : "/images/profile/4282/9579/Tom_Amburgey_tiny.jpg",
+    "screenName" : "Tom"
+  },
+  "tags" : [ "wellington", "village", "building", "department", "permit", "co", "certificate of occupancy", "inspection" ]
+}, {
+  "id" : "neth-2qv6",
+  "name" : "2012 Code Cases",
+  "averageRating" : 0,
+  "category" : "Government",
+  "createdAt" : 1336658658,
+  "description" : "This dataset list all of the Code Enforcement Cases in Wellington since 2000.  This list only includes publically available cases.",
+  "displayType" : "table",
+  "downloadCount" : 13,
+  "newBackend" : false,
+  "numberOfComments" : 0,
+  "oid" : 669363,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1336564629,
+  "publicationGroup" : 336640,
+  "publicationStage" : "published",
+  "rowsUpdatedAt" : 1336564556,
+  "rowsUpdatedBy" : "rfnb-s8w3",
+  "signed" : false,
+  "tableId" : 337012,
+  "totalTimesRated" : 0,
+  "viewCount" : 24,
+  "viewLastModified" : 1336658658,
+  "viewType" : "tabular",
+  "grants" : [ {
+    "inherited" : true,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "renderTypeConfig" : {
+      "visible" : {
+        "table" : true
+      }
+    },
+    "availableDisplayTypes" : [ "table", "fatrow", "page" ]
+  },
+  "owner" : {
+    "id" : "rfnb-s8w3",
+    "displayName" : "Tom",
+    "profileImageUrlLarge" : "/images/profile/4282/9579/Tom_Amburgey_large.jpg",
+    "profileImageUrlMedium" : "/images/profile/4282/9579/Tom_Amburgey_thumb.jpg",
+    "profileImageUrlSmall" : "/images/profile/4282/9579/Tom_Amburgey_tiny.jpg",
+    "screenName" : "Tom"
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "rfnb-s8w3",
+    "displayName" : "Tom",
+    "profileImageUrlLarge" : "/images/profile/4282/9579/Tom_Amburgey_large.jpg",
+    "profileImageUrlMedium" : "/images/profile/4282/9579/Tom_Amburgey_thumb.jpg",
+    "profileImageUrlSmall" : "/images/profile/4282/9579/Tom_Amburgey_tiny.jpg",
+    "screenName" : "Tom"
+  },
+  "tags" : [ "wellington", "code enforcement", "case" ]
+}, {
+  "id" : "e5tv-z73h",
+  "name" : "Rental Unit Licenses",
+  "averageRating" : 0,
+  "category" : "Government",
+  "createdAt" : 1344620913,
+  "description" : "Listing of all active Rental Unit licenses in Wellington",
+  "displayType" : "table",
+  "downloadCount" : 129,
+  "newBackend" : false,
+  "numberOfComments" : 0,
+  "oid" : 965188,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1344621836,
+  "publicationGroup" : 400569,
+  "publicationStage" : "published",
+  "rowsUpdatedAt" : 1344621097,
+  "rowsUpdatedBy" : "rfnb-s8w3",
+  "signed" : false,
+  "tableId" : 400569,
+  "totalTimesRated" : 0,
+  "viewCount" : 35,
+  "viewLastModified" : 1344621836,
+  "viewType" : "tabular",
+  "grants" : [ {
+    "inherited" : false,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "renderTypeConfig" : {
+      "visible" : {
+        "table" : true
+      }
+    },
+    "availableDisplayTypes" : [ "table", "fatrow", "page" ]
+  },
+  "owner" : {
+    "id" : "rfnb-s8w3",
+    "displayName" : "Tom",
+    "profileImageUrlLarge" : "/images/profile/4282/9579/Tom_Amburgey_large.jpg",
+    "profileImageUrlMedium" : "/images/profile/4282/9579/Tom_Amburgey_thumb.jpg",
+    "profileImageUrlSmall" : "/images/profile/4282/9579/Tom_Amburgey_tiny.jpg",
+    "screenName" : "Tom"
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "rfnb-s8w3",
+    "displayName" : "Tom",
+    "profileImageUrlLarge" : "/images/profile/4282/9579/Tom_Amburgey_large.jpg",
+    "profileImageUrlMedium" : "/images/profile/4282/9579/Tom_Amburgey_thumb.jpg",
+    "profileImageUrlSmall" : "/images/profile/4282/9579/Tom_Amburgey_tiny.jpg",
+    "screenName" : "Tom"
+  },
+  "tags" : [ "wellington", "village", "rental", "house", "license" ],
+  "flags" : [ "default" ]
+}, {
+  "id" : "hcqt-5rjv",
+  "name" : "Active Contractor Registrations",
+  "averageRating" : 0,
+  "category" : "Government",
+  "createdAt" : 1344624285,
+  "description" : "Listing of all active contractor registrations - meaning these contractors have registered to do business in Wellington.  NOTE: Wellington does not warrant or recommend any of these contractors.  This list simple shows those contractors that have completed the registration process",
+  "displayType" : "table",
+  "downloadCount" : 277,
+  "newBackend" : false,
+  "numberOfComments" : 0,
+  "oid" : 965257,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1344624527,
+  "publicationGroup" : 400608,
+  "publicationStage" : "published",
+  "rowsUpdatedAt" : 1344624295,
+  "rowsUpdatedBy" : "rfnb-s8w3",
+  "signed" : false,
+  "tableId" : 400608,
+  "totalTimesRated" : 0,
+  "viewCount" : 40,
+  "viewLastModified" : 1344624527,
+  "viewType" : "tabular",
+  "grants" : [ {
+    "inherited" : false,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "renderTypeConfig" : {
+      "visible" : {
+        "table" : true
+      }
+    },
+    "availableDisplayTypes" : [ "table", "fatrow", "page" ]
+  },
+  "owner" : {
+    "id" : "rfnb-s8w3",
+    "displayName" : "Tom",
+    "profileImageUrlLarge" : "/images/profile/4282/9579/Tom_Amburgey_large.jpg",
+    "profileImageUrlMedium" : "/images/profile/4282/9579/Tom_Amburgey_thumb.jpg",
+    "profileImageUrlSmall" : "/images/profile/4282/9579/Tom_Amburgey_tiny.jpg",
+    "screenName" : "Tom"
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "rfnb-s8w3",
+    "displayName" : "Tom",
+    "profileImageUrlLarge" : "/images/profile/4282/9579/Tom_Amburgey_large.jpg",
+    "profileImageUrlMedium" : "/images/profile/4282/9579/Tom_Amburgey_thumb.jpg",
+    "profileImageUrlSmall" : "/images/profile/4282/9579/Tom_Amburgey_tiny.jpg",
+    "screenName" : "Tom"
+  },
+  "tags" : [ "wellington", "village", "building", "electrical", "plumbing", "contractors", "license", "registration" ],
+  "flags" : [ "default" ]
+}, {
+  "id" : "appr-veui",
+  "name" : "COs issued in 2011",
+  "averageRating" : 0,
+  "category" : "Government",
+  "createdAt" : 1344305524,
+  "description" : "Listing of all Certificate of Occupancy issued since January 1, 2000.",
+  "displayType" : "table",
+  "downloadCount" : 7,
+  "newBackend" : false,
+  "numberOfComments" : 0,
+  "oid" : 950073,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1344305192,
+  "publicationGroup" : 397429,
+  "publicationStage" : "published",
+  "rowsUpdatedAt" : 1344284277,
+  "rowsUpdatedBy" : "rfnb-s8w3",
+  "signed" : false,
+  "tableId" : 397429,
+  "totalTimesRated" : 0,
+  "viewCount" : 30,
+  "viewLastModified" : 1344305524,
+  "viewType" : "tabular",
+  "grants" : [ {
+    "inherited" : true,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "renderTypeConfig" : {
+      "visible" : {
+        "table" : true
+      }
+    },
+    "availableDisplayTypes" : [ "table", "fatrow", "page" ]
+  },
+  "owner" : {
+    "id" : "rfnb-s8w3",
+    "displayName" : "Tom",
+    "profileImageUrlLarge" : "/images/profile/4282/9579/Tom_Amburgey_large.jpg",
+    "profileImageUrlMedium" : "/images/profile/4282/9579/Tom_Amburgey_thumb.jpg",
+    "profileImageUrlSmall" : "/images/profile/4282/9579/Tom_Amburgey_tiny.jpg",
+    "screenName" : "Tom"
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "rfnb-s8w3",
+    "displayName" : "Tom",
+    "profileImageUrlLarge" : "/images/profile/4282/9579/Tom_Amburgey_large.jpg",
+    "profileImageUrlMedium" : "/images/profile/4282/9579/Tom_Amburgey_thumb.jpg",
+    "profileImageUrlSmall" : "/images/profile/4282/9579/Tom_Amburgey_tiny.jpg",
+    "screenName" : "Tom"
+  },
+  "tags" : [ "wellington", "village", "building", "department", "permit", "co", "certificate of occupancy", "inspection" ]
+}, {
+  "id" : "sb7m-xbq5",
+  "name" : "Permit Names",
+  "averageRating" : 0,
+  "category" : "Government",
+  "createdAt" : 1347128514,
+  "description" : "Listing of owners, contractors and sub contractors associated with building permits in Wellington",
+  "displayType" : "table",
+  "downloadCount" : 37,
+  "newBackend" : false,
+  "numberOfComments" : 0,
+  "oid" : 1057008,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1347128712,
+  "publicationGroup" : 421448,
+  "publicationStage" : "published",
+  "rowsUpdatedAt" : 1347128563,
+  "rowsUpdatedBy" : "rfnb-s8w3",
+  "signed" : false,
+  "tableId" : 421448,
+  "totalTimesRated" : 0,
+  "viewCount" : 50,
+  "viewLastModified" : 1347128712,
+  "viewType" : "tabular",
+  "grants" : [ {
+    "inherited" : false,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "renderTypeConfig" : {
+      "visible" : {
+        "table" : true
+      }
+    },
+    "availableDisplayTypes" : [ "table", "fatrow", "page" ]
+  },
+  "owner" : {
+    "id" : "rfnb-s8w3",
+    "displayName" : "Tom",
+    "profileImageUrlLarge" : "/images/profile/4282/9579/Tom_Amburgey_large.jpg",
+    "profileImageUrlMedium" : "/images/profile/4282/9579/Tom_Amburgey_thumb.jpg",
+    "profileImageUrlSmall" : "/images/profile/4282/9579/Tom_Amburgey_tiny.jpg",
+    "screenName" : "Tom"
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "rfnb-s8w3",
+    "displayName" : "Tom",
+    "profileImageUrlLarge" : "/images/profile/4282/9579/Tom_Amburgey_large.jpg",
+    "profileImageUrlMedium" : "/images/profile/4282/9579/Tom_Amburgey_thumb.jpg",
+    "profileImageUrlSmall" : "/images/profile/4282/9579/Tom_Amburgey_tiny.jpg",
+    "screenName" : "Tom"
+  },
+  "tags" : [ "wellington", "village", "permits", "names", "building", "contractor", "owner", "sub" ],
+  "flags" : [ "default" ]
+}, {
+  "id" : "njsp-pbsx",
+  "name" : "Test_Active_Rental_Licenses",
+  "averageRating" : 0,
+  "category" : "Personal",
+  "createdAt" : 1351602129,
+  "description" : "Test dataset for Active Rental Licenses by Mahesh",
+  "displayType" : "table",
+  "downloadCount" : 6,
+  "newBackend" : false,
+  "numberOfComments" : 0,
+  "oid" : 1504931,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1351747153,
+  "publicationGroup" : 471033,
+  "publicationStage" : "published",
+  "rowsUpdatedAt" : 1351747085,
+  "rowsUpdatedBy" : "qj22-e5f6",
+  "signed" : false,
+  "tableId" : 473981,
+  "totalTimesRated" : 0,
+  "viewCount" : 28,
+  "viewLastModified" : 1351747153,
+  "viewType" : "tabular",
+  "grants" : [ {
+    "inherited" : false,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "renderTypeConfig" : {
+      "visible" : {
+        "table" : true
+      }
+    },
+    "availableDisplayTypes" : [ "table", "fatrow", "page" ]
+  },
+  "owner" : {
+    "id" : "qj22-e5f6",
+    "displayName" : "Mahesh",
+    "screenName" : "Mahesh"
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "qj22-e5f6",
+    "displayName" : "Mahesh",
+    "screenName" : "Mahesh"
+  },
+  "flags" : [ "default" ]
+}, {
+  "id" : "vz2v-akh2",
+  "name" : "SHEWBARRAN",
+  "averageRating" : 0,
+  "createdAt" : 1346076492,
+  "description" : "List of Building Permits",
+  "displayType" : "table",
+  "downloadCount" : 2,
+  "newBackend" : false,
+  "numberOfComments" : 0,
+  "oid" : 1016550,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1336072382,
+  "publicationGroup" : 333196,
+  "publicationStage" : "published",
+  "rowsUpdatedAt" : 1336072378,
+  "rowsUpdatedBy" : "zs8p-j3v5",
+  "searchString" : "1761 harborside",
+  "signed" : false,
+  "tableId" : 333198,
+  "totalTimesRated" : 0,
+  "viewCount" : 30,
+  "viewLastModified" : 1346076492,
+  "viewType" : "tabular",
+  "grants" : [ {
+    "inherited" : true,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "renderTypeConfig" : {
+      "visible" : {
+        "table" : true
+      }
+    },
+    "availableDisplayTypes" : [ "table", "fatrow", "page" ]
+  },
+  "owner" : {
+    "id" : "29ia-drjz",
+    "displayName" : "Tarac",
+    "screenName" : "Tarac"
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "zs8p-j3v5",
+    "displayName" : "Darrell Cabales",
+    "profileImageUrlLarge" : "/images/profile/7678/5871/Darrell-03-2012_large.jpg",
+    "profileImageUrlMedium" : "/images/profile/7678/5871/Darrell-03-2012_thumb.jpg",
+    "profileImageUrlSmall" : "/images/profile/7678/5871/Darrell-03-2012_tiny.jpg",
+    "screenName" : "Darrell Cabales",
+    "rights" : [ "create_datasets", "edit_others_datasets", "edit_sdp", "edit_site_theme", "moderate_comments", "manage_users", "chown_datasets", "edit_nominations", "approve_nominations", "feature_items", "federations", "manage_stories", "manage_approval", "change_configurations", "view_domain", "view_others_datasets", "edit_pages", "create_pages", "view_goals", "view_dashboards", "edit_goals", "edit_dashboards", "create_dashboards" ],
+    "flags" : [ "admin" ]
+  },
+  "tags" : [ "building permits" ]
+}, {
+  "id" : "nrbt-ch4g",
+  "name" : "Meter Read With Address 72012",
+  "averageRating" : 0,
+  "createdAt" : 1345749132,
+  "displayType" : "table",
+  "downloadCount" : 5,
+  "newBackend" : false,
+  "numberOfComments" : 0,
+  "oid" : 1007196,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1346422547,
+  "publicationGroup" : 409999,
+  "publicationStage" : "published",
+  "rowsUpdatedAt" : 1346422014,
+  "rowsUpdatedBy" : "rfnb-s8w3",
+  "signed" : false,
+  "tableId" : 409999,
+  "totalTimesRated" : 0,
+  "viewCount" : 51,
+  "viewLastModified" : 1346846335,
+  "viewType" : "tabular",
+  "grants" : [ {
+    "inherited" : false,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "renderTypeConfig" : {
+      "visible" : {
+        "table" : true
+      }
+    },
+    "availableDisplayTypes" : [ "table", "fatrow", "page" ]
+  },
+  "owner" : {
+    "id" : "rfnb-s8w3",
+    "displayName" : "Tom",
+    "profileImageUrlLarge" : "/images/profile/4282/9579/Tom_Amburgey_large.jpg",
+    "profileImageUrlMedium" : "/images/profile/4282/9579/Tom_Amburgey_thumb.jpg",
+    "profileImageUrlSmall" : "/images/profile/4282/9579/Tom_Amburgey_tiny.jpg",
+    "screenName" : "Tom"
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "zs8p-j3v5",
+    "displayName" : "Darrell Cabales",
+    "profileImageUrlLarge" : "/images/profile/7678/5871/Darrell-03-2012_large.jpg",
+    "profileImageUrlMedium" : "/images/profile/7678/5871/Darrell-03-2012_thumb.jpg",
+    "profileImageUrlSmall" : "/images/profile/7678/5871/Darrell-03-2012_tiny.jpg",
+    "screenName" : "Darrell Cabales",
+    "rights" : [ "create_datasets", "edit_others_datasets", "edit_sdp", "edit_site_theme", "moderate_comments", "manage_users", "chown_datasets", "edit_nominations", "approve_nominations", "feature_items", "federations", "manage_stories", "manage_approval", "change_configurations", "view_domain", "view_others_datasets", "edit_pages", "create_pages", "view_goals", "view_dashboards", "edit_goals", "edit_dashboards", "create_dashboards" ],
+    "flags" : [ "admin" ]
+  },
+  "flags" : [ "default" ]
+}, {
+  "id" : "nhev-i6ea",
+  "name" : "BASIC",
+  "averageRating" : 0,
+  "category" : "Government",
+  "createdAt" : 1348431267,
+  "description" : "Listing of all Roof Inspections recorded in Wellington as of 8/9/2012",
+  "displayType" : "table",
+  "downloadCount" : 6,
+  "newBackend" : false,
+  "numberOfComments" : 0,
+  "oid" : 1112045,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1344620702,
+  "publicationGroup" : 400450,
+  "publicationStage" : "published",
+  "rowsUpdatedAt" : 1344609363,
+  "rowsUpdatedBy" : "rfnb-s8w3",
+  "signed" : false,
+  "tableId" : 400450,
+  "totalTimesRated" : 0,
+  "viewCount" : 33,
+  "viewLastModified" : 1348431267,
+  "viewType" : "tabular",
+  "grants" : [ {
+    "inherited" : true,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "renderTypeConfig" : {
+      "visible" : {
+        "table" : true
+      }
+    },
+    "availableDisplayTypes" : [ "table", "fatrow", "page" ]
+  },
+  "owner" : {
+    "id" : "47xv-u47g",
+    "displayName" : "MIKEC",
+    "screenName" : "MIKEC"
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "rfnb-s8w3",
+    "displayName" : "Tom",
+    "profileImageUrlLarge" : "/images/profile/4282/9579/Tom_Amburgey_large.jpg",
+    "profileImageUrlMedium" : "/images/profile/4282/9579/Tom_Amburgey_thumb.jpg",
+    "profileImageUrlSmall" : "/images/profile/4282/9579/Tom_Amburgey_tiny.jpg",
+    "screenName" : "Tom"
+  },
+  "tags" : [ "wellington", "building", "roof", "inspection", "insurance" ]
+}, {
+  "id" : "ckeq-6y99",
+  "name" : "2012 Wellington Business Licenses (Non-Contractor)",
+  "averageRating" : 0,
+  "category" : "Business",
+  "createdAt" : 1336483559,
+  "description" : "Listing, with contact information, for businesses with 2012 Business Licenses.",
+  "displayType" : "table",
+  "downloadCount" : 319,
+  "newBackend" : false,
+  "numberOfComments" : 0,
+  "oid" : 663905,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1344305150,
+  "publicationGroup" : 336289,
+  "publicationStage" : "published",
+  "rowsUpdatedAt" : 1336490819,
+  "rowsUpdatedBy" : "rfnb-s8w3",
+  "signed" : false,
+  "tableId" : 336375,
+  "totalTimesRated" : 0,
+  "viewCount" : 31,
+  "viewLastModified" : 1344305151,
+  "viewType" : "tabular",
+  "grants" : [ {
+    "inherited" : false,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "renderTypeConfig" : {
+      "visible" : {
+        "table" : true
+      }
+    },
+    "availableDisplayTypes" : [ "table", "fatrow", "page" ]
+  },
+  "owner" : {
+    "id" : "rfnb-s8w3",
+    "displayName" : "Tom",
+    "profileImageUrlLarge" : "/images/profile/4282/9579/Tom_Amburgey_large.jpg",
+    "profileImageUrlMedium" : "/images/profile/4282/9579/Tom_Amburgey_thumb.jpg",
+    "profileImageUrlSmall" : "/images/profile/4282/9579/Tom_Amburgey_tiny.jpg",
+    "screenName" : "Tom"
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "rfnb-s8w3",
+    "displayName" : "Tom",
+    "profileImageUrlLarge" : "/images/profile/4282/9579/Tom_Amburgey_large.jpg",
+    "profileImageUrlMedium" : "/images/profile/4282/9579/Tom_Amburgey_thumb.jpg",
+    "profileImageUrlSmall" : "/images/profile/4282/9579/Tom_Amburgey_tiny.jpg",
+    "screenName" : "Tom"
+  },
+  "tags" : [ "license", "business", "wellington" ],
+  "flags" : [ "default" ]
+}, {
+  "id" : "zg84-4xj4",
+  "name" : "Doctors",
+  "averageRating" : 0,
+  "category" : "Business",
+  "createdAt" : 1336598422,
+  "description" : "Listing of active buisness licenses in Wellington for Fiscal Year 2012.  Includes license and contact information.",
+  "displayType" : "table",
+  "downloadCount" : 24,
+  "newBackend" : false,
+  "numberOfComments" : 0,
+  "oid" : 667697,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1336494166,
+  "publicationGroup" : 336413,
+  "publicationStage" : "published",
+  "rowsUpdatedAt" : 1336493916,
+  "rowsUpdatedBy" : "rfnb-s8w3",
+  "signed" : false,
+  "tableId" : 336413,
+  "totalTimesRated" : 0,
+  "viewCount" : 24,
+  "viewLastModified" : 1336598422,
+  "viewType" : "tabular",
+  "grants" : [ {
+    "inherited" : true,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "renderTypeConfig" : {
+      "visible" : {
+        "table" : true
+      }
+    },
+    "availableDisplayTypes" : [ "table", "fatrow", "page" ]
+  },
+  "owner" : {
+    "id" : "rfnb-s8w3",
+    "displayName" : "Tom",
+    "profileImageUrlLarge" : "/images/profile/4282/9579/Tom_Amburgey_large.jpg",
+    "profileImageUrlMedium" : "/images/profile/4282/9579/Tom_Amburgey_thumb.jpg",
+    "profileImageUrlSmall" : "/images/profile/4282/9579/Tom_Amburgey_tiny.jpg",
+    "screenName" : "Tom"
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "rfnb-s8w3",
+    "displayName" : "Tom",
+    "profileImageUrlLarge" : "/images/profile/4282/9579/Tom_Amburgey_large.jpg",
+    "profileImageUrlMedium" : "/images/profile/4282/9579/Tom_Amburgey_thumb.jpg",
+    "profileImageUrlSmall" : "/images/profile/4282/9579/Tom_Amburgey_tiny.jpg",
+    "screenName" : "Tom"
+  },
+  "tags" : [ "wellington", "license", "business" ]
+}, {
+  "id" : "sxvy-f7ph",
+  "name" : "2012 Fixed Assets Accounts",
+  "averageRating" : 0,
+  "category" : "Government",
+  "createdAt" : 1349985862,
+  "description" : "Listing of budgeted fixed asset items for the 2012/2013 budget.",
+  "displayType" : "table",
+  "downloadCount" : 8,
+  "newBackend" : false,
+  "numberOfComments" : 0,
+  "oid" : 1253814,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1349986204,
+  "publicationGroup" : 448800,
+  "publicationStage" : "published",
+  "rowsUpdatedAt" : 1349985910,
+  "rowsUpdatedBy" : "rfnb-s8w3",
+  "signed" : false,
+  "tableId" : 448800,
+  "totalTimesRated" : 0,
+  "viewCount" : 23,
+  "viewLastModified" : 1349986204,
+  "viewType" : "tabular",
+  "grants" : [ {
+    "inherited" : false,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "renderTypeConfig" : {
+      "visible" : {
+        "table" : true
+      }
+    },
+    "availableDisplayTypes" : [ "table", "fatrow", "page" ]
+  },
+  "owner" : {
+    "id" : "rfnb-s8w3",
+    "displayName" : "Tom",
+    "profileImageUrlLarge" : "/images/profile/4282/9579/Tom_Amburgey_large.jpg",
+    "profileImageUrlMedium" : "/images/profile/4282/9579/Tom_Amburgey_thumb.jpg",
+    "profileImageUrlSmall" : "/images/profile/4282/9579/Tom_Amburgey_tiny.jpg",
+    "screenName" : "Tom"
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "rfnb-s8w3",
+    "displayName" : "Tom",
+    "profileImageUrlLarge" : "/images/profile/4282/9579/Tom_Amburgey_large.jpg",
+    "profileImageUrlMedium" : "/images/profile/4282/9579/Tom_Amburgey_thumb.jpg",
+    "profileImageUrlSmall" : "/images/profile/4282/9579/Tom_Amburgey_tiny.jpg",
+    "screenName" : "Tom"
+  },
+  "tags" : [ "wellington", "village", "data", "fixed assets", "budget", "computers", "florida" ],
+  "flags" : [ "default" ]
+}, {
+  "id" : "yukt-pbhp",
+  "name" : "Test_Building_Permits",
+  "averageRating" : 0,
+  "category" : "Personal",
+  "createdAt" : 1351602384,
+  "description" : "Test dataset Building Permits by Mahesh",
+  "displayType" : "table",
+  "downloadCount" : 3,
+  "newBackend" : false,
+  "numberOfComments" : 0,
+  "oid" : 1483564,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1351602454,
+  "publicationGroup" : 471041,
+  "publicationStage" : "published",
+  "rowsUpdatedAt" : 1351602451,
+  "rowsUpdatedBy" : "qj22-e5f6",
+  "signed" : false,
+  "tableId" : 471041,
+  "totalTimesRated" : 0,
+  "viewCount" : 23,
+  "viewLastModified" : 1351602454,
+  "viewType" : "tabular",
+  "grants" : [ {
+    "inherited" : false,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "renderTypeConfig" : {
+      "visible" : {
+        "table" : true
+      }
+    },
+    "availableDisplayTypes" : [ "table", "fatrow", "page" ]
+  },
+  "owner" : {
+    "id" : "qj22-e5f6",
+    "displayName" : "Mahesh",
+    "screenName" : "Mahesh"
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "qj22-e5f6",
+    "displayName" : "Mahesh",
+    "screenName" : "Mahesh"
+  },
+  "flags" : [ "default" ]
+} ]

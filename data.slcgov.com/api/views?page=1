@@ -1,0 +1,2744 @@
+[ {
+  "id" : "syic-a6rq",
+  "name" : "POLICE CASES 2012",
+  "averageRating" : 0,
+  "category" : "Government",
+  "createdAt" : 1357155671,
+  "description" : "LISTING OF POLICE CASES FOR 2012",
+  "displayType" : "table",
+  "downloadCount" : 63,
+  "indexUpdatedAt" : 1376072288,
+  "newBackend" : false,
+  "numberOfComments" : 0,
+  "oid" : 4841449,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1376062834,
+  "publicationGroup" : 592260,
+  "publicationStage" : "published",
+  "rowsUpdatedAt" : 1376062773,
+  "rowsUpdatedBy" : "jkek-3zz3",
+  "signed" : false,
+  "tableId" : 1030912,
+  "totalTimesRated" : 0,
+  "viewCount" : 1538,
+  "viewLastModified" : 1376062834,
+  "viewType" : "tabular",
+  "grants" : [ {
+    "inherited" : false,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "renderTypeConfig" : {
+      "visible" : {
+        "table" : true
+      }
+    },
+    "availableDisplayTypes" : [ "table", "fatrow", "page" ]
+  },
+  "owner" : {
+    "id" : "jkek-3zz3",
+    "displayName" : "Dean Larson",
+    "screenName" : "Dean Larson"
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "jkek-3zz3",
+    "displayName" : "Dean Larson",
+    "screenName" : "Dean Larson"
+  },
+  "tags" : [ "cases", "police", "incidents" ],
+  "flags" : [ "default" ]
+}, {
+  "id" : "g3x5-95h3",
+  "name" : "Smart Meters",
+  "averageRating" : 0,
+  "blobFilename" : "SmartMeters.kmz",
+  "blobFileSize" : 8995,
+  "blobId" : "A0lZZl8Rw1QTfp5I5KnGBdPlobGp2co6g7l9R22EOPo",
+  "blobMimeType" : "application/zip; charset=binary",
+  "category" : "Government",
+  "createdAt" : 1340816253,
+  "displayType" : "map",
+  "downloadCount" : 0,
+  "newBackend" : false,
+  "numberOfComments" : 0,
+  "oid" : 803059,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1340816255,
+  "publicationGroup" : 369110,
+  "publicationStage" : "published",
+  "signed" : false,
+  "tableId" : 369110,
+  "totalTimesRated" : 0,
+  "viewCount" : 256,
+  "viewLastModified" : 1340816270,
+  "viewType" : "geo",
+  "childViews" : [ "phvy-fr57" ],
+  "grants" : [ {
+    "inherited" : false,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "custom_fields" : {
+      "Data" : {
+        "Granularity" : "",
+        "Quality" : "",
+        "Bytes" : ""
+      }
+    },
+    "renderTypeConfig" : {
+      "visible" : {
+        "map" : true
+      }
+    },
+    "availableDisplayTypes" : [ "map", "table", "fatrow", "page" ],
+    "geo" : {
+      "owsUrl" : "/api/geospatial/g3x5-95h3",
+      "bbox" : "-111.893505,40.758818,-111.885033,40.765223",
+      "layers" : "geo_g3x5-95h3-1",
+      "featureIdAttribute" : "_SocrataID",
+      "bboxCrs" : "EPSG:4326",
+      "namespace" : "geo_g3x5-95h3"
+    }
+  },
+  "owner" : {
+    "id" : "b5e4-d7x8",
+    "displayName" : "Jordan Gilbertson",
+    "profileImageUrlLarge" : "/images/profile/2744/6264/12337f7_large.jpg",
+    "profileImageUrlMedium" : "/images/profile/2744/6264/12337f7_thumb.jpg",
+    "profileImageUrlSmall" : "/images/profile/2744/6264/12337f7_tiny.jpg",
+    "screenName" : "Jordan Gilbertson",
+    "rights" : [ "create_datasets", "edit_others_datasets", "edit_sdp", "edit_site_theme", "moderate_comments", "manage_users", "chown_datasets", "edit_nominations", "approve_nominations", "feature_items", "federations", "manage_stories", "manage_approval", "change_configurations", "view_domain", "view_others_datasets", "edit_pages", "create_pages", "view_goals", "view_dashboards", "edit_goals", "edit_dashboards", "create_dashboards" ],
+    "flags" : [ "admin" ]
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "b5e4-d7x8",
+    "displayName" : "Jordan Gilbertson",
+    "profileImageUrlLarge" : "/images/profile/2744/6264/12337f7_large.jpg",
+    "profileImageUrlMedium" : "/images/profile/2744/6264/12337f7_thumb.jpg",
+    "profileImageUrlSmall" : "/images/profile/2744/6264/12337f7_tiny.jpg",
+    "screenName" : "Jordan Gilbertson",
+    "rights" : [ "create_datasets", "edit_others_datasets", "edit_sdp", "edit_site_theme", "moderate_comments", "manage_users", "chown_datasets", "edit_nominations", "approve_nominations", "feature_items", "federations", "manage_stories", "manage_approval", "change_configurations", "view_domain", "view_others_datasets", "edit_pages", "create_pages", "view_goals", "view_dashboards", "edit_goals", "edit_dashboards", "create_dashboards" ],
+    "flags" : [ "admin" ]
+  },
+  "tags" : [ "utilities", "gis" ],
+  "flags" : [ "default" ]
+}, {
+  "id" : "g5ni-ehfe",
+  "name" : "Planning 1",
+  "averageRating" : 0,
+  "createdAt" : 1365434661,
+  "description" : "Salt Lake City Planning Permits",
+  "displayType" : "map",
+  "downloadCount" : 139,
+  "indexUpdatedAt" : 1386705017,
+  "newBackend" : false,
+  "numberOfComments" : 0,
+  "oid" : 6758055,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1386702569,
+  "publicationGroup" : 780911,
+  "publicationStage" : "published",
+  "rowsUpdatedAt" : 1386700728,
+  "rowsUpdatedBy" : "i9pg-v7wp",
+  "signed" : false,
+  "tableId" : 1394055,
+  "totalTimesRated" : 0,
+  "viewCount" : 529,
+  "viewLastModified" : 1365477855,
+  "viewType" : "tabular",
+  "grants" : [ {
+    "inherited" : true,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "renderTypeConfig" : {
+      "visible" : {
+        "map" : true,
+        "table" : true
+      },
+      "active" : {
+        "page" : {
+          "id" : "myq9-p4zu"
+        },
+        "table" : {
+          "id" : "self"
+        }
+      }
+    },
+    "availableDisplayTypes" : [ "map", "table", "fatrow", "page" ]
+  },
+  "owner" : {
+    "id" : "e83w-vpb9",
+    "displayName" : "nolewalkingshaw",
+    "profileImageUrlLarge" : "/images/profile/7942/2651/image_large.jpg",
+    "profileImageUrlMedium" : "/images/profile/7942/2651/image_thumb.jpg",
+    "profileImageUrlSmall" : "/images/profile/7942/2651/image_tiny.jpg",
+    "screenName" : "nolewalkingshaw"
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "i9pg-v7wp",
+    "displayName" : "Long Doan",
+    "screenName" : "Long Doan"
+  },
+  "tags" : [ "salt lake city planning permits" ]
+}, {
+  "id" : "myq9-p4zu",
+  "name" : "Planning Permits",
+  "averageRating" : 0,
+  "createdAt" : 1365354540,
+  "description" : "Salt Lake City Planning Permits",
+  "displayType" : "table",
+  "downloadCount" : 55,
+  "indexUpdatedAt" : 1386704362,
+  "newBackend" : false,
+  "numberOfComments" : 0,
+  "oid" : 6757740,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1386702569,
+  "publicationGroup" : 780911,
+  "publicationStage" : "published",
+  "rowsUpdatedAt" : 1386700728,
+  "rowsUpdatedBy" : "i9pg-v7wp",
+  "signed" : false,
+  "tableId" : 1394055,
+  "totalTimesRated" : 0,
+  "viewCount" : 486,
+  "viewLastModified" : 1386702569,
+  "viewType" : "tabular",
+  "grants" : [ {
+    "inherited" : true,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "renderTypeConfig" : {
+      "visible" : {
+        "table" : true
+      }
+    },
+    "availableDisplayTypes" : [ "table", "fatrow", "page" ]
+  },
+  "owner" : {
+    "id" : "i9pg-v7wp",
+    "displayName" : "Long Doan",
+    "screenName" : "Long Doan"
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "i9pg-v7wp",
+    "displayName" : "Long Doan",
+    "screenName" : "Long Doan"
+  },
+  "tags" : [ "salt lake city planning permits" ],
+  "flags" : [ "default" ]
+}, {
+  "id" : "s6zn-ha6i",
+  "name" : "SLC Bike Routes",
+  "averageRating" : 0,
+  "blobFilename" : "SLC_Bike_Routes.kmz",
+  "blobFileSize" : 644652,
+  "blobId" : "_Ws-B8iq95eGjcxqBeB78U8vfHoim9dPAKKOVMqh6W8",
+  "blobMimeType" : "application/xml; charset=us-ascii",
+  "category" : "Government",
+  "createdAt" : 1340815942,
+  "displayType" : "map",
+  "downloadCount" : 0,
+  "newBackend" : false,
+  "numberOfComments" : 0,
+  "oid" : 802949,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1340815949,
+  "publicationGroup" : 369102,
+  "publicationStage" : "published",
+  "signed" : false,
+  "tableId" : 369102,
+  "totalTimesRated" : 0,
+  "viewCount" : 136,
+  "viewLastModified" : 1340818505,
+  "viewType" : "geo",
+  "childViews" : [ "t8ih-gj5a" ],
+  "grants" : [ {
+    "inherited" : false,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "custom_fields" : {
+      "Data" : {
+        "Granularity" : "",
+        "Quality" : "",
+        "Bytes" : ""
+      }
+    },
+    "renderTypeConfig" : {
+      "visible" : {
+        "map" : true
+      }
+    },
+    "availableDisplayTypes" : [ "map", "table", "fatrow", "page" ],
+    "geo" : {
+      "owsUrl" : "/api/geospatial/s6zn-ha6i",
+      "bbox" : "-112.101098,40.706891,-111.795756,40.83609",
+      "layers" : "geo_s6zn-ha6i-1",
+      "featureIdAttribute" : "_SocrataID",
+      "bboxCrs" : "EPSG:4326",
+      "namespace" : "geo_s6zn-ha6i"
+    },
+    "thumbnail" : {
+      "page" : {
+        "created" : true
+      }
+    }
+  },
+  "owner" : {
+    "id" : "b5e4-d7x8",
+    "displayName" : "Jordan Gilbertson",
+    "profileImageUrlLarge" : "/images/profile/2744/6264/12337f7_large.jpg",
+    "profileImageUrlMedium" : "/images/profile/2744/6264/12337f7_thumb.jpg",
+    "profileImageUrlSmall" : "/images/profile/2744/6264/12337f7_tiny.jpg",
+    "screenName" : "Jordan Gilbertson",
+    "rights" : [ "create_datasets", "edit_others_datasets", "edit_sdp", "edit_site_theme", "moderate_comments", "manage_users", "chown_datasets", "edit_nominations", "approve_nominations", "feature_items", "federations", "manage_stories", "manage_approval", "change_configurations", "view_domain", "view_others_datasets", "edit_pages", "create_pages", "view_goals", "view_dashboards", "edit_goals", "edit_dashboards", "create_dashboards" ],
+    "flags" : [ "admin" ]
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "b5e4-d7x8",
+    "displayName" : "Jordan Gilbertson",
+    "profileImageUrlLarge" : "/images/profile/2744/6264/12337f7_large.jpg",
+    "profileImageUrlMedium" : "/images/profile/2744/6264/12337f7_thumb.jpg",
+    "profileImageUrlSmall" : "/images/profile/2744/6264/12337f7_tiny.jpg",
+    "screenName" : "Jordan Gilbertson",
+    "rights" : [ "create_datasets", "edit_others_datasets", "edit_sdp", "edit_site_theme", "moderate_comments", "manage_users", "chown_datasets", "edit_nominations", "approve_nominations", "feature_items", "federations", "manage_stories", "manage_approval", "change_configurations", "view_domain", "view_others_datasets", "edit_pages", "create_pages", "view_goals", "view_dashboards", "edit_goals", "edit_dashboards", "create_dashboards" ],
+    "flags" : [ "admin" ]
+  },
+  "tags" : [ "bike", "transportation", "gis" ],
+  "flags" : [ "default" ]
+}, {
+  "id" : "rtcx-we7f",
+  "name" : "POLICE CASES 2013 -YTD",
+  "averageRating" : 0,
+  "createdAt" : 1365458722,
+  "description" : "Police cases 2013   year to date",
+  "displayType" : "table",
+  "downloadCount" : 145,
+  "indexUpdatedAt" : 1386158880,
+  "newBackend" : false,
+  "numberOfComments" : 0,
+  "oid" : 6274189,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1386102946,
+  "publicationGroup" : 783529,
+  "publicationStage" : "published",
+  "rowsUpdatedAt" : 1386102925,
+  "rowsUpdatedBy" : "jkek-3zz3",
+  "signed" : false,
+  "tableId" : 1325646,
+  "totalTimesRated" : 0,
+  "viewCount" : 1588,
+  "viewLastModified" : 1386102947,
+  "viewType" : "tabular",
+  "grants" : [ {
+    "inherited" : true,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "renderTypeConfig" : {
+      "visible" : {
+        "table" : true
+      }
+    },
+    "availableDisplayTypes" : [ "table", "fatrow", "page" ]
+  },
+  "owner" : {
+    "id" : "jkek-3zz3",
+    "displayName" : "Dean Larson",
+    "screenName" : "Dean Larson"
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "jkek-3zz3",
+    "displayName" : "Dean Larson",
+    "screenName" : "Dean Larson"
+  },
+  "tags" : [ "police", "cases" ],
+  "flags" : [ "default" ]
+}, {
+  "id" : "duwd-wq3e",
+  "name" : "POLICE CALLS FOR SERVICE 2013 YTD",
+  "averageRating" : 0,
+  "createdAt" : 1365458282,
+  "description" : "Police call for service 2013 (ytd)",
+  "displayType" : "table",
+  "downloadCount" : 52,
+  "indexUpdatedAt" : 1386157819,
+  "newBackend" : false,
+  "numberOfComments" : 0,
+  "oid" : 6685388,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1386102746,
+  "publicationGroup" : 783511,
+  "publicationStage" : "published",
+  "rowsUpdatedAt" : 1386102712,
+  "rowsUpdatedBy" : "jkek-3zz3",
+  "signed" : false,
+  "tableId" : 1385635,
+  "totalTimesRated" : 0,
+  "viewCount" : 1567,
+  "viewLastModified" : 1386102746,
+  "viewType" : "tabular",
+  "grants" : [ {
+    "inherited" : true,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "renderTypeConfig" : {
+      "visible" : {
+        "page" : true,
+        "table" : true
+      }
+    },
+    "availableDisplayTypes" : [ "table", "fatrow", "page" ]
+  },
+  "owner" : {
+    "id" : "jkek-3zz3",
+    "displayName" : "Dean Larson",
+    "screenName" : "Dean Larson"
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "jkek-3zz3",
+    "displayName" : "Dean Larson",
+    "screenName" : "Dean Larson"
+  },
+  "tags" : [ "police", "calls" ],
+  "flags" : [ "default" ]
+}, {
+  "id" : "7faz-pyum",
+  "name" : "Payroll 2012 Qtr1",
+  "averageRating" : 0,
+  "category" : "Government",
+  "createdAt" : 1353365406,
+  "displayType" : "table",
+  "downloadCount" : 94,
+  "newBackend" : false,
+  "numberOfComments" : 0,
+  "oid" : 1736425,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1353365545,
+  "publicationGroup" : 508187,
+  "publicationStage" : "published",
+  "rowClass" : "",
+  "rowsUpdatedAt" : 1353365422,
+  "rowsUpdatedBy" : "jkek-3zz3",
+  "signed" : false,
+  "tableId" : 508187,
+  "totalTimesRated" : 0,
+  "viewCount" : 544,
+  "viewLastModified" : 1353449727,
+  "viewType" : "tabular",
+  "grants" : [ {
+    "inherited" : false,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "renderTypeConfig" : {
+      "visible" : {
+        "table" : true
+      }
+    },
+    "availableDisplayTypes" : [ "table", "fatrow", "page" ],
+    "rdfSubject" : "0",
+    "rowIdentifier" : "0",
+    "rdfClass" : ""
+  },
+  "owner" : {
+    "id" : "jkek-3zz3",
+    "displayName" : "Dean Larson",
+    "screenName" : "Dean Larson"
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "jkek-3zz3",
+    "displayName" : "Dean Larson",
+    "screenName" : "Dean Larson"
+  },
+  "tags" : [ "payroll" ],
+  "flags" : [ "default" ]
+}, {
+  "id" : "s62m-p2ci",
+  "name" : "Payroll 2012 Qtr4",
+  "averageRating" : 0,
+  "category" : "Government",
+  "createdAt" : 1353365136,
+  "displayType" : "table",
+  "downloadCount" : 29,
+  "newBackend" : false,
+  "numberOfComments" : 0,
+  "oid" : 1736302,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1353365213,
+  "publicationGroup" : 508181,
+  "publicationStage" : "published",
+  "rowClass" : "",
+  "rowsUpdatedAt" : 1353365152,
+  "rowsUpdatedBy" : "jkek-3zz3",
+  "signed" : false,
+  "tableId" : 508181,
+  "totalTimesRated" : 0,
+  "viewCount" : 583,
+  "viewLastModified" : 1354745659,
+  "viewType" : "tabular",
+  "grants" : [ {
+    "inherited" : false,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "renderTypeConfig" : {
+      "visible" : {
+        "table" : true
+      }
+    },
+    "availableDisplayTypes" : [ "table", "fatrow", "page" ],
+    "rdfSubject" : "0",
+    "rowIdentifier" : "0",
+    "rdfClass" : ""
+  },
+  "owner" : {
+    "id" : "jkek-3zz3",
+    "displayName" : "Dean Larson",
+    "screenName" : "Dean Larson"
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "jkek-3zz3",
+    "displayName" : "Dean Larson",
+    "screenName" : "Dean Larson"
+  },
+  "tags" : [ "payroll" ],
+  "flags" : [ "default" ]
+}, {
+  "id" : "p2dy-h2sr",
+  "name" : "Minor Alterations 1",
+  "averageRating" : 0,
+  "createdAt" : 1365437262,
+  "description" : "Salt Lake City Planning Permits",
+  "displayType" : "map",
+  "downloadCount" : 23,
+  "indexUpdatedAt" : 1386704362,
+  "newBackend" : false,
+  "numberOfComments" : 0,
+  "oid" : 6758058,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1386702569,
+  "publicationGroup" : 780911,
+  "publicationStage" : "published",
+  "rowsUpdatedAt" : 1386700728,
+  "rowsUpdatedBy" : "i9pg-v7wp",
+  "signed" : false,
+  "tableId" : 1394055,
+  "totalTimesRated" : 0,
+  "viewCount" : 157,
+  "viewLastModified" : 1365437532,
+  "viewType" : "tabular",
+  "grants" : [ {
+    "inherited" : true,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "renderTypeConfig" : {
+      "visible" : {
+        "map" : true,
+        "table" : true
+      }
+    },
+    "availableDisplayTypes" : [ "map", "table", "fatrow", "page" ]
+  },
+  "owner" : {
+    "id" : "e83w-vpb9",
+    "displayName" : "nolewalkingshaw",
+    "profileImageUrlLarge" : "/images/profile/7942/2651/image_large.jpg",
+    "profileImageUrlMedium" : "/images/profile/7942/2651/image_thumb.jpg",
+    "profileImageUrlSmall" : "/images/profile/7942/2651/image_tiny.jpg",
+    "screenName" : "nolewalkingshaw"
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "i9pg-v7wp",
+    "displayName" : "Long Doan",
+    "screenName" : "Long Doan"
+  },
+  "tags" : [ "salt lake city planning permits" ]
+}, {
+  "id" : "qcea-2qur",
+  "name" : "Payroll Benefits 2012 Qtr4",
+  "averageRating" : 0,
+  "category" : "Government",
+  "createdAt" : 1353363201,
+  "displayType" : "table",
+  "downloadCount" : 47,
+  "newBackend" : false,
+  "numberOfComments" : 0,
+  "oid" : 1736102,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1353363295,
+  "publicationGroup" : 508120,
+  "publicationStage" : "published",
+  "rowClass" : "",
+  "rowsUpdatedAt" : 1353363233,
+  "rowsUpdatedBy" : "jkek-3zz3",
+  "signed" : false,
+  "tableId" : 508120,
+  "totalTimesRated" : 0,
+  "viewCount" : 811,
+  "viewLastModified" : 1353449161,
+  "viewType" : "tabular",
+  "grants" : [ {
+    "inherited" : false,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "renderTypeConfig" : {
+      "visible" : {
+        "table" : true
+      }
+    },
+    "availableDisplayTypes" : [ "table", "fatrow", "page" ],
+    "rdfSubject" : "0",
+    "rowIdentifier" : "0",
+    "rdfClass" : ""
+  },
+  "owner" : {
+    "id" : "jkek-3zz3",
+    "displayName" : "Dean Larson",
+    "screenName" : "Dean Larson"
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "jkek-3zz3",
+    "displayName" : "Dean Larson",
+    "screenName" : "Dean Larson"
+  },
+  "tags" : [ "payroll" ],
+  "flags" : [ "default" ]
+}, {
+  "id" : "9b2y-pidk",
+  "name" : "Revenue 2013 Qtr 1",
+  "averageRating" : 0,
+  "category" : "Government",
+  "createdAt" : 1353087919,
+  "description" : "Salt Lake City Revenue 2013 1st quarter",
+  "displayType" : "table",
+  "downloadCount" : 45,
+  "newBackend" : false,
+  "numberOfComments" : 0,
+  "oid" : 1699251,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1353088108,
+  "publicationGroup" : 503220,
+  "publicationStage" : "published",
+  "rowClass" : "",
+  "rowsUpdatedAt" : 1353087982,
+  "rowsUpdatedBy" : "jkek-3zz3",
+  "signed" : false,
+  "tableId" : 503220,
+  "totalTimesRated" : 0,
+  "viewCount" : 1008,
+  "viewLastModified" : 1353450769,
+  "viewType" : "tabular",
+  "grants" : [ {
+    "inherited" : false,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "renderTypeConfig" : {
+      "visible" : {
+        "table" : true
+      }
+    },
+    "availableDisplayTypes" : [ "table", "fatrow", "page" ],
+    "rdfSubject" : "0",
+    "rowIdentifier" : "0",
+    "rdfClass" : ""
+  },
+  "owner" : {
+    "id" : "jkek-3zz3",
+    "displayName" : "Dean Larson",
+    "screenName" : "Dean Larson"
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "jkek-3zz3",
+    "displayName" : "Dean Larson",
+    "screenName" : "Dean Larson"
+  },
+  "tags" : [ "revenue" ],
+  "flags" : [ "default" ]
+}, {
+  "id" : "usi3-xfks",
+  "name" : "Expenditure 2013 Qtr 1",
+  "averageRating" : 0,
+  "category" : "Government",
+  "createdAt" : 1353088301,
+  "description" : "Salt Lake City Expenditure 2013 1st Quarter",
+  "displayType" : "table",
+  "downloadCount" : 41,
+  "newBackend" : false,
+  "numberOfComments" : 0,
+  "oid" : 1699381,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1353088497,
+  "publicationGroup" : 503227,
+  "publicationStage" : "published",
+  "rowClass" : "",
+  "rowsUpdatedAt" : 1353088358,
+  "rowsUpdatedBy" : "jkek-3zz3",
+  "signed" : false,
+  "tableId" : 503227,
+  "totalTimesRated" : 0,
+  "viewCount" : 953,
+  "viewLastModified" : 1353450332,
+  "viewType" : "tabular",
+  "grants" : [ {
+    "inherited" : false,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "renderTypeConfig" : {
+      "visible" : {
+        "table" : true
+      }
+    },
+    "availableDisplayTypes" : [ "table", "fatrow", "page" ],
+    "rdfSubject" : "0",
+    "rowIdentifier" : "0",
+    "rdfClass" : ""
+  },
+  "owner" : {
+    "id" : "jkek-3zz3",
+    "displayName" : "Dean Larson",
+    "screenName" : "Dean Larson"
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "jkek-3zz3",
+    "displayName" : "Dean Larson",
+    "screenName" : "Dean Larson"
+  },
+  "tags" : [ "expenditure" ],
+  "flags" : [ "default" ]
+}, {
+  "id" : "xeug-iy5n",
+  "name" : "Sidewalks",
+  "averageRating" : 0,
+  "blobFilename" : "sidewalks.zip",
+  "blobFileSize" : 2299839,
+  "blobId" : "1-stB7Z2NFmNXK5bEJm5X6may1Zr-zzCYfMYuojD0bs",
+  "blobMimeType" : "application/zip; charset=binary",
+  "category" : "Government",
+  "createdAt" : 1362422719,
+  "displayType" : "map",
+  "downloadCount" : 0,
+  "indexUpdatedAt" : 1363560243,
+  "newBackend" : false,
+  "numberOfComments" : 0,
+  "oid" : 2708725,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1362422765,
+  "publicationGroup" : 713133,
+  "publicationStage" : "published",
+  "signed" : false,
+  "tableId" : 713133,
+  "totalTimesRated" : 0,
+  "viewCount" : 43,
+  "viewLastModified" : 1362422862,
+  "viewType" : "geo",
+  "childViews" : [ "bnen-i846" ],
+  "grants" : [ {
+    "inherited" : true,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "renderTypeConfig" : {
+      "visible" : {
+        "map" : true
+      }
+    },
+    "availableDisplayTypes" : [ "map", "table", "fatrow", "page" ],
+    "geo" : {
+      "owsUrl" : "/api/geospatial/xeug-iy5n",
+      "bbox" : "-112.039478871408,40.69984521106996,-111.80208628599715,40.810704591381",
+      "layers" : "geo_xeug-iy5n-1",
+      "featureIdAttribute" : "_SocrataID",
+      "bboxCrs" : "EPSG:4326",
+      "namespace" : "geo_xeug-iy5n"
+    }
+  },
+  "owner" : {
+    "id" : "jkek-3zz3",
+    "displayName" : "Dean Larson",
+    "screenName" : "Dean Larson"
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "jkek-3zz3",
+    "displayName" : "Dean Larson",
+    "screenName" : "Dean Larson"
+  },
+  "tags" : [ "sidewalks" ],
+  "flags" : [ "default" ]
+}, {
+  "id" : "q9gq-vb9z",
+  "name" : "Water Consumption  (based on meter read date)",
+  "averageRating" : 0,
+  "category" : "Government",
+  "createdAt" : 1370451527,
+  "description" : "Water consumption by census tract and service type and month",
+  "displayType" : "table",
+  "downloadCount" : 48,
+  "indexUpdatedAt" : 1378506589,
+  "newBackend" : false,
+  "numberOfComments" : 0,
+  "oid" : 5290949,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1378496584,
+  "publicationGroup" : 900790,
+  "publicationStage" : "published",
+  "rowsUpdatedAt" : 1378496566,
+  "rowsUpdatedBy" : "jkek-3zz3",
+  "signed" : false,
+  "tableId" : 1122070,
+  "totalTimesRated" : 0,
+  "viewCount" : 343,
+  "viewLastModified" : 1378496584,
+  "viewType" : "tabular",
+  "grants" : [ {
+    "inherited" : false,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "renderTypeConfig" : {
+      "visible" : {
+        "table" : true
+      }
+    },
+    "availableDisplayTypes" : [ "table", "fatrow", "page" ]
+  },
+  "owner" : {
+    "id" : "jkek-3zz3",
+    "displayName" : "Dean Larson",
+    "screenName" : "Dean Larson"
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "jkek-3zz3",
+    "displayName" : "Dean Larson",
+    "screenName" : "Dean Larson"
+  },
+  "tags" : [ "water", "consumption" ],
+  "flags" : [ "default" ]
+}, {
+  "id" : "wng6-vv2r",
+  "name" : "Payroll Reimbursements 2012 Qtr4",
+  "averageRating" : 0,
+  "category" : "Government",
+  "createdAt" : 1353363588,
+  "displayType" : "table",
+  "downloadCount" : 18,
+  "newBackend" : false,
+  "numberOfComments" : 0,
+  "oid" : 1736119,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1353363647,
+  "publicationGroup" : 508134,
+  "publicationStage" : "published",
+  "rowClass" : "",
+  "rowsUpdatedAt" : 1353363600,
+  "rowsUpdatedBy" : "jkek-3zz3",
+  "signed" : false,
+  "tableId" : 508134,
+  "totalTimesRated" : 0,
+  "viewCount" : 40,
+  "viewLastModified" : 1353450064,
+  "viewType" : "tabular",
+  "grants" : [ {
+    "inherited" : false,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "renderTypeConfig" : {
+      "visible" : {
+        "table" : true
+      }
+    },
+    "availableDisplayTypes" : [ "table", "fatrow", "page" ],
+    "rdfSubject" : "0",
+    "rowIdentifier" : "0",
+    "rdfClass" : ""
+  },
+  "owner" : {
+    "id" : "jkek-3zz3",
+    "displayName" : "Dean Larson",
+    "screenName" : "Dean Larson"
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "jkek-3zz3",
+    "displayName" : "Dean Larson",
+    "screenName" : "Dean Larson"
+  },
+  "tags" : [ "payroll", "reimbursements" ],
+  "flags" : [ "default" ]
+}, {
+  "id" : "vhm2-rnvr",
+  "name" : "Payroll Benefits 2012 Qtr1",
+  "averageRating" : 0,
+  "category" : "Government",
+  "createdAt" : 1353363433,
+  "displayType" : "table",
+  "downloadCount" : 41,
+  "newBackend" : false,
+  "numberOfComments" : 0,
+  "oid" : 1736112,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1353363503,
+  "publicationGroup" : 508129,
+  "publicationStage" : "published",
+  "rowClass" : "",
+  "rowsUpdatedAt" : 1353363460,
+  "rowsUpdatedBy" : "jkek-3zz3",
+  "signed" : false,
+  "tableId" : 508129,
+  "totalTimesRated" : 0,
+  "viewCount" : 1025,
+  "viewLastModified" : 1353449406,
+  "viewType" : "tabular",
+  "grants" : [ {
+    "inherited" : false,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "renderTypeConfig" : {
+      "visible" : {
+        "table" : true
+      }
+    },
+    "availableDisplayTypes" : [ "table", "fatrow", "page" ],
+    "rdfSubject" : "0",
+    "rowIdentifier" : "0",
+    "rdfClass" : ""
+  },
+  "owner" : {
+    "id" : "jkek-3zz3",
+    "displayName" : "Dean Larson",
+    "screenName" : "Dean Larson"
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "jkek-3zz3",
+    "displayName" : "Dean Larson",
+    "screenName" : "Dean Larson"
+  },
+  "tags" : [ "payroll" ],
+  "flags" : [ "default" ]
+}, {
+  "id" : "5sre-9a84",
+  "name" : "SLC Xwalks2013",
+  "averageRating" : 0,
+  "blobFilename" : "SLC_xwalks2013.zip",
+  "blobFileSize" : 73080,
+  "blobId" : "L8pyi4lFlNWDOT2tYptCrbrXVMo-iZh_eDMgdHCT1TQ",
+  "blobMimeType" : "application/zip; charset=binary",
+  "category" : "Government",
+  "createdAt" : 1362521841,
+  "description" : "Salt Lake City Crosswalks",
+  "displayType" : "map",
+  "downloadCount" : 0,
+  "indexUpdatedAt" : 1362521911,
+  "newBackend" : false,
+  "numberOfComments" : 0,
+  "oid" : 2722264,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1362521850,
+  "publicationGroup" : 715995,
+  "publicationStage" : "published",
+  "signed" : false,
+  "tableId" : 715995,
+  "totalTimesRated" : 0,
+  "viewCount" : 33,
+  "viewLastModified" : 1362521885,
+  "viewType" : "geo",
+  "childViews" : [ "8inq-2ggz" ],
+  "grants" : [ {
+    "inherited" : false,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "renderTypeConfig" : {
+      "visible" : {
+        "map" : true
+      }
+    },
+    "availableDisplayTypes" : [ "map", "table", "fatrow", "page" ],
+    "geo" : {
+      "owsUrl" : "/api/geospatial/5sre-9a84",
+      "bbox" : "-112.02551759776725,40.70502446490937,-111.80585629280091,40.80609995090576",
+      "layers" : "geo_5sre-9a84-1",
+      "featureIdAttribute" : "_SocrataID",
+      "bboxCrs" : "EPSG:4326",
+      "namespace" : "geo_5sre-9a84"
+    }
+  },
+  "owner" : {
+    "id" : "jkek-3zz3",
+    "displayName" : "Dean Larson",
+    "screenName" : "Dean Larson"
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "jkek-3zz3",
+    "displayName" : "Dean Larson",
+    "screenName" : "Dean Larson"
+  },
+  "tags" : [ "crosswalk" ],
+  "flags" : [ "default" ]
+}, {
+  "id" : "fthp-f7h3",
+  "name" : "Payroll Reimbursements 2012 Qtr1",
+  "averageRating" : 0,
+  "category" : "Government",
+  "createdAt" : 1353363728,
+  "displayType" : "table",
+  "downloadCount" : 17,
+  "newBackend" : false,
+  "numberOfComments" : 0,
+  "oid" : 1736122,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1353363792,
+  "publicationGroup" : 508137,
+  "publicationStage" : "published",
+  "rowClass" : "",
+  "rowsUpdatedAt" : 1353363740,
+  "rowsUpdatedBy" : "jkek-3zz3",
+  "signed" : false,
+  "tableId" : 508137,
+  "totalTimesRated" : 0,
+  "viewCount" : 33,
+  "viewLastModified" : 1353450217,
+  "viewType" : "tabular",
+  "grants" : [ {
+    "inherited" : false,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "renderTypeConfig" : {
+      "visible" : {
+        "table" : true
+      }
+    },
+    "availableDisplayTypes" : [ "table", "fatrow", "page" ],
+    "rdfSubject" : "0",
+    "rowIdentifier" : "0",
+    "rdfClass" : ""
+  },
+  "owner" : {
+    "id" : "jkek-3zz3",
+    "displayName" : "Dean Larson",
+    "screenName" : "Dean Larson"
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "jkek-3zz3",
+    "displayName" : "Dean Larson",
+    "screenName" : "Dean Larson"
+  },
+  "tags" : [ "payroll", "reimbursements" ],
+  "flags" : [ "default" ]
+}, {
+  "id" : "5h33-khmk",
+  "name" : "Payroll Benefits 2012 Qtr3",
+  "averageRating" : 0,
+  "category" : "Government",
+  "createdAt" : 1353364179,
+  "displayType" : "table",
+  "downloadCount" : 44,
+  "newBackend" : false,
+  "numberOfComments" : 0,
+  "oid" : 1736146,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1353364274,
+  "publicationGroup" : 508150,
+  "publicationStage" : "published",
+  "rowClass" : "",
+  "rowsUpdatedAt" : 1353364209,
+  "rowsUpdatedBy" : "jkek-3zz3",
+  "signed" : false,
+  "tableId" : 508150,
+  "totalTimesRated" : 0,
+  "viewCount" : 1017,
+  "viewLastModified" : 1353449254,
+  "viewType" : "tabular",
+  "grants" : [ {
+    "inherited" : false,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "renderTypeConfig" : {
+      "visible" : {
+        "table" : true
+      }
+    },
+    "availableDisplayTypes" : [ "table", "fatrow", "page" ],
+    "rdfSubject" : "0",
+    "rowIdentifier" : "0",
+    "rdfClass" : ""
+  },
+  "owner" : {
+    "id" : "jkek-3zz3",
+    "displayName" : "Dean Larson",
+    "screenName" : "Dean Larson"
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "jkek-3zz3",
+    "displayName" : "Dean Larson",
+    "screenName" : "Dean Larson"
+  },
+  "tags" : [ "payroll" ],
+  "flags" : [ "default" ]
+}, {
+  "id" : "kz9n-dpay",
+  "name" : "Payroll 2012 Qtr2",
+  "averageRating" : 0,
+  "category" : "Business",
+  "createdAt" : 1353363947,
+  "displayType" : "table",
+  "downloadCount" : 26,
+  "newBackend" : false,
+  "numberOfComments" : 0,
+  "oid" : 1736130,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1353364057,
+  "publicationGroup" : 508145,
+  "publicationStage" : "published",
+  "rowClass" : "",
+  "rowsUpdatedAt" : 1353363962,
+  "rowsUpdatedBy" : "jkek-3zz3",
+  "signed" : false,
+  "tableId" : 508145,
+  "totalTimesRated" : 0,
+  "viewCount" : 430,
+  "viewLastModified" : 1353449786,
+  "viewType" : "tabular",
+  "grants" : [ {
+    "inherited" : false,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "renderTypeConfig" : {
+      "visible" : {
+        "table" : true
+      }
+    },
+    "availableDisplayTypes" : [ "table", "fatrow", "page" ],
+    "rdfSubject" : "0",
+    "rowIdentifier" : "0",
+    "rdfClass" : ""
+  },
+  "owner" : {
+    "id" : "jkek-3zz3",
+    "displayName" : "Dean Larson",
+    "screenName" : "Dean Larson"
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "jkek-3zz3",
+    "displayName" : "Dean Larson",
+    "screenName" : "Dean Larson"
+  },
+  "tags" : [ "payroll" ],
+  "flags" : [ "default" ]
+}, {
+  "id" : "dait-ivxs",
+  "name" : "Payroll Benefits 2012 Qtr2",
+  "averageRating" : 0,
+  "createdAt" : 1354643612,
+  "displayType" : "table",
+  "downloadCount" : 39,
+  "newBackend" : false,
+  "numberOfComments" : 0,
+  "oid" : 1897444,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1354643699,
+  "publicationGroup" : 536689,
+  "publicationStage" : "published",
+  "rowsUpdatedAt" : 1354643639,
+  "rowsUpdatedBy" : "jkek-3zz3",
+  "signed" : false,
+  "tableId" : 536689,
+  "totalTimesRated" : 0,
+  "viewCount" : 1028,
+  "viewLastModified" : 1354643699,
+  "viewType" : "tabular",
+  "grants" : [ {
+    "inherited" : false,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "renderTypeConfig" : {
+      "visible" : {
+        "table" : true
+      }
+    },
+    "availableDisplayTypes" : [ "table", "fatrow", "page" ]
+  },
+  "owner" : {
+    "id" : "jkek-3zz3",
+    "displayName" : "Dean Larson",
+    "screenName" : "Dean Larson"
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "jkek-3zz3",
+    "displayName" : "Dean Larson",
+    "screenName" : "Dean Larson"
+  },
+  "tags" : [ "payroll", "benefits" ],
+  "flags" : [ "default" ]
+}, {
+  "id" : "uh9c-a9zt",
+  "name" : "Payroll Reimbursements 2012 Qtr3",
+  "averageRating" : 0,
+  "category" : "Government",
+  "createdAt" : 1353364950,
+  "displayType" : "table",
+  "downloadCount" : 18,
+  "newBackend" : false,
+  "numberOfComments" : 0,
+  "oid" : 1736286,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1353365019,
+  "publicationGroup" : 508173,
+  "publicationStage" : "published",
+  "rowClass" : "",
+  "rowsUpdatedAt" : 1353364963,
+  "rowsUpdatedBy" : "jkek-3zz3",
+  "signed" : false,
+  "tableId" : 508173,
+  "totalTimesRated" : 0,
+  "viewCount" : 42,
+  "viewLastModified" : 1353449930,
+  "viewType" : "tabular",
+  "grants" : [ {
+    "inherited" : false,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "renderTypeConfig" : {
+      "visible" : {
+        "table" : true
+      }
+    },
+    "availableDisplayTypes" : [ "table", "fatrow", "page" ],
+    "rdfSubject" : "0",
+    "rowIdentifier" : "0",
+    "rdfClass" : ""
+  },
+  "owner" : {
+    "id" : "jkek-3zz3",
+    "displayName" : "Dean Larson",
+    "screenName" : "Dean Larson"
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "jkek-3zz3",
+    "displayName" : "Dean Larson",
+    "screenName" : "Dean Larson"
+  },
+  "tags" : [ "payroll", "reimbursements" ],
+  "flags" : [ "default" ]
+}, {
+  "id" : "3kgt-vcwy",
+  "name" : "Payroll Reimbursements 2012 Qtr2",
+  "averageRating" : 0,
+  "category" : "Government",
+  "createdAt" : 1353362456,
+  "displayType" : "table",
+  "downloadCount" : 17,
+  "newBackend" : false,
+  "numberOfComments" : 0,
+  "oid" : 1735963,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1353362506,
+  "publicationGroup" : 508100,
+  "publicationStage" : "published",
+  "rowClass" : "",
+  "rowsUpdatedAt" : 1353362468,
+  "rowsUpdatedBy" : "jkek-3zz3",
+  "signed" : false,
+  "tableId" : 508100,
+  "totalTimesRated" : 0,
+  "viewCount" : 32,
+  "viewLastModified" : 1353449996,
+  "viewType" : "tabular",
+  "grants" : [ {
+    "inherited" : false,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "renderTypeConfig" : {
+      "visible" : {
+        "table" : true
+      }
+    },
+    "availableDisplayTypes" : [ "table", "fatrow", "page" ],
+    "rdfSubject" : "0",
+    "rowIdentifier" : "0",
+    "rdfClass" : ""
+  },
+  "owner" : {
+    "id" : "jkek-3zz3",
+    "displayName" : "Dean Larson",
+    "screenName" : "Dean Larson"
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "jkek-3zz3",
+    "displayName" : "Dean Larson",
+    "screenName" : "Dean Larson"
+  },
+  "tags" : [ "payroll", "reimbursements" ],
+  "flags" : [ "default" ]
+}, {
+  "id" : "tn2w-p83j",
+  "name" : "Payroll 2012 Qtr3",
+  "averageRating" : 0,
+  "category" : "Business",
+  "createdAt" : 1353362593,
+  "displayType" : "table",
+  "downloadCount" : 86,
+  "newBackend" : false,
+  "numberOfComments" : 0,
+  "oid" : 1735966,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1353362650,
+  "publicationGroup" : 508103,
+  "publicationStage" : "published",
+  "rowClass" : "",
+  "rowsUpdatedAt" : 1353362608,
+  "rowsUpdatedBy" : "jkek-3zz3",
+  "signed" : false,
+  "tableId" : 508103,
+  "totalTimesRated" : 0,
+  "viewCount" : 444,
+  "viewLastModified" : 1353449853,
+  "viewType" : "tabular",
+  "grants" : [ {
+    "inherited" : false,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "renderTypeConfig" : {
+      "visible" : {
+        "table" : true
+      }
+    },
+    "availableDisplayTypes" : [ "table", "fatrow", "page" ],
+    "rdfSubject" : "0",
+    "rowIdentifier" : "0",
+    "rdfClass" : ""
+  },
+  "owner" : {
+    "id" : "jkek-3zz3",
+    "displayName" : "Dean Larson",
+    "screenName" : "Dean Larson"
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "jkek-3zz3",
+    "displayName" : "Dean Larson",
+    "screenName" : "Dean Larson"
+  },
+  "tags" : [ "payroll" ],
+  "flags" : [ "default" ]
+}, {
+  "id" : "5f5e-rfen",
+  "name" : "Final Plat",
+  "averageRating" : 0,
+  "createdAt" : 1365641580,
+  "description" : "Salt Lake City Planning Permits",
+  "displayType" : "table",
+  "downloadCount" : 69,
+  "indexUpdatedAt" : 1386704984,
+  "newBackend" : false,
+  "numberOfComments" : 0,
+  "oid" : 6758056,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1386702569,
+  "publicationGroup" : 780911,
+  "publicationStage" : "published",
+  "rowsUpdatedAt" : 1386700728,
+  "rowsUpdatedBy" : "i9pg-v7wp",
+  "signed" : false,
+  "tableId" : 1394055,
+  "totalTimesRated" : 0,
+  "viewCount" : 54,
+  "viewLastModified" : 1365641632,
+  "viewType" : "tabular",
+  "grants" : [ {
+    "inherited" : true,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "renderTypeConfig" : {
+      "visible" : {
+        "table" : true
+      }
+    },
+    "availableDisplayTypes" : [ "table", "fatrow", "page" ]
+  },
+  "owner" : {
+    "id" : "e83w-vpb9",
+    "displayName" : "nolewalkingshaw",
+    "profileImageUrlLarge" : "/images/profile/7942/2651/image_large.jpg",
+    "profileImageUrlMedium" : "/images/profile/7942/2651/image_thumb.jpg",
+    "profileImageUrlSmall" : "/images/profile/7942/2651/image_tiny.jpg",
+    "screenName" : "nolewalkingshaw"
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "i9pg-v7wp",
+    "displayName" : "Long Doan",
+    "screenName" : "Long Doan"
+  },
+  "tags" : [ "salt lake city planning permits" ]
+}, {
+  "id" : "ugfz-sxyz",
+  "name" : "Water Consumption By Tract",
+  "averageRating" : 0,
+  "category" : "Government",
+  "createdAt" : 1380642810,
+  "description" : "Water Consumption by tract   2000- onward",
+  "displayType" : "table",
+  "downloadCount" : 3,
+  "indexUpdatedAt" : 1386983232,
+  "newBackend" : false,
+  "numberOfComments" : 0,
+  "oid" : 6795780,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1386969197,
+  "publicationGroup" : 1205571,
+  "publicationStage" : "published",
+  "rowsUpdatedAt" : 1386969185,
+  "rowsUpdatedBy" : "jkek-3zz3",
+  "signed" : false,
+  "tableId" : 1398406,
+  "totalTimesRated" : 0,
+  "viewCount" : 177,
+  "viewLastModified" : 1386969197,
+  "viewType" : "tabular",
+  "grants" : [ {
+    "inherited" : false,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "renderTypeConfig" : {
+      "visible" : {
+        "table" : true
+      }
+    },
+    "availableDisplayTypes" : [ "table", "fatrow", "page" ]
+  },
+  "owner" : {
+    "id" : "jkek-3zz3",
+    "displayName" : "Dean Larson",
+    "screenName" : "Dean Larson"
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "jkek-3zz3",
+    "displayName" : "Dean Larson",
+    "screenName" : "Dean Larson"
+  },
+  "tags" : [ "water consumption" ],
+  "flags" : [ "default" ]
+}, {
+  "id" : "s79j-pjmr",
+  "name" : "Water Consumption By Block",
+  "averageRating" : 0,
+  "category" : "Government",
+  "createdAt" : 1380645937,
+  "description" : "Water Consumption by Block   2000-current",
+  "displayType" : "table",
+  "downloadCount" : 7,
+  "indexUpdatedAt" : 1386984304,
+  "newBackend" : false,
+  "numberOfComments" : 0,
+  "oid" : 6795762,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1386969002,
+  "publicationGroup" : 1205705,
+  "publicationStage" : "published",
+  "rowsUpdatedAt" : 1386968927,
+  "rowsUpdatedBy" : "jkek-3zz3",
+  "signed" : false,
+  "tableId" : 1398400,
+  "totalTimesRated" : 0,
+  "viewCount" : 322,
+  "viewLastModified" : 1386969002,
+  "viewType" : "tabular",
+  "grants" : [ {
+    "inherited" : false,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "renderTypeConfig" : {
+      "visible" : {
+        "table" : true
+      }
+    },
+    "availableDisplayTypes" : [ "table", "fatrow", "page" ]
+  },
+  "owner" : {
+    "id" : "jkek-3zz3",
+    "displayName" : "Dean Larson",
+    "screenName" : "Dean Larson"
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "jkek-3zz3",
+    "displayName" : "Dean Larson",
+    "screenName" : "Dean Larson"
+  },
+  "tags" : [ "water consumption" ],
+  "flags" : [ "default" ]
+}, {
+  "id" : "7vfv-qtsf",
+  "name" : "Planning1",
+  "averageRating" : 0,
+  "createdAt" : 1386108544,
+  "description" : "Salt Lake City Planning Permits",
+  "displayType" : "table",
+  "downloadCount" : 5,
+  "indexUpdatedAt" : 1386704363,
+  "newBackend" : false,
+  "numberOfComments" : 0,
+  "oid" : 6758052,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1386702569,
+  "publicationGroup" : 780911,
+  "publicationStage" : "published",
+  "rowsUpdatedAt" : 1386700728,
+  "rowsUpdatedBy" : "i9pg-v7wp",
+  "signed" : false,
+  "tableId" : 1394055,
+  "totalTimesRated" : 0,
+  "viewCount" : 63,
+  "viewLastModified" : 1386110413,
+  "viewType" : "tabular",
+  "grants" : [ {
+    "inherited" : true,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "renderTypeConfig" : {
+      "visible" : {
+        "table" : true
+      }
+    },
+    "availableDisplayTypes" : [ "table", "fatrow", "page" ]
+  },
+  "owner" : {
+    "id" : "e83w-vpb9",
+    "displayName" : "nolewalkingshaw",
+    "profileImageUrlLarge" : "/images/profile/7942/2651/image_large.jpg",
+    "profileImageUrlMedium" : "/images/profile/7942/2651/image_thumb.jpg",
+    "profileImageUrlSmall" : "/images/profile/7942/2651/image_tiny.jpg",
+    "screenName" : "nolewalkingshaw"
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "i9pg-v7wp",
+    "displayName" : "Long Doan",
+    "screenName" : "Long Doan"
+  },
+  "tags" : [ "salt lake city planning permits" ]
+}, {
+  "id" : "e82v-m3sg",
+  "name" : "Planning Petitions and Building Permits",
+  "averageRating" : 0,
+  "createdAt" : 1378694829,
+  "description" : "Salt Lake City Planning Permits",
+  "displayType" : "map",
+  "downloadCount" : 59,
+  "indexUpdatedAt" : 1386704368,
+  "newBackend" : false,
+  "numberOfComments" : 0,
+  "oid" : 6758053,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1386702569,
+  "publicationGroup" : 780911,
+  "publicationStage" : "published",
+  "rowsUpdatedAt" : 1386700728,
+  "rowsUpdatedBy" : "i9pg-v7wp",
+  "signed" : false,
+  "tableId" : 1394055,
+  "totalTimesRated" : 0,
+  "viewCount" : 175,
+  "viewLastModified" : 1378932958,
+  "viewType" : "tabular",
+  "grants" : [ {
+    "inherited" : true,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "renderTypeConfig" : {
+      "visible" : {
+        "map" : true
+      },
+      "active" : {
+        "page" : {
+          "id" : "self"
+        },
+        "fatrow" : {
+          "id" : "self"
+        },
+        "table" : {
+          "id" : "self"
+        }
+      }
+    },
+    "availableDisplayTypes" : [ "map", "table", "fatrow", "page" ],
+    "query" : {
+      "8m2r-p53k" : {
+        "filterCondition" : {
+          "value" : "AND",
+          "children" : [ {
+            "value" : "OR",
+            "type" : "operator",
+            "metadata" : {
+              "customValues" : [ [ "2012-01-01T00:00:00" ] ],
+              "tableColumnId" : {
+                "780901" : 9274626
+              },
+              "operator" : "GREATER_THAN"
+            }
+          } ],
+          "type" : "operator",
+          "metadata" : {
+            "unifiedVersion" : 2,
+            "advanced" : true
+          }
+        }
+      }
+    }
+  },
+  "owner" : {
+    "id" : "e83w-vpb9",
+    "displayName" : "nolewalkingshaw",
+    "profileImageUrlLarge" : "/images/profile/7942/2651/image_large.jpg",
+    "profileImageUrlMedium" : "/images/profile/7942/2651/image_thumb.jpg",
+    "profileImageUrlSmall" : "/images/profile/7942/2651/image_tiny.jpg",
+    "screenName" : "nolewalkingshaw"
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "i9pg-v7wp",
+    "displayName" : "Long Doan",
+    "screenName" : "Long Doan"
+  },
+  "tags" : [ "salt lake city planning permits" ]
+}, {
+  "id" : "epu4-hi64",
+  "name" : "E View",
+  "averageRating" : 0,
+  "createdAt" : 1378933268,
+  "description" : "Salt Lake City Planning Permits",
+  "displayType" : "map",
+  "downloadCount" : 8,
+  "indexUpdatedAt" : 1386704957,
+  "newBackend" : false,
+  "numberOfComments" : 0,
+  "oid" : 6758059,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1386702569,
+  "publicationGroup" : 780911,
+  "publicationStage" : "published",
+  "rowsUpdatedAt" : 1386700728,
+  "rowsUpdatedBy" : "i9pg-v7wp",
+  "signed" : false,
+  "tableId" : 1394055,
+  "totalTimesRated" : 0,
+  "viewCount" : 184,
+  "viewLastModified" : 1378933938,
+  "viewType" : "tabular",
+  "grants" : [ {
+    "inherited" : true,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "renderTypeConfig" : {
+      "visible" : {
+        "map" : true
+      },
+      "active" : {
+        "fatrow" : {
+          "id" : "self"
+        },
+        "page" : {
+          "id" : "self"
+        },
+        "table" : {
+          "id" : "self"
+        }
+      }
+    },
+    "availableDisplayTypes" : [ "map", "table", "fatrow", "page" ],
+    "query" : {
+      "8m2r-p53k" : {
+        "filterCondition" : {
+          "value" : "AND",
+          "children" : [ {
+            "value" : "OR",
+            "type" : "operator",
+            "metadata" : {
+              "customValues" : [ [ "2012-01-01T00:00:00" ] ],
+              "tableColumnId" : {
+                "780901" : 9274626
+              },
+              "operator" : "GREATER_THAN"
+            }
+          } ],
+          "type" : "operator",
+          "metadata" : {
+            "unifiedVersion" : 2,
+            "advanced" : true
+          }
+        }
+      }
+    }
+  },
+  "owner" : {
+    "id" : "e83w-vpb9",
+    "displayName" : "nolewalkingshaw",
+    "profileImageUrlLarge" : "/images/profile/7942/2651/image_large.jpg",
+    "profileImageUrlMedium" : "/images/profile/7942/2651/image_thumb.jpg",
+    "profileImageUrlSmall" : "/images/profile/7942/2651/image_tiny.jpg",
+    "screenName" : "nolewalkingshaw"
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "i9pg-v7wp",
+    "displayName" : "Long Doan",
+    "screenName" : "Long Doan"
+  },
+  "tags" : [ "salt lake city planning permits" ]
+}, {
+  "id" : "k35s-9qmi",
+  "name" : "Planning Applications 2013",
+  "averageRating" : 0,
+  "createdAt" : 1386168897,
+  "description" : "Salt Lake City Planning Permits",
+  "displayType" : "table",
+  "downloadCount" : 5,
+  "indexUpdatedAt" : 1386704363,
+  "newBackend" : false,
+  "numberOfComments" : 0,
+  "oid" : 6758051,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1386702569,
+  "publicationGroup" : 780911,
+  "publicationStage" : "published",
+  "rowsUpdatedAt" : 1386700728,
+  "rowsUpdatedBy" : "i9pg-v7wp",
+  "signed" : false,
+  "tableId" : 1394055,
+  "totalTimesRated" : 0,
+  "viewCount" : 36,
+  "viewLastModified" : 1386175566,
+  "viewType" : "tabular",
+  "grants" : [ {
+    "inherited" : true,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "renderTypeConfig" : {
+      "visible" : {
+        "table" : true
+      }
+    },
+    "availableDisplayTypes" : [ "table", "fatrow", "page" ],
+    "sidebar" : {
+      "width" : 300
+    }
+  },
+  "owner" : {
+    "id" : "e83w-vpb9",
+    "displayName" : "nolewalkingshaw",
+    "profileImageUrlLarge" : "/images/profile/7942/2651/image_large.jpg",
+    "profileImageUrlMedium" : "/images/profile/7942/2651/image_thumb.jpg",
+    "profileImageUrlSmall" : "/images/profile/7942/2651/image_tiny.jpg",
+    "screenName" : "nolewalkingshaw"
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "i9pg-v7wp",
+    "displayName" : "Long Doan",
+    "screenName" : "Long Doan"
+  },
+  "tags" : [ "salt lake city planning permits" ]
+}, {
+  "id" : "m8iz-py6s",
+  "name" : "Planning Petitions",
+  "averageRating" : 0,
+  "createdAt" : 1378930039,
+  "description" : "Salt Lake City Planning Permits",
+  "displayType" : "map",
+  "downloadCount" : 10,
+  "indexUpdatedAt" : 1386704986,
+  "newBackend" : false,
+  "numberOfComments" : 0,
+  "oid" : 6758057,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1386702569,
+  "publicationGroup" : 780911,
+  "publicationStage" : "published",
+  "rowsUpdatedAt" : 1386700728,
+  "rowsUpdatedBy" : "i9pg-v7wp",
+  "signed" : false,
+  "tableId" : 1394055,
+  "totalTimesRated" : 0,
+  "viewCount" : 159,
+  "viewLastModified" : 1378930368,
+  "viewType" : "tabular",
+  "grants" : [ {
+    "inherited" : true,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "renderTypeConfig" : {
+      "visible" : {
+        "map" : true
+      },
+      "active" : {
+        "page" : {
+          "id" : "self"
+        },
+        "table" : {
+          "id" : "self"
+        }
+      }
+    },
+    "availableDisplayTypes" : [ "map", "table", "fatrow", "page" ]
+  },
+  "owner" : {
+    "id" : "e83w-vpb9",
+    "displayName" : "nolewalkingshaw",
+    "profileImageUrlLarge" : "/images/profile/7942/2651/image_large.jpg",
+    "profileImageUrlMedium" : "/images/profile/7942/2651/image_thumb.jpg",
+    "profileImageUrlSmall" : "/images/profile/7942/2651/image_tiny.jpg",
+    "screenName" : "nolewalkingshaw"
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "i9pg-v7wp",
+    "displayName" : "Long Doan",
+    "screenName" : "Long Doan"
+  },
+  "tags" : [ "salt lake city planning permits" ]
+}, {
+  "id" : "smri-mj5y",
+  "name" : "Planning2",
+  "averageRating" : 0,
+  "createdAt" : 1378692363,
+  "description" : "Salt Lake City Planning Permits",
+  "displayType" : "map",
+  "downloadCount" : 56,
+  "indexUpdatedAt" : 1386704367,
+  "newBackend" : false,
+  "numberOfComments" : 0,
+  "oid" : 6758054,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1386702569,
+  "publicationGroup" : 780911,
+  "publicationStage" : "published",
+  "rowsUpdatedAt" : 1386700728,
+  "rowsUpdatedBy" : "i9pg-v7wp",
+  "signed" : false,
+  "tableId" : 1394055,
+  "totalTimesRated" : 0,
+  "viewCount" : 125,
+  "viewLastModified" : 1378693648,
+  "viewType" : "tabular",
+  "grants" : [ {
+    "inherited" : true,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "renderTypeConfig" : {
+      "visible" : {
+        "map" : true
+      },
+      "active" : {
+        "page" : {
+          "id" : "self"
+        },
+        "table" : {
+          "id" : "self"
+        }
+      }
+    },
+    "availableDisplayTypes" : [ "map", "table", "fatrow", "page" ]
+  },
+  "owner" : {
+    "id" : "e83w-vpb9",
+    "displayName" : "nolewalkingshaw",
+    "profileImageUrlLarge" : "/images/profile/7942/2651/image_large.jpg",
+    "profileImageUrlMedium" : "/images/profile/7942/2651/image_thumb.jpg",
+    "profileImageUrlSmall" : "/images/profile/7942/2651/image_tiny.jpg",
+    "screenName" : "nolewalkingshaw"
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "i9pg-v7wp",
+    "displayName" : "Long Doan",
+    "screenName" : "Long Doan"
+  },
+  "tags" : [ "salt lake city planning permits" ]
+}, {
+  "id" : "3auw-s6ah",
+  "name" : "Building Permits 2",
+  "averageRating" : 0,
+  "createdAt" : 1378496669,
+  "description" : "Salt Lake City Building Permits",
+  "displayType" : "map",
+  "downloadCount" : 5,
+  "indexUpdatedAt" : 1386703115,
+  "newBackend" : false,
+  "numberOfComments" : 0,
+  "oid" : 6758049,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1386702470,
+  "publicationGroup" : 780901,
+  "publicationStage" : "published",
+  "rowsUpdatedAt" : 1386700694,
+  "rowsUpdatedBy" : "i9pg-v7wp",
+  "signed" : false,
+  "tableId" : 1394044,
+  "totalTimesRated" : 0,
+  "viewCount" : 202,
+  "viewLastModified" : 1378497115,
+  "viewType" : "tabular",
+  "grants" : [ {
+    "inherited" : true,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "renderTypeConfig" : {
+      "visible" : {
+        "map" : true,
+        "table" : true
+      }
+    },
+    "availableDisplayTypes" : [ "map", "table", "fatrow", "page" ]
+  },
+  "owner" : {
+    "id" : "w3kf-6itk",
+    "displayName" : "Lisa",
+    "screenName" : "Lisa"
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "i9pg-v7wp",
+    "displayName" : "Long Doan",
+    "screenName" : "Long Doan"
+  },
+  "tags" : [ "salt lake city building permits" ]
+}, {
+  "id" : "5gsj-w587",
+  "name" : "Building Permits",
+  "averageRating" : 0,
+  "createdAt" : 1365353980,
+  "description" : "Salt Lake City Building Permits",
+  "displayType" : "table",
+  "downloadCount" : 21,
+  "indexUpdatedAt" : 1386703110,
+  "newBackend" : false,
+  "numberOfComments" : 0,
+  "oid" : 6757702,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1386702470,
+  "publicationGroup" : 780901,
+  "publicationStage" : "published",
+  "rowsUpdatedAt" : 1386700694,
+  "rowsUpdatedBy" : "i9pg-v7wp",
+  "signed" : false,
+  "tableId" : 1394044,
+  "totalTimesRated" : 0,
+  "viewCount" : 483,
+  "viewLastModified" : 1386702470,
+  "viewType" : "tabular",
+  "grants" : [ {
+    "inherited" : true,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "renderTypeConfig" : {
+      "visible" : {
+        "table" : true
+      }
+    },
+    "availableDisplayTypes" : [ "table", "fatrow", "page" ]
+  },
+  "owner" : {
+    "id" : "i9pg-v7wp",
+    "displayName" : "Long Doan",
+    "screenName" : "Long Doan"
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "i9pg-v7wp",
+    "displayName" : "Long Doan",
+    "screenName" : "Long Doan"
+  },
+  "tags" : [ "salt lake city building permits" ],
+  "flags" : [ "default" ]
+}, {
+  "id" : "79jz-dibw",
+  "name" : "Inspections 1",
+  "averageRating" : 0,
+  "createdAt" : 1365440626,
+  "description" : "Salt Lake City Building Permits",
+  "displayType" : "table",
+  "downloadCount" : 16,
+  "indexUpdatedAt" : 1386703107,
+  "newBackend" : false,
+  "numberOfComments" : 0,
+  "oid" : 6758047,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1386702470,
+  "publicationGroup" : 780901,
+  "publicationStage" : "published",
+  "rowsUpdatedAt" : 1386700694,
+  "rowsUpdatedBy" : "i9pg-v7wp",
+  "signed" : false,
+  "tableId" : 1394044,
+  "totalTimesRated" : 0,
+  "viewCount" : 25,
+  "viewLastModified" : 1365440626,
+  "viewType" : "tabular",
+  "grants" : [ {
+    "inherited" : true,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "renderTypeConfig" : {
+      "visible" : {
+        "table" : true
+      }
+    },
+    "availableDisplayTypes" : [ "table", "fatrow", "page" ]
+  },
+  "owner" : {
+    "id" : "wzrb-xktg",
+    "displayName" : "Les Koch",
+    "screenName" : "Les Koch"
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "i9pg-v7wp",
+    "displayName" : "Long Doan",
+    "screenName" : "Long Doan"
+  },
+  "tags" : [ "salt lake city building permits" ]
+}, {
+  "id" : "8m2r-p53k",
+  "name" : "Building Permits 3",
+  "averageRating" : 0,
+  "createdAt" : 1378930854,
+  "description" : "Salt Lake City Building Permits",
+  "displayType" : "map",
+  "downloadCount" : 7,
+  "indexUpdatedAt" : 1386703115,
+  "newBackend" : false,
+  "numberOfComments" : 0,
+  "oid" : 6758046,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1386702470,
+  "publicationGroup" : 780901,
+  "publicationStage" : "published",
+  "rowsUpdatedAt" : 1386700694,
+  "rowsUpdatedBy" : "i9pg-v7wp",
+  "signed" : false,
+  "tableId" : 1394044,
+  "totalTimesRated" : 0,
+  "viewCount" : 206,
+  "viewLastModified" : 1378931561,
+  "viewType" : "tabular",
+  "grants" : [ {
+    "inherited" : true,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "renderTypeConfig" : {
+      "visible" : {
+        "map" : true
+      },
+      "active" : {
+        "table" : {
+          "id" : "self"
+        }
+      }
+    },
+    "availableDisplayTypes" : [ "map", "table", "fatrow", "page" ]
+  },
+  "owner" : {
+    "id" : "e83w-vpb9",
+    "displayName" : "nolewalkingshaw",
+    "profileImageUrlLarge" : "/images/profile/7942/2651/image_large.jpg",
+    "profileImageUrlMedium" : "/images/profile/7942/2651/image_thumb.jpg",
+    "profileImageUrlSmall" : "/images/profile/7942/2651/image_tiny.jpg",
+    "screenName" : "nolewalkingshaw"
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "i9pg-v7wp",
+    "displayName" : "Long Doan",
+    "screenName" : "Long Doan"
+  },
+  "tags" : [ "salt lake city building permits" ]
+}, {
+  "id" : "92gv-x3hr",
+  "name" : "Building 1",
+  "averageRating" : 0,
+  "createdAt" : 1365447480,
+  "description" : "Salt Lake City Building Permits",
+  "displayType" : "map",
+  "downloadCount" : 11,
+  "indexUpdatedAt" : 1386703117,
+  "newBackend" : false,
+  "numberOfComments" : 0,
+  "oid" : 6758050,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1386702470,
+  "publicationGroup" : 780901,
+  "publicationStage" : "published",
+  "rowsUpdatedAt" : 1386700694,
+  "rowsUpdatedBy" : "i9pg-v7wp",
+  "signed" : false,
+  "tableId" : 1394044,
+  "totalTimesRated" : 0,
+  "viewCount" : 386,
+  "viewLastModified" : 1365447664,
+  "viewType" : "tabular",
+  "grants" : [ {
+    "inherited" : true,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "renderTypeConfig" : {
+      "visible" : {
+        "map" : true,
+        "table" : true
+      },
+      "active" : {
+        "table" : {
+          "id" : "self"
+        }
+      }
+    },
+    "availableDisplayTypes" : [ "map", "table", "fatrow", "page" ]
+  },
+  "owner" : {
+    "id" : "e83w-vpb9",
+    "displayName" : "nolewalkingshaw",
+    "profileImageUrlLarge" : "/images/profile/7942/2651/image_large.jpg",
+    "profileImageUrlMedium" : "/images/profile/7942/2651/image_thumb.jpg",
+    "profileImageUrlSmall" : "/images/profile/7942/2651/image_tiny.jpg",
+    "screenName" : "nolewalkingshaw"
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "i9pg-v7wp",
+    "displayName" : "Long Doan",
+    "screenName" : "Long Doan"
+  },
+  "tags" : [ "salt lake city building permits" ]
+}, {
+  "id" : "jphp-kas7",
+  "name" : "Permits Jan-June 2013",
+  "averageRating" : 0,
+  "createdAt" : 1378477041,
+  "description" : "Salt Lake City Building Permits",
+  "displayType" : "map",
+  "downloadCount" : 16,
+  "indexUpdatedAt" : 1386703108,
+  "newBackend" : false,
+  "numberOfComments" : 0,
+  "oid" : 6758048,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1386702470,
+  "publicationGroup" : 780901,
+  "publicationStage" : "published",
+  "rowsUpdatedAt" : 1386700694,
+  "rowsUpdatedBy" : "i9pg-v7wp",
+  "signed" : false,
+  "tableId" : 1394044,
+  "totalTimesRated" : 0,
+  "viewCount" : 184,
+  "viewLastModified" : 1378485200,
+  "viewType" : "tabular",
+  "grants" : [ {
+    "inherited" : true,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "renderTypeConfig" : {
+      "visible" : {
+        "page" : true,
+        "map" : true,
+        "table" : true
+      },
+      "active" : {
+        "page" : {
+          "id" : "jphp-kas7"
+        }
+      }
+    },
+    "availableDisplayTypes" : [ "map", "table", "fatrow", "page" ]
+  },
+  "owner" : {
+    "id" : "enrw-4hy3",
+    "displayName" : "KWALDENWOOD",
+    "screenName" : "KWALDENWOOD"
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "i9pg-v7wp",
+    "displayName" : "Long Doan",
+    "screenName" : "Long Doan"
+  },
+  "tags" : [ "salt lake city building permits" ]
+}, {
+  "id" : "agjx-fggm",
+  "name" : "Mobile Food",
+  "averageRating" : 0,
+  "createdAt" : 1379950660,
+  "description" : "Salt Lake City Current Business Liceses",
+  "displayType" : "table",
+  "downloadCount" : 10,
+  "indexUpdatedAt" : 1386702985,
+  "newBackend" : false,
+  "numberOfComments" : 0,
+  "oid" : 6758043,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1386702429,
+  "publicationGroup" : 779501,
+  "publicationStage" : "published",
+  "rowsUpdatedAt" : 1386700233,
+  "rowsUpdatedBy" : "i9pg-v7wp",
+  "signed" : false,
+  "tableId" : 1394041,
+  "totalTimesRated" : 0,
+  "viewCount" : 39,
+  "viewLastModified" : 1379953496,
+  "viewType" : "tabular",
+  "grants" : [ {
+    "inherited" : true,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "renderTypeConfig" : {
+      "visible" : {
+        "table" : true
+      }
+    },
+    "availableDisplayTypes" : [ "table", "fatrow", "page" ]
+  },
+  "owner" : {
+    "id" : "e83w-vpb9",
+    "displayName" : "nolewalkingshaw",
+    "profileImageUrlLarge" : "/images/profile/7942/2651/image_large.jpg",
+    "profileImageUrlMedium" : "/images/profile/7942/2651/image_thumb.jpg",
+    "profileImageUrlSmall" : "/images/profile/7942/2651/image_tiny.jpg",
+    "screenName" : "nolewalkingshaw"
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "i9pg-v7wp",
+    "displayName" : "Long Doan",
+    "screenName" : "Long Doan"
+  },
+  "tags" : [ "salt lake city current business licenses" ]
+}, {
+  "id" : "wrtx-pisx",
+  "name" : "Current Business Licenses",
+  "averageRating" : 0,
+  "createdAt" : 1365287802,
+  "description" : "Salt Lake City Current Business Liceses",
+  "displayType" : "table",
+  "downloadCount" : 22,
+  "indexUpdatedAt" : 1386703005,
+  "newBackend" : false,
+  "numberOfComments" : 0,
+  "oid" : 6757691,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1386702429,
+  "publicationGroup" : 779501,
+  "publicationStage" : "published",
+  "rowsUpdatedAt" : 1386700233,
+  "rowsUpdatedBy" : "i9pg-v7wp",
+  "signed" : false,
+  "tableId" : 1394041,
+  "totalTimesRated" : 0,
+  "viewCount" : 437,
+  "viewLastModified" : 1386702430,
+  "viewType" : "tabular",
+  "grants" : [ {
+    "inherited" : true,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "renderTypeConfig" : {
+      "visible" : {
+        "table" : true
+      }
+    },
+    "availableDisplayTypes" : [ "table", "fatrow", "page" ]
+  },
+  "owner" : {
+    "id" : "i9pg-v7wp",
+    "displayName" : "Long Doan",
+    "screenName" : "Long Doan"
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "i9pg-v7wp",
+    "displayName" : "Long Doan",
+    "screenName" : "Long Doan"
+  },
+  "tags" : [ "salt lake city current business licenses" ],
+  "flags" : [ "default" ]
+}, {
+  "id" : "sx9e-aefu",
+  "name" : "traffic",
+  "averageRating" : 0,
+  "createdAt" : 1380830506,
+  "description" : "Police cases 2013   year to date",
+  "displayType" : "table",
+  "downloadCount" : 9,
+  "indexUpdatedAt" : 1386158881,
+  "newBackend" : false,
+  "numberOfComments" : 0,
+  "oid" : 6685445,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1386102946,
+  "publicationGroup" : 783529,
+  "publicationStage" : "published",
+  "rowsUpdatedAt" : 1386102925,
+  "rowsUpdatedBy" : "jkek-3zz3",
+  "signed" : false,
+  "tableId" : 1325646,
+  "totalTimesRated" : 0,
+  "viewCount" : 280,
+  "viewLastModified" : 1380830915,
+  "viewType" : "tabular",
+  "grants" : [ {
+    "inherited" : true,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "renderTypeConfig" : {
+      "visible" : {
+        "table" : true
+      }
+    },
+    "availableDisplayTypes" : [ "map", "table", "fatrow", "page" ]
+  },
+  "owner" : {
+    "id" : "e83w-vpb9",
+    "displayName" : "nolewalkingshaw",
+    "profileImageUrlLarge" : "/images/profile/7942/2651/image_large.jpg",
+    "profileImageUrlMedium" : "/images/profile/7942/2651/image_thumb.jpg",
+    "profileImageUrlSmall" : "/images/profile/7942/2651/image_tiny.jpg",
+    "screenName" : "nolewalkingshaw"
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "jkek-3zz3",
+    "displayName" : "Dean Larson",
+    "screenName" : "Dean Larson"
+  },
+  "tags" : [ "police", "cases" ]
+}, {
+  "id" : "5ate-q28a",
+  "name" : "my assault at apt.",
+  "averageRating" : 0,
+  "createdAt" : 1375992800,
+  "description" : "Police call for service 2013 (ytd)",
+  "displayType" : "table",
+  "downloadCount" : 28,
+  "indexUpdatedAt" : 1386157795,
+  "newBackend" : false,
+  "numberOfComments" : 0,
+  "oid" : 6685423,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1386102746,
+  "publicationGroup" : 783511,
+  "publicationStage" : "published",
+  "rowsUpdatedAt" : 1386102712,
+  "rowsUpdatedBy" : "jkek-3zz3",
+  "signed" : false,
+  "tableId" : 1385635,
+  "totalTimesRated" : 0,
+  "viewCount" : 131,
+  "viewLastModified" : 1375992800,
+  "viewType" : "tabular",
+  "grants" : [ {
+    "inherited" : true,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "renderTypeConfig" : {
+      "visible" : {
+        "page" : true,
+        "table" : true
+      }
+    },
+    "availableDisplayTypes" : [ "table", "fatrow", "page" ]
+  },
+  "owner" : {
+    "id" : "5wfm-gkrf",
+    "displayName" : "1wildchik",
+    "screenName" : "1wildchik"
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "jkek-3zz3",
+    "displayName" : "Dean Larson",
+    "screenName" : "Dean Larson"
+  },
+  "tags" : [ "police", "calls" ]
+}, {
+  "id" : "jww7-nxe8",
+  "name" : "police cases 2013",
+  "averageRating" : 0,
+  "createdAt" : 1375993305,
+  "description" : "Police call for service 2013 (ytd)",
+  "displayType" : "map",
+  "downloadCount" : 28,
+  "indexUpdatedAt" : 1386158259,
+  "newBackend" : false,
+  "numberOfComments" : 0,
+  "oid" : 6685424,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1386102746,
+  "publicationGroup" : 783511,
+  "publicationStage" : "published",
+  "rowsUpdatedAt" : 1386102712,
+  "rowsUpdatedBy" : "jkek-3zz3",
+  "searchString" : "4/18/2013 ",
+  "signed" : false,
+  "tableId" : 1385635,
+  "totalTimesRated" : 0,
+  "viewCount" : 51,
+  "viewLastModified" : 1375993305,
+  "viewType" : "tabular",
+  "grants" : [ {
+    "inherited" : true,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "renderTypeConfig" : {
+      "visible" : {
+        "map" : true,
+        "table" : true
+      }
+    },
+    "availableDisplayTypes" : [ "map", "table", "fatrow", "page" ],
+    "conditionalFormatting" : [ {
+      "condition" : true,
+      "color" : "#ff0000",
+      "description" : "clear date is 04/18/2013, 04/19/2013, 04/20/2013"
+    }, {
+      "condition" : true,
+      "color" : "#ffff00",
+      "description" : "assault offense date and call"
+    }, {
+      "condition" : true,
+      "color" : "#00ffff",
+      "description" : "address 24 East 1700 South  "
+    }, {
+      "condition" : true,
+      "color" : "#00ff00",
+      "description" : "Brandi L Jenkins d/o/b 02/11/1970"
+    } ]
+  },
+  "owner" : {
+    "id" : "5wfm-gkrf",
+    "displayName" : "1wildchik",
+    "screenName" : "1wildchik"
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "jkek-3zz3",
+    "displayName" : "Dean Larson",
+    "screenName" : "Dean Larson"
+  },
+  "tags" : [ "police", "calls" ]
+}, {
+  "id" : "un62-z97s",
+  "name" : "brandi's research",
+  "averageRating" : 0,
+  "createdAt" : 1375988921,
+  "description" : "Police call for service 2013 (ytd)",
+  "displayType" : "table",
+  "downloadCount" : 25,
+  "indexUpdatedAt" : 1386158225,
+  "newBackend" : false,
+  "numberOfComments" : 0,
+  "oid" : 6685422,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1386102746,
+  "publicationGroup" : 783511,
+  "publicationStage" : "published",
+  "rowsUpdatedAt" : 1386102712,
+  "rowsUpdatedBy" : "jkek-3zz3",
+  "signed" : false,
+  "tableId" : 1385635,
+  "totalTimesRated" : 0,
+  "viewCount" : 125,
+  "viewLastModified" : 1375992550,
+  "viewType" : "tabular",
+  "grants" : [ {
+    "inherited" : true,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "renderTypeConfig" : {
+      "visible" : {
+        "page" : true,
+        "table" : true
+      }
+    },
+    "availableDisplayTypes" : [ "table", "fatrow", "page" ]
+  },
+  "owner" : {
+    "id" : "5wfm-gkrf",
+    "displayName" : "1wildchik",
+    "screenName" : "1wildchik"
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "jkek-3zz3",
+    "displayName" : "Dean Larson",
+    "screenName" : "Dean Larson"
+  },
+  "tags" : [ "police", "calls" ]
+}, {
+  "id" : "vytj-hddx",
+  "name" : "police reports research 8 2013",
+  "averageRating" : 0,
+  "createdAt" : 1375986404,
+  "description" : "Police call for service 2013 (ytd)",
+  "displayType" : "table",
+  "downloadCount" : 22,
+  "indexUpdatedAt" : 1386158278,
+  "newBackend" : false,
+  "numberOfComments" : 0,
+  "oid" : 6685421,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1386102746,
+  "publicationGroup" : 783511,
+  "publicationStage" : "published",
+  "rowsUpdatedAt" : 1386102712,
+  "rowsUpdatedBy" : "jkek-3zz3",
+  "searchString" : "4/18/2013 ",
+  "signed" : false,
+  "tableId" : 1385635,
+  "totalTimesRated" : 0,
+  "viewCount" : 49,
+  "viewLastModified" : 1375986771,
+  "viewType" : "tabular",
+  "grants" : [ {
+    "inherited" : true,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "renderTypeConfig" : {
+      "visible" : {
+        "table" : true
+      }
+    },
+    "availableDisplayTypes" : [ "table", "fatrow", "page" ]
+  },
+  "owner" : {
+    "id" : "5wfm-gkrf",
+    "displayName" : "1wildchik",
+    "screenName" : "1wildchik"
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "jkek-3zz3",
+    "displayName" : "Dean Larson",
+    "screenName" : "Dean Larson"
+  },
+  "tags" : [ "police", "calls" ]
+}, {
+  "id" : "i98d-m2z6",
+  "name" : "Accela Addresses",
+  "averageRating" : 0,
+  "category" : "Government",
+  "createdAt" : 1382543587,
+  "description" : "Salt Lake City Addresses from Accela Automation",
+  "displayType" : "table",
+  "downloadCount" : 5,
+  "indexUpdatedAt" : 1382561856,
+  "newBackend" : false,
+  "numberOfComments" : 0,
+  "oid" : 6053156,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1382558459,
+  "publicationGroup" : 1279220,
+  "publicationStage" : "published",
+  "rowsUpdatedAt" : 1382550716,
+  "rowsUpdatedBy" : "i9pg-v7wp",
+  "signed" : false,
+  "tableId" : 1279220,
+  "totalTimesRated" : 0,
+  "viewCount" : 509,
+  "viewLastModified" : 1382558459,
+  "viewType" : "tabular",
+  "grants" : [ {
+    "inherited" : false,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "renderTypeConfig" : {
+      "visible" : {
+        "table" : true
+      }
+    },
+    "availableDisplayTypes" : [ "table", "fatrow", "page" ]
+  },
+  "owner" : {
+    "id" : "i9pg-v7wp",
+    "displayName" : "Long Doan",
+    "screenName" : "Long Doan"
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "i9pg-v7wp",
+    "displayName" : "Long Doan",
+    "screenName" : "Long Doan"
+  },
+  "tags" : [ "salt lake city addresses" ],
+  "flags" : [ "default" ]
+}, {
+  "id" : "7uhp-akdw",
+  "name" : "North Temple Sidewalks",
+  "averageRating" : 0,
+  "blobFilename" : "sidewalks.zip",
+  "blobFileSize" : 2299839,
+  "blobId" : "1-stB7Z2NFmNXK5bEJm5X6may1Zr-zzCYfMYuojD0bs",
+  "createdAt" : 1363560239,
+  "displayType" : "map",
+  "downloadCount" : 0,
+  "indexUpdatedAt" : 1363560244,
+  "newBackend" : false,
+  "numberOfComments" : 0,
+  "oid" : 2859038,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1362422765,
+  "publicationGroup" : 713133,
+  "publicationStage" : "published",
+  "signed" : false,
+  "tableId" : 713133,
+  "totalTimesRated" : 0,
+  "viewCount" : 16,
+  "viewLastModified" : 1363560239,
+  "viewType" : "geo",
+  "grants" : [ {
+    "inherited" : true,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "renderTypeConfig" : {
+      "visible" : {
+        "map" : true
+      }
+    },
+    "availableDisplayTypes" : [ "map", "table", "fatrow", "page" ],
+    "geo" : {
+      "owsUrl" : "/api/geospatial/xeug-iy5n",
+      "bbox" : "-112.039478871408,40.69984521106996,-111.80208628599715,40.810704591381",
+      "layers" : "geo_xeug-iy5n-1",
+      "featureIdAttribute" : "_SocrataID",
+      "bboxCrs" : "EPSG:4326",
+      "namespace" : "geo_xeug-iy5n"
+    }
+  },
+  "owner" : {
+    "id" : "92bv-t3kb",
+    "displayName" : "Euclid",
+    "profileImageUrlLarge" : "/images/profile/7064/8810/17532_274120579301_1967649_n_large.jpg",
+    "profileImageUrlMedium" : "/images/profile/7064/8810/17532_274120579301_1967649_n_thumb.jpg",
+    "profileImageUrlSmall" : "/images/profile/7064/8810/17532_274120579301_1967649_n_tiny.jpg",
+    "screenName" : "Euclid"
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "jkek-3zz3",
+    "displayName" : "Dean Larson",
+    "screenName" : "Dean Larson"
+  }
+} ]

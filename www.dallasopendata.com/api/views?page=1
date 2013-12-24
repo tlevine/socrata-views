@@ -1,0 +1,1785 @@
+[ {
+  "id" : "9hfs-futq",
+  "name" : "City of Dallas Library Locations Map",
+  "averageRating" : 0,
+  "category" : "Government",
+  "createdAt" : 1376501672,
+  "description" : "City of Dallas Library Locations Map",
+  "displayType" : "map",
+  "downloadCount" : 3,
+  "indexUpdatedAt" : 1384997836,
+  "newBackend" : false,
+  "numberOfComments" : 0,
+  "oid" : 4922652,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1376501192,
+  "publicationGroup" : 1048245,
+  "publicationStage" : "published",
+  "rowClass" : "",
+  "rowsUpdatedAt" : 1376501056,
+  "rowsUpdatedBy" : "jhxk-y6ib",
+  "signed" : false,
+  "tableId" : 1048245,
+  "totalTimesRated" : 0,
+  "viewCount" : 62,
+  "viewLastModified" : 1384982201,
+  "viewType" : "tabular",
+  "grants" : [ {
+    "inherited" : true,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "renderTypeConfig" : {
+      "visible" : {
+        "map" : true
+      },
+      "active" : {
+        "page" : {
+          "id" : "w75g-c54n"
+        },
+        "table" : {
+          "id" : "self"
+        }
+      }
+    },
+    "availableDisplayTypes" : [ "map", "table", "fatrow", "page" ],
+    "rdfSubject" : "0",
+    "richRendererConfigs" : {
+      "page" : {
+        "columns" : [ {
+          "rows" : [ {
+            "fields" : [ {
+              "styles" : {
+                "height" : "3.5em"
+              },
+              "tableColumnId" : 13141464,
+              "type" : "columnLabel"
+            }, {
+              "styles" : {
+                "height" : "3em",
+                "width" : "33.935em"
+              },
+              "tableColumnId" : 13141464,
+              "type" : "columnData"
+            } ]
+          }, {
+            "fields" : [ {
+              "styles" : {
+                "width" : "11.901em"
+              },
+              "type" : "label"
+            }, {
+              "text" : "Open",
+              "styles" : {
+                "height" : "1.833em",
+                "width" : "7.801em"
+              },
+              "type" : "label"
+            }, {
+              "type" : "label"
+            } ]
+          }, {
+            "fields" : [ {
+              "text" : "Monday",
+              "styles" : {
+                "width" : "11.901em"
+              },
+              "type" : "label"
+            }, {
+              "styles" : {
+                "height" : "1.75em",
+                "width" : "8.268em"
+              },
+              "tableColumnId" : 13141469,
+              "type" : "columnData"
+            }, {
+              "styles" : {
+                "width" : "12.302em"
+              },
+              "tableColumnId" : 13141470,
+              "type" : "columnData"
+            } ]
+          }, {
+            "fields" : [ {
+              "text" : "Tuesday",
+              "styles" : {
+                "width" : "11.901em"
+              },
+              "type" : "label"
+            }, {
+              "styles" : {
+                "height" : "2em",
+                "width" : "7.852em"
+              },
+              "tableColumnId" : 13141471,
+              "type" : "columnData"
+            }, {
+              "tableColumnId" : 13141472,
+              "type" : "columnData"
+            } ]
+          } ]
+        } ]
+      }
+    },
+    "rowIdentifier" : "0",
+    "rdfClass" : ""
+  },
+  "owner" : {
+    "id" : "jhxk-y6ib",
+    "displayName" : "City of Dallas",
+    "screenName" : "City of Dallas"
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "jhxk-y6ib",
+    "displayName" : "City of Dallas",
+    "screenName" : "City of Dallas"
+  },
+  "tags" : [ "library", "locations" ]
+}, {
+  "id" : "9fxf-t2tr",
+  "name" : "Police Active Calls",
+  "averageRating" : 0,
+  "createdAt" : 1381248478,
+  "description" : "Police Active Calls",
+  "displayType" : "table",
+  "downloadCount" : 2,
+  "indexUpdatedAt" : 1387747008,
+  "newBackend" : false,
+  "numberOfComments" : 0,
+  "oid" : 5820531,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1381254485,
+  "publicationGroup" : 1230275,
+  "publicationStage" : "published",
+  "rowClass" : "",
+  "rowsUpdatedAt" : 1387753060,
+  "rowsUpdatedBy" : "jhxk-y6ib",
+  "signed" : false,
+  "state" : "normal",
+  "tableId" : 1230530,
+  "totalTimesRated" : 0,
+  "viewCount" : 360,
+  "viewLastModified" : 1384982366,
+  "viewType" : "tabular",
+  "grants" : [ {
+    "inherited" : false,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "renderTypeConfig" : {
+      "visible" : {
+        "table" : true
+      }
+    },
+    "availableDisplayTypes" : [ "table", "fatrow", "page" ],
+    "rdfSubject" : "0",
+    "rowIdentifier" : "0",
+    "rdfClass" : ""
+  },
+  "owner" : {
+    "id" : "jhxk-y6ib",
+    "displayName" : "City of Dallas",
+    "screenName" : "City of Dallas"
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "jhxk-y6ib",
+    "displayName" : "City of Dallas",
+    "screenName" : "City of Dallas"
+  },
+  "tags" : [ "police" ],
+  "flags" : [ "default" ]
+}, {
+  "id" : "9sz6-auiy",
+  "name" : "Police Bulk Data 2nd Watch",
+  "averageRating" : 0,
+  "category" : "Police",
+  "createdAt" : 1384965802,
+  "description" : "Police Bulk Data 2nd Watch",
+  "displayType" : "table",
+  "downloadCount" : 1,
+  "indexUpdatedAt" : 1387710305,
+  "newBackend" : false,
+  "numberOfComments" : 0,
+  "oid" : 6501473,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1384436900,
+  "publicationGroup" : 1264542,
+  "publicationStage" : "published",
+  "rowClass" : "",
+  "rowIdentifierColumnId" : 116680491,
+  "rowsUpdatedAt" : 1387710057,
+  "rowsUpdatedBy" : "jhxk-y6ib",
+  "signed" : false,
+  "state" : "normal",
+  "tableId" : 1354075,
+  "totalTimesRated" : 0,
+  "viewCount" : 123,
+  "viewLastModified" : 1384965881,
+  "viewType" : "tabular",
+  "grants" : [ {
+    "inherited" : true,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "renderTypeConfig" : {
+      "visible" : {
+        "table" : true
+      }
+    },
+    "availableDisplayTypes" : [ "table", "fatrow", "page" ],
+    "rdfSubject" : "0",
+    "rowIdentifier" : "116680491",
+    "rdfClass" : ""
+  },
+  "owner" : {
+    "id" : "jhxk-y6ib",
+    "displayName" : "City of Dallas",
+    "screenName" : "City of Dallas"
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "jhxk-y6ib",
+    "displayName" : "City of Dallas",
+    "screenName" : "City of Dallas"
+  }
+}, {
+  "id" : "ftja-9jxd",
+  "name" : "Police Bulk Data",
+  "averageRating" : 0,
+  "category" : "Police",
+  "createdAt" : 1382129106,
+  "description" : "Police Bulk Data",
+  "displayType" : "table",
+  "downloadCount" : 5,
+  "indexUpdatedAt" : 1387710317,
+  "newBackend" : false,
+  "numberOfComments" : 0,
+  "oid" : 6417916,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1384436900,
+  "publicationGroup" : 1264542,
+  "publicationStage" : "published",
+  "rowIdentifierColumnId" : 115027440,
+  "rowsUpdatedAt" : 1387710057,
+  "rowsUpdatedBy" : "jhxk-y6ib",
+  "signed" : false,
+  "state" : "normal",
+  "tableId" : 1354075,
+  "totalTimesRated" : 0,
+  "viewCount" : 355,
+  "viewLastModified" : 1384513250,
+  "viewType" : "tabular",
+  "grants" : [ {
+    "inherited" : true,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "renderTypeConfig" : {
+      "visible" : {
+        "table" : true
+      }
+    },
+    "availableDisplayTypes" : [ "table", "fatrow", "page" ],
+    "rdfSubject" : "0",
+    "rowIdentifier" : 115027440
+  },
+  "owner" : {
+    "id" : "jhxk-y6ib",
+    "displayName" : "City of Dallas",
+    "screenName" : "City of Dallas"
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "jhxk-y6ib",
+    "displayName" : "City of Dallas",
+    "screenName" : "City of Dallas"
+  },
+  "flags" : [ "default" ]
+}, {
+  "id" : "j3sp-39ef",
+  "name" : "Police Bulk Data 1st Watch",
+  "averageRating" : 0,
+  "category" : "Police",
+  "createdAt" : 1384437135,
+  "description" : "Police Bulk Data",
+  "displayType" : "table",
+  "downloadCount" : 1,
+  "indexUpdatedAt" : 1387710315,
+  "newBackend" : false,
+  "numberOfComments" : 0,
+  "oid" : 6418144,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1384436900,
+  "publicationGroup" : 1264542,
+  "publicationStage" : "published",
+  "rowIdentifierColumnId" : 115030855,
+  "rowsUpdatedAt" : 1387710057,
+  "rowsUpdatedBy" : "jhxk-y6ib",
+  "signed" : false,
+  "state" : "normal",
+  "tableId" : 1354075,
+  "totalTimesRated" : 0,
+  "viewCount" : 97,
+  "viewLastModified" : 1384437135,
+  "viewType" : "tabular",
+  "grants" : [ {
+    "inherited" : true,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "renderTypeConfig" : {
+      "visible" : {
+        "table" : true
+      }
+    },
+    "availableDisplayTypes" : [ "table", "fatrow", "page" ],
+    "rdfSubject" : "0",
+    "rowIdentifier" : 115030855
+  },
+  "owner" : {
+    "id" : "jhxk-y6ib",
+    "displayName" : "City of Dallas",
+    "screenName" : "City of Dallas"
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "jhxk-y6ib",
+    "displayName" : "City of Dallas",
+    "screenName" : "City of Dallas"
+  }
+}, {
+  "id" : "xadi-8qfs",
+  "name" : "Police Bulk Data 3rd Watch",
+  "averageRating" : 0,
+  "category" : "Police",
+  "createdAt" : 1384965908,
+  "description" : "Police Bulk Data 3rd Watch",
+  "displayType" : "table",
+  "downloadCount" : 2,
+  "indexUpdatedAt" : 1387710314,
+  "newBackend" : false,
+  "numberOfComments" : 0,
+  "oid" : 6501485,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1384436900,
+  "publicationGroup" : 1264542,
+  "publicationStage" : "published",
+  "rowClass" : "",
+  "rowIdentifierColumnId" : 116680694,
+  "rowsUpdatedAt" : 1387710057,
+  "rowsUpdatedBy" : "jhxk-y6ib",
+  "signed" : false,
+  "state" : "normal",
+  "tableId" : 1354075,
+  "totalTimesRated" : 0,
+  "viewCount" : 118,
+  "viewLastModified" : 1384965969,
+  "viewType" : "tabular",
+  "grants" : [ {
+    "inherited" : true,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "renderTypeConfig" : {
+      "visible" : {
+        "table" : true
+      }
+    },
+    "availableDisplayTypes" : [ "table", "fatrow", "page" ],
+    "rdfSubject" : "0",
+    "rowIdentifier" : "116680694",
+    "rdfClass" : ""
+  },
+  "owner" : {
+    "id" : "jhxk-y6ib",
+    "displayName" : "City of Dallas",
+    "screenName" : "City of Dallas"
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "jhxk-y6ib",
+    "displayName" : "City of Dallas",
+    "screenName" : "City of Dallas"
+  }
+}, {
+  "id" : "inke-qqax",
+  "name" : "Bulk Police Narrative",
+  "averageRating" : 0,
+  "category" : "Police",
+  "createdAt" : 1384290923,
+  "description" : "Bulk Police Narrative",
+  "displayType" : "table",
+  "downloadCount" : 0,
+  "indexUpdatedAt" : 1387710299,
+  "newBackend" : false,
+  "numberOfComments" : 0,
+  "oid" : 6391796,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1384290990,
+  "publicationGroup" : 1349598,
+  "publicationStage" : "published",
+  "rowsUpdatedAt" : 1387710022,
+  "rowsUpdatedBy" : "jhxk-y6ib",
+  "signed" : false,
+  "state" : "normal",
+  "tableId" : 1349598,
+  "totalTimesRated" : 0,
+  "viewCount" : 523,
+  "viewLastModified" : 1384291014,
+  "viewType" : "tabular",
+  "grants" : [ {
+    "inherited" : false,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "renderTypeConfig" : {
+      "visible" : {
+        "table" : true
+      }
+    },
+    "availableDisplayTypes" : [ "table", "fatrow", "page" ]
+  },
+  "owner" : {
+    "id" : "jhxk-y6ib",
+    "displayName" : "City of Dallas",
+    "screenName" : "City of Dallas"
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "jhxk-y6ib",
+    "displayName" : "City of Dallas",
+    "screenName" : "City of Dallas"
+  },
+  "tags" : [ "police" ],
+  "flags" : [ "default" ]
+}, {
+  "id" : "ug3y-6amx",
+  "name" : "Home Page Stories",
+  "averageRating" : 0,
+  "createdAt" : 1374526194,
+  "displayType" : "table",
+  "downloadCount" : 4,
+  "indexUpdatedAt" : 1385000037,
+  "newBackend" : false,
+  "numberOfComments" : 0,
+  "oid" : 6504362,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1384983824,
+  "publicationGroup" : 992785,
+  "publicationStage" : "published",
+  "rowsUpdatedAt" : 1384983811,
+  "rowsUpdatedBy" : "jhxk-y6ib",
+  "signed" : false,
+  "tableId" : 1364141,
+  "totalTimesRated" : 0,
+  "viewCount" : 139,
+  "viewLastModified" : 1384983824,
+  "viewType" : "tabular",
+  "grants" : [ {
+    "inherited" : false,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "renderTypeConfig" : {
+      "visible" : {
+        "table" : true
+      }
+    },
+    "availableDisplayTypes" : [ "table", "fatrow", "page" ]
+  },
+  "owner" : {
+    "id" : "vcvp-yass",
+    "displayName" : "Dylan",
+    "profileImageUrlLarge" : "/images/profile/0463/4668/puddy_large.jpg",
+    "profileImageUrlMedium" : "/images/profile/0463/4668/puddy_thumb.jpg",
+    "profileImageUrlSmall" : "/images/profile/0463/4668/puddy_tiny.jpg",
+    "screenName" : "Dylan",
+    "rights" : [ "create_datasets", "edit_others_datasets", "edit_sdp", "edit_site_theme", "moderate_comments", "manage_users", "chown_datasets", "edit_nominations", "approve_nominations", "feature_items", "federations", "manage_stories", "manage_approval", "change_configurations", "view_domain", "view_others_datasets", "edit_pages", "create_pages", "view_goals", "view_dashboards", "edit_goals", "edit_dashboards", "create_dashboards" ],
+    "flags" : [ "admin" ]
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "vcvp-yass",
+    "displayName" : "Dylan",
+    "profileImageUrlLarge" : "/images/profile/0463/4668/puddy_large.jpg",
+    "profileImageUrlMedium" : "/images/profile/0463/4668/puddy_thumb.jpg",
+    "profileImageUrlSmall" : "/images/profile/0463/4668/puddy_tiny.jpg",
+    "screenName" : "Dylan",
+    "rights" : [ "create_datasets", "edit_others_datasets", "edit_sdp", "edit_site_theme", "moderate_comments", "manage_users", "chown_datasets", "edit_nominations", "approve_nominations", "feature_items", "federations", "manage_stories", "manage_approval", "change_configurations", "view_domain", "view_others_datasets", "edit_pages", "create_pages", "view_goals", "view_dashboards", "edit_goals", "edit_dashboards", "create_dashboards" ],
+    "flags" : [ "admin" ]
+  },
+  "flags" : [ "default" ]
+}, {
+  "id" : "59bm-iv9d",
+  "name" : "Payroll Registry - FY 2013 - 2014",
+  "averageRating" : 0,
+  "category" : "Financial",
+  "createdAt" : 1377882926,
+  "displayType" : "table",
+  "downloadCount" : 3,
+  "indexUpdatedAt" : 1386948177,
+  "newBackend" : false,
+  "numberOfComments" : 0,
+  "oid" : 6503229,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1384979324,
+  "publicationGroup" : 1099010,
+  "publicationStage" : "published",
+  "rowsUpdatedAt" : 1384979254,
+  "rowsUpdatedBy" : "jhxk-y6ib",
+  "signed" : false,
+  "tableId" : 1363996,
+  "totalTimesRated" : 0,
+  "viewCount" : 64,
+  "viewLastModified" : 1377882927,
+  "viewType" : "tabular",
+  "grants" : [ {
+    "inherited" : true,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "renderTypeConfig" : {
+      "visible" : {
+        "table" : true
+      }
+    },
+    "availableDisplayTypes" : [ "table", "fatrow", "page" ]
+  },
+  "owner" : {
+    "id" : "jhxk-y6ib",
+    "displayName" : "City of Dallas",
+    "screenName" : "City of Dallas"
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "jhxk-y6ib",
+    "displayName" : "City of Dallas",
+    "screenName" : "City of Dallas"
+  },
+  "tags" : [ "payroll", "civilian", "uniform" ]
+}, {
+  "id" : "7qym-fjj4",
+  "name" : "Payroll Registry - FY 2012 - 2013",
+  "averageRating" : 0,
+  "category" : "Financial",
+  "createdAt" : 1377882847,
+  "displayType" : "table",
+  "downloadCount" : 4,
+  "indexUpdatedAt" : 1386948111,
+  "newBackend" : false,
+  "numberOfComments" : 0,
+  "oid" : 6503230,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1384979324,
+  "publicationGroup" : 1099010,
+  "publicationStage" : "published",
+  "rowsUpdatedAt" : 1384979254,
+  "rowsUpdatedBy" : "jhxk-y6ib",
+  "signed" : false,
+  "tableId" : 1363996,
+  "totalTimesRated" : 0,
+  "viewCount" : 21,
+  "viewLastModified" : 1377883731,
+  "viewType" : "tabular",
+  "grants" : [ {
+    "inherited" : true,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "renderTypeConfig" : {
+      "visible" : {
+        "table" : true
+      }
+    },
+    "availableDisplayTypes" : [ "table", "fatrow", "page" ],
+    "rdfSubject" : "0"
+  },
+  "owner" : {
+    "id" : "jhxk-y6ib",
+    "displayName" : "City of Dallas",
+    "screenName" : "City of Dallas"
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "jhxk-y6ib",
+    "displayName" : "City of Dallas",
+    "screenName" : "City of Dallas"
+  },
+  "tags" : [ "payroll", "civilian", "uniform" ]
+}, {
+  "id" : "dwqa-wei7",
+  "name" : "Payroll Registry - FY 2011 - 2012",
+  "averageRating" : 0,
+  "category" : "Financial",
+  "createdAt" : 1377882677,
+  "displayType" : "table",
+  "downloadCount" : 2,
+  "indexUpdatedAt" : 1386948176,
+  "newBackend" : false,
+  "numberOfComments" : 0,
+  "oid" : 6503228,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1384979324,
+  "publicationGroup" : 1099010,
+  "publicationStage" : "published",
+  "rowsUpdatedAt" : 1384979254,
+  "rowsUpdatedBy" : "jhxk-y6ib",
+  "signed" : false,
+  "tableId" : 1363996,
+  "totalTimesRated" : 0,
+  "viewCount" : 14,
+  "viewLastModified" : 1377882677,
+  "viewType" : "tabular",
+  "grants" : [ {
+    "inherited" : true,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "renderTypeConfig" : {
+      "visible" : {
+        "table" : true
+      }
+    },
+    "availableDisplayTypes" : [ "table", "fatrow", "page" ]
+  },
+  "owner" : {
+    "id" : "jhxk-y6ib",
+    "displayName" : "City of Dallas",
+    "screenName" : "City of Dallas"
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "jhxk-y6ib",
+    "displayName" : "City of Dallas",
+    "screenName" : "City of Dallas"
+  },
+  "tags" : [ "payroll", "civilian", "uniform" ]
+}, {
+  "id" : "ewz9-tp3m",
+  "name" : "Payroll Registry - FY 2009 - 2010",
+  "averageRating" : 0,
+  "category" : "Financial",
+  "createdAt" : 1377882424,
+  "displayType" : "table",
+  "downloadCount" : 2,
+  "indexUpdatedAt" : 1386948177,
+  "newBackend" : false,
+  "numberOfComments" : 0,
+  "oid" : 6503232,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1384979324,
+  "publicationGroup" : 1099010,
+  "publicationStage" : "published",
+  "rowsUpdatedAt" : 1384979254,
+  "rowsUpdatedBy" : "jhxk-y6ib",
+  "signed" : false,
+  "tableId" : 1363996,
+  "totalTimesRated" : 0,
+  "viewCount" : 13,
+  "viewLastModified" : 1377884766,
+  "viewType" : "tabular",
+  "grants" : [ {
+    "inherited" : true,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "renderTypeConfig" : {
+      "visible" : {
+        "table" : true
+      }
+    },
+    "availableDisplayTypes" : [ "table", "fatrow", "page" ],
+    "rdfSubject" : "0"
+  },
+  "owner" : {
+    "id" : "jhxk-y6ib",
+    "displayName" : "City of Dallas",
+    "screenName" : "City of Dallas"
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "jhxk-y6ib",
+    "displayName" : "City of Dallas",
+    "screenName" : "City of Dallas"
+  },
+  "tags" : [ "payroll", "civilian", "uniform" ]
+}, {
+  "id" : "qrgv-mijx",
+  "name" : "City of Dallas Payroll Registry",
+  "averageRating" : 0,
+  "category" : "Financial",
+  "createdAt" : 1377881915,
+  "displayType" : "table",
+  "downloadCount" : 10,
+  "indexUpdatedAt" : 1386948087,
+  "newBackend" : false,
+  "numberOfComments" : 0,
+  "oid" : 6503177,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1384979324,
+  "publicationGroup" : 1099010,
+  "publicationStage" : "published",
+  "rowClass" : "",
+  "rowIdentifierColumnId" : 116707338,
+  "rowsUpdatedAt" : 1384979254,
+  "rowsUpdatedBy" : "jhxk-y6ib",
+  "signed" : false,
+  "tableId" : 1363996,
+  "totalTimesRated" : 0,
+  "viewCount" : 79,
+  "viewLastModified" : 1386947436,
+  "viewType" : "tabular",
+  "grants" : [ {
+    "inherited" : true,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "renderTypeConfig" : {
+      "visible" : {
+        "table" : true
+      }
+    },
+    "availableDisplayTypes" : [ "table", "fatrow", "page" ],
+    "rdfSubject" : "0",
+    "rowIdentifier" : "116707338",
+    "rdfClass" : ""
+  },
+  "owner" : {
+    "id" : "jhxk-y6ib",
+    "displayName" : "City of Dallas",
+    "screenName" : "City of Dallas"
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "jhxk-y6ib",
+    "displayName" : "City of Dallas",
+    "screenName" : "City of Dallas"
+  },
+  "tags" : [ "payroll", "civilian", "uniform" ],
+  "flags" : [ "default" ]
+}, {
+  "id" : "vd4s-kg88",
+  "name" : "Payroll Registry - FY 2010 - 2011",
+  "averageRating" : 0,
+  "category" : "Financial",
+  "createdAt" : 1377882518,
+  "displayType" : "table",
+  "downloadCount" : 2,
+  "indexUpdatedAt" : 1386948109,
+  "newBackend" : false,
+  "numberOfComments" : 0,
+  "oid" : 6503231,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1384979324,
+  "publicationGroup" : 1099010,
+  "publicationStage" : "published",
+  "rowsUpdatedAt" : 1384979254,
+  "rowsUpdatedBy" : "jhxk-y6ib",
+  "signed" : false,
+  "tableId" : 1363996,
+  "totalTimesRated" : 0,
+  "viewCount" : 11,
+  "viewLastModified" : 1377882518,
+  "viewType" : "tabular",
+  "grants" : [ {
+    "inherited" : true,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "renderTypeConfig" : {
+      "visible" : {
+        "table" : true
+      }
+    },
+    "availableDisplayTypes" : [ "table", "fatrow", "page" ]
+  },
+  "owner" : {
+    "id" : "jhxk-y6ib",
+    "displayName" : "City of Dallas",
+    "screenName" : "City of Dallas"
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "jhxk-y6ib",
+    "displayName" : "City of Dallas",
+    "screenName" : "City of Dallas"
+  },
+  "tags" : [ "payroll", "civilian", "uniform" ]
+}, {
+  "id" : "64pp-jeba",
+  "name" : "City of Dallas Payment Register",
+  "averageRating" : 0,
+  "category" : "Financial",
+  "createdAt" : 1380663221,
+  "description" : "City of Dallas Payment Register",
+  "displayType" : "table",
+  "downloadCount" : 0,
+  "indexUpdatedAt" : 1384999876,
+  "newBackend" : false,
+  "numberOfComments" : 0,
+  "oid" : 6502608,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1384977185,
+  "publicationGroup" : 1206426,
+  "publicationStage" : "published",
+  "rowClass" : "",
+  "rowsUpdatedAt" : 1384976258,
+  "rowsUpdatedBy" : "jhxk-y6ib",
+  "signed" : false,
+  "tableId" : 1363868,
+  "totalTimesRated" : 0,
+  "viewCount" : 195,
+  "viewLastModified" : 1384982558,
+  "viewType" : "tabular",
+  "grants" : [ {
+    "inherited" : true,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "renderTypeConfig" : {
+      "visible" : {
+        "table" : true
+      }
+    },
+    "availableDisplayTypes" : [ "table", "fatrow", "page" ],
+    "rdfSubject" : "0",
+    "rowIdentifier" : "0",
+    "rdfClass" : ""
+  },
+  "owner" : {
+    "id" : "jhxk-y6ib",
+    "displayName" : "City of Dallas",
+    "screenName" : "City of Dallas"
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "jhxk-y6ib",
+    "displayName" : "City of Dallas",
+    "screenName" : "City of Dallas"
+  },
+  "tags" : [ "payment register", "vendor" ],
+  "flags" : [ "default" ]
+}, {
+  "id" : "a5fv-d6ad",
+  "name" : "Payment Register FY 2012 - 2013",
+  "averageRating" : 0,
+  "category" : "Financial",
+  "createdAt" : 1380663850,
+  "description" : "City of Dallas Payment Register",
+  "displayType" : "table",
+  "downloadCount" : 3,
+  "indexUpdatedAt" : 1384999879,
+  "newBackend" : false,
+  "numberOfComments" : 0,
+  "oid" : 6503018,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1384977185,
+  "publicationGroup" : 1206426,
+  "publicationStage" : "published",
+  "rowsUpdatedAt" : 1384976258,
+  "rowsUpdatedBy" : "jhxk-y6ib",
+  "signed" : false,
+  "tableId" : 1363868,
+  "totalTimesRated" : 0,
+  "viewCount" : 148,
+  "viewLastModified" : 1380664090,
+  "viewType" : "tabular",
+  "grants" : [ {
+    "inherited" : true,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "renderTypeConfig" : {
+      "visible" : {
+        "table" : true
+      }
+    },
+    "availableDisplayTypes" : [ "table", "fatrow", "page" ],
+    "rdfSubject" : "0"
+  },
+  "owner" : {
+    "id" : "jhxk-y6ib",
+    "displayName" : "City of Dallas",
+    "screenName" : "City of Dallas"
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "jhxk-y6ib",
+    "displayName" : "City of Dallas",
+    "screenName" : "City of Dallas"
+  }
+}, {
+  "id" : "nn8n-s5rm",
+  "name" : "Payment Register FY 2013 - 2014",
+  "averageRating" : 0,
+  "category" : "Financial",
+  "createdAt" : 1384977551,
+  "description" : "City of Dallas Payment Register",
+  "displayType" : "table",
+  "downloadCount" : 3,
+  "indexUpdatedAt" : 1384999868,
+  "newBackend" : false,
+  "numberOfComments" : 0,
+  "oid" : 6503044,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1384977185,
+  "publicationGroup" : 1206426,
+  "publicationStage" : "published",
+  "rowsUpdatedAt" : 1384976258,
+  "rowsUpdatedBy" : "jhxk-y6ib",
+  "signed" : false,
+  "tableId" : 1363868,
+  "totalTimesRated" : 0,
+  "viewCount" : 102,
+  "viewLastModified" : 1384977551,
+  "viewType" : "tabular",
+  "grants" : [ {
+    "inherited" : true,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "renderTypeConfig" : {
+      "visible" : {
+        "table" : true
+      }
+    },
+    "availableDisplayTypes" : [ "table", "fatrow", "page" ]
+  },
+  "owner" : {
+    "id" : "jhxk-y6ib",
+    "displayName" : "City of Dallas",
+    "screenName" : "City of Dallas"
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "jhxk-y6ib",
+    "displayName" : "City of Dallas",
+    "screenName" : "City of Dallas"
+  }
+}, {
+  "id" : "ks9j-qkj8",
+  "name" : "Buillding Inspection Master Permits",
+  "averageRating" : 0,
+  "createdAt" : 1382449641,
+  "description" : "Buillding Inspection Master Permits",
+  "displayType" : "table",
+  "downloadCount" : 1,
+  "indexUpdatedAt" : 1384996401,
+  "newBackend" : false,
+  "numberOfComments" : 0,
+  "oid" : 6502128,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1384972125,
+  "publicationGroup" : 1275502,
+  "publicationStage" : "published",
+  "rowsUpdatedAt" : 1384971902,
+  "rowsUpdatedBy" : "jhxk-y6ib",
+  "signed" : false,
+  "tableId" : 1363774,
+  "totalTimesRated" : 0,
+  "viewCount" : 116,
+  "viewLastModified" : 1384972126,
+  "viewType" : "tabular",
+  "grants" : [ {
+    "inherited" : false,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "renderTypeConfig" : {
+      "visible" : {
+        "table" : true
+      }
+    },
+    "availableDisplayTypes" : [ "table", "fatrow", "page" ]
+  },
+  "owner" : {
+    "id" : "jhxk-y6ib",
+    "displayName" : "City of Dallas",
+    "screenName" : "City of Dallas"
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "jhxk-y6ib",
+    "displayName" : "City of Dallas",
+    "screenName" : "City of Dallas"
+  },
+  "flags" : [ "default" ]
+}, {
+  "id" : "rmac-kbp9",
+  "name" : "Buillding Inspection Certificates of Occupancy",
+  "averageRating" : 0,
+  "createdAt" : 1382449329,
+  "description" : "Buillding Inspection Certificates of Occupancy",
+  "displayType" : "table",
+  "downloadCount" : 2,
+  "indexUpdatedAt" : 1384959247,
+  "newBackend" : false,
+  "numberOfComments" : 0,
+  "oid" : 6499706,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1384957289,
+  "publicationGroup" : 1275486,
+  "publicationStage" : "published",
+  "rowsUpdatedAt" : 1384957184,
+  "rowsUpdatedBy" : "jhxk-y6ib",
+  "signed" : false,
+  "tableId" : 1363392,
+  "totalTimesRated" : 0,
+  "viewCount" : 33,
+  "viewLastModified" : 1384957289,
+  "viewType" : "tabular",
+  "grants" : [ {
+    "inherited" : false,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "renderTypeConfig" : {
+      "visible" : {
+        "table" : true
+      }
+    },
+    "availableDisplayTypes" : [ "table", "fatrow", "page" ]
+  },
+  "owner" : {
+    "id" : "jhxk-y6ib",
+    "displayName" : "City of Dallas",
+    "screenName" : "City of Dallas"
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "jhxk-y6ib",
+    "displayName" : "City of Dallas",
+    "screenName" : "City of Dallas"
+  },
+  "flags" : [ "default" ]
+}, {
+  "id" : "jhgk-eg9m",
+  "name" : "Buillding Inspection Active Contractors",
+  "averageRating" : 0,
+  "createdAt" : 1382453913,
+  "description" : "Active contractors registered with Building Inspection does not include electrical masters",
+  "displayType" : "table",
+  "downloadCount" : 1,
+  "indexUpdatedAt" : 1384959102,
+  "newBackend" : false,
+  "numberOfComments" : 0,
+  "oid" : 6499729,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1384956797,
+  "publicationGroup" : 1275678,
+  "publicationStage" : "published",
+  "rowsUpdatedAt" : 1384956781,
+  "rowsUpdatedBy" : "jhxk-y6ib",
+  "signed" : false,
+  "tableId" : 1363393,
+  "totalTimesRated" : 0,
+  "viewCount" : 97,
+  "viewLastModified" : 1384956797,
+  "viewType" : "tabular",
+  "grants" : [ {
+    "inherited" : false,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "renderTypeConfig" : {
+      "visible" : {
+        "table" : true
+      }
+    },
+    "availableDisplayTypes" : [ "table", "fatrow", "page" ]
+  },
+  "owner" : {
+    "id" : "jhxk-y6ib",
+    "displayName" : "City of Dallas",
+    "screenName" : "City of Dallas"
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "jhxk-y6ib",
+    "displayName" : "City of Dallas",
+    "screenName" : "City of Dallas"
+  },
+  "flags" : [ "default" ]
+}, {
+  "id" : "6wfz-rcuc",
+  "name" : "Active Street Cuts",
+  "averageRating" : 0,
+  "createdAt" : 1380921071,
+  "displayType" : "table",
+  "downloadCount" : 4,
+  "indexUpdatedAt" : 1380923251,
+  "newBackend" : false,
+  "numberOfComments" : 0,
+  "oid" : 5757411,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1380921267,
+  "publicationGroup" : 1217203,
+  "publicationStage" : "published",
+  "rowsUpdatedAt" : 1380921093,
+  "rowsUpdatedBy" : "jhxk-y6ib",
+  "signed" : false,
+  "tableId" : 1217203,
+  "totalTimesRated" : 0,
+  "viewCount" : 56,
+  "viewLastModified" : 1380921267,
+  "viewType" : "tabular",
+  "grants" : [ {
+    "inherited" : false,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "renderTypeConfig" : {
+      "visible" : {
+        "table" : true
+      }
+    },
+    "availableDisplayTypes" : [ "table", "fatrow", "page" ]
+  },
+  "owner" : {
+    "id" : "jhxk-y6ib",
+    "displayName" : "City of Dallas",
+    "screenName" : "City of Dallas"
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "jhxk-y6ib",
+    "displayName" : "City of Dallas",
+    "screenName" : "City of Dallas"
+  },
+  "flags" : [ "default" ]
+}, {
+  "id" : "ay9t-w5xr",
+  "name" : "Rotating Image Banner",
+  "averageRating" : 0,
+  "createdAt" : 1376510863,
+  "displayType" : "table",
+  "downloadCount" : 2,
+  "indexUpdatedAt" : 1380753262,
+  "newBackend" : false,
+  "numberOfComments" : 0,
+  "oid" : 5723240,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1380747285,
+  "publicationGroup" : 1048679,
+  "publicationStage" : "published",
+  "rowsUpdatedAt" : 1380747280,
+  "rowsUpdatedBy" : "jhxk-y6ib",
+  "signed" : false,
+  "tableId" : 1209915,
+  "totalTimesRated" : 0,
+  "viewCount" : 37,
+  "viewLastModified" : 1380747286,
+  "viewType" : "tabular",
+  "grants" : [ {
+    "inherited" : false,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "renderTypeConfig" : {
+      "visible" : {
+        "table" : true
+      }
+    },
+    "availableDisplayTypes" : [ "table", "fatrow", "page" ]
+  },
+  "owner" : {
+    "id" : "vcvp-yass",
+    "displayName" : "Dylan",
+    "profileImageUrlLarge" : "/images/profile/0463/4668/puddy_large.jpg",
+    "profileImageUrlMedium" : "/images/profile/0463/4668/puddy_thumb.jpg",
+    "profileImageUrlSmall" : "/images/profile/0463/4668/puddy_tiny.jpg",
+    "screenName" : "Dylan",
+    "rights" : [ "create_datasets", "edit_others_datasets", "edit_sdp", "edit_site_theme", "moderate_comments", "manage_users", "chown_datasets", "edit_nominations", "approve_nominations", "feature_items", "federations", "manage_stories", "manage_approval", "change_configurations", "view_domain", "view_others_datasets", "edit_pages", "create_pages", "view_goals", "view_dashboards", "edit_goals", "edit_dashboards", "create_dashboards" ],
+    "flags" : [ "admin" ]
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "vcvp-yass",
+    "displayName" : "Dylan",
+    "profileImageUrlLarge" : "/images/profile/0463/4668/puddy_large.jpg",
+    "profileImageUrlMedium" : "/images/profile/0463/4668/puddy_thumb.jpg",
+    "profileImageUrlSmall" : "/images/profile/0463/4668/puddy_tiny.jpg",
+    "screenName" : "Dylan",
+    "rights" : [ "create_datasets", "edit_others_datasets", "edit_sdp", "edit_site_theme", "moderate_comments", "manage_users", "chown_datasets", "edit_nominations", "approve_nominations", "feature_items", "federations", "manage_stories", "manage_approval", "change_configurations", "view_domain", "view_others_datasets", "edit_pages", "create_pages", "view_goals", "view_dashboards", "edit_goals", "edit_dashboards", "create_dashboards" ],
+    "flags" : [ "admin" ]
+  },
+  "flags" : [ "default" ]
+}, {
+  "id" : "swih-6upg",
+  "name" : "Applications",
+  "averageRating" : 0,
+  "createdAt" : 1374526047,
+  "displayType" : "table",
+  "downloadCount" : 2,
+  "indexUpdatedAt" : 1380662222,
+  "newBackend" : false,
+  "numberOfComments" : 0,
+  "oid" : 5706156,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1380661127,
+  "publicationGroup" : 992780,
+  "publicationStage" : "published",
+  "rowsUpdatedAt" : 1380661127,
+  "rowsUpdatedBy" : "jhxk-y6ib",
+  "signed" : false,
+  "tableId" : 1206340,
+  "totalTimesRated" : 0,
+  "viewCount" : 26,
+  "viewLastModified" : 1380661127,
+  "viewType" : "tabular",
+  "grants" : [ {
+    "inherited" : false,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "renderTypeConfig" : {
+      "visible" : {
+        "table" : true
+      }
+    },
+    "availableDisplayTypes" : [ "table", "fatrow", "page" ]
+  },
+  "owner" : {
+    "id" : "vcvp-yass",
+    "displayName" : "Dylan",
+    "profileImageUrlLarge" : "/images/profile/0463/4668/puddy_large.jpg",
+    "profileImageUrlMedium" : "/images/profile/0463/4668/puddy_thumb.jpg",
+    "profileImageUrlSmall" : "/images/profile/0463/4668/puddy_tiny.jpg",
+    "screenName" : "Dylan",
+    "rights" : [ "create_datasets", "edit_others_datasets", "edit_sdp", "edit_site_theme", "moderate_comments", "manage_users", "chown_datasets", "edit_nominations", "approve_nominations", "feature_items", "federations", "manage_stories", "manage_approval", "change_configurations", "view_domain", "view_others_datasets", "edit_pages", "create_pages", "view_goals", "view_dashboards", "edit_goals", "edit_dashboards", "create_dashboards" ],
+    "flags" : [ "admin" ]
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "vcvp-yass",
+    "displayName" : "Dylan",
+    "profileImageUrlLarge" : "/images/profile/0463/4668/puddy_large.jpg",
+    "profileImageUrlMedium" : "/images/profile/0463/4668/puddy_thumb.jpg",
+    "profileImageUrlSmall" : "/images/profile/0463/4668/puddy_tiny.jpg",
+    "screenName" : "Dylan",
+    "rights" : [ "create_datasets", "edit_others_datasets", "edit_sdp", "edit_site_theme", "moderate_comments", "manage_users", "chown_datasets", "edit_nominations", "approve_nominations", "feature_items", "federations", "manage_stories", "manage_approval", "change_configurations", "view_domain", "view_others_datasets", "edit_pages", "create_pages", "view_goals", "view_dashboards", "edit_goals", "edit_dashboards", "create_dashboards" ],
+    "flags" : [ "admin" ]
+  },
+  "flags" : [ "default" ]
+}, {
+  "id" : "si5f-a98p",
+  "name" : "Dallas Police Stations",
+  "averageRating" : 0,
+  "category" : "Police",
+  "createdAt" : 1380568482,
+  "description" : "Dallas Police Stations",
+  "displayType" : "table",
+  "downloadCount" : 2,
+  "indexUpdatedAt" : 1384997836,
+  "newBackend" : false,
+  "numberOfComments" : 0,
+  "oid" : 5687528,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1380568542,
+  "publicationGroup" : 1202403,
+  "publicationStage" : "published",
+  "rowsUpdatedAt" : 1380568489,
+  "rowsUpdatedBy" : "jhxk-y6ib",
+  "signed" : false,
+  "tableId" : 1202403,
+  "totalTimesRated" : 0,
+  "viewCount" : 20,
+  "viewLastModified" : 1380568725,
+  "viewType" : "tabular",
+  "grants" : [ {
+    "inherited" : false,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "renderTypeConfig" : {
+      "visible" : {
+        "table" : true
+      }
+    },
+    "availableDisplayTypes" : [ "table", "fatrow", "page" ]
+  },
+  "owner" : {
+    "id" : "jhxk-y6ib",
+    "displayName" : "City of Dallas",
+    "screenName" : "City of Dallas"
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "jhxk-y6ib",
+    "displayName" : "City of Dallas",
+    "screenName" : "City of Dallas"
+  },
+  "tags" : [ "dallas", "police", "public safety" ],
+  "flags" : [ "default" ]
+}, {
+  "id" : "94fd-4uc6",
+  "name" : "Messages",
+  "averageRating" : 0,
+  "createdAt" : 1374688104,
+  "displayType" : "table",
+  "downloadCount" : 2,
+  "indexUpdatedAt" : 1380239140,
+  "newBackend" : false,
+  "numberOfComments" : 0,
+  "oid" : 5621687,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1380224789,
+  "publicationGroup" : 996640,
+  "publicationStage" : "published",
+  "rowsUpdatedAt" : 1380224659,
+  "rowsUpdatedBy" : "jhxk-y6ib",
+  "signed" : false,
+  "tableId" : 1188815,
+  "totalTimesRated" : 0,
+  "viewCount" : 23,
+  "viewLastModified" : 1380224789,
+  "viewType" : "tabular",
+  "grants" : [ {
+    "inherited" : false,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "renderTypeConfig" : {
+      "visible" : {
+        "table" : true
+      }
+    },
+    "availableDisplayTypes" : [ "table", "fatrow", "page" ]
+  },
+  "owner" : {
+    "id" : "vcvp-yass",
+    "displayName" : "Dylan",
+    "profileImageUrlLarge" : "/images/profile/0463/4668/puddy_large.jpg",
+    "profileImageUrlMedium" : "/images/profile/0463/4668/puddy_thumb.jpg",
+    "profileImageUrlSmall" : "/images/profile/0463/4668/puddy_tiny.jpg",
+    "screenName" : "Dylan",
+    "rights" : [ "create_datasets", "edit_others_datasets", "edit_sdp", "edit_site_theme", "moderate_comments", "manage_users", "chown_datasets", "edit_nominations", "approve_nominations", "feature_items", "federations", "manage_stories", "manage_approval", "change_configurations", "view_domain", "view_others_datasets", "edit_pages", "create_pages", "view_goals", "view_dashboards", "edit_goals", "edit_dashboards", "create_dashboards" ],
+    "flags" : [ "admin" ]
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "vcvp-yass",
+    "displayName" : "Dylan",
+    "profileImageUrlLarge" : "/images/profile/0463/4668/puddy_large.jpg",
+    "profileImageUrlMedium" : "/images/profile/0463/4668/puddy_thumb.jpg",
+    "profileImageUrlSmall" : "/images/profile/0463/4668/puddy_tiny.jpg",
+    "screenName" : "Dylan",
+    "rights" : [ "create_datasets", "edit_others_datasets", "edit_sdp", "edit_site_theme", "moderate_comments", "manage_users", "chown_datasets", "edit_nominations", "approve_nominations", "feature_items", "federations", "manage_stories", "manage_approval", "change_configurations", "view_domain", "view_others_datasets", "edit_pages", "create_pages", "view_goals", "view_dashboards", "edit_goals", "edit_dashboards", "create_dashboards" ],
+    "flags" : [ "admin" ]
+  },
+  "flags" : [ "default" ]
+}, {
+  "id" : "7q55-efn5",
+  "name" : "Current Council Districts Adopted",
+  "averageRating" : 0,
+  "blobFilename" : "Dallas_2011CouncilDistricts_Adopted.zip",
+  "blobFileSize" : 269700,
+  "blobId" : "dwUgXSjkomdAV-wDLUoSui4Aqj6BQjZ33zaTAjR8jZg",
+  "blobMimeType" : "application/zip; charset=binary",
+  "category" : "GIS",
+  "createdAt" : 1380037535,
+  "description" : "Dallas 2011 Council Districts Adopted",
+  "displayType" : "map",
+  "downloadCount" : 0,
+  "indexUpdatedAt" : 1380239063,
+  "newBackend" : false,
+  "numberOfComments" : 0,
+  "oid" : 5581521,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1380037540,
+  "publicationGroup" : 1181045,
+  "publicationStage" : "published",
+  "signed" : false,
+  "tableId" : 1181045,
+  "totalTimesRated" : 0,
+  "viewCount" : 55,
+  "viewLastModified" : 1380223838,
+  "viewType" : "geo",
+  "childViews" : [ "h9ws-fqcn" ],
+  "grants" : [ {
+    "inherited" : false,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "renderTypeConfig" : {
+      "visible" : {
+        "map" : true
+      }
+    },
+    "availableDisplayTypes" : [ "map", "table", "fatrow", "page" ],
+    "geo" : {
+      "owsUrl" : "/api/geospatial/7q55-efn5",
+      "bbox" : "-97.00063226661081,32.60579627302432,-96.46273347117582,33.03098775707108",
+      "layers" : "geo_7q55-efn5-1",
+      "featureIdAttribute" : "_SocrataID",
+      "bboxCrs" : "EPSG:4326",
+      "namespace" : "geo_7q55-efn5"
+    }
+  },
+  "owner" : {
+    "id" : "jhxk-y6ib",
+    "displayName" : "City of Dallas",
+    "screenName" : "City of Dallas"
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "jhxk-y6ib",
+    "displayName" : "City of Dallas",
+    "screenName" : "City of Dallas"
+  },
+  "flags" : [ "default" ]
+}, {
+  "id" : "3aem-ymew",
+  "name" : "Dallas Services Locations",
+  "averageRating" : 0,
+  "blobFilename" : "Citylimit.zip",
+  "blobFileSize" : 164897,
+  "blobId" : "x73vO5Nezo0WapBNXqJ6vlmCuT6OrkQi02xm9NxJHDg",
+  "category" : "GIS",
+  "createdAt" : 1380569117,
+  "description" : "Dallas City Limits GIS Layer",
+  "displayType" : "map",
+  "downloadCount" : 0,
+  "indexUpdatedAt" : 1380575359,
+  "newBackend" : false,
+  "numberOfComments" : 0,
+  "oid" : 5687592,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1380222216,
+  "publicationGroup" : 1188738,
+  "publicationStage" : "published",
+  "signed" : false,
+  "tableId" : 1188738,
+  "totalTimesRated" : 0,
+  "viewCount" : 25,
+  "viewLastModified" : 1380569117,
+  "viewType" : "geo",
+  "childViews" : [ "hzda-p39w" ],
+  "grants" : [ {
+    "inherited" : true,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "renderTypeConfig" : {
+      "visible" : {
+        "map" : true
+      }
+    },
+    "availableDisplayTypes" : [ "map", "table", "fatrow", "page" ],
+    "geo" : {
+      "owsUrl" : "/api/geospatial/mn9w-m2tp",
+      "bbox" : "-97.00063702381648,32.60590524769509,-96.462706655969,33.03101061052906",
+      "layers" : "geo_mn9w-m2tp-1",
+      "featureIdAttribute" : "_SocrataID",
+      "bboxCrs" : "EPSG:4326",
+      "namespace" : "geo_mn9w-m2tp"
+    }
+  },
+  "owner" : {
+    "id" : "jhxk-y6ib",
+    "displayName" : "City of Dallas",
+    "screenName" : "City of Dallas"
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "jhxk-y6ib",
+    "displayName" : "City of Dallas",
+    "screenName" : "City of Dallas"
+  }
+}, {
+  "id" : "hz74-c2yc",
+  "name" : "Dallas Services Locations",
+  "averageRating" : 0,
+  "blobFilename" : "Citylimit.zip",
+  "blobFileSize" : 164897,
+  "blobId" : "x73vO5Nezo0WapBNXqJ6vlmCuT6OrkQi02xm9NxJHDg",
+  "category" : "GIS",
+  "createdAt" : 1380574261,
+  "description" : "Dallas City Limits GIS Layer",
+  "displayType" : "map",
+  "downloadCount" : 0,
+  "indexUpdatedAt" : 1380578211,
+  "newBackend" : false,
+  "numberOfComments" : 0,
+  "oid" : 5688570,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1380222216,
+  "publicationGroup" : 1188738,
+  "publicationStage" : "published",
+  "signed" : false,
+  "tableId" : 1188738,
+  "totalTimesRated" : 0,
+  "viewCount" : 148,
+  "viewLastModified" : 1380574688,
+  "viewType" : "geo",
+  "childViews" : [ "hzda-p39w" ],
+  "grants" : [ {
+    "inherited" : true,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "renderTypeConfig" : {
+      "visible" : {
+        "map" : true
+      }
+    },
+    "availableDisplayTypes" : [ "map", "table", "fatrow", "page" ],
+    "geo" : {
+      "owsUrl" : "/api/geospatial/mn9w-m2tp",
+      "bbox" : "-97.00063702381648,32.60590524769509,-96.462706655969,33.03101061052906",
+      "layers" : "geo_mn9w-m2tp-1",
+      "featureIdAttribute" : "_SocrataID",
+      "bboxCrs" : "EPSG:4326",
+      "namespace" : "geo_mn9w-m2tp"
+    }
+  },
+  "owner" : {
+    "id" : "jhxk-y6ib",
+    "displayName" : "City of Dallas",
+    "screenName" : "City of Dallas"
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "jhxk-y6ib",
+    "displayName" : "City of Dallas",
+    "screenName" : "City of Dallas"
+  }
+}, {
+  "id" : "mn9w-m2tp",
+  "name" : "Dallas City Limits GIS Layer",
+  "averageRating" : 0,
+  "blobFilename" : "Citylimit.zip",
+  "blobFileSize" : 164897,
+  "blobId" : "x73vO5Nezo0WapBNXqJ6vlmCuT6OrkQi02xm9NxJHDg",
+  "blobMimeType" : "application/zip; charset=binary",
+  "category" : "GIS",
+  "createdAt" : 1380222211,
+  "description" : "Dallas City Limits GIS Layer",
+  "displayType" : "map",
+  "downloadCount" : 0,
+  "indexUpdatedAt" : 1380575359,
+  "newBackend" : false,
+  "numberOfComments" : 0,
+  "oid" : 5621206,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1380222216,
+  "publicationGroup" : 1188738,
+  "publicationStage" : "published",
+  "signed" : false,
+  "tableId" : 1188738,
+  "totalTimesRated" : 0,
+  "viewCount" : 31,
+  "viewLastModified" : 1380223814,
+  "viewType" : "geo",
+  "childViews" : [ "hzda-p39w" ],
+  "grants" : [ {
+    "inherited" : true,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "renderTypeConfig" : {
+      "visible" : {
+        "map" : true
+      }
+    },
+    "availableDisplayTypes" : [ "map", "table", "fatrow", "page" ],
+    "geo" : {
+      "owsUrl" : "/api/geospatial/mn9w-m2tp",
+      "bbox" : "-97.00063702381648,32.60590524769509,-96.462706655969,33.03101061052906",
+      "layers" : "geo_mn9w-m2tp-1",
+      "featureIdAttribute" : "_SocrataID",
+      "bboxCrs" : "EPSG:4326",
+      "namespace" : "geo_mn9w-m2tp"
+    }
+  },
+  "owner" : {
+    "id" : "jhxk-y6ib",
+    "displayName" : "City of Dallas",
+    "screenName" : "City of Dallas"
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "jhxk-y6ib",
+    "displayName" : "City of Dallas",
+    "screenName" : "City of Dallas"
+  },
+  "flags" : [ "default" ]
+}, {
+  "id" : "w75g-c54n",
+  "name" : "City of Dallas Fire Station Locations",
+  "averageRating" : 0,
+  "createdAt" : 1379959856,
+  "description" : "City of Dallas Fire Station Locations",
+  "displayType" : "table",
+  "downloadCount" : 3,
+  "indexUpdatedAt" : 1379964479,
+  "newBackend" : false,
+  "numberOfComments" : 0,
+  "oid" : 5564486,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1379959952,
+  "publicationGroup" : 1177701,
+  "publicationStage" : "published",
+  "rowClass" : "",
+  "rowIdentifierColumnId" : 100836581,
+  "rowsUpdatedAt" : 1379959866,
+  "rowsUpdatedBy" : "jhxk-y6ib",
+  "signed" : false,
+  "tableId" : 1177701,
+  "totalTimesRated" : 0,
+  "viewCount" : 13,
+  "viewLastModified" : 1379960069,
+  "viewType" : "tabular",
+  "grants" : [ {
+    "inherited" : false,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "renderTypeConfig" : {
+      "visible" : {
+        "table" : true
+      }
+    },
+    "availableDisplayTypes" : [ "table", "fatrow", "page" ],
+    "rdfSubject" : "0",
+    "rowIdentifier" : "station",
+    "rdfClass" : ""
+  },
+  "owner" : {
+    "id" : "jhxk-y6ib",
+    "displayName" : "City of Dallas",
+    "screenName" : "City of Dallas"
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "jhxk-y6ib",
+    "displayName" : "City of Dallas",
+    "screenName" : "City of Dallas"
+  },
+  "flags" : [ "default" ]
+}, {
+  "id" : "2ksy-mdcf",
+  "name" : "City of Dallas Library Locations",
+  "averageRating" : 0,
+  "category" : "Government",
+  "createdAt" : 1376501033,
+  "description" : "City of Dallas Library Locations",
+  "displayType" : "table",
+  "downloadCount" : 4,
+  "indexUpdatedAt" : 1384999867,
+  "newBackend" : false,
+  "numberOfComments" : 0,
+  "oid" : 4922592,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1376501192,
+  "publicationGroup" : 1048245,
+  "publicationStage" : "published",
+  "rowsUpdatedAt" : 1376501056,
+  "rowsUpdatedBy" : "jhxk-y6ib",
+  "signed" : false,
+  "tableId" : 1048245,
+  "totalTimesRated" : 0,
+  "viewCount" : 21,
+  "viewLastModified" : 1378751595,
+  "viewType" : "tabular",
+  "grants" : [ {
+    "inherited" : true,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "renderTypeConfig" : {
+      "visible" : {
+        "table" : true
+      }
+    },
+    "availableDisplayTypes" : [ "table", "fatrow", "page" ]
+  },
+  "owner" : {
+    "id" : "jhxk-y6ib",
+    "displayName" : "City of Dallas",
+    "screenName" : "City of Dallas"
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "jhxk-y6ib",
+    "displayName" : "City of Dallas",
+    "screenName" : "City of Dallas"
+  },
+  "tags" : [ "library", "locations", "hours" ],
+  "flags" : [ "default" ]
+}, {
+  "id" : "2m5r-wntv",
+  "name" : "Templates",
+  "averageRating" : 0,
+  "createdAt" : 1374517895,
+  "downloadCount" : 0,
+  "indexUpdatedAt" : 1374519279,
+  "newBackend" : false,
+  "numberOfComments" : 0,
+  "oid" : 4576140,
+  "publicationAppendEnabled" : false,
+  "publicationGroup" : 992556,
+  "publicationStage" : "published",
+  "resourceName" : "templates",
+  "rowIdentifierColumnId" : 83649575,
+  "signed" : false,
+  "state" : "empty",
+  "tableId" : 992556,
+  "totalTimesRated" : 0,
+  "viewCount" : 21,
+  "viewLastModified" : 1374517939,
+  "viewType" : "tabular",
+  "grants" : [ {
+    "inherited" : false,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "rowIdentifier" : "identifier"
+  },
+  "owner" : {
+    "id" : "jhxk-y6ib",
+    "displayName" : "City of Dallas",
+    "screenName" : "City of Dallas"
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "jhxk-y6ib",
+    "displayName" : "City of Dallas",
+    "screenName" : "City of Dallas"
+  },
+  "flags" : [ "default" ]
+} ]

@@ -1,0 +1,3379 @@
+[ {
+  "id" : "ix32-iw26",
+  "name" : "Traffic Incidents",
+  "averageRating" : 0,
+  "createdAt" : 1346281817,
+  "downloadCount" : 250,
+  "indexUpdatedAt" : 1387746367,
+  "newBackend" : false,
+  "numberOfComments" : 0,
+  "oid" : 1025668,
+  "publicationAppendEnabled" : true,
+  "publicationDate" : 1346285778,
+  "publicationGroup" : 414580,
+  "publicationStage" : "published",
+  "rowClass" : "",
+  "rowsUpdatedAt" : 1387753091,
+  "rowsUpdatedBy" : "gcjf-354x",
+  "signed" : false,
+  "tableId" : 414612,
+  "totalTimesRated" : 0,
+  "viewCount" : 4691,
+  "viewLastModified" : 1346285876,
+  "viewType" : "tabular",
+  "grants" : [ {
+    "inherited" : false,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "rdfSubject" : "0",
+    "rowIdentifier" : "0",
+    "rdfClass" : ""
+  },
+  "owner" : {
+    "id" : "gcjf-354x",
+    "displayName" : "Mick Thompson",
+    "screenName" : "Mick Thompson"
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "gcjf-354x",
+    "displayName" : "Mick Thompson",
+    "screenName" : "Mick Thompson"
+  },
+  "flags" : [ "default" ]
+}, {
+  "id" : "std8-yakc",
+  "name" : "City spending",
+  "averageRating" : 0,
+  "createdAt" : 1338509628,
+  "description" : "Actual spending 2010&2011\r\nBudget 2012\r\nProposed Budget 2013",
+  "displayType" : "table",
+  "downloadCount" : 136,
+  "indexUpdatedAt" : 1365099269,
+  "newBackend" : false,
+  "numberOfComments" : 0,
+  "oid" : 1599857,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1353429886,
+  "publicationGroup" : 351822,
+  "publicationStage" : "published",
+  "rowsUpdatedAt" : 1353429807,
+  "rowsUpdatedBy" : "gcjf-354x",
+  "signed" : false,
+  "tableId" : 488512,
+  "totalTimesRated" : 0,
+  "viewCount" : 2143,
+  "viewLastModified" : 1353429886,
+  "viewType" : "tabular",
+  "grants" : [ {
+    "inherited" : true,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "renderTypeConfig" : {
+      "visible" : {
+        "table" : true
+      }
+    },
+    "availableDisplayTypes" : [ "table", "fatrow", "page" ],
+    "rdfSubject" : "0",
+    "richRendererConfigs" : {
+      "fatRow" : {
+        "headerShown" : false
+      }
+    }
+  },
+  "owner" : {
+    "id" : "gcjf-354x",
+    "displayName" : "Mick Thompson",
+    "screenName" : "Mick Thompson"
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "gcjf-354x",
+    "displayName" : "Mick Thompson",
+    "screenName" : "Mick Thompson"
+  },
+  "flags" : [ "default" ]
+}, {
+  "id" : "qv9z-7saf",
+  "name" : "Zoning Map",
+  "averageRating" : 80,
+  "createdAt" : 1343158158,
+  "description" : "Land zoning designations within the City & County of Honolulu along with special zoning districts, height limits, and zoning amendment locations.",
+  "displayType" : "href",
+  "downloadCount" : 561,
+  "indexUpdatedAt" : 1360625071,
+  "newBackend" : false,
+  "numberOfComments" : 0,
+  "oid" : 903907,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1343158167,
+  "publicationGroup" : 387844,
+  "publicationStage" : "published",
+  "signed" : false,
+  "tableId" : 387844,
+  "totalTimesRated" : 1,
+  "viewCount" : 1667,
+  "viewLastModified" : 1360625068,
+  "viewType" : "href",
+  "grants" : [ {
+    "inherited" : false,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "renderTypeConfig" : {
+      "visible" : {
+        "href" : true
+      }
+    },
+    "availableDisplayTypes" : [ "href" ],
+    "accessPoints" : {
+      "html?id=706881cd2a1341569509fbc499cc4f37" : "http://cchnl.maps.arcgis.com/home/item.html?id=706881cd2a1341569509fbc499cc4f37"
+    }
+  },
+  "owner" : {
+    "id" : "gcjf-354x",
+    "displayName" : "Mick Thompson",
+    "screenName" : "Mick Thompson"
+  },
+  "ratings" : {
+    "rating" : 80
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "gcjf-354x",
+    "displayName" : "Mick Thompson",
+    "screenName" : "Mick Thompson"
+  },
+  "flags" : [ "default" ]
+}, {
+  "id" : "a96q-gyhq",
+  "name" : "Crime Incidents",
+  "averageRating" : 0,
+  "createdAt" : 1346265358,
+  "downloadCount" : 639,
+  "indexUpdatedAt" : 1384232718,
+  "newBackend" : false,
+  "numberOfComments" : 0,
+  "oid" : 1024873,
+  "publicationAppendEnabled" : true,
+  "publicationDate" : 1346265801,
+  "publicationGroup" : 414404,
+  "publicationStage" : "published",
+  "rowClass" : "",
+  "rowsUpdatedAt" : 1384228875,
+  "rowsUpdatedBy" : "gcjf-354x",
+  "signed" : false,
+  "tableId" : 414404,
+  "totalTimesRated" : 0,
+  "viewCount" : 3861,
+  "viewLastModified" : 1363209044,
+  "viewType" : "tabular",
+  "grants" : [ {
+    "inherited" : false,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "rdfSubject" : "0",
+    "rowIdentifier" : "0",
+    "rdfClass" : "",
+    "thumbnail" : {
+      "page" : {
+        "created" : true
+      }
+    }
+  },
+  "owner" : {
+    "id" : "gcjf-354x",
+    "displayName" : "Mick Thompson",
+    "screenName" : "Mick Thompson"
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "gcjf-354x",
+    "displayName" : "Mick Thompson",
+    "screenName" : "Mick Thompson"
+  },
+  "flags" : [ "default" ]
+}, {
+  "id" : "fdx8-nih6",
+  "name" : "Honolulu 311 Reports",
+  "averageRating" : 0,
+  "createdAt" : 1340414436,
+  "displayType" : "table",
+  "downloadCount" : 504,
+  "indexUpdatedAt" : 1386253111,
+  "newBackend" : false,
+  "numberOfComments" : 0,
+  "oid" : 928390,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1343766359,
+  "publicationGroup" : 366002,
+  "publicationStage" : "published",
+  "rowsUpdatedAt" : 1343766332,
+  "rowsUpdatedBy" : "gcjf-354x",
+  "signed" : false,
+  "tableId" : 392928,
+  "totalTimesRated" : 0,
+  "viewCount" : 1381,
+  "viewLastModified" : 1343766359,
+  "viewType" : "tabular",
+  "grants" : [ {
+    "inherited" : true,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "renderTypeConfig" : {
+      "visible" : {
+        "table" : true
+      }
+    },
+    "availableDisplayTypes" : [ "table", "fatrow", "page" ],
+    "rdfSubject" : "0"
+  },
+  "owner" : {
+    "id" : "gcjf-354x",
+    "displayName" : "Mick Thompson",
+    "screenName" : "Mick Thompson"
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "gcjf-354x",
+    "displayName" : "Mick Thompson",
+    "screenName" : "Mick Thompson"
+  },
+  "flags" : [ "default" ]
+}, {
+  "id" : "yef5-h88r",
+  "name" : "Public Art",
+  "averageRating" : 0,
+  "createdAt" : 1339713152,
+  "description" : "Location and descriptions of public works of art",
+  "displayType" : "table",
+  "downloadCount" : 397,
+  "newBackend" : false,
+  "numberOfComments" : 0,
+  "oid" : 837646,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1341784505,
+  "publicationGroup" : 360565,
+  "publicationStage" : "published",
+  "rowsUpdatedAt" : 1341784473,
+  "rowsUpdatedBy" : "gcjf-354x",
+  "signed" : false,
+  "tableId" : 376534,
+  "totalTimesRated" : 0,
+  "viewCount" : 584,
+  "viewLastModified" : 1341784505,
+  "viewType" : "tabular",
+  "grants" : [ {
+    "inherited" : true,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "renderTypeConfig" : {
+      "visible" : {
+        "table" : true
+      }
+    },
+    "availableDisplayTypes" : [ "table", "fatrow", "page" ]
+  },
+  "owner" : {
+    "id" : "gcjf-354x",
+    "displayName" : "Mick Thompson",
+    "screenName" : "Mick Thompson"
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "gcjf-354x",
+    "displayName" : "Mick Thompson",
+    "screenName" : "Mick Thompson"
+  },
+  "flags" : [ "default" ]
+}, {
+  "id" : "dcdf-43kn",
+  "name" : "Traffic Camera Locations",
+  "averageRating" : 0,
+  "createdAt" : 1340415240,
+  "displayType" : "table",
+  "downloadCount" : 199,
+  "newBackend" : false,
+  "numberOfComments" : 0,
+  "oid" : 791079,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1340415455,
+  "publicationGroup" : 366014,
+  "publicationStage" : "published",
+  "rowsUpdatedAt" : 1340415453,
+  "rowsUpdatedBy" : "gcjf-354x",
+  "signed" : false,
+  "tableId" : 366014,
+  "totalTimesRated" : 0,
+  "viewCount" : 474,
+  "viewLastModified" : 1340415455,
+  "viewType" : "tabular",
+  "grants" : [ {
+    "inherited" : false,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "renderTypeConfig" : {
+      "visible" : {
+        "table" : true
+      }
+    },
+    "availableDisplayTypes" : [ "table", "fatrow", "page" ]
+  },
+  "owner" : {
+    "id" : "gcjf-354x",
+    "displayName" : "Mick Thompson",
+    "screenName" : "Mick Thompson"
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "gcjf-354x",
+    "displayName" : "Mick Thompson",
+    "screenName" : "Mick Thompson"
+  },
+  "flags" : [ "default" ]
+}, {
+  "id" : "cdq8-ccz7",
+  "name" : "311 Report Heatmap",
+  "averageRating" : 0,
+  "createdAt" : 1340414791,
+  "displayType" : "map",
+  "downloadCount" : 222,
+  "indexUpdatedAt" : 1386253115,
+  "newBackend" : false,
+  "numberOfComments" : 0,
+  "oid" : 928392,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1343766359,
+  "publicationGroup" : 366002,
+  "publicationStage" : "published",
+  "rowsUpdatedAt" : 1343766332,
+  "rowsUpdatedBy" : "gcjf-354x",
+  "signed" : false,
+  "tableId" : 392928,
+  "totalTimesRated" : 0,
+  "viewCount" : 1050,
+  "viewLastModified" : 1340414791,
+  "viewType" : "tabular",
+  "grants" : [ {
+    "inherited" : true,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "renderTypeConfig" : {
+      "visible" : {
+        "map" : true
+      }
+    },
+    "availableDisplayTypes" : [ "map", "table", "fatrow", "page" ],
+    "rdfSubject" : "0"
+  },
+  "owner" : {
+    "id" : "gcjf-354x",
+    "displayName" : "Mick Thompson",
+    "screenName" : "Mick Thompson"
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "gcjf-354x",
+    "displayName" : "Mick Thompson",
+    "screenName" : "Mick Thompson"
+  }
+}, {
+  "id" : "6qpe-gunp",
+  "name" : "CIty Budget 2012",
+  "averageRating" : 0,
+  "createdAt" : 1338843807,
+  "displayType" : "chart",
+  "downloadCount" : 100,
+  "indexUpdatedAt" : 1365099274,
+  "newBackend" : false,
+  "numberOfComments" : 0,
+  "oid" : 1745704,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1353429886,
+  "publicationGroup" : 351822,
+  "publicationStage" : "published",
+  "rowsUpdatedAt" : 1353429807,
+  "rowsUpdatedBy" : "gcjf-354x",
+  "signed" : false,
+  "tableId" : 488512,
+  "totalTimesRated" : 0,
+  "viewCount" : 434,
+  "viewLastModified" : 1338843807,
+  "viewType" : "tabular",
+  "grants" : [ {
+    "inherited" : true,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "renderTypeConfig" : {
+      "visible" : {
+        "chart" : true,
+        "table" : true
+      }
+    },
+    "availableDisplayTypes" : [ "chart", "table", "fatrow", "page" ],
+    "richRendererConfigs" : {
+      "fatRow" : {
+        "headerShown" : false
+      }
+    }
+  },
+  "owner" : {
+    "id" : "gcjf-354x",
+    "displayName" : "Mick Thompson",
+    "screenName" : "Mick Thompson"
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "gcjf-354x",
+    "displayName" : "Mick Thompson",
+    "screenName" : "Mick Thompson"
+  }
+}, {
+  "id" : "jtmr-aw46",
+  "name" : "Warning Sirens",
+  "averageRating" : 0,
+  "blobFilename" : "sirens.zip",
+  "blobFileSize" : 18952,
+  "blobId" : "mFWoEMvZ8pwgSODk8mMST9swNnvXC-Dd3J2qGmImtqg",
+  "blobMimeType" : "application/zip; charset=binary",
+  "createdAt" : 1340415542,
+  "displayType" : "map",
+  "downloadCount" : 0,
+  "newBackend" : false,
+  "numberOfComments" : 0,
+  "oid" : 791085,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1340415544,
+  "publicationGroup" : 366019,
+  "publicationStage" : "published",
+  "signed" : false,
+  "tableId" : 366019,
+  "totalTimesRated" : 0,
+  "viewCount" : 369,
+  "viewLastModified" : 1340415592,
+  "viewType" : "geo",
+  "childViews" : [ "re8v-6iy5" ],
+  "grants" : [ {
+    "inherited" : false,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "renderTypeConfig" : {
+      "visible" : {
+        "map" : true
+      }
+    },
+    "availableDisplayTypes" : [ "map", "table", "fatrow", "page" ],
+    "geo" : {
+      "owsUrl" : "/api/geospatial/jtmr-aw46",
+      "bbox" : "-158.22425135307435,21.256002952965893,-157.66064026228668,21.697609578890898",
+      "layers" : "geo_jtmr-aw46-1",
+      "featureIdAttribute" : "_SocrataID",
+      "bboxCrs" : "EPSG:4326",
+      "namespace" : "geo_jtmr-aw46"
+    }
+  },
+  "owner" : {
+    "id" : "gcjf-354x",
+    "displayName" : "Mick Thompson",
+    "screenName" : "Mick Thompson"
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "gcjf-354x",
+    "displayName" : "Mick Thompson",
+    "screenName" : "Mick Thompson"
+  },
+  "flags" : [ "default" ]
+}, {
+  "id" : "383v-jhbi",
+  "name" : "Parking Facilties",
+  "averageRating" : 0,
+  "createdAt" : 1343157798,
+  "description" : "Parking facilities in the City & County of Honolulu.",
+  "displayType" : "href",
+  "downloadCount" : 439,
+  "newBackend" : false,
+  "numberOfComments" : 0,
+  "oid" : 903897,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1343157805,
+  "publicationGroup" : 387835,
+  "publicationStage" : "published",
+  "signed" : false,
+  "tableId" : 387835,
+  "totalTimesRated" : 0,
+  "viewCount" : 230,
+  "viewLastModified" : 1343157805,
+  "viewType" : "href",
+  "grants" : [ {
+    "inherited" : false,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "renderTypeConfig" : {
+      "visible" : {
+        "href" : true
+      }
+    },
+    "availableDisplayTypes" : [ "href" ],
+    "accessPoints" : {
+      "html?id=3196bc87b31c443a92a425e409771b7c" : "http://cchnl.maps.arcgis.com/home/item.html?id=3196bc87b31c443a92a425e409771b7c"
+    }
+  },
+  "owner" : {
+    "id" : "gcjf-354x",
+    "displayName" : "Mick Thompson",
+    "screenName" : "Mick Thompson"
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "gcjf-354x",
+    "displayName" : "Mick Thompson",
+    "screenName" : "Mick Thompson"
+  },
+  "flags" : [ "default" ]
+}, {
+  "id" : "dcm2-4u9j",
+  "name" : "City Spending 2010 by Department",
+  "averageRating" : 0,
+  "createdAt" : 1339818161,
+  "displayType" : "chart",
+  "downloadCount" : 80,
+  "indexUpdatedAt" : 1365099256,
+  "newBackend" : false,
+  "numberOfComments" : 0,
+  "oid" : 1745702,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1353429886,
+  "publicationGroup" : 351822,
+  "publicationStage" : "published",
+  "rowsUpdatedAt" : 1353429807,
+  "rowsUpdatedBy" : "gcjf-354x",
+  "signed" : false,
+  "tableId" : 488512,
+  "totalTimesRated" : 0,
+  "viewCount" : 204,
+  "viewLastModified" : 1339818161,
+  "viewType" : "tabular",
+  "grants" : [ {
+    "inherited" : true,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "renderTypeConfig" : {
+      "visible" : {
+        "chart" : true
+      }
+    },
+    "availableDisplayTypes" : [ "chart", "table", "fatrow", "page" ],
+    "richRendererConfigs" : {
+      "fatRow" : {
+        "headerShown" : false
+      }
+    }
+  },
+  "owner" : {
+    "id" : "gcjf-354x",
+    "displayName" : "Mick Thompson",
+    "screenName" : "Mick Thompson"
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "gcjf-354x",
+    "displayName" : "Mick Thompson",
+    "screenName" : "Mick Thompson"
+  }
+}, {
+  "id" : "3dxw-z8rr",
+  "name" : "Neighborhood Boards",
+  "averageRating" : 0,
+  "createdAt" : 1340418865,
+  "displayType" : "table",
+  "downloadCount" : 72,
+  "newBackend" : false,
+  "numberOfComments" : 0,
+  "oid" : 791139,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1340418886,
+  "publicationGroup" : 366062,
+  "publicationStage" : "published",
+  "rowsUpdatedAt" : 1340418885,
+  "rowsUpdatedBy" : "gcjf-354x",
+  "signed" : false,
+  "tableId" : 366062,
+  "totalTimesRated" : 0,
+  "viewCount" : 171,
+  "viewLastModified" : 1340418887,
+  "viewType" : "tabular",
+  "grants" : [ {
+    "inherited" : true,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "renderTypeConfig" : {
+      "visible" : {
+        "table" : true
+      }
+    },
+    "availableDisplayTypes" : [ "table", "fatrow", "page" ]
+  },
+  "owner" : {
+    "id" : "gcjf-354x",
+    "displayName" : "Mick Thompson",
+    "screenName" : "Mick Thompson"
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "gcjf-354x",
+    "displayName" : "Mick Thompson",
+    "screenName" : "Mick Thompson"
+  },
+  "flags" : [ "default" ]
+}, {
+  "id" : "3a9s-vekf",
+  "name" : "Polling Places And Election Precincts",
+  "averageRating" : 0,
+  "createdAt" : 1343157172,
+  "description" : "Official Polling Places and Election Districts for 2012 elections for U.S. Congress, State of Hawaii House and Senate and Honolulu Council",
+  "displayType" : "href",
+  "downloadCount" : 103,
+  "newBackend" : false,
+  "numberOfComments" : 0,
+  "oid" : 903880,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1343157211,
+  "publicationGroup" : 387818,
+  "publicationStage" : "published",
+  "signed" : false,
+  "tableId" : 387818,
+  "totalTimesRated" : 0,
+  "viewCount" : 152,
+  "viewLastModified" : 1343157211,
+  "viewType" : "href",
+  "grants" : [ {
+    "inherited" : false,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "renderTypeConfig" : {
+      "visible" : {
+        "href" : true
+      }
+    },
+    "availableDisplayTypes" : [ "href" ],
+    "accessPoints" : {
+      "html?id=4adbb9b743c6499583bb19b3f7eabc16" : "http://cchnl.maps.arcgis.com/home/item.html?id=4adbb9b743c6499583bb19b3f7eabc16"
+    }
+  },
+  "owner" : {
+    "id" : "gcjf-354x",
+    "displayName" : "Mick Thompson",
+    "screenName" : "Mick Thompson"
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "gcjf-354x",
+    "displayName" : "Mick Thompson",
+    "screenName" : "Mick Thompson"
+  },
+  "flags" : [ "default" ]
+}, {
+  "id" : "5fhm-vea5",
+  "name" : "Sam's View",
+  "averageRating" : 0,
+  "createdAt" : 1343678796,
+  "description" : "Actual spending 2010&2011\r\nBudget 2012\r\nProposed Budget 2013",
+  "displayType" : "table",
+  "downloadCount" : 88,
+  "indexUpdatedAt" : 1365099255,
+  "newBackend" : false,
+  "numberOfComments" : 0,
+  "oid" : 1745701,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1353429886,
+  "publicationGroup" : 351822,
+  "publicationStage" : "published",
+  "rowsUpdatedAt" : 1353429807,
+  "rowsUpdatedBy" : "gcjf-354x",
+  "signed" : false,
+  "tableId" : 488512,
+  "totalTimesRated" : 0,
+  "viewCount" : 1388,
+  "viewLastModified" : 1343678851,
+  "viewType" : "tabular",
+  "grants" : [ {
+    "inherited" : true,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "renderTypeConfig" : {
+      "visible" : {
+        "table" : true
+      }
+    },
+    "availableDisplayTypes" : [ "table", "fatrow", "page" ],
+    "rdfSubject" : "0",
+    "richRendererConfigs" : {
+      "fatRow" : {
+        "headerShown" : false
+      }
+    }
+  },
+  "owner" : {
+    "id" : "tj73-txpn",
+    "displayName" : "kingsam2",
+    "screenName" : "kingsam2"
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "gcjf-354x",
+    "displayName" : "Mick Thompson",
+    "screenName" : "Mick Thompson"
+  }
+}, {
+  "id" : "ab7c-s2jr",
+  "name" : "Bike Rack Locations By Area",
+  "averageRating" : 0,
+  "category" : "Transportation",
+  "createdAt" : 1353566603,
+  "description" : "Bike Rack Data",
+  "displayType" : "table",
+  "downloadCount" : 77,
+  "newBackend" : false,
+  "numberOfComments" : 0,
+  "oid" : 1766785,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1353566769,
+  "publicationGroup" : 512516,
+  "publicationStage" : "published",
+  "rowsUpdatedAt" : 1353566605,
+  "rowsUpdatedBy" : "5vv3-gysc",
+  "signed" : false,
+  "tableId" : 512516,
+  "totalTimesRated" : 0,
+  "viewCount" : 278,
+  "viewLastModified" : 1353566769,
+  "viewType" : "tabular",
+  "grants" : [ {
+    "inherited" : true,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "renderTypeConfig" : {
+      "visible" : {
+        "table" : true
+      }
+    },
+    "availableDisplayTypes" : [ "table", "fatrow", "page" ]
+  },
+  "owner" : {
+    "id" : "5vv3-gysc",
+    "displayName" : "Burt Lum",
+    "profileImageUrlLarge" : "/images/profile/3241/4281/burt_flag_large.jpg",
+    "profileImageUrlMedium" : "/images/profile/3241/4281/burt_flag_thumb.jpg",
+    "profileImageUrlSmall" : "/images/profile/3241/4281/burt_flag_tiny.jpg",
+    "screenName" : "Burt Lum"
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "5vv3-gysc",
+    "displayName" : "Burt Lum",
+    "profileImageUrlLarge" : "/images/profile/3241/4281/burt_flag_large.jpg",
+    "profileImageUrlMedium" : "/images/profile/3241/4281/burt_flag_thumb.jpg",
+    "profileImageUrlSmall" : "/images/profile/3241/4281/burt_flag_tiny.jpg",
+    "screenName" : "Burt Lum"
+  },
+  "tags" : [ "bike", "bicycles", "racks" ],
+  "flags" : [ "default" ]
+}, {
+  "id" : "iz58-35eb",
+  "name" : "City Budget  - Compare 2010-2013",
+  "averageRating" : 0,
+  "createdAt" : 1338844155,
+  "description" : "Actual spend 2010,2011. Budget for 2012, Proposed Budget 2013",
+  "displayType" : "chart",
+  "downloadCount" : 82,
+  "indexUpdatedAt" : 1365099274,
+  "newBackend" : false,
+  "numberOfComments" : 0,
+  "oid" : 1745706,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1353429886,
+  "publicationGroup" : 351822,
+  "publicationStage" : "published",
+  "rowsUpdatedAt" : 1353429807,
+  "rowsUpdatedBy" : "gcjf-354x",
+  "signed" : false,
+  "tableId" : 488512,
+  "totalTimesRated" : 0,
+  "viewCount" : 170,
+  "viewLastModified" : 1339792057,
+  "viewType" : "tabular",
+  "grants" : [ {
+    "inherited" : true,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "renderTypeConfig" : {
+      "visible" : {
+        "chart" : true
+      }
+    },
+    "availableDisplayTypes" : [ "chart", "table", "fatrow", "page" ],
+    "rdfSubject" : "0",
+    "richRendererConfigs" : {
+      "fatRow" : {
+        "headerShown" : false
+      }
+    }
+  },
+  "owner" : {
+    "id" : "gcjf-354x",
+    "displayName" : "Mick Thompson",
+    "screenName" : "Mick Thompson"
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "gcjf-354x",
+    "displayName" : "Mick Thompson",
+    "screenName" : "Mick Thompson"
+  }
+}, {
+  "id" : "hnww-9ree",
+  "name" : "Refuse HI5 Redemption Centers",
+  "averageRating" : 0,
+  "createdAt" : 1343163268,
+  "description" : "Location of HI5 redemption centers island center.",
+  "displayType" : "href",
+  "downloadCount" : 89,
+  "newBackend" : false,
+  "numberOfComments" : 0,
+  "oid" : 904194,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1343163275,
+  "publicationGroup" : 387913,
+  "publicationStage" : "published",
+  "signed" : false,
+  "tableId" : 387913,
+  "totalTimesRated" : 0,
+  "viewCount" : 141,
+  "viewLastModified" : 1343163275,
+  "viewType" : "href",
+  "grants" : [ {
+    "inherited" : false,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "renderTypeConfig" : {
+      "visible" : {
+        "href" : true
+      }
+    },
+    "availableDisplayTypes" : [ "href" ],
+    "accessPoints" : {
+      "html?id=d633f12849f944f8af01ff9c63c9baf0" : "http://cchnl.maps.arcgis.com/home/item.html?id=d633f12849f944f8af01ff9c63c9baf0"
+    }
+  },
+  "owner" : {
+    "id" : "gcjf-354x",
+    "displayName" : "Mick Thompson",
+    "screenName" : "Mick Thompson"
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "gcjf-354x",
+    "displayName" : "Mick Thompson",
+    "screenName" : "Mick Thompson"
+  },
+  "flags" : [ "default" ]
+}, {
+  "id" : "necy-6u7t",
+  "name" : "Art over time",
+  "averageRating" : 0,
+  "createdAt" : 1339722454,
+  "description" : "Location and descriptions of public works of art",
+  "displayType" : "chart",
+  "downloadCount" : 115,
+  "newBackend" : false,
+  "numberOfComments" : 0,
+  "oid" : 837647,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1341784505,
+  "publicationGroup" : 360565,
+  "publicationStage" : "published",
+  "rowsUpdatedAt" : 1341784473,
+  "rowsUpdatedBy" : "gcjf-354x",
+  "signed" : false,
+  "tableId" : 376534,
+  "totalTimesRated" : 0,
+  "viewCount" : 158,
+  "viewLastModified" : 1339723133,
+  "viewType" : "tabular",
+  "grants" : [ {
+    "inherited" : true,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "renderTypeConfig" : {
+      "visible" : {
+        "chart" : true,
+        "table" : true
+      }
+    },
+    "availableDisplayTypes" : [ "chart", "table", "fatrow", "page" ]
+  },
+  "owner" : {
+    "id" : "gcjf-354x",
+    "displayName" : "Mick Thompson",
+    "screenName" : "Mick Thompson"
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "gcjf-354x",
+    "displayName" : "Mick Thompson",
+    "screenName" : "Mick Thompson"
+  }
+}, {
+  "id" : "ifzd-2k3p",
+  "name" : "HART Proposed Budget 2012",
+  "averageRating" : 0,
+  "createdAt" : 1338844833,
+  "displayType" : "table",
+  "downloadCount" : 71,
+  "newBackend" : false,
+  "numberOfComments" : 0,
+  "oid" : 791153,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1340420138,
+  "publicationGroup" : 354283,
+  "publicationStage" : "published",
+  "rowClass" : "",
+  "rowsUpdatedAt" : 1340420135,
+  "rowsUpdatedBy" : "gcjf-354x",
+  "signed" : false,
+  "tableId" : 366074,
+  "totalTimesRated" : 0,
+  "viewCount" : 113,
+  "viewLastModified" : 1340420176,
+  "viewType" : "tabular",
+  "grants" : [ {
+    "inherited" : false,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "renderTypeConfig" : {
+      "visible" : {
+        "table" : true
+      }
+    },
+    "availableDisplayTypes" : [ "table", "fatrow", "page" ],
+    "rdfSubject" : "0",
+    "rowIdentifier" : "0",
+    "rdfClass" : ""
+  },
+  "owner" : {
+    "id" : "gcjf-354x",
+    "displayName" : "Mick Thompson",
+    "screenName" : "Mick Thompson"
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "gcjf-354x",
+    "displayName" : "Mick Thompson",
+    "screenName" : "Mick Thompson"
+  },
+  "flags" : [ "default" ]
+}, {
+  "id" : "akkw-prc5",
+  "name" : "City Spending 2011",
+  "averageRating" : 0,
+  "createdAt" : 1338843706,
+  "displayType" : "chart",
+  "downloadCount" : 150,
+  "indexUpdatedAt" : 1365099274,
+  "newBackend" : false,
+  "numberOfComments" : 0,
+  "oid" : 1745705,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1353429886,
+  "publicationGroup" : 351822,
+  "publicationStage" : "published",
+  "rowsUpdatedAt" : 1353429807,
+  "rowsUpdatedBy" : "gcjf-354x",
+  "signed" : false,
+  "tableId" : 488512,
+  "totalTimesRated" : 0,
+  "viewCount" : 251,
+  "viewLastModified" : 1338843706,
+  "viewType" : "tabular",
+  "grants" : [ {
+    "inherited" : true,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "renderTypeConfig" : {
+      "visible" : {
+        "chart" : true,
+        "table" : true
+      }
+    },
+    "availableDisplayTypes" : [ "chart", "table", "fatrow", "page" ],
+    "richRendererConfigs" : {
+      "fatRow" : {
+        "headerShown" : false
+      }
+    }
+  },
+  "owner" : {
+    "id" : "gcjf-354x",
+    "displayName" : "Mick Thompson",
+    "screenName" : "Mick Thompson"
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "gcjf-354x",
+    "displayName" : "Mick Thompson",
+    "screenName" : "Mick Thompson"
+  }
+}, {
+  "id" : "pvti-pwka",
+  "name" : "Sister Cities",
+  "averageRating" : 0,
+  "createdAt" : 1340416739,
+  "displayType" : "table",
+  "downloadCount" : 67,
+  "newBackend" : false,
+  "numberOfComments" : 0,
+  "oid" : 791113,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1340417075,
+  "publicationGroup" : 366030,
+  "publicationStage" : "published",
+  "rowsUpdatedAt" : 1340417073,
+  "rowsUpdatedBy" : "gcjf-354x",
+  "signed" : false,
+  "tableId" : 366038,
+  "totalTimesRated" : 0,
+  "viewCount" : 188,
+  "viewLastModified" : 1340417076,
+  "viewType" : "tabular",
+  "grants" : [ {
+    "inherited" : false,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "renderTypeConfig" : {
+      "visible" : {
+        "table" : true
+      }
+    },
+    "availableDisplayTypes" : [ "table", "fatrow", "page" ]
+  },
+  "owner" : {
+    "id" : "gcjf-354x",
+    "displayName" : "Mick Thompson",
+    "screenName" : "Mick Thompson"
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "gcjf-354x",
+    "displayName" : "Mick Thompson",
+    "screenName" : "Mick Thompson"
+  },
+  "flags" : [ "default" ]
+}, {
+  "id" : "7gw6-brtj",
+  "name" : "Rail Station Footprints",
+  "averageRating" : 0,
+  "createdAt" : 1343158347,
+  "description" : "Station envelope footprints for the 21 HHCTCP stations from East Kapolei to Ala Moana Center as presented in preliminary engineering (PE) drawings prepared for RTD/HART by Parsons Brinckerhoff and subconsultants in 2009/2010. These footrpints were traced in ArcMap over rubber-sheeted PE station area, architectural, and civil site plan drawings, and are not intended to be exact.\r\nTo be used principally for station area land use planning.",
+  "displayType" : "href",
+  "downloadCount" : 130,
+  "indexUpdatedAt" : 1385162691,
+  "newBackend" : false,
+  "numberOfComments" : 0,
+  "oid" : 903916,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1343158352,
+  "publicationGroup" : 387851,
+  "publicationStage" : "published",
+  "signed" : false,
+  "tableId" : 387851,
+  "totalTimesRated" : 0,
+  "viewCount" : 192,
+  "viewLastModified" : 1385158306,
+  "viewType" : "href",
+  "grants" : [ {
+    "inherited" : false,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "renderTypeConfig" : {
+      "visible" : {
+        "href" : true
+      }
+    },
+    "availableDisplayTypes" : [ "href" ],
+    "accessPoints" : {
+      "html?appid=645f714ffdc742e7825023b80b99793d" : "http://cchnl.maps.arcgis.com/apps/OnePane/basicviewer/index.html?appid=645f714ffdc742e7825023b80b99793d"
+    }
+  },
+  "owner" : {
+    "id" : "gcjf-354x",
+    "displayName" : "Mick Thompson",
+    "screenName" : "Mick Thompson"
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "gcjf-354x",
+    "displayName" : "Mick Thompson",
+    "screenName" : "Mick Thompson"
+  },
+  "flags" : [ "default" ]
+}, {
+  "id" : "3duq-5rzf",
+  "name" : "City Spending 2010 by Object Code",
+  "averageRating" : 0,
+  "createdAt" : 1340776496,
+  "description" : "Actual spending 2010&2011\r\nBudget 2012\r\nProposed Budget 2013",
+  "displayType" : "chart",
+  "downloadCount" : 83,
+  "indexUpdatedAt" : 1365099273,
+  "newBackend" : false,
+  "numberOfComments" : 0,
+  "oid" : 1745708,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1353429886,
+  "publicationGroup" : 351822,
+  "publicationStage" : "published",
+  "rowsUpdatedAt" : 1353429807,
+  "rowsUpdatedBy" : "gcjf-354x",
+  "signed" : false,
+  "tableId" : 488512,
+  "totalTimesRated" : 0,
+  "viewCount" : 217,
+  "viewLastModified" : 1340776649,
+  "viewType" : "tabular",
+  "grants" : [ {
+    "inherited" : true,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "renderTypeConfig" : {
+      "visible" : {
+        "chart" : true
+      }
+    },
+    "availableDisplayTypes" : [ "chart", "table", "fatrow", "page" ],
+    "rdfSubject" : "0",
+    "richRendererConfigs" : {
+      "fatRow" : {
+        "headerShown" : false
+      }
+    }
+  },
+  "owner" : {
+    "id" : "gcjf-354x",
+    "displayName" : "Mick Thompson",
+    "screenName" : "Mick Thompson"
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "gcjf-354x",
+    "displayName" : "Mick Thompson",
+    "screenName" : "Mick Thompson"
+  }
+}, {
+  "id" : "yam3-5uy3",
+  "name" : "Streets",
+  "averageRating" : 0,
+  "category" : "Transportation",
+  "createdAt" : 1343158392,
+  "description" : "Feature Service of the Streets for the City & County of Honolulu",
+  "displayType" : "href",
+  "downloadCount" : 77,
+  "newBackend" : false,
+  "numberOfComments" : 0,
+  "oid" : 903917,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1343158398,
+  "publicationGroup" : 387852,
+  "publicationStage" : "published",
+  "signed" : false,
+  "tableId" : 387852,
+  "totalTimesRated" : 0,
+  "viewCount" : 101,
+  "viewLastModified" : 1343158398,
+  "viewType" : "href",
+  "grants" : [ {
+    "inherited" : false,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "renderTypeConfig" : {
+      "visible" : {
+        "href" : true
+      }
+    },
+    "availableDisplayTypes" : [ "href" ],
+    "accessPoints" : {
+      "html?id=f0263ac4e64141c891bee19735159d95" : "http://cchnl.maps.arcgis.com/home/item.html?id=f0263ac4e64141c891bee19735159d95"
+    }
+  },
+  "owner" : {
+    "id" : "gcjf-354x",
+    "displayName" : "Mick Thompson",
+    "screenName" : "Mick Thompson"
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "gcjf-354x",
+    "displayName" : "Mick Thompson",
+    "screenName" : "Mick Thompson"
+  },
+  "flags" : [ "default" ]
+}, {
+  "id" : "tg29-p63i",
+  "name" : "Parks",
+  "averageRating" : 0,
+  "createdAt" : 1343157762,
+  "description" : "This map is used to publish information about parks and recreation areas in a community as both points and polygons. The polygons, including some proposed parks, were originally built from parcels. The point location of the parks are derived from a subset of Facility Sites and related to a table that contains information about parks and recreation activities",
+  "displayType" : "href",
+  "downloadCount" : 80,
+  "newBackend" : false,
+  "numberOfComments" : 0,
+  "oid" : 903895,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1343157767,
+  "publicationGroup" : 387832,
+  "publicationStage" : "published",
+  "signed" : false,
+  "tableId" : 387832,
+  "totalTimesRated" : 0,
+  "viewCount" : 101,
+  "viewLastModified" : 1344701675,
+  "viewType" : "href",
+  "grants" : [ {
+    "inherited" : false,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "renderTypeConfig" : {
+      "visible" : {
+        "href" : true
+      }
+    },
+    "availableDisplayTypes" : [ "href" ],
+    "accessPoints" : {
+      "esri feature service" : "http://cchnl.maps.arcgis.com/home/item.html?id=27cc181ad2c7449ebd25a4365d1a0480"
+    }
+  },
+  "owner" : {
+    "id" : "gcjf-354x",
+    "displayName" : "Mick Thompson",
+    "screenName" : "Mick Thompson"
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "gcjf-354x",
+    "displayName" : "Mick Thompson",
+    "screenName" : "Mick Thompson"
+  },
+  "flags" : [ "default" ]
+}, {
+  "id" : "k2yj-i4jp",
+  "name" : "City Spending 2010",
+  "averageRating" : 0,
+  "createdAt" : 1338843653,
+  "displayType" : "chart",
+  "downloadCount" : 73,
+  "indexUpdatedAt" : 1365099256,
+  "newBackend" : false,
+  "numberOfComments" : 0,
+  "oid" : 1745703,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1353429886,
+  "publicationGroup" : 351822,
+  "publicationStage" : "published",
+  "rowsUpdatedAt" : 1353429807,
+  "rowsUpdatedBy" : "gcjf-354x",
+  "signed" : false,
+  "tableId" : 488512,
+  "totalTimesRated" : 0,
+  "viewCount" : 209,
+  "viewLastModified" : 1338843653,
+  "viewType" : "tabular",
+  "grants" : [ {
+    "inherited" : true,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "renderTypeConfig" : {
+      "visible" : {
+        "chart" : true,
+        "table" : true
+      }
+    },
+    "availableDisplayTypes" : [ "chart", "table", "fatrow", "page" ],
+    "richRendererConfigs" : {
+      "fatRow" : {
+        "headerShown" : false
+      }
+    }
+  },
+  "owner" : {
+    "id" : "gcjf-354x",
+    "displayName" : "Mick Thompson",
+    "screenName" : "Mick Thompson"
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "gcjf-354x",
+    "displayName" : "Mick Thompson",
+    "screenName" : "Mick Thompson"
+  }
+}, {
+  "id" : "fze2-h37x",
+  "name" : "Refuse Collection Yard",
+  "averageRating" : 0,
+  "createdAt" : 1343158525,
+  "description" : "Location of Refuse Collection yards for City & County of Honolulu",
+  "displayType" : "href",
+  "downloadCount" : 50,
+  "newBackend" : false,
+  "numberOfComments" : 0,
+  "oid" : 903922,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1343158530,
+  "publicationGroup" : 387857,
+  "publicationStage" : "published",
+  "signed" : false,
+  "tableId" : 387857,
+  "totalTimesRated" : 0,
+  "viewCount" : 96,
+  "viewLastModified" : 1343158530,
+  "viewType" : "href",
+  "grants" : [ {
+    "inherited" : false,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "renderTypeConfig" : {
+      "visible" : {
+        "href" : true
+      }
+    },
+    "availableDisplayTypes" : [ "href" ],
+    "accessPoints" : {
+      "html?id=06ff156f4d4b482e87819761f81b1c90" : "http://cchnl.maps.arcgis.com/home/item.html?id=06ff156f4d4b482e87819761f81b1c90"
+    }
+  },
+  "owner" : {
+    "id" : "gcjf-354x",
+    "displayName" : "Mick Thompson",
+    "screenName" : "Mick Thompson"
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "gcjf-354x",
+    "displayName" : "Mick Thompson",
+    "screenName" : "Mick Thompson"
+  },
+  "flags" : [ "default" ]
+}, {
+  "id" : "2swm-eusf",
+  "name" : "Automated external defibrillator Locations",
+  "averageRating" : 0,
+  "createdAt" : 1340414899,
+  "displayType" : "table",
+  "downloadCount" : 76,
+  "newBackend" : false,
+  "numberOfComments" : 0,
+  "oid" : 791075,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1340415066,
+  "publicationGroup" : 366009,
+  "publicationStage" : "published",
+  "rowsUpdatedAt" : 1340414966,
+  "rowsUpdatedBy" : "gcjf-354x",
+  "signed" : false,
+  "tableId" : 366011,
+  "totalTimesRated" : 0,
+  "viewCount" : 139,
+  "viewLastModified" : 1340415066,
+  "viewType" : "tabular",
+  "grants" : [ {
+    "inherited" : false,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "renderTypeConfig" : {
+      "visible" : {
+        "table" : true
+      }
+    },
+    "availableDisplayTypes" : [ "table", "fatrow", "page" ]
+  },
+  "owner" : {
+    "id" : "gcjf-354x",
+    "displayName" : "Mick Thompson",
+    "screenName" : "Mick Thompson"
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "gcjf-354x",
+    "displayName" : "Mick Thompson",
+    "screenName" : "Mick Thompson"
+  },
+  "flags" : [ "default" ]
+}, {
+  "id" : "gp9s-unfc",
+  "name" : "Neighborhood Board Locations",
+  "averageRating" : 0,
+  "createdAt" : 1340418951,
+  "displayType" : "map",
+  "downloadCount" : 58,
+  "newBackend" : false,
+  "numberOfComments" : 0,
+  "oid" : 791142,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1340418886,
+  "publicationGroup" : 366062,
+  "publicationStage" : "published",
+  "rowsUpdatedAt" : 1340418885,
+  "rowsUpdatedBy" : "gcjf-354x",
+  "signed" : false,
+  "tableId" : 366062,
+  "totalTimesRated" : 0,
+  "viewCount" : 81,
+  "viewLastModified" : 1340418965,
+  "viewType" : "tabular",
+  "grants" : [ {
+    "inherited" : true,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "renderTypeConfig" : {
+      "visible" : {
+        "map" : true
+      }
+    },
+    "availableDisplayTypes" : [ "map", "table", "fatrow", "page" ]
+  },
+  "owner" : {
+    "id" : "gcjf-354x",
+    "displayName" : "Mick Thompson",
+    "screenName" : "Mick Thompson"
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "gcjf-354x",
+    "displayName" : "Mick Thompson",
+    "screenName" : "Mick Thompson"
+  }
+}, {
+  "id" : "6x78-edqg",
+  "name" : "Bike Racks",
+  "averageRating" : 0,
+  "category" : "Transportation",
+  "createdAt" : 1354049132,
+  "description" : "Bike Rack Data",
+  "displayType" : "table",
+  "downloadCount" : 73,
+  "newBackend" : false,
+  "numberOfComments" : 0,
+  "oid" : 1838040,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1353566769,
+  "publicationGroup" : 512516,
+  "publicationStage" : "published",
+  "rowsUpdatedAt" : 1353566605,
+  "rowsUpdatedBy" : "5vv3-gysc",
+  "signed" : false,
+  "tableId" : 512516,
+  "totalTimesRated" : 0,
+  "viewCount" : 246,
+  "viewLastModified" : 1354049132,
+  "viewType" : "tabular",
+  "grants" : [ {
+    "inherited" : true,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "renderTypeConfig" : {
+      "visible" : {
+        "table" : true
+      }
+    },
+    "availableDisplayTypes" : [ "table", "fatrow", "page" ]
+  },
+  "owner" : {
+    "id" : "twsr-hsma",
+    "displayName" : "Dwang5090",
+    "profileImageUrlLarge" : "/images/profile/7419/0153/blacklight_large.jpg",
+    "profileImageUrlMedium" : "/images/profile/7419/0153/blacklight_thumb.jpg",
+    "profileImageUrlSmall" : "/images/profile/7419/0153/blacklight_tiny.jpg",
+    "screenName" : "Dwang5090"
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "5vv3-gysc",
+    "displayName" : "Burt Lum",
+    "profileImageUrlLarge" : "/images/profile/3241/4281/burt_flag_large.jpg",
+    "profileImageUrlMedium" : "/images/profile/3241/4281/burt_flag_thumb.jpg",
+    "profileImageUrlSmall" : "/images/profile/3241/4281/burt_flag_tiny.jpg",
+    "screenName" : "Burt Lum"
+  },
+  "tags" : [ "bike", "bicycles", "racks" ]
+}, {
+  "id" : "8t8u-ez86",
+  "name" : "Tsunami Evacuation Zone",
+  "averageRating" : 0,
+  "createdAt" : 1343158120,
+  "description" : "Feature Service of Tsunami Evacuation Zones, island of Oahu.",
+  "displayType" : "href",
+  "downloadCount" : 55,
+  "newBackend" : false,
+  "numberOfComments" : 0,
+  "oid" : 903906,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1343158127,
+  "publicationGroup" : 387843,
+  "publicationStage" : "published",
+  "signed" : false,
+  "tableId" : 387843,
+  "totalTimesRated" : 0,
+  "viewCount" : 76,
+  "viewLastModified" : 1343158127,
+  "viewType" : "href",
+  "grants" : [ {
+    "inherited" : false,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "renderTypeConfig" : {
+      "visible" : {
+        "href" : true
+      }
+    },
+    "availableDisplayTypes" : [ "href" ],
+    "accessPoints" : {
+      "html?id=784d8529375949fc9e8eccdd809a0581" : "http://cchnl.maps.arcgis.com/home/item.html?id=784d8529375949fc9e8eccdd809a0581"
+    }
+  },
+  "owner" : {
+    "id" : "gcjf-354x",
+    "displayName" : "Mick Thompson",
+    "screenName" : "Mick Thompson"
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "gcjf-354x",
+    "displayName" : "Mick Thompson",
+    "screenName" : "Mick Thompson"
+  },
+  "flags" : [ "default" ]
+}, {
+  "id" : "w4ir-s4fd",
+  "name" : "Neighborhood Boards Election 2011",
+  "averageRating" : 0,
+  "createdAt" : 1338856142,
+  "displayType" : "table",
+  "downloadCount" : 75,
+  "newBackend" : false,
+  "numberOfComments" : 0,
+  "oid" : 791146,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1340419335,
+  "publicationGroup" : 354360,
+  "publicationStage" : "published",
+  "rowClass" : "",
+  "rowsUpdatedAt" : 1340419325,
+  "rowsUpdatedBy" : "gcjf-354x",
+  "signed" : false,
+  "tableId" : 366068,
+  "totalTimesRated" : 0,
+  "viewCount" : 242,
+  "viewLastModified" : 1340420092,
+  "viewType" : "tabular",
+  "grants" : [ {
+    "inherited" : false,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "renderTypeConfig" : {
+      "visible" : {
+        "table" : true
+      }
+    },
+    "availableDisplayTypes" : [ "table", "fatrow", "page" ],
+    "rdfSubject" : "0",
+    "rowIdentifier" : "0",
+    "rdfClass" : ""
+  },
+  "owner" : {
+    "id" : "gcjf-354x",
+    "displayName" : "Mick Thompson",
+    "screenName" : "Mick Thompson"
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "gcjf-354x",
+    "displayName" : "Mick Thompson",
+    "screenName" : "Mick Thompson"
+  },
+  "flags" : [ "default" ]
+}, {
+  "id" : "sbdw-8u88",
+  "name" : "City Spending 2010 by Fund",
+  "averageRating" : 0,
+  "createdAt" : 1340776221,
+  "description" : "Actual spending 2010&2011\r\nBudget 2012\r\nProposed Budget 2013",
+  "displayType" : "chart",
+  "downloadCount" : 68,
+  "indexUpdatedAt" : 1365099274,
+  "newBackend" : false,
+  "numberOfComments" : 0,
+  "oid" : 1745707,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1353429886,
+  "publicationGroup" : 351822,
+  "publicationStage" : "published",
+  "rowsUpdatedAt" : 1353429807,
+  "rowsUpdatedBy" : "gcjf-354x",
+  "signed" : false,
+  "tableId" : 488512,
+  "totalTimesRated" : 0,
+  "viewCount" : 85,
+  "viewLastModified" : 1340776741,
+  "viewType" : "tabular",
+  "grants" : [ {
+    "inherited" : true,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "renderTypeConfig" : {
+      "visible" : {
+        "chart" : true
+      }
+    },
+    "availableDisplayTypes" : [ "chart", "table", "fatrow", "page" ],
+    "rdfSubject" : "0",
+    "richRendererConfigs" : {
+      "fatRow" : {
+        "headerShown" : false
+      }
+    }
+  },
+  "owner" : {
+    "id" : "gcjf-354x",
+    "displayName" : "Mick Thompson",
+    "screenName" : "Mick Thompson"
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "gcjf-354x",
+    "displayName" : "Mick Thompson",
+    "screenName" : "Mick Thompson"
+  }
+}, {
+  "id" : "gu3g-ie7a",
+  "name" : "Refuse Bulky Pickup Routes",
+  "averageRating" : 0,
+  "createdAt" : 1343158472,
+  "description" : "Feature Service of refuse bulky pickup route",
+  "displayType" : "href",
+  "downloadCount" : 63,
+  "newBackend" : false,
+  "numberOfComments" : 0,
+  "oid" : 903921,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1343158478,
+  "publicationGroup" : 387856,
+  "publicationStage" : "published",
+  "signed" : false,
+  "tableId" : 387856,
+  "totalTimesRated" : 0,
+  "viewCount" : 72,
+  "viewLastModified" : 1343158478,
+  "viewType" : "href",
+  "grants" : [ {
+    "inherited" : false,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "renderTypeConfig" : {
+      "visible" : {
+        "href" : true
+      }
+    },
+    "availableDisplayTypes" : [ "href" ],
+    "accessPoints" : {
+      "html?id=83044aad561246899978432c8ea0142d" : "http://cchnl.maps.arcgis.com/home/item.html?id=83044aad561246899978432c8ea0142d"
+    }
+  },
+  "owner" : {
+    "id" : "gcjf-354x",
+    "displayName" : "Mick Thompson",
+    "screenName" : "Mick Thompson"
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "gcjf-354x",
+    "displayName" : "Mick Thompson",
+    "screenName" : "Mick Thompson"
+  },
+  "flags" : [ "default" ]
+}, {
+  "id" : "9drw-8skx",
+  "name" : "Police Stations",
+  "averageRating" : 0,
+  "createdAt" : 1343158018,
+  "description" : "Honolulu Police Department station locations for the City & County of Honolulu",
+  "displayType" : "href",
+  "downloadCount" : 56,
+  "newBackend" : false,
+  "numberOfComments" : 0,
+  "oid" : 903904,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1343158024,
+  "publicationGroup" : 387841,
+  "publicationStage" : "published",
+  "signed" : false,
+  "tableId" : 387841,
+  "totalTimesRated" : 0,
+  "viewCount" : 69,
+  "viewLastModified" : 1343158024,
+  "viewType" : "href",
+  "grants" : [ {
+    "inherited" : false,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "renderTypeConfig" : {
+      "visible" : {
+        "href" : true
+      }
+    },
+    "availableDisplayTypes" : [ "href" ],
+    "accessPoints" : {
+      "html?id=16db0fd2f517432f86909c9c105d06a5" : "http://cchnl.maps.arcgis.com/home/item.html?id=16db0fd2f517432f86909c9c105d06a5"
+    }
+  },
+  "owner" : {
+    "id" : "gcjf-354x",
+    "displayName" : "Mick Thompson",
+    "screenName" : "Mick Thompson"
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "gcjf-354x",
+    "displayName" : "Mick Thompson",
+    "screenName" : "Mick Thompson"
+  },
+  "flags" : [ "default" ]
+}, {
+  "id" : "4qje-2k4n",
+  "name" : "Rail Line",
+  "averageRating" : 0,
+  "createdAt" : 1343158280,
+  "description" : "The 20-mile HRT (Honolulu Rail Transit) guideway preliminary engineering alignment from East Kapolei to Ala Moana Center.\n\nApril 2012 data.",
+  "displayType" : "href",
+  "downloadCount" : 86,
+  "newBackend" : false,
+  "numberOfComments" : 0,
+  "oid" : 903914,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1343158289,
+  "publicationGroup" : 387849,
+  "publicationStage" : "published",
+  "signed" : false,
+  "tableId" : 387849,
+  "totalTimesRated" : 0,
+  "viewCount" : 64,
+  "viewLastModified" : 1343158289,
+  "viewType" : "href",
+  "grants" : [ {
+    "inherited" : false,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "renderTypeConfig" : {
+      "visible" : {
+        "href" : true
+      }
+    },
+    "availableDisplayTypes" : [ "href" ],
+    "accessPoints" : {
+      "html?id=a08e80c560cb4d988b801374cd3e4ec3" : "http://cchnl.maps.arcgis.com/home/item.html?id=a08e80c560cb4d988b801374cd3e4ec3"
+    }
+  },
+  "owner" : {
+    "id" : "gcjf-354x",
+    "displayName" : "Mick Thompson",
+    "screenName" : "Mick Thompson"
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "gcjf-354x",
+    "displayName" : "Mick Thompson",
+    "screenName" : "Mick Thompson"
+  },
+  "flags" : [ "default" ]
+}, {
+  "id" : "rm2f-q6mh",
+  "name" : "Refuse Drop-off and Transfer Stations",
+  "averageRating" : 0,
+  "createdAt" : 1343163349,
+  "description" : "Feature Service of Drop Off and Refuse Transfer Stations",
+  "displayType" : "href",
+  "downloadCount" : 63,
+  "newBackend" : false,
+  "numberOfComments" : 0,
+  "oid" : 904200,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1343163355,
+  "publicationGroup" : 387915,
+  "publicationStage" : "published",
+  "signed" : false,
+  "tableId" : 387915,
+  "totalTimesRated" : 0,
+  "viewCount" : 75,
+  "viewLastModified" : 1343163355,
+  "viewType" : "href",
+  "grants" : [ {
+    "inherited" : false,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "renderTypeConfig" : {
+      "visible" : {
+        "href" : true
+      }
+    },
+    "availableDisplayTypes" : [ "href" ],
+    "accessPoints" : {
+      "html?id=5370e1819b1d44b2af44e5637d250d5d" : "http://cchnl.maps.arcgis.com/home/item.html?id=5370e1819b1d44b2af44e5637d250d5d"
+    }
+  },
+  "owner" : {
+    "id" : "gcjf-354x",
+    "displayName" : "Mick Thompson",
+    "screenName" : "Mick Thompson"
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "gcjf-354x",
+    "displayName" : "Mick Thompson",
+    "screenName" : "Mick Thompson"
+  },
+  "flags" : [ "default" ]
+}, {
+  "id" : "a3ah-kpkr",
+  "name" : "Data Catalog",
+  "averageRating" : 0,
+  "createdAt" : 1353443409,
+  "downloadCount" : 28,
+  "indexUpdatedAt" : 1362692767,
+  "newBackend" : false,
+  "numberOfComments" : 0,
+  "oid" : 1747418,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1353443588,
+  "publicationGroup" : 509776,
+  "publicationStage" : "published",
+  "resourceName" : "datasets",
+  "rowClass" : "",
+  "rowIdentifierColumnId" : 29964316,
+  "rowsUpdatedAt" : 1362689744,
+  "rowsUpdatedBy" : "t39e-a45e",
+  "signed" : false,
+  "state" : "normal",
+  "tableId" : 509776,
+  "totalTimesRated" : 0,
+  "viewCount" : 91,
+  "viewLastModified" : 1362689738,
+  "viewType" : "tabular",
+  "grants" : [ {
+    "inherited" : false,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "rdfSubject" : "0",
+    "rowIdentifier" : "29964316",
+    "rdfClass" : ""
+  },
+  "owner" : {
+    "id" : "i7d8-sc4w",
+    "displayName" : "Chris Metcalf",
+    "profileImageUrlLarge" : "/images/profile/3353/3169/project_managing_reasonably_sized_large.jpg",
+    "profileImageUrlMedium" : "/images/profile/3353/3169/project_managing_reasonably_sized_thumb.jpg",
+    "profileImageUrlSmall" : "/images/profile/3353/3169/project_managing_reasonably_sized_tiny.jpg",
+    "screenName" : "Chris Metcalf",
+    "rights" : [ "create_datasets", "edit_others_datasets", "edit_sdp", "edit_site_theme", "moderate_comments", "manage_users", "chown_datasets", "edit_nominations", "approve_nominations", "feature_items", "federations", "manage_stories", "manage_approval", "change_configurations", "view_domain", "view_others_datasets", "edit_pages", "create_pages", "view_goals", "view_dashboards", "edit_goals", "edit_dashboards", "create_dashboards" ],
+    "flags" : [ "admin" ]
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "i7d8-sc4w",
+    "displayName" : "Chris Metcalf",
+    "profileImageUrlLarge" : "/images/profile/3353/3169/project_managing_reasonably_sized_large.jpg",
+    "profileImageUrlMedium" : "/images/profile/3353/3169/project_managing_reasonably_sized_thumb.jpg",
+    "profileImageUrlSmall" : "/images/profile/3353/3169/project_managing_reasonably_sized_tiny.jpg",
+    "screenName" : "Chris Metcalf",
+    "rights" : [ "create_datasets", "edit_others_datasets", "edit_sdp", "edit_site_theme", "moderate_comments", "manage_users", "chown_datasets", "edit_nominations", "approve_nominations", "feature_items", "federations", "manage_stories", "manage_approval", "change_configurations", "view_domain", "view_others_datasets", "edit_pages", "create_pages", "view_goals", "view_dashboards", "edit_goals", "edit_dashboards", "create_dashboards" ],
+    "flags" : [ "admin" ]
+  },
+  "flags" : [ "default" ]
+}, {
+  "id" : "ys6n-eqkx",
+  "name" : "Basemap for City and County of Honolulu",
+  "averageRating" : 0,
+  "createdAt" : 1343157393,
+  "description" : "Basemap for City and County of Honolulu",
+  "displayType" : "href",
+  "downloadCount" : 67,
+  "newBackend" : false,
+  "numberOfComments" : 0,
+  "oid" : 903886,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1343157461,
+  "publicationGroup" : 387823,
+  "publicationStage" : "published",
+  "signed" : false,
+  "tableId" : 387823,
+  "totalTimesRated" : 0,
+  "viewCount" : 65,
+  "viewLastModified" : 1343157461,
+  "viewType" : "href",
+  "grants" : [ {
+    "inherited" : false,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "renderTypeConfig" : {
+      "visible" : {
+        "href" : true
+      }
+    },
+    "availableDisplayTypes" : [ "href" ],
+    "accessPoints" : {
+      "html?id=2961d747e3284d6098eeaa446e42c97a" : "http://cchnl.maps.arcgis.com/home/item.html?id=2961d747e3284d6098eeaa446e42c97a"
+    }
+  },
+  "owner" : {
+    "id" : "gcjf-354x",
+    "displayName" : "Mick Thompson",
+    "screenName" : "Mick Thompson"
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "gcjf-354x",
+    "displayName" : "Mick Thompson",
+    "screenName" : "Mick Thompson"
+  },
+  "flags" : [ "default" ]
+}, {
+  "id" : "k3km-g7pi",
+  "name" : "Hospitals",
+  "averageRating" : 0,
+  "createdAt" : 1343157944,
+  "description" : "Feature Service of Hospitals/Medical Centers within the City & County of Honolulu.",
+  "displayType" : "href",
+  "downloadCount" : 63,
+  "newBackend" : false,
+  "numberOfComments" : 0,
+  "oid" : 903902,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1343157953,
+  "publicationGroup" : 387839,
+  "publicationStage" : "published",
+  "signed" : false,
+  "tableId" : 387839,
+  "totalTimesRated" : 0,
+  "viewCount" : 66,
+  "viewLastModified" : 1343157953,
+  "viewType" : "href",
+  "grants" : [ {
+    "inherited" : false,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "renderTypeConfig" : {
+      "visible" : {
+        "href" : true
+      }
+    },
+    "availableDisplayTypes" : [ "href" ],
+    "accessPoints" : {
+      "html?id=b1b6b5191fd547caa5dfe03d15b3520d" : "http://cchnl.maps.arcgis.com/home/item.html?id=b1b6b5191fd547caa5dfe03d15b3520d"
+    }
+  },
+  "owner" : {
+    "id" : "gcjf-354x",
+    "displayName" : "Mick Thompson",
+    "screenName" : "Mick Thompson"
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "gcjf-354x",
+    "displayName" : "Mick Thompson",
+    "screenName" : "Mick Thompson"
+  },
+  "flags" : [ "default" ]
+}, {
+  "id" : "8uk2-gka6",
+  "name" : "Shelters - Tsunami",
+  "averageRating" : 0,
+  "createdAt" : 1343158060,
+  "description" : "Tsunami shelters for the island of Oahu",
+  "displayType" : "href",
+  "downloadCount" : 72,
+  "newBackend" : false,
+  "numberOfComments" : 0,
+  "oid" : 903905,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1343158066,
+  "publicationGroup" : 387842,
+  "publicationStage" : "published",
+  "signed" : false,
+  "tableId" : 387842,
+  "totalTimesRated" : 0,
+  "viewCount" : 59,
+  "viewLastModified" : 1343158066,
+  "viewType" : "href",
+  "grants" : [ {
+    "inherited" : false,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "renderTypeConfig" : {
+      "visible" : {
+        "href" : true
+      }
+    },
+    "availableDisplayTypes" : [ "href" ],
+    "accessPoints" : {
+      "html?id=a980d1c9a5a14f38ae00643231d0243c" : "http://cchnl.maps.arcgis.com/home/item.html?id=a980d1c9a5a14f38ae00643231d0243c"
+    }
+  },
+  "owner" : {
+    "id" : "gcjf-354x",
+    "displayName" : "Mick Thompson",
+    "screenName" : "Mick Thompson"
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "gcjf-354x",
+    "displayName" : "Mick Thompson",
+    "screenName" : "Mick Thompson"
+  },
+  "flags" : [ "default" ]
+}, {
+  "id" : "e9p7-tydn",
+  "name" : "Rail Station Centroid",
+  "averageRating" : 0,
+  "createdAt" : 1343158318,
+  "description" : "21 HRT station platform area centroids from East Kapolei to Ala Moana Center based on preliminary engineering (PE).",
+  "displayType" : "href",
+  "downloadCount" : 63,
+  "newBackend" : false,
+  "numberOfComments" : 0,
+  "oid" : 903915,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1343158323,
+  "publicationGroup" : 387850,
+  "publicationStage" : "published",
+  "signed" : false,
+  "tableId" : 387850,
+  "totalTimesRated" : 0,
+  "viewCount" : 55,
+  "viewLastModified" : 1343158323,
+  "viewType" : "href",
+  "grants" : [ {
+    "inherited" : false,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "renderTypeConfig" : {
+      "visible" : {
+        "href" : true
+      }
+    },
+    "availableDisplayTypes" : [ "href" ],
+    "accessPoints" : {
+      "html?id=8285c317f22a484d8154fb5a8b5804b0" : "http://cchnl.maps.arcgis.com/home/item.html?id=8285c317f22a484d8154fb5a8b5804b0"
+    }
+  },
+  "owner" : {
+    "id" : "gcjf-354x",
+    "displayName" : "Mick Thompson",
+    "screenName" : "Mick Thompson"
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "gcjf-354x",
+    "displayName" : "Mick Thompson",
+    "screenName" : "Mick Thompson"
+  },
+  "flags" : [ "default" ]
+}, {
+  "id" : "i2d5-7umd",
+  "name" : "Refuse - Community Recycle Bins",
+  "averageRating" : 0,
+  "createdAt" : 1343158568,
+  "description" : "Feature Service of locations of Community Recycling Bins.",
+  "displayType" : "href",
+  "downloadCount" : 61,
+  "newBackend" : false,
+  "numberOfComments" : 0,
+  "oid" : 903923,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1343158574,
+  "publicationGroup" : 387858,
+  "publicationStage" : "published",
+  "signed" : false,
+  "tableId" : 387858,
+  "totalTimesRated" : 0,
+  "viewCount" : 69,
+  "viewLastModified" : 1343158574,
+  "viewType" : "href",
+  "grants" : [ {
+    "inherited" : false,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "renderTypeConfig" : {
+      "visible" : {
+        "href" : true
+      }
+    },
+    "availableDisplayTypes" : [ "href" ],
+    "accessPoints" : {
+      "html?id=5d4947b2089a440d949b00d0b9d2cb2d" : "http://cchnl.maps.arcgis.com/home/item.html?id=5d4947b2089a440d949b00d0b9d2cb2d"
+    }
+  },
+  "owner" : {
+    "id" : "gcjf-354x",
+    "displayName" : "Mick Thompson",
+    "screenName" : "Mick Thompson"
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "gcjf-354x",
+    "displayName" : "Mick Thompson",
+    "screenName" : "Mick Thompson"
+  },
+  "flags" : [ "default" ]
+}, {
+  "id" : "q74m-pv4v",
+  "name" : "Zoning Use",
+  "averageRating" : 0,
+  "createdAt" : 1343158185,
+  "description" : "Feature Service of Zoning use for the City & County of Honolulu.",
+  "displayType" : "href",
+  "downloadCount" : 64,
+  "newBackend" : false,
+  "numberOfComments" : 0,
+  "oid" : 903908,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1343158191,
+  "publicationGroup" : 387845,
+  "publicationStage" : "published",
+  "signed" : false,
+  "tableId" : 387845,
+  "totalTimesRated" : 0,
+  "viewCount" : 79,
+  "viewLastModified" : 1343158191,
+  "viewType" : "href",
+  "grants" : [ {
+    "inherited" : false,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "renderTypeConfig" : {
+      "visible" : {
+        "href" : true
+      }
+    },
+    "availableDisplayTypes" : [ "href" ],
+    "accessPoints" : {
+      "html?id=ec4359b4dd9f434dafc6756533c20278" : "http://cchnl.maps.arcgis.com/home/item.html?id=ec4359b4dd9f434dafc6756533c20278"
+    }
+  },
+  "owner" : {
+    "id" : "gcjf-354x",
+    "displayName" : "Mick Thompson",
+    "screenName" : "Mick Thompson"
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "gcjf-354x",
+    "displayName" : "Mick Thompson",
+    "screenName" : "Mick Thompson"
+  },
+  "flags" : [ "default" ]
+}, {
+  "id" : "nwuh-qh82",
+  "name" : "Lifeguard Towers",
+  "averageRating" : 0,
+  "createdAt" : 1343157979,
+  "description" : "Feature Service of Lifeguard Tower locations island of Oahu",
+  "displayType" : "href",
+  "downloadCount" : 55,
+  "newBackend" : false,
+  "numberOfComments" : 0,
+  "oid" : 903903,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1343157985,
+  "publicationGroup" : 387840,
+  "publicationStage" : "published",
+  "signed" : false,
+  "tableId" : 387840,
+  "totalTimesRated" : 0,
+  "viewCount" : 57,
+  "viewLastModified" : 1343157985,
+  "viewType" : "href",
+  "grants" : [ {
+    "inherited" : false,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "renderTypeConfig" : {
+      "visible" : {
+        "href" : true
+      }
+    },
+    "availableDisplayTypes" : [ "href" ],
+    "accessPoints" : {
+      "html?id=22f2a7fffbd34b1fbc3b1be2e31c8837" : "http://cchnl.maps.arcgis.com/home/item.html?id=22f2a7fffbd34b1fbc3b1be2e31c8837"
+    }
+  },
+  "owner" : {
+    "id" : "gcjf-354x",
+    "displayName" : "Mick Thompson",
+    "screenName" : "Mick Thompson"
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "gcjf-354x",
+    "displayName" : "Mick Thompson",
+    "screenName" : "Mick Thompson"
+  },
+  "flags" : [ "default" ]
+}, {
+  "id" : "k3by-p7wg",
+  "name" : "Park & Ride",
+  "averageRating" : 0,
+  "createdAt" : 1343158241,
+  "description" : "The City and County of Honolulu, Department of Transportation Services, operates Hawaii Kai, Mililani, and Royal Kunia Park & Ride facilities. Park & Ride facilities are transit stations where bus patrons, and future rail patrons, may drive to the facility, leave their car during the day and catch TheBus.",
+  "displayType" : "href",
+  "downloadCount" : 55,
+  "newBackend" : false,
+  "numberOfComments" : 0,
+  "oid" : 903913,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1343158247,
+  "publicationGroup" : 387848,
+  "publicationStage" : "published",
+  "signed" : false,
+  "tableId" : 387848,
+  "totalTimesRated" : 0,
+  "viewCount" : 57,
+  "viewLastModified" : 1343158247,
+  "viewType" : "href",
+  "grants" : [ {
+    "inherited" : false,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "renderTypeConfig" : {
+      "visible" : {
+        "href" : true
+      }
+    },
+    "availableDisplayTypes" : [ "href" ],
+    "accessPoints" : {
+      "html?id=5291471b4c404584b22f8161d30b9864" : "http://cchnl.maps.arcgis.com/home/item.html?id=5291471b4c404584b22f8161d30b9864"
+    }
+  },
+  "owner" : {
+    "id" : "gcjf-354x",
+    "displayName" : "Mick Thompson",
+    "screenName" : "Mick Thompson"
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "gcjf-354x",
+    "displayName" : "Mick Thompson",
+    "screenName" : "Mick Thompson"
+  },
+  "flags" : [ "default" ]
+}, {
+  "id" : "xj6c-uzj9",
+  "name" : "State Owned Land",
+  "averageRating" : 0,
+  "createdAt" : 1343157573,
+  "description" : "State Owned Lands on the island of Oahu",
+  "displayType" : "href",
+  "downloadCount" : 66,
+  "newBackend" : false,
+  "numberOfComments" : 0,
+  "oid" : 903891,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1343157579,
+  "publicationGroup" : 387828,
+  "publicationStage" : "published",
+  "signed" : false,
+  "tableId" : 387828,
+  "totalTimesRated" : 0,
+  "viewCount" : 65,
+  "viewLastModified" : 1343157579,
+  "viewType" : "href",
+  "grants" : [ {
+    "inherited" : false,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "renderTypeConfig" : {
+      "visible" : {
+        "href" : true
+      }
+    },
+    "availableDisplayTypes" : [ "href" ],
+    "accessPoints" : {
+      "html?id=8fd4d2b8121740eb8e812c968a99cca3" : "http://cchnl.maps.arcgis.com/home/item.html?id=8fd4d2b8121740eb8e812c968a99cca3"
+    }
+  },
+  "owner" : {
+    "id" : "gcjf-354x",
+    "displayName" : "Mick Thompson",
+    "screenName" : "Mick Thompson"
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "gcjf-354x",
+    "displayName" : "Mick Thompson",
+    "screenName" : "Mick Thompson"
+  },
+  "flags" : [ "default" ]
+}, {
+  "id" : "92uh-qeb5",
+  "name" : "Realtor and Neighborhood Boards",
+  "averageRating" : 0,
+  "createdAt" : 1343157306,
+  "description" : "Realtor neighborhoods and Neighborhood boards of Oahu",
+  "displayType" : "href",
+  "downloadCount" : 55,
+  "newBackend" : false,
+  "numberOfComments" : 0,
+  "oid" : 903884,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1343157313,
+  "publicationGroup" : 387822,
+  "publicationStage" : "published",
+  "signed" : false,
+  "tableId" : 387822,
+  "totalTimesRated" : 0,
+  "viewCount" : 56,
+  "viewLastModified" : 1343157313,
+  "viewType" : "href",
+  "grants" : [ {
+    "inherited" : false,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "renderTypeConfig" : {
+      "visible" : {
+        "href" : true
+      }
+    },
+    "availableDisplayTypes" : [ "href" ],
+    "accessPoints" : {
+      "html?id=d03afd858da94e34934459a644c9006e" : "http://cchnl.maps.arcgis.com/home/item.html?id=d03afd858da94e34934459a644c9006e"
+    }
+  },
+  "owner" : {
+    "id" : "gcjf-354x",
+    "displayName" : "Mick Thompson",
+    "screenName" : "Mick Thompson"
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "gcjf-354x",
+    "displayName" : "Mick Thompson",
+    "screenName" : "Mick Thompson"
+  },
+  "flags" : [ "default" ]
+}, {
+  "id" : "7kck-y29a",
+  "name" : "2012 Dec Top Ten Sites",
+  "averageRating" : 0,
+  "createdAt" : 1355277170,
+  "description" : "Top Ten Sites from each department in Dec 2012",
+  "displayType" : "table",
+  "downloadCount" : 86,
+  "newBackend" : false,
+  "numberOfComments" : 0,
+  "oid" : 1998398,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1355277246,
+  "publicationGroup" : 551007,
+  "publicationStage" : "published",
+  "rowsUpdatedAt" : 1355277173,
+  "rowsUpdatedBy" : "ygsi-kpdp",
+  "signed" : false,
+  "tableId" : 551007,
+  "totalTimesRated" : 0,
+  "viewCount" : 140,
+  "viewLastModified" : 1355277246,
+  "viewType" : "tabular",
+  "grants" : [ {
+    "inherited" : false,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "renderTypeConfig" : {
+      "visible" : {
+        "table" : true
+      }
+    },
+    "availableDisplayTypes" : [ "table", "fatrow", "page" ]
+  },
+  "owner" : {
+    "id" : "ygsi-kpdp",
+    "displayName" : "kchan2",
+    "screenName" : "kchan2"
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "ygsi-kpdp",
+    "displayName" : "kchan2",
+    "screenName" : "kchan2"
+  },
+  "flags" : [ "default" ]
+}, {
+  "id" : "gxrb-rbvm",
+  "name" : "Emergency Shelter",
+  "averageRating" : 0,
+  "createdAt" : 1343157863,
+  "description" : "Emergency shelters for the City & County of Honolulu. Based on data from the Department of Emergency Management (DEM) Ver2 (May18 2012)",
+  "displayType" : "href",
+  "downloadCount" : 48,
+  "newBackend" : false,
+  "numberOfComments" : 0,
+  "oid" : 903900,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1343157874,
+  "publicationGroup" : 387837,
+  "publicationStage" : "published",
+  "signed" : false,
+  "tableId" : 387837,
+  "totalTimesRated" : 0,
+  "viewCount" : 51,
+  "viewLastModified" : 1343157874,
+  "viewType" : "href",
+  "grants" : [ {
+    "inherited" : false,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "renderTypeConfig" : {
+      "visible" : {
+        "href" : true
+      }
+    },
+    "availableDisplayTypes" : [ "href" ],
+    "accessPoints" : {
+      "html?id=ed706eef00d948ccb8dfbf127ed6a309" : "http://cchnl.maps.arcgis.com/home/item.html?id=ed706eef00d948ccb8dfbf127ed6a309"
+    }
+  },
+  "owner" : {
+    "id" : "gcjf-354x",
+    "displayName" : "Mick Thompson",
+    "screenName" : "Mick Thompson"
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "gcjf-354x",
+    "displayName" : "Mick Thompson",
+    "screenName" : "Mick Thompson"
+  },
+  "flags" : [ "default" ]
+}, {
+  "id" : "9wbz-g4gv",
+  "name" : "Fire Stations",
+  "averageRating" : 0,
+  "createdAt" : 1343157895,
+  "description" : "Feature Service of Honolulu Fire Department Stations on the Island of Oahu",
+  "displayType" : "href",
+  "downloadCount" : 51,
+  "newBackend" : false,
+  "numberOfComments" : 0,
+  "oid" : 903901,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1343157917,
+  "publicationGroup" : 387838,
+  "publicationStage" : "published",
+  "signed" : false,
+  "tableId" : 387838,
+  "totalTimesRated" : 0,
+  "viewCount" : 64,
+  "viewLastModified" : 1343157917,
+  "viewType" : "href",
+  "grants" : [ {
+    "inherited" : false,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "renderTypeConfig" : {
+      "visible" : {
+        "href" : true
+      }
+    },
+    "availableDisplayTypes" : [ "href" ],
+    "accessPoints" : {
+      "html?id=7f5f502bb13b4fd8a5597c28a51b2bf0" : "http://cchnl.maps.arcgis.com/home/item.html?id=7f5f502bb13b4fd8a5597c28a51b2bf0"
+    }
+  },
+  "owner" : {
+    "id" : "gcjf-354x",
+    "displayName" : "Mick Thompson",
+    "screenName" : "Mick Thompson"
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "gcjf-354x",
+    "displayName" : "Mick Thompson",
+    "screenName" : "Mick Thompson"
+  },
+  "flags" : [ "default" ]
+}, {
+  "id" : "8bxx-m279",
+  "name" : "City & County Lessee Land",
+  "averageRating" : 0,
+  "createdAt" : 1343157488,
+  "description" : "City & County Lessee Lands on the island of Oahu",
+  "displayType" : "href",
+  "downloadCount" : 49,
+  "newBackend" : false,
+  "numberOfComments" : 0,
+  "oid" : 903887,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1343157494,
+  "publicationGroup" : 387824,
+  "publicationStage" : "published",
+  "signed" : false,
+  "tableId" : 387824,
+  "totalTimesRated" : 0,
+  "viewCount" : 47,
+  "viewLastModified" : 1343157494,
+  "viewType" : "href",
+  "grants" : [ {
+    "inherited" : false,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "renderTypeConfig" : {
+      "visible" : {
+        "href" : true
+      }
+    },
+    "availableDisplayTypes" : [ "href" ],
+    "accessPoints" : {
+      "html?id=f0dd206e304b47d895a61eb069d944a6" : "http://cchnl.maps.arcgis.com/home/item.html?id=f0dd206e304b47d895a61eb069d944a6"
+    }
+  },
+  "owner" : {
+    "id" : "gcjf-354x",
+    "displayName" : "Mick Thompson",
+    "screenName" : "Mick Thompson"
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "gcjf-354x",
+    "displayName" : "Mick Thompson",
+    "screenName" : "Mick Thompson"
+  },
+  "flags" : [ "default" ]
+}, {
+  "id" : "2wz2-h4kn",
+  "name" : "City & County Owned Land",
+  "averageRating" : 0,
+  "createdAt" : 1343157525,
+  "description" : "City & County owned land on the island of Oahu",
+  "displayType" : "href",
+  "downloadCount" : 46,
+  "newBackend" : false,
+  "numberOfComments" : 0,
+  "oid" : 903888,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1343157546,
+  "publicationGroup" : 387825,
+  "publicationStage" : "published",
+  "signed" : false,
+  "tableId" : 387825,
+  "totalTimesRated" : 0,
+  "viewCount" : 47,
+  "viewLastModified" : 1343157546,
+  "viewType" : "href",
+  "grants" : [ {
+    "inherited" : false,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "renderTypeConfig" : {
+      "visible" : {
+        "href" : true
+      }
+    },
+    "availableDisplayTypes" : [ "href" ],
+    "accessPoints" : {
+      "html?id=2da5ef2700d241bcbb751e298811ac94" : "http://cchnl.maps.arcgis.com/home/item.html?id=2da5ef2700d241bcbb751e298811ac94"
+    }
+  },
+  "owner" : {
+    "id" : "gcjf-354x",
+    "displayName" : "Mick Thompson",
+    "screenName" : "Mick Thompson"
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "gcjf-354x",
+    "displayName" : "Mick Thompson",
+    "screenName" : "Mick Thompson"
+  },
+  "flags" : [ "default" ]
+}, {
+  "id" : "6mix-hwjf",
+  "name" : "Refuse Manual Pick Up Routes",
+  "averageRating" : 0,
+  "createdAt" : 1343163315,
+  "description" : "Feature Service of refuse manual pick up routes.",
+  "displayType" : "href",
+  "downloadCount" : 59,
+  "newBackend" : false,
+  "numberOfComments" : 0,
+  "oid" : 904199,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1343163324,
+  "publicationGroup" : 387914,
+  "publicationStage" : "published",
+  "signed" : false,
+  "tableId" : 387914,
+  "totalTimesRated" : 0,
+  "viewCount" : 55,
+  "viewLastModified" : 1343163324,
+  "viewType" : "href",
+  "grants" : [ {
+    "inherited" : false,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "renderTypeConfig" : {
+      "visible" : {
+        "href" : true
+      }
+    },
+    "availableDisplayTypes" : [ "href" ],
+    "accessPoints" : {
+      "html?id=8899508c943a4b85abcfcf68f664321b" : "http://cchnl.maps.arcgis.com/home/item.html?id=8899508c943a4b85abcfcf68f664321b"
+    }
+  },
+  "owner" : {
+    "id" : "gcjf-354x",
+    "displayName" : "Mick Thompson",
+    "screenName" : "Mick Thompson"
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "gcjf-354x",
+    "displayName" : "Mick Thompson",
+    "screenName" : "Mick Thompson"
+  },
+  "flags" : [ "default" ]
+}, {
+  "id" : "vyfm-7pxd",
+  "name" : "Federal Lessee Land",
+  "averageRating" : 0,
+  "createdAt" : 1343157697,
+  "description" : "Federal Lessee Land for the island of Oahu",
+  "displayType" : "href",
+  "downloadCount" : 43,
+  "newBackend" : false,
+  "numberOfComments" : 0,
+  "oid" : 903894,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1343157705,
+  "publicationGroup" : 387831,
+  "publicationStage" : "published",
+  "signed" : false,
+  "tableId" : 387831,
+  "totalTimesRated" : 0,
+  "viewCount" : 41,
+  "viewLastModified" : 1343157705,
+  "viewType" : "href",
+  "grants" : [ {
+    "inherited" : false,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "renderTypeConfig" : {
+      "visible" : {
+        "href" : true
+      }
+    },
+    "availableDisplayTypes" : [ "href" ],
+    "accessPoints" : {
+      "html?id=03e78e3cc79f49a297d86c4c561204bc" : "http://cchnl.maps.arcgis.com/home/item.html?id=03e78e3cc79f49a297d86c4c561204bc"
+    }
+  },
+  "owner" : {
+    "id" : "gcjf-354x",
+    "displayName" : "Mick Thompson",
+    "screenName" : "Mick Thompson"
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "gcjf-354x",
+    "displayName" : "Mick Thompson",
+    "screenName" : "Mick Thompson"
+  },
+  "flags" : [ "default" ]
+}, {
+  "id" : "jnhf-ieui",
+  "name" : "State Lessee Land",
+  "averageRating" : 0,
+  "createdAt" : 1343157607,
+  "description" : "State Lessee Land on the island of Oahu",
+  "displayType" : "href",
+  "downloadCount" : 45,
+  "newBackend" : false,
+  "numberOfComments" : 0,
+  "oid" : 903892,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1343157613,
+  "publicationGroup" : 387829,
+  "publicationStage" : "published",
+  "signed" : false,
+  "tableId" : 387829,
+  "totalTimesRated" : 0,
+  "viewCount" : 37,
+  "viewLastModified" : 1343157613,
+  "viewType" : "href",
+  "grants" : [ {
+    "inherited" : false,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "renderTypeConfig" : {
+      "visible" : {
+        "href" : true
+      }
+    },
+    "availableDisplayTypes" : [ "href" ],
+    "accessPoints" : {
+      "html?id=373cd34419d14dcbb7f154ac6770cff5" : "http://cchnl.maps.arcgis.com/home/item.html?id=373cd34419d14dcbb7f154ac6770cff5"
+    }
+  },
+  "owner" : {
+    "id" : "gcjf-354x",
+    "displayName" : "Mick Thompson",
+    "screenName" : "Mick Thompson"
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "gcjf-354x",
+    "displayName" : "Mick Thompson",
+    "screenName" : "Mick Thompson"
+  },
+  "flags" : [ "default" ]
+}, {
+  "id" : "fbqz-69qn",
+  "name" : "Federal Owned Land",
+  "averageRating" : 0,
+  "createdAt" : 1343157664,
+  "description" : "Federal owned lands on the island of Oahu",
+  "displayType" : "href",
+  "downloadCount" : 43,
+  "newBackend" : false,
+  "numberOfComments" : 0,
+  "oid" : 903893,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1343157670,
+  "publicationGroup" : 387830,
+  "publicationStage" : "published",
+  "signed" : false,
+  "tableId" : 387830,
+  "totalTimesRated" : 0,
+  "viewCount" : 43,
+  "viewLastModified" : 1343157670,
+  "viewType" : "href",
+  "grants" : [ {
+    "inherited" : false,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "renderTypeConfig" : {
+      "visible" : {
+        "href" : true
+      }
+    },
+    "availableDisplayTypes" : [ "href" ],
+    "accessPoints" : {
+      "html?id=74be6782595f4c549076703a52934e08" : "http://cchnl.maps.arcgis.com/home/item.html?id=74be6782595f4c549076703a52934e08"
+    }
+  },
+  "owner" : {
+    "id" : "gcjf-354x",
+    "displayName" : "Mick Thompson",
+    "screenName" : "Mick Thompson"
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "gcjf-354x",
+    "displayName" : "Mick Thompson",
+    "screenName" : "Mick Thompson"
+  },
+  "flags" : [ "default" ]
+}, {
+  "id" : "8iva-4xfs",
+  "name" : "Refuse Auto Pickup Routes",
+  "averageRating" : 0,
+  "createdAt" : 1343158439,
+  "description" : "Refuse Auto Pickup Routes Feature Service",
+  "displayType" : "href",
+  "downloadCount" : 56,
+  "newBackend" : false,
+  "numberOfComments" : 0,
+  "oid" : 903918,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1343158448,
+  "publicationGroup" : 387853,
+  "publicationStage" : "published",
+  "signed" : false,
+  "tableId" : 387853,
+  "totalTimesRated" : 0,
+  "viewCount" : 45,
+  "viewLastModified" : 1343158448,
+  "viewType" : "href",
+  "grants" : [ {
+    "inherited" : false,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "renderTypeConfig" : {
+      "visible" : {
+        "href" : true
+      }
+    },
+    "availableDisplayTypes" : [ "href" ],
+    "accessPoints" : {
+      "html?id=c97a60d240a547f98fe0a2bff58289d8" : "http://cchnl.maps.arcgis.com/home/item.html?id=c97a60d240a547f98fe0a2bff58289d8"
+    }
+  },
+  "owner" : {
+    "id" : "gcjf-354x",
+    "displayName" : "Mick Thompson",
+    "screenName" : "Mick Thompson"
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "gcjf-354x",
+    "displayName" : "Mick Thompson",
+    "screenName" : "Mick Thompson"
+  },
+  "flags" : [ "default" ]
+}, {
+  "id" : "nrsx-ip5q",
+  "name" : "Street light",
+  "averageRating" : 0,
+  "category" : "Public Safety",
+  "createdAt" : 1366765940,
+  "description" : "Honolulu 311 test data",
+  "displayType" : "map",
+  "downloadCount" : 35,
+  "indexUpdatedAt" : 1366903420,
+  "newBackend" : false,
+  "numberOfComments" : 0,
+  "oid" : 3320847,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1366758433,
+  "publicationGroup" : 814676,
+  "publicationStage" : "published",
+  "rowsUpdatedAt" : 1366757946,
+  "rowsUpdatedBy" : "5vv3-gysc",
+  "signed" : false,
+  "tableId" : 814676,
+  "totalTimesRated" : 0,
+  "viewCount" : 145,
+  "viewLastModified" : 1366765973,
+  "viewType" : "tabular",
+  "grants" : [ {
+    "inherited" : true,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "renderTypeConfig" : {
+      "visible" : {
+        "map" : true,
+        "table" : true
+      },
+      "active" : {
+        "table" : {
+          "id" : "self"
+        }
+      }
+    },
+    "availableDisplayTypes" : [ "map", "table", "fatrow", "page" ]
+  },
+  "owner" : {
+    "id" : "5vv3-gysc",
+    "displayName" : "Burt Lum",
+    "profileImageUrlLarge" : "/images/profile/3241/4281/burt_flag_large.jpg",
+    "profileImageUrlMedium" : "/images/profile/3241/4281/burt_flag_thumb.jpg",
+    "profileImageUrlSmall" : "/images/profile/3241/4281/burt_flag_tiny.jpg",
+    "screenName" : "Burt Lum"
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "5vv3-gysc",
+    "displayName" : "Burt Lum",
+    "profileImageUrlLarge" : "/images/profile/3241/4281/burt_flag_large.jpg",
+    "profileImageUrlMedium" : "/images/profile/3241/4281/burt_flag_thumb.jpg",
+    "profileImageUrlSmall" : "/images/profile/3241/4281/burt_flag_tiny.jpg",
+    "screenName" : "Burt Lum"
+  },
+  "tags" : [ "311" ]
+}, {
+  "id" : "rh9s-z3mn",
+  "name" : "City FY14 Proposed",
+  "averageRating" : 0,
+  "category" : "Finance",
+  "createdAt" : 1362687897,
+  "description" : "Mayor's Proposed City Budget FY14",
+  "displayType" : "table",
+  "downloadCount" : 63,
+  "indexUpdatedAt" : 1384309717,
+  "newBackend" : false,
+  "numberOfComments" : 0,
+  "oid" : 6394130,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1384305955,
+  "publicationGroup" : 720215,
+  "publicationStage" : "published",
+  "rowsUpdatedAt" : 1384305702,
+  "rowsUpdatedBy" : "5vv3-gysc",
+  "signed" : false,
+  "tableId" : 1350183,
+  "totalTimesRated" : 0,
+  "viewCount" : 1547,
+  "viewLastModified" : 1384305955,
+  "viewType" : "tabular",
+  "grants" : [ {
+    "inherited" : false,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "renderTypeConfig" : {
+      "visible" : {
+        "table" : true
+      }
+    },
+    "availableDisplayTypes" : [ "table", "fatrow", "page" ]
+  },
+  "owner" : {
+    "id" : "5vv3-gysc",
+    "displayName" : "Burt Lum",
+    "profileImageUrlLarge" : "/images/profile/3241/4281/burt_flag_large.jpg",
+    "profileImageUrlMedium" : "/images/profile/3241/4281/burt_flag_thumb.jpg",
+    "profileImageUrlSmall" : "/images/profile/3241/4281/burt_flag_tiny.jpg",
+    "screenName" : "Burt Lum"
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "5vv3-gysc",
+    "displayName" : "Burt Lum",
+    "profileImageUrlLarge" : "/images/profile/3241/4281/burt_flag_large.jpg",
+    "profileImageUrlMedium" : "/images/profile/3241/4281/burt_flag_thumb.jpg",
+    "profileImageUrlSmall" : "/images/profile/3241/4281/burt_flag_tiny.jpg",
+    "screenName" : "Burt Lum"
+  },
+  "tags" : [ "budget" ],
+  "flags" : [ "default" ]
+}, {
+  "id" : "ef93-z5du",
+  "name" : "Point Map 311 Data",
+  "averageRating" : 0,
+  "createdAt" : 1386197605,
+  "displayType" : "map",
+  "downloadCount" : 7,
+  "indexUpdatedAt" : 1386253114,
+  "newBackend" : false,
+  "numberOfComments" : 0,
+  "oid" : 6697849,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1343766359,
+  "publicationGroup" : 366002,
+  "publicationStage" : "published",
+  "rowsUpdatedAt" : 1343766332,
+  "rowsUpdatedBy" : "gcjf-354x",
+  "signed" : false,
+  "tableId" : 392928,
+  "totalTimesRated" : 0,
+  "viewCount" : 24,
+  "viewLastModified" : 1386197605,
+  "viewType" : "tabular",
+  "grants" : [ {
+    "inherited" : true,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "renderTypeConfig" : {
+      "visible" : {
+        "map" : true,
+        "table" : true
+      }
+    },
+    "availableDisplayTypes" : [ "map", "table", "fatrow", "page" ],
+    "rdfSubject" : "0"
+  },
+  "owner" : {
+    "id" : "g2fi-2e5g",
+    "displayName" : "Athlan Lathan",
+    "profileImageUrlLarge" : "/images/profile/0151/0758/photo_large.jpg",
+    "profileImageUrlMedium" : "/images/profile/0151/0758/photo_thumb.jpg",
+    "profileImageUrlSmall" : "/images/profile/0151/0758/photo_tiny.jpg",
+    "screenName" : "Athlan Lathan"
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "gcjf-354x",
+    "displayName" : "Mick Thompson",
+    "screenName" : "Mick Thompson"
+  }
+}, {
+  "id" : "smuq-xtz4",
+  "name" : "City Spending by Division 2010-2013",
+  "averageRating" : 0,
+  "createdAt" : 1365098905,
+  "description" : "Actual spending 2010&2011\r\nBudget 2012\r\nProposed Budget 2013",
+  "displayType" : "table",
+  "downloadCount" : 47,
+  "indexUpdatedAt" : 1365099268,
+  "newBackend" : false,
+  "numberOfComments" : 0,
+  "oid" : 3070001,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1353429886,
+  "publicationGroup" : 351822,
+  "publicationStage" : "published",
+  "rowsUpdatedAt" : 1353429807,
+  "rowsUpdatedBy" : "gcjf-354x",
+  "signed" : false,
+  "tableId" : 488512,
+  "totalTimesRated" : 0,
+  "viewCount" : 93,
+  "viewLastModified" : 1365098905,
+  "viewType" : "tabular",
+  "grants" : [ {
+    "inherited" : true,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "renderTypeConfig" : {
+      "visible" : {
+        "table" : true
+      }
+    },
+    "availableDisplayTypes" : [ "table", "fatrow", "page" ],
+    "rdfSubject" : "0",
+    "richRendererConfigs" : {
+      "fatRow" : {
+        "headerShown" : false
+      }
+    }
+  },
+  "owner" : {
+    "id" : "tm4c-rqum",
+    "displayName" : "Lilia Gutnik",
+    "profileImageUrlLarge" : "/images/profile/1897/6931/IMG_0090_large.JPG",
+    "profileImageUrlMedium" : "/images/profile/1897/6931/IMG_0090_thumb.JPG",
+    "profileImageUrlSmall" : "/images/profile/1897/6931/IMG_0090_tiny.JPG",
+    "screenName" : "Lilia Gutnik",
+    "rights" : [ "create_datasets", "edit_others_datasets", "edit_sdp", "edit_site_theme", "moderate_comments", "manage_users", "chown_datasets", "edit_nominations", "approve_nominations", "feature_items", "federations", "manage_stories", "manage_approval", "change_configurations", "view_domain", "view_others_datasets", "edit_pages", "create_pages", "view_goals", "view_dashboards", "edit_goals", "edit_dashboards", "create_dashboards" ],
+    "flags" : [ "admin" ]
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "gcjf-354x",
+    "displayName" : "Mick Thompson",
+    "screenName" : "Mick Thompson"
+  }
+}, {
+  "id" : "g5bc-jnuv",
+  "name" : "Honolulu 311 (April 2013)",
+  "averageRating" : 0,
+  "category" : "Public Safety",
+  "createdAt" : 1366757937,
+  "description" : "Honolulu 311 (data as of 4/15/13)",
+  "displayType" : "table",
+  "downloadCount" : 49,
+  "indexUpdatedAt" : 1366903420,
+  "newBackend" : false,
+  "numberOfComments" : 0,
+  "oid" : 3319881,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1366758433,
+  "publicationGroup" : 814676,
+  "publicationStage" : "published",
+  "rowClass" : "",
+  "rowsUpdatedAt" : 1366757946,
+  "rowsUpdatedBy" : "5vv3-gysc",
+  "signed" : false,
+  "tableId" : 814676,
+  "totalTimesRated" : 0,
+  "viewCount" : 294,
+  "viewLastModified" : 1366903222,
+  "viewType" : "tabular",
+  "grants" : [ {
+    "inherited" : true,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "renderTypeConfig" : {
+      "visible" : {
+        "table" : true
+      }
+    },
+    "availableDisplayTypes" : [ "table", "fatrow", "page" ],
+    "rdfSubject" : "0",
+    "filterCondition" : {
+      "value" : "AND",
+      "children" : [ {
+        "value" : "OR",
+        "type" : "operator",
+        "metadata" : {
+          "customValues" : [ [ "storm water" ] ],
+          "tableColumnId" : {
+            "814676" : 9784045
+          },
+          "operator" : "CONTAINS"
+        }
+      } ],
+      "type" : "operator",
+      "metadata" : {
+        "unifiedVersion" : 2,
+        "advanced" : true
+      }
+    },
+    "rowIdentifier" : "0",
+    "rdfClass" : ""
+  },
+  "owner" : {
+    "id" : "5vv3-gysc",
+    "displayName" : "Burt Lum",
+    "profileImageUrlLarge" : "/images/profile/3241/4281/burt_flag_large.jpg",
+    "profileImageUrlMedium" : "/images/profile/3241/4281/burt_flag_thumb.jpg",
+    "profileImageUrlSmall" : "/images/profile/3241/4281/burt_flag_tiny.jpg",
+    "screenName" : "Burt Lum"
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "5vv3-gysc",
+    "displayName" : "Burt Lum",
+    "profileImageUrlLarge" : "/images/profile/3241/4281/burt_flag_large.jpg",
+    "profileImageUrlMedium" : "/images/profile/3241/4281/burt_flag_thumb.jpg",
+    "profileImageUrlSmall" : "/images/profile/3241/4281/burt_flag_tiny.jpg",
+    "screenName" : "Burt Lum"
+  },
+  "tags" : [ "311" ],
+  "flags" : [ "default" ]
+}, {
+  "id" : "uvv2-62xi",
+  "name" : "Illegal Dump Sites",
+  "averageRating" : 0,
+  "category" : "Public Safety",
+  "createdAt" : 1366762954,
+  "description" : "Honolulu 311 test data",
+  "displayType" : "map",
+  "downloadCount" : 33,
+  "indexUpdatedAt" : 1366903414,
+  "newBackend" : false,
+  "numberOfComments" : 0,
+  "oid" : 3320378,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1366758433,
+  "publicationGroup" : 814676,
+  "publicationStage" : "published",
+  "rowsUpdatedAt" : 1366757946,
+  "rowsUpdatedBy" : "5vv3-gysc",
+  "signed" : false,
+  "tableId" : 814676,
+  "totalTimesRated" : 0,
+  "viewCount" : 73,
+  "viewLastModified" : 1366762954,
+  "viewType" : "tabular",
+  "grants" : [ {
+    "inherited" : true,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "renderTypeConfig" : {
+      "visible" : {
+        "map" : true,
+        "table" : true
+      }
+    },
+    "availableDisplayTypes" : [ "map", "table", "fatrow", "page" ]
+  },
+  "owner" : {
+    "id" : "5vv3-gysc",
+    "displayName" : "Burt Lum",
+    "profileImageUrlLarge" : "/images/profile/3241/4281/burt_flag_large.jpg",
+    "profileImageUrlMedium" : "/images/profile/3241/4281/burt_flag_thumb.jpg",
+    "profileImageUrlSmall" : "/images/profile/3241/4281/burt_flag_tiny.jpg",
+    "screenName" : "Burt Lum"
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "5vv3-gysc",
+    "displayName" : "Burt Lum",
+    "profileImageUrlLarge" : "/images/profile/3241/4281/burt_flag_large.jpg",
+    "profileImageUrlMedium" : "/images/profile/3241/4281/burt_flag_thumb.jpg",
+    "profileImageUrlSmall" : "/images/profile/3241/4281/burt_flag_tiny.jpg",
+    "screenName" : "Burt Lum"
+  },
+  "tags" : [ "311" ]
+}, {
+  "id" : "84fd-3fzf",
+  "name" : "Exceptional Trees On Oahu",
+  "averageRating" : 0,
+  "category" : "Recreation",
+  "createdAt" : 1367354462,
+  "description" : "City & County exceptional tree database",
+  "displayType" : "table",
+  "downloadCount" : 45,
+  "indexUpdatedAt" : 1367354675,
+  "newBackend" : false,
+  "numberOfComments" : 0,
+  "oid" : 3413730,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1367354612,
+  "publicationGroup" : 828733,
+  "publicationStage" : "published",
+  "rowsUpdatedAt" : 1367354465,
+  "rowsUpdatedBy" : "5vv3-gysc",
+  "signed" : false,
+  "tableId" : 828733,
+  "totalTimesRated" : 0,
+  "viewCount" : 124,
+  "viewLastModified" : 1367354612,
+  "viewType" : "tabular",
+  "grants" : [ {
+    "inherited" : false,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "renderTypeConfig" : {
+      "visible" : {
+        "table" : true
+      }
+    },
+    "availableDisplayTypes" : [ "table", "fatrow", "page" ]
+  },
+  "owner" : {
+    "id" : "5vv3-gysc",
+    "displayName" : "Burt Lum",
+    "profileImageUrlLarge" : "/images/profile/3241/4281/burt_flag_large.jpg",
+    "profileImageUrlMedium" : "/images/profile/3241/4281/burt_flag_thumb.jpg",
+    "profileImageUrlSmall" : "/images/profile/3241/4281/burt_flag_tiny.jpg",
+    "screenName" : "Burt Lum"
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "5vv3-gysc",
+    "displayName" : "Burt Lum",
+    "profileImageUrlLarge" : "/images/profile/3241/4281/burt_flag_large.jpg",
+    "profileImageUrlMedium" : "/images/profile/3241/4281/burt_flag_thumb.jpg",
+    "profileImageUrlSmall" : "/images/profile/3241/4281/burt_flag_tiny.jpg",
+    "screenName" : "Burt Lum"
+  },
+  "flags" : [ "default" ]
+} ]

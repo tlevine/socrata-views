@@ -1,0 +1,4315 @@
+[ {
+  "id" : "hybg-vty2",
+  "name" : "Animal Shelter - Adoptions",
+  "averageRating" : 0,
+  "category" : "Community Services",
+  "createdAt" : 1355433848,
+  "description" : "Animal adoptions, most recent first.",
+  "displayType" : "table",
+  "downloadCount" : 63,
+  "indexUpdatedAt" : 1387688926,
+  "newBackend" : false,
+  "numberOfComments" : 0,
+  "oid" : 3132807,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1365535099,
+  "publicationGroup" : 548777,
+  "publicationStage" : "published",
+  "rowsUpdatedAt" : 1387674008,
+  "rowsUpdatedBy" : "hzuj-kbdh",
+  "signed" : false,
+  "state" : "normal",
+  "tableId" : 785636,
+  "totalTimesRated" : 0,
+  "viewCount" : 4973,
+  "viewLastModified" : 1365450636,
+  "viewType" : "tabular",
+  "grants" : [ {
+    "inherited" : true,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "custom_fields" : {
+      "Weatherford" : {
+        "Update Frequency" : "More than once a day"
+      }
+    },
+    "renderTypeConfig" : {
+      "visible" : {
+        "table" : true
+      }
+    },
+    "availableDisplayTypes" : [ "table", "fatrow", "page" ],
+    "thumbnail" : {
+      "page" : {
+        "created" : true
+      }
+    },
+    "rdfSubject" : "0"
+  },
+  "owner" : {
+    "id" : "hzuj-kbdh",
+    "displayName" : "Chad Janicek",
+    "screenName" : "Chad Janicek"
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "hzuj-kbdh",
+    "displayName" : "Chad Janicek",
+    "screenName" : "Chad Janicek"
+  },
+  "tags" : [ "animal shelter" ]
+}, {
+  "id" : "ve8y-5avw",
+  "name" : "Animal Shelter - Currently at the Shelter",
+  "averageRating" : 0,
+  "category" : "Community Services",
+  "createdAt" : 1355429277,
+  "description" : "Subset of primary dataset showing only animals listed as currently at the shelter.",
+  "displayType" : "table",
+  "downloadCount" : 38,
+  "indexUpdatedAt" : 1387688955,
+  "newBackend" : false,
+  "numberOfComments" : 0,
+  "oid" : 3132809,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1365535099,
+  "publicationGroup" : 548777,
+  "publicationStage" : "published",
+  "resourceName" : "animal-shelter-current-animals",
+  "rowsUpdatedAt" : 1387674008,
+  "rowsUpdatedBy" : "hzuj-kbdh",
+  "signed" : false,
+  "state" : "normal",
+  "tableId" : 785636,
+  "totalTimesRated" : 0,
+  "viewCount" : 3734,
+  "viewLastModified" : 1360208456,
+  "viewType" : "tabular",
+  "grants" : [ {
+    "inherited" : true,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "custom_fields" : {
+      "Weatherford" : {
+        "Update Frequency" : "More than once a day"
+      }
+    },
+    "renderTypeConfig" : {
+      "visible" : {
+        "table" : true
+      }
+    },
+    "availableDisplayTypes" : [ "table", "fatrow", "page" ],
+    "rdfSubject" : "0"
+  },
+  "owner" : {
+    "id" : "hzuj-kbdh",
+    "displayName" : "Chad Janicek",
+    "screenName" : "Chad Janicek"
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "hzuj-kbdh",
+    "displayName" : "Chad Janicek",
+    "screenName" : "Chad Janicek"
+  },
+  "tags" : [ "animal shelter" ]
+}, {
+  "id" : "2ek5-qq7s",
+  "name" : "Animal Shelter - All Animal Cases",
+  "averageRating" : 0,
+  "category" : "Community Services",
+  "createdAt" : 1355179039,
+  "description" : "All animal cases since April 2007, including arrival and disposition date, status, type, breed, and other information.",
+  "displayType" : "table",
+  "downloadCount" : 46,
+  "indexUpdatedAt" : 1387688920,
+  "newBackend" : false,
+  "numberOfComments" : 0,
+  "oid" : 3132793,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1365535099,
+  "publicationGroup" : 548777,
+  "publicationStage" : "published",
+  "resourceName" : "animal-shelter-all-animals",
+  "rowIdentifierColumnId" : 56676701,
+  "rowsUpdatedAt" : 1387674008,
+  "rowsUpdatedBy" : "hzuj-kbdh",
+  "signed" : false,
+  "state" : "normal",
+  "tableId" : 785636,
+  "totalTimesRated" : 0,
+  "viewCount" : 1571,
+  "viewLastModified" : 1373311572,
+  "viewType" : "tabular",
+  "grants" : [ {
+    "inherited" : true,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "custom_fields" : {
+      "Updating" : {
+        "Type" : "Replace"
+      },
+      "Weatherford" : {
+        "Update Frequency" : "More than once a day"
+      }
+    },
+    "renderTypeConfig" : {
+      "visible" : {
+        "table" : true
+      }
+    },
+    "availableDisplayTypes" : [ "table", "fatrow", "page" ],
+    "rdfSubject" : "0",
+    "rowIdentifier" : 56676701
+  },
+  "owner" : {
+    "id" : "svxy-2p5n",
+    "displayName" : "Dustin!!!",
+    "screenName" : "Dustin!!!"
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "hzuj-kbdh",
+    "displayName" : "Chad Janicek",
+    "screenName" : "Chad Janicek"
+  },
+  "tags" : [ "animal shelter" ],
+  "flags" : [ "default" ]
+}, {
+  "id" : "8bm3-mh2f",
+  "name" : "Project research",
+  "averageRating" : 0,
+  "category" : "Community Services",
+  "createdAt" : 1360946239,
+  "description" : "All animal cases since April 2007, including arrival and disposition date, status, type, breed, and other information.",
+  "displayType" : "table",
+  "downloadCount" : 16,
+  "indexUpdatedAt" : 1387688957,
+  "newBackend" : false,
+  "numberOfComments" : 3,
+  "oid" : 3132802,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1365535099,
+  "publicationGroup" : 548777,
+  "publicationStage" : "published",
+  "rowsUpdatedAt" : 1387674008,
+  "rowsUpdatedBy" : "hzuj-kbdh",
+  "signed" : false,
+  "state" : "normal",
+  "tableId" : 785636,
+  "totalTimesRated" : 0,
+  "viewCount" : 269,
+  "viewLastModified" : 1362499953,
+  "viewType" : "tabular",
+  "grants" : [ {
+    "inherited" : true,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "custom_fields" : {
+      "Weatherford" : {
+        "Update Frequency" : "More than once a day"
+      }
+    },
+    "renderTypeConfig" : {
+      "visible" : {
+        "table" : true
+      }
+    },
+    "availableDisplayTypes" : [ "table", "fatrow", "page" ],
+    "rdfSubject" : "0"
+  },
+  "owner" : {
+    "id" : "xnbj-iatu",
+    "displayName" : "Jeri",
+    "screenName" : "Jeri"
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "hzuj-kbdh",
+    "displayName" : "Chad Janicek",
+    "screenName" : "Chad Janicek"
+  },
+  "tags" : [ "animal shelter" ]
+}, {
+  "id" : "j2k9-jf7m",
+  "name" : "Animal Shelter - All Dogs and Cats",
+  "averageRating" : 0,
+  "category" : "Community Services",
+  "createdAt" : 1358958962,
+  "description" : "All animal cases since April 2007, including arrival and disposition date, status, type, breed, and other information.",
+  "displayType" : "table",
+  "downloadCount" : 85,
+  "indexUpdatedAt" : 1387688958,
+  "newBackend" : false,
+  "numberOfComments" : 0,
+  "oid" : 3132801,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1365535099,
+  "publicationGroup" : 548777,
+  "publicationStage" : "published",
+  "rowsUpdatedAt" : 1387674008,
+  "rowsUpdatedBy" : "hzuj-kbdh",
+  "signed" : false,
+  "state" : "normal",
+  "tableId" : 785636,
+  "totalTimesRated" : 0,
+  "viewCount" : 1037,
+  "viewLastModified" : 1358958962,
+  "viewType" : "tabular",
+  "grants" : [ {
+    "inherited" : true,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "custom_fields" : {
+      "Weatherford" : {
+        "Update Frequency" : "More than once a day"
+      }
+    },
+    "renderTypeConfig" : {
+      "visible" : {
+        "table" : true
+      }
+    },
+    "availableDisplayTypes" : [ "table", "fatrow", "page" ],
+    "rdfSubject" : "0"
+  },
+  "owner" : {
+    "id" : "svxy-2p5n",
+    "displayName" : "Dustin!!!",
+    "screenName" : "Dustin!!!"
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "hzuj-kbdh",
+    "displayName" : "Chad Janicek",
+    "screenName" : "Chad Janicek"
+  },
+  "tags" : [ "animal shelter" ]
+}, {
+  "id" : "pi2r-w2wn",
+  "name" : "Park Maintenance Work Orders",
+  "averageRating" : 0,
+  "category" : "Community Services",
+  "createdAt" : 1364355706,
+  "description" : "Contains work order details for certain facilities, automatically published upon completion in the ParkMan application.",
+  "displayType" : "table",
+  "downloadCount" : 18,
+  "indexUpdatedAt" : 1387603005,
+  "newBackend" : false,
+  "numberOfComments" : 0,
+  "oid" : 2989937,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1364567562,
+  "publicationGroup" : 758057,
+  "publicationStage" : "published",
+  "rowIdentifierColumnId" : 53815983,
+  "rowsUpdatedAt" : 1387579571,
+  "rowsUpdatedBy" : "hzuj-kbdh",
+  "signed" : false,
+  "state" : "normal",
+  "tableId" : 762723,
+  "totalTimesRated" : 0,
+  "viewCount" : 417,
+  "viewLastModified" : 1364576876,
+  "viewType" : "tabular",
+  "grants" : [ {
+    "inherited" : true,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "custom_fields" : {
+      "Updating" : {
+        "Type" : "Append"
+      },
+      "Weatherford" : {
+        "Update Frequency" : "More than once a day"
+      }
+    },
+    "renderTypeConfig" : {
+      "visible" : {
+        "table" : true
+      }
+    },
+    "availableDisplayTypes" : [ "table", "fatrow", "page" ],
+    "rdfSubject" : "0",
+    "rowIdentifier" : 53815983
+  },
+  "owner" : {
+    "id" : "hzuj-kbdh",
+    "displayName" : "Chad Janicek",
+    "screenName" : "Chad Janicek"
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "hzuj-kbdh",
+    "displayName" : "Chad Janicek",
+    "screenName" : "Chad Janicek"
+  },
+  "tags" : [ "parks", "work orders", "parkman", "maintenance" ],
+  "flags" : [ "default" ]
+}, {
+  "id" : "scg7-wbcw",
+  "name" : "FY13 Adopted Budget",
+  "averageRating" : 0,
+  "category" : "Finance & Budget",
+  "createdAt" : 1354288166,
+  "description" : "Line item budget for the fiscal year beginning October 1, 2012, and ending September 30, 2013, as approved in September 2012.\r\n\r\nMunicipal Utility Fund items are approved by the Municipal Utility Board. All other funds are approved by the City Council.",
+  "displayType" : "table",
+  "downloadCount" : 75,
+  "newBackend" : false,
+  "numberOfComments" : 0,
+  "oid" : 1877336,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1354512485,
+  "publicationGroup" : 529283,
+  "publicationStage" : "published",
+  "rowClass" : "http://www.w3.org/ns/dcat#Dataset",
+  "rowsUpdatedAt" : 1354288518,
+  "rowsUpdatedBy" : "hzuj-kbdh",
+  "signed" : false,
+  "tableId" : 529291,
+  "totalTimesRated" : 0,
+  "viewCount" : 361,
+  "viewLastModified" : 1354636673,
+  "viewType" : "tabular",
+  "grants" : [ {
+    "inherited" : true,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "renderTypeConfig" : {
+      "visible" : {
+        "table" : true
+      }
+    },
+    "availableDisplayTypes" : [ "table", "fatrow", "page" ],
+    "thumbnail" : {
+      "page" : {
+        "created" : true,
+        "selection" : {
+          "height" : 153,
+          "width" : 288,
+          "y1" : 4,
+          "y2" : 157,
+          "x2" : 1312,
+          "x1" : 1024
+        },
+        "filename" : "page.png-288.153.1024.4.png"
+      }
+    },
+    "rdfSubject" : "0",
+    "rowIdentifier" : "0",
+    "rdfClass" : "http://www.w3.org/ns/dcat#Dataset"
+  },
+  "owner" : {
+    "id" : "hzuj-kbdh",
+    "displayName" : "Chad Janicek",
+    "screenName" : "Chad Janicek"
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "hzuj-kbdh",
+    "displayName" : "Chad Janicek",
+    "screenName" : "Chad Janicek"
+  },
+  "tags" : [ "budget", "financial" ],
+  "flags" : [ "default" ]
+}, {
+  "id" : "rmvj-bpp5",
+  "name" : "2013 Mosquito Testing",
+  "averageRating" : 0,
+  "category" : "Public Safety",
+  "createdAt" : 1367443889,
+  "description" : "Logging mosquito traps and results of testing for the 2013 mosquito season",
+  "displayType" : "table",
+  "downloadCount" : 19,
+  "indexUpdatedAt" : 1383603817,
+  "newBackend" : false,
+  "numberOfComments" : 0,
+  "oid" : 6256262,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1383596635,
+  "publicationGroup" : 830951,
+  "publicationStage" : "published",
+  "rowsUpdatedAt" : 1383596631,
+  "rowsUpdatedBy" : "ern2-u3vk",
+  "signed" : false,
+  "tableId" : 1321942,
+  "totalTimesRated" : 0,
+  "viewCount" : 191,
+  "viewLastModified" : 1383596635,
+  "viewType" : "tabular",
+  "grants" : [ {
+    "inherited" : true,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "custom_fields" : {
+      "Updating" : {
+        "Type" : "Append"
+      },
+      "Weatherford" : {
+        "Update Frequency" : "Weekly"
+      }
+    },
+    "renderTypeConfig" : {
+      "visible" : {
+        "table" : true
+      }
+    },
+    "availableDisplayTypes" : [ "table", "fatrow", "page" ],
+    "rdfSubject" : "0",
+    "rowIdentifier" : 112367383
+  },
+  "owner" : {
+    "id" : "ern2-u3vk",
+    "displayName" : "Kyle Lester",
+    "screenName" : "Kyle Lester"
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "ern2-u3vk",
+    "displayName" : "Kyle Lester",
+    "screenName" : "Kyle Lester"
+  },
+  "tags" : [ "mosquito" ],
+  "flags" : [ "default" ]
+}, {
+  "id" : "d6ka-5zdp",
+  "name" : "Animal Shelter - Daily Dispositions by Type",
+  "averageRating" : 0,
+  "category" : "Community Services",
+  "createdAt" : 1355431710,
+  "description" : "Totals for each disposition type grouped by date.",
+  "displayType" : "table",
+  "downloadCount" : 17,
+  "indexUpdatedAt" : 1387688958,
+  "newBackend" : false,
+  "numberOfComments" : 0,
+  "oid" : 3132808,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1365535099,
+  "publicationGroup" : 548777,
+  "publicationStage" : "published",
+  "resourceName" : "animal-shelter-daily-dispositions-by-type",
+  "rowsUpdatedAt" : 1387674008,
+  "rowsUpdatedBy" : "hzuj-kbdh",
+  "signed" : false,
+  "state" : "normal",
+  "tableId" : 785636,
+  "totalTimesRated" : 0,
+  "viewCount" : 308,
+  "viewLastModified" : 1355464073,
+  "viewType" : "tabular",
+  "grants" : [ {
+    "inherited" : true,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "custom_fields" : {
+      "Weatherford" : {
+        "Update Frequency" : "More than once a day"
+      }
+    },
+    "renderTypeConfig" : {
+      "visible" : {
+        "table" : true
+      }
+    },
+    "availableDisplayTypes" : [ "table", "fatrow", "page" ],
+    "rdfSubject" : "0"
+  },
+  "owner" : {
+    "id" : "hzuj-kbdh",
+    "displayName" : "Chad Janicek",
+    "screenName" : "Chad Janicek"
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "hzuj-kbdh",
+    "displayName" : "Chad Janicek",
+    "screenName" : "Chad Janicek"
+  },
+  "tags" : [ "animal shelter" ]
+}, {
+  "id" : "memn-fv5t",
+  "name" : "Animal Shelter - Adoptable Dogs by Length of Stay",
+  "averageRating" : 0,
+  "category" : "Community Services",
+  "createdAt" : 1355433750,
+  "description" : "Dogs currently available, sorted by arrival date.",
+  "displayType" : "table",
+  "downloadCount" : 22,
+  "indexUpdatedAt" : 1387688934,
+  "newBackend" : false,
+  "numberOfComments" : 0,
+  "oid" : 3132803,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1365535099,
+  "publicationGroup" : 548777,
+  "publicationStage" : "published",
+  "rowsUpdatedAt" : 1387674008,
+  "rowsUpdatedBy" : "hzuj-kbdh",
+  "signed" : false,
+  "state" : "normal",
+  "tableId" : 785636,
+  "totalTimesRated" : 0,
+  "viewCount" : 93,
+  "viewLastModified" : 1355463965,
+  "viewType" : "tabular",
+  "grants" : [ {
+    "inherited" : true,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "custom_fields" : {
+      "Weatherford" : {
+        "Update Frequency" : "More than once a day"
+      }
+    },
+    "renderTypeConfig" : {
+      "visible" : {
+        "table" : true
+      }
+    },
+    "availableDisplayTypes" : [ "table", "fatrow", "page" ],
+    "rdfSubject" : "0"
+  },
+  "owner" : {
+    "id" : "hzuj-kbdh",
+    "displayName" : "Chad Janicek",
+    "screenName" : "Chad Janicek"
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "hzuj-kbdh",
+    "displayName" : "Chad Janicek",
+    "screenName" : "Chad Janicek"
+  },
+  "tags" : [ "animal shelter" ]
+}, {
+  "id" : "4kr8-nw7w",
+  "name" : "2013 Mosquito Complaints",
+  "averageRating" : 0,
+  "category" : "Public Safety",
+  "createdAt" : 1367444285,
+  "description" : "For citizens to document potential concerns regarding mosquitos",
+  "displayType" : "table",
+  "downloadCount" : 21,
+  "indexUpdatedAt" : 1382751792,
+  "newBackend" : false,
+  "numberOfComments" : 0,
+  "oid" : 6091778,
+  "publicationAppendEnabled" : true,
+  "publicationDate" : 1382735049,
+  "publicationGroup" : 830967,
+  "publicationStage" : "published",
+  "rowsUpdatedAt" : 1382735047,
+  "rowsUpdatedBy" : "nyyb-p9ez",
+  "signed" : false,
+  "tableId" : 1287161,
+  "totalTimesRated" : 0,
+  "viewCount" : 182,
+  "viewLastModified" : 1382735049,
+  "viewType" : "tabular",
+  "grants" : [ {
+    "inherited" : true,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "custom_fields" : {
+      "Updating" : {
+        "Type" : "Append"
+      },
+      "Weatherford" : {
+        "Update Frequency" : "Ad Hoc"
+      }
+    },
+    "renderTypeConfig" : {
+      "visible" : {
+        "table" : true
+      }
+    },
+    "availableDisplayTypes" : [ "table", "fatrow", "page" ]
+  },
+  "owner" : {
+    "id" : "nyyb-p9ez",
+    "displayName" : "Angel Rudolph",
+    "screenName" : "Angel Rudolph"
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "nyyb-p9ez",
+    "displayName" : "Angel Rudolph",
+    "screenName" : "Angel Rudolph"
+  },
+  "tags" : [ "mosquitos" ],
+  "flags" : [ "default" ]
+}, {
+  "id" : "kyrg-v24v",
+  "name" : "Animal Shelter - Closed Cases",
+  "averageRating" : 0,
+  "category" : "Community Services",
+  "createdAt" : 1355431629,
+  "description" : "Subset of All Cases dataset, includes only closed cases.",
+  "displayType" : "table",
+  "downloadCount" : 18,
+  "indexUpdatedAt" : 1387688937,
+  "newBackend" : false,
+  "numberOfComments" : 0,
+  "oid" : 3132804,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1365535099,
+  "publicationGroup" : 548777,
+  "publicationStage" : "published",
+  "rowsUpdatedAt" : 1387674008,
+  "rowsUpdatedBy" : "hzuj-kbdh",
+  "signed" : false,
+  "state" : "normal",
+  "tableId" : 785636,
+  "totalTimesRated" : 0,
+  "viewCount" : 304,
+  "viewLastModified" : 1360196710,
+  "viewType" : "tabular",
+  "grants" : [ {
+    "inherited" : true,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "custom_fields" : {
+      "Weatherford" : {
+        "Update Frequency" : "More than once a day"
+      }
+    },
+    "renderTypeConfig" : {
+      "visible" : {
+        "table" : true
+      }
+    },
+    "availableDisplayTypes" : [ "table", "fatrow", "page" ],
+    "rdfSubject" : "0"
+  },
+  "owner" : {
+    "id" : "hzuj-kbdh",
+    "displayName" : "Chad Janicek",
+    "screenName" : "Chad Janicek"
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "hzuj-kbdh",
+    "displayName" : "Chad Janicek",
+    "screenName" : "Chad Janicek"
+  },
+  "tags" : [ "animal shelter" ]
+}, {
+  "id" : "x7ik-kbby",
+  "name" : "Animal Shelter - Adoptions by Date",
+  "averageRating" : 0,
+  "category" : "Community Services",
+  "createdAt" : 1355433279,
+  "description" : "The number of animal adoptions by date.",
+  "displayType" : "table",
+  "downloadCount" : 18,
+  "indexUpdatedAt" : 1387688957,
+  "newBackend" : false,
+  "numberOfComments" : 0,
+  "oid" : 3132800,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1365535099,
+  "publicationGroup" : 548777,
+  "publicationStage" : "published",
+  "rowsUpdatedAt" : 1387674008,
+  "rowsUpdatedBy" : "hzuj-kbdh",
+  "signed" : false,
+  "state" : "normal",
+  "tableId" : 785636,
+  "totalTimesRated" : 0,
+  "viewCount" : 228,
+  "viewLastModified" : 1358959491,
+  "viewType" : "tabular",
+  "grants" : [ {
+    "inherited" : true,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "custom_fields" : {
+      "Weatherford" : {
+        "Update Frequency" : "More than once a day"
+      }
+    },
+    "renderTypeConfig" : {
+      "visible" : {
+        "table" : true
+      }
+    },
+    "availableDisplayTypes" : [ "table", "fatrow", "page" ],
+    "rdfSubject" : "0"
+  },
+  "owner" : {
+    "id" : "hzuj-kbdh",
+    "displayName" : "Chad Janicek",
+    "screenName" : "Chad Janicek"
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "hzuj-kbdh",
+    "displayName" : "Chad Janicek",
+    "screenName" : "Chad Janicek"
+  },
+  "tags" : [ "animal shelter" ]
+}, {
+  "id" : "e68q-zdjm",
+  "name" : "Lake Levels",
+  "averageRating" : 0,
+  "category" : "Community Services",
+  "createdAt" : 1355431898,
+  "description" : "A history of Lake Weatherford's water level (in feet) from the USGS. Data are from an instantaneous service and therefore should not be considered final.",
+  "displayType" : "table",
+  "downloadCount" : 8,
+  "indexUpdatedAt" : 1387720943,
+  "newBackend" : false,
+  "numberOfComments" : 0,
+  "oid" : 3068129,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1365084694,
+  "publicationGroup" : 554734,
+  "publicationStage" : "published",
+  "rowClass" : "",
+  "rowsUpdatedAt" : 1387720129,
+  "rowsUpdatedBy" : "hzuj-kbdh",
+  "signed" : false,
+  "state" : "normal",
+  "tableId" : 774572,
+  "totalTimesRated" : 0,
+  "viewCount" : 173,
+  "viewLastModified" : 1365085950,
+  "viewType" : "tabular",
+  "grants" : [ {
+    "inherited" : true,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "custom_fields" : {
+      "Updating" : {
+        "Type" : "Append"
+      },
+      "Weatherford" : {
+        "Update Frequency" : "Monthly"
+      }
+    },
+    "renderTypeConfig" : {
+      "visible" : {
+        "table" : true
+      }
+    },
+    "availableDisplayTypes" : [ "table", "fatrow", "page" ],
+    "rdfSubject" : "0",
+    "rowIdentifier" : "0",
+    "rdfClass" : ""
+  },
+  "owner" : {
+    "id" : "ern2-u3vk",
+    "displayName" : "Kyle Lester",
+    "screenName" : "Kyle Lester"
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "ern2-u3vk",
+    "displayName" : "Kyle Lester",
+    "screenName" : "Kyle Lester"
+  },
+  "tags" : [ "lake weatherford" ],
+  "flags" : [ "default" ]
+}, {
+  "id" : "bu65-w3ez",
+  "name" : "2013 Mosquito Testing Map",
+  "averageRating" : 0,
+  "category" : "Public Safety",
+  "createdAt" : 1367540449,
+  "displayType" : "map",
+  "downloadCount" : 12,
+  "indexUpdatedAt" : 1383603817,
+  "newBackend" : false,
+  "numberOfComments" : 0,
+  "oid" : 6256268,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1383596635,
+  "publicationGroup" : 830951,
+  "publicationStage" : "published",
+  "rowsUpdatedAt" : 1383596631,
+  "rowsUpdatedBy" : "ern2-u3vk",
+  "signed" : false,
+  "tableId" : 1321942,
+  "totalTimesRated" : 0,
+  "viewCount" : 199,
+  "viewLastModified" : 1367938374,
+  "viewType" : "tabular",
+  "grants" : [ {
+    "inherited" : true,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "custom_fields" : {
+      "Updating" : {
+        "Type" : "Append"
+      },
+      "Weatherford" : {
+        "Update Frequency" : "Weekly"
+      }
+    },
+    "renderTypeConfig" : {
+      "visible" : {
+        "map" : true
+      },
+      "active" : {
+        "table" : {
+          "id" : "self"
+        }
+      }
+    },
+    "availableDisplayTypes" : [ "map", "table", "fatrow", "page" ],
+    "rdfSubject" : "0"
+  },
+  "owner" : {
+    "id" : "hzuj-kbdh",
+    "displayName" : "Chad Janicek",
+    "screenName" : "Chad Janicek"
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "ern2-u3vk",
+    "displayName" : "Kyle Lester",
+    "screenName" : "Kyle Lester"
+  },
+  "tags" : [ "mosquito" ]
+}, {
+  "id" : "3n5h-hdsi",
+  "name" : "FY13 Budget - Condensed View",
+  "averageRating" : 0,
+  "category" : "Finance & Budget",
+  "createdAt" : 1354636818,
+  "description" : "Line item budget for the fiscal year beginning October 1, 2012, and ending September 30, 2013, as approved in September 2012.\r\n\r\nMunicipal Utility Fund items are approved by the Municipal Utility Board. All other funds are approved by the City Council.",
+  "displayType" : "table",
+  "downloadCount" : 45,
+  "newBackend" : false,
+  "numberOfComments" : 0,
+  "oid" : 1896552,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1354512485,
+  "publicationGroup" : 529283,
+  "publicationStage" : "published",
+  "rowClass" : "http://www.w3.org/ns/dcat#Dataset",
+  "rowsUpdatedAt" : 1354288518,
+  "rowsUpdatedBy" : "hzuj-kbdh",
+  "signed" : false,
+  "tableId" : 529291,
+  "totalTimesRated" : 0,
+  "viewCount" : 190,
+  "viewLastModified" : 1354771794,
+  "viewType" : "tabular",
+  "grants" : [ {
+    "inherited" : true,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "renderTypeConfig" : {
+      "visible" : {
+        "table" : true
+      }
+    },
+    "availableDisplayTypes" : [ "table", "fatrow", "page" ],
+    "thumbnail" : {
+      "page" : {
+        "created" : true,
+        "filename" : "page.png-288.153.1024.4.png",
+        "selection" : {
+          "height" : 153,
+          "width" : 288,
+          "y1" : 4,
+          "y2" : 157,
+          "x2" : 1312,
+          "x1" : 1024
+        }
+      }
+    },
+    "rdfSubject" : "0",
+    "rowIdentifier" : "0",
+    "rdfClass" : "http://www.w3.org/ns/dcat#Dataset"
+  },
+  "owner" : {
+    "id" : "hzuj-kbdh",
+    "displayName" : "Chad Janicek",
+    "screenName" : "Chad Janicek"
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "hzuj-kbdh",
+    "displayName" : "Chad Janicek",
+    "screenName" : "Chad Janicek"
+  },
+  "tags" : [ "budget", "financial" ]
+}, {
+  "id" : "bgjw-54en",
+  "name" : "Animal Shelter - Adoptions by Date Graph",
+  "averageRating" : 0,
+  "category" : "Community Services",
+  "createdAt" : 1358959535,
+  "description" : "The number of animal adoptions by date.",
+  "displayType" : "chart",
+  "downloadCount" : 17,
+  "indexUpdatedAt" : 1387688934,
+  "newBackend" : false,
+  "numberOfComments" : 0,
+  "oid" : 3132806,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1365535099,
+  "publicationGroup" : 548777,
+  "publicationStage" : "published",
+  "rowsUpdatedAt" : 1387674008,
+  "rowsUpdatedBy" : "hzuj-kbdh",
+  "signed" : false,
+  "state" : "normal",
+  "tableId" : 785636,
+  "totalTimesRated" : 0,
+  "viewCount" : 206,
+  "viewLastModified" : 1358959535,
+  "viewType" : "tabular",
+  "grants" : [ {
+    "inherited" : true,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "custom_fields" : {
+      "Weatherford" : {
+        "Update Frequency" : "More than once a day"
+      }
+    },
+    "renderTypeConfig" : {
+      "visible" : {
+        "chart" : true,
+        "table" : true
+      }
+    },
+    "availableDisplayTypes" : [ "chart", "table", "fatrow", "page" ],
+    "rdfSubject" : "0"
+  },
+  "owner" : {
+    "id" : "svxy-2p5n",
+    "displayName" : "Dustin!!!",
+    "screenName" : "Dustin!!!"
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "hzuj-kbdh",
+    "displayName" : "Chad Janicek",
+    "screenName" : "Chad Janicek"
+  },
+  "tags" : [ "animal shelter" ]
+}, {
+  "id" : "3bed-i88z",
+  "name" : "Animal Shelter - Daily Intake",
+  "averageRating" : 0,
+  "category" : "Community Services",
+  "createdAt" : 1361809932,
+  "description" : "All animal cases since April 2007, including arrival and disposition date, status, type, breed, and other information.",
+  "displayType" : "table",
+  "downloadCount" : 19,
+  "indexUpdatedAt" : 1387688939,
+  "newBackend" : false,
+  "numberOfComments" : 0,
+  "oid" : 3132805,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1365535099,
+  "publicationGroup" : 548777,
+  "publicationStage" : "published",
+  "rowsUpdatedAt" : 1387674008,
+  "rowsUpdatedBy" : "hzuj-kbdh",
+  "signed" : false,
+  "state" : "normal",
+  "tableId" : 785636,
+  "totalTimesRated" : 0,
+  "viewCount" : 277,
+  "viewLastModified" : 1361809944,
+  "viewType" : "tabular",
+  "grants" : [ {
+    "inherited" : true,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "custom_fields" : {
+      "Weatherford" : {
+        "Update Frequency" : "More than once a day"
+      }
+    },
+    "renderTypeConfig" : {
+      "visible" : {
+        "table" : true
+      }
+    },
+    "availableDisplayTypes" : [ "table", "fatrow", "page" ],
+    "rdfSubject" : "0"
+  },
+  "owner" : {
+    "id" : "hzuj-kbdh",
+    "displayName" : "Chad Janicek",
+    "screenName" : "Chad Janicek"
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "hzuj-kbdh",
+    "displayName" : "Chad Janicek",
+    "screenName" : "Chad Janicek"
+  },
+  "tags" : [ "animal shelter" ]
+}, {
+  "id" : "gpjj-upqz",
+  "name" : "Animal Shelter - Adopted and Rescued",
+  "averageRating" : 0,
+  "category" : "Community Services",
+  "createdAt" : 1366651005,
+  "description" : "Animal adoptions, most recent first.",
+  "displayType" : "table",
+  "downloadCount" : 21,
+  "indexUpdatedAt" : 1387688955,
+  "newBackend" : false,
+  "numberOfComments" : 0,
+  "oid" : 3302352,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1365535099,
+  "publicationGroup" : 548777,
+  "publicationStage" : "published",
+  "rowsUpdatedAt" : 1387674008,
+  "rowsUpdatedBy" : "hzuj-kbdh",
+  "signed" : false,
+  "state" : "normal",
+  "tableId" : 785636,
+  "totalTimesRated" : 0,
+  "viewCount" : 247,
+  "viewLastModified" : 1366651006,
+  "viewType" : "tabular",
+  "grants" : [ {
+    "inherited" : true,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "custom_fields" : {
+      "Weatherford" : {
+        "Update Frequency" : "More than once a day"
+      }
+    },
+    "renderTypeConfig" : {
+      "visible" : {
+        "table" : true
+      }
+    },
+    "availableDisplayTypes" : [ "table", "fatrow", "page" ],
+    "thumbnail" : {
+      "page" : {
+        "created" : true
+      }
+    },
+    "rdfSubject" : "0"
+  },
+  "owner" : {
+    "id" : "hzuj-kbdh",
+    "displayName" : "Chad Janicek",
+    "screenName" : "Chad Janicek"
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "hzuj-kbdh",
+    "displayName" : "Chad Janicek",
+    "screenName" : "Chad Janicek"
+  },
+  "tags" : [ "animal shelter" ]
+}, {
+  "id" : "n4m9-h86u",
+  "name" : "Electric Monthly Billing By Class",
+  "averageRating" : 0,
+  "category" : "Finance & Budget",
+  "createdAt" : 1354296473,
+  "description" : "Weatherford Electric billing data by class, including number of customers, consumption, and amount billed.",
+  "displayType" : "table",
+  "downloadCount" : 52,
+  "indexUpdatedAt" : 1376081175,
+  "newBackend" : false,
+  "numberOfComments" : 0,
+  "oid" : 4845356,
+  "publicationAppendEnabled" : true,
+  "publicationDate" : 1376080189,
+  "publicationGroup" : 529505,
+  "publicationStage" : "published",
+  "resourceName" : "electric-billing-by-class",
+  "rowsUpdatedAt" : 1376080169,
+  "rowsUpdatedBy" : "hzuj-kbdh",
+  "signed" : false,
+  "tableId" : 1031777,
+  "totalTimesRated" : 0,
+  "viewCount" : 101,
+  "viewLastModified" : 1376080189,
+  "viewType" : "tabular",
+  "grants" : [ {
+    "inherited" : true,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "custom_fields" : {
+      "Weatherford" : {
+        "Update Frequency" : "Monthly"
+      }
+    },
+    "renderTypeConfig" : {
+      "visible" : {
+        "table" : true
+      }
+    },
+    "availableDisplayTypes" : [ "table", "fatrow", "page" ],
+    "rdfSubject" : "0"
+  },
+  "owner" : {
+    "id" : "hzuj-kbdh",
+    "displayName" : "Chad Janicek",
+    "screenName" : "Chad Janicek"
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "hzuj-kbdh",
+    "displayName" : "Chad Janicek",
+    "screenName" : "Chad Janicek"
+  },
+  "tags" : [ "electric", "utilities", "billing" ],
+  "flags" : [ "default" ]
+}, {
+  "id" : "6edd-iufq",
+  "name" : "2013 Mosquito Treatment Map",
+  "averageRating" : 0,
+  "category" : "Public Safety",
+  "createdAt" : 1367938702,
+  "description" : "Logs of all larvacide treatments except for spraying",
+  "displayType" : "map",
+  "downloadCount" : 15,
+  "indexUpdatedAt" : 1381571044,
+  "newBackend" : false,
+  "numberOfComments" : 0,
+  "oid" : 4080099,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1371504511,
+  "publicationGroup" : 834931,
+  "publicationStage" : "published",
+  "rowsUpdatedAt" : 1381504997,
+  "rowsUpdatedBy" : "hzuj-kbdh",
+  "signed" : false,
+  "state" : "normal",
+  "tableId" : 924627,
+  "totalTimesRated" : 0,
+  "viewCount" : 147,
+  "viewLastModified" : 1367938702,
+  "viewType" : "tabular",
+  "grants" : [ {
+    "inherited" : true,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "custom_fields" : {
+      "Updating" : {
+        "Type" : "Append"
+      },
+      "Weatherford" : {
+        "Update Frequency" : "Ad Hoc"
+      }
+    },
+    "renderTypeConfig" : {
+      "visible" : {
+        "map" : true
+      }
+    },
+    "availableDisplayTypes" : [ "map", "table", "fatrow", "page" ],
+    "rdfSubject" : "0"
+  },
+  "owner" : {
+    "id" : "hzuj-kbdh",
+    "displayName" : "Chad Janicek",
+    "screenName" : "Chad Janicek"
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "hzuj-kbdh",
+    "displayName" : "Chad Janicek",
+    "screenName" : "Chad Janicek"
+  },
+  "tags" : [ "mosquito" ]
+}, {
+  "id" : "cfuq-zji7",
+  "name" : "Code Enforcement - Closed Cases",
+  "averageRating" : 0,
+  "category" : "Community Services",
+  "createdAt" : 1359739341,
+  "description" : "A summary of all closed code enforcement cases since January 2007. Includes dates opened and closed, type, officer, and description.",
+  "displayType" : "table",
+  "downloadCount" : 12,
+  "indexUpdatedAt" : 1376083074,
+  "newBackend" : false,
+  "numberOfComments" : 0,
+  "oid" : 2404302,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1359739959,
+  "publicationGroup" : 650969,
+  "publicationStage" : "published",
+  "resourceName" : "code-enforcement-closed-cases",
+  "rowsUpdatedAt" : 1359739936,
+  "rowsUpdatedBy" : "hzuj-kbdh",
+  "signed" : false,
+  "tableId" : 650996,
+  "totalTimesRated" : 0,
+  "viewCount" : 235,
+  "viewLastModified" : 1376081195,
+  "viewType" : "tabular",
+  "grants" : [ {
+    "inherited" : true,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "custom_fields" : {
+      "Weatherford" : {
+        "Update Frequency" : "Monthly"
+      }
+    },
+    "renderTypeConfig" : {
+      "visible" : {
+        "table" : true
+      }
+    },
+    "availableDisplayTypes" : [ "table", "fatrow", "page" ],
+    "rdfSubject" : "0"
+  },
+  "owner" : {
+    "id" : "hzuj-kbdh",
+    "displayName" : "Chad Janicek",
+    "screenName" : "Chad Janicek"
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "hzuj-kbdh",
+    "displayName" : "Chad Janicek",
+    "screenName" : "Chad Janicek"
+  },
+  "tags" : [ "code" ],
+  "flags" : [ "default" ]
+}, {
+  "id" : "ny9a-t4pz",
+  "name" : "Fuel Purchases",
+  "averageRating" : 0,
+  "category" : "Finance & Budget",
+  "createdAt" : 1354295821,
+  "description" : "All fuel purchases by city employees. This dataset is updated monthly.",
+  "displayType" : "table",
+  "downloadCount" : 20,
+  "indexUpdatedAt" : 1367856539,
+  "newBackend" : false,
+  "numberOfComments" : 0,
+  "oid" : 3491179,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1367855719,
+  "publicationGroup" : 529489,
+  "publicationStage" : "published",
+  "rowsUpdatedAt" : 1367855650,
+  "rowsUpdatedBy" : "ern2-u3vk",
+  "signed" : false,
+  "tableId" : 840783,
+  "totalTimesRated" : 0,
+  "viewCount" : 358,
+  "viewLastModified" : 1367855719,
+  "viewType" : "tabular",
+  "grants" : [ {
+    "inherited" : false,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "renderTypeConfig" : {
+      "visible" : {
+        "table" : true
+      }
+    },
+    "availableDisplayTypes" : [ "table", "fatrow", "page" ],
+    "rdfSubject" : "0"
+  },
+  "owner" : {
+    "id" : "hzuj-kbdh",
+    "displayName" : "Chad Janicek",
+    "screenName" : "Chad Janicek"
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "hzuj-kbdh",
+    "displayName" : "Chad Janicek",
+    "screenName" : "Chad Janicek"
+  },
+  "tags" : [ "fuel" ],
+  "flags" : [ "default" ]
+}, {
+  "id" : "fq45-73gh",
+  "name" : "Permits Issued",
+  "averageRating" : 0,
+  "category" : "Development",
+  "createdAt" : 1362087114,
+  "description" : "All historical permits issued, including issue date, type, subtype, etc.",
+  "displayType" : "table",
+  "downloadCount" : 300,
+  "indexUpdatedAt" : 1383610474,
+  "newBackend" : false,
+  "numberOfComments" : 0,
+  "oid" : 6256783,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1383599813,
+  "publicationGroup" : 705846,
+  "publicationStage" : "published",
+  "rowsUpdatedAt" : 1383599791,
+  "rowsUpdatedBy" : "ern2-u3vk",
+  "signed" : false,
+  "tableId" : 1322094,
+  "totalTimesRated" : 0,
+  "viewCount" : 212,
+  "viewLastModified" : 1383599813,
+  "viewType" : "tabular",
+  "grants" : [ {
+    "inherited" : true,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "custom_fields" : {
+      "Updating" : {
+        "Type" : "Replace"
+      },
+      "Weatherford" : {
+        "Update Frequency" : "Monthly"
+      }
+    },
+    "renderTypeConfig" : {
+      "visible" : {
+        "table" : true
+      }
+    },
+    "availableDisplayTypes" : [ "table", "fatrow", "page" ]
+  },
+  "owner" : {
+    "id" : "hzuj-kbdh",
+    "displayName" : "Chad Janicek",
+    "screenName" : "Chad Janicek"
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "hzuj-kbdh",
+    "displayName" : "Chad Janicek",
+    "screenName" : "Chad Janicek"
+  },
+  "tags" : [ "permits" ],
+  "flags" : [ "default" ]
+}, {
+  "id" : "kwwr-agj9",
+  "name" : "Utility Consumption",
+  "averageRating" : 0,
+  "createdAt" : 1356128204,
+  "description" : "Sum total consumption by month and utility, ranging back through FY2008.",
+  "displayType" : "table",
+  "downloadCount" : 18,
+  "indexUpdatedAt" : 1362604951,
+  "newBackend" : false,
+  "numberOfComments" : 0,
+  "oid" : 2733670,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1362604857,
+  "publicationGroup" : 570807,
+  "publicationStage" : "published",
+  "rowsUpdatedAt" : 1362604816,
+  "rowsUpdatedBy" : "ern2-u3vk",
+  "signed" : false,
+  "tableId" : 718275,
+  "totalTimesRated" : 0,
+  "viewCount" : 42,
+  "viewLastModified" : 1362604938,
+  "viewType" : "tabular",
+  "grants" : [ {
+    "inherited" : true,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "custom_fields" : {
+      "Weatherford" : {
+        "Update Frequency" : "Monthly"
+      }
+    },
+    "renderTypeConfig" : {
+      "visible" : {
+        "table" : true
+      }
+    },
+    "availableDisplayTypes" : [ "table", "fatrow", "page" ]
+  },
+  "owner" : {
+    "id" : "ern2-u3vk",
+    "displayName" : "Kyle Lester",
+    "screenName" : "Kyle Lester"
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "ern2-u3vk",
+    "displayName" : "Kyle Lester",
+    "screenName" : "Kyle Lester"
+  },
+  "tags" : [ "utility consumption" ],
+  "flags" : [ "default" ]
+}, {
+  "id" : "5rrs-sgue",
+  "name" : "2013 Mosquito Treatments",
+  "averageRating" : 0,
+  "category" : "Public Safety",
+  "createdAt" : 1367597581,
+  "description" : "Logs of all larvacide treatments except for spraying",
+  "displayType" : "table",
+  "downloadCount" : 16,
+  "indexUpdatedAt" : 1381571077,
+  "newBackend" : false,
+  "numberOfComments" : 0,
+  "oid" : 4080091,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1371504511,
+  "publicationGroup" : 834931,
+  "publicationStage" : "published",
+  "rowIdentifierColumnId" : 74601884,
+  "rowsUpdatedAt" : 1381504997,
+  "rowsUpdatedBy" : "hzuj-kbdh",
+  "signed" : false,
+  "state" : "normal",
+  "tableId" : 924627,
+  "totalTimesRated" : 0,
+  "viewCount" : 41,
+  "viewLastModified" : 1381157829,
+  "viewType" : "tabular",
+  "grants" : [ {
+    "inherited" : true,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "custom_fields" : {
+      "Updating" : {
+        "Type" : "Append"
+      },
+      "Weatherford" : {
+        "Update Frequency" : "Ad Hoc"
+      }
+    },
+    "renderTypeConfig" : {
+      "visible" : {
+        "table" : true
+      }
+    },
+    "availableDisplayTypes" : [ "table", "fatrow", "page" ],
+    "rdfSubject" : "0",
+    "rowIdentifier" : 74601884
+  },
+  "owner" : {
+    "id" : "ern2-u3vk",
+    "displayName" : "Kyle Lester",
+    "screenName" : "Kyle Lester"
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "hzuj-kbdh",
+    "displayName" : "Chad Janicek",
+    "screenName" : "Chad Janicek"
+  },
+  "tags" : [ "mosquito" ],
+  "flags" : [ "default" ]
+}, {
+  "id" : "3aqf-4m7m",
+  "name" : "Park Maintenance Work Order Map",
+  "averageRating" : 0,
+  "category" : "Community Services",
+  "createdAt" : 1364569379,
+  "description" : "A heat map identifying where park maintenance work orders are performed.",
+  "displayType" : "map",
+  "downloadCount" : 15,
+  "indexUpdatedAt" : 1387603021,
+  "newBackend" : false,
+  "numberOfComments" : 0,
+  "oid" : 2997586,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1364567562,
+  "publicationGroup" : 758057,
+  "publicationStage" : "published",
+  "rowClass" : "",
+  "rowIdentifierColumnId" : 54032764,
+  "rowsUpdatedAt" : 1387579571,
+  "rowsUpdatedBy" : "hzuj-kbdh",
+  "signed" : false,
+  "state" : "normal",
+  "tableId" : 762723,
+  "totalTimesRated" : 0,
+  "viewCount" : 312,
+  "viewLastModified" : 1367598338,
+  "viewType" : "tabular",
+  "grants" : [ {
+    "inherited" : true,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "custom_fields" : {
+      "Updating" : {
+        "Type" : "Append"
+      },
+      "Weatherford" : {
+        "Update Frequency" : "More than once a day"
+      }
+    },
+    "renderTypeConfig" : {
+      "visible" : {
+        "map" : true
+      }
+    },
+    "availableDisplayTypes" : [ "map", "table", "fatrow", "page" ],
+    "rdfSubject" : "0",
+    "rowIdentifier" : "54032764",
+    "rdfClass" : ""
+  },
+  "owner" : {
+    "id" : "hzuj-kbdh",
+    "displayName" : "Chad Janicek",
+    "screenName" : "Chad Janicek"
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "hzuj-kbdh",
+    "displayName" : "Chad Janicek",
+    "screenName" : "Chad Janicek"
+  },
+  "tags" : [ "parks", "work orders", "parkman", "maintenance" ]
+}, {
+  "id" : "qekk-5pfa",
+  "name" : "Lake Levels Time Line",
+  "averageRating" : 0,
+  "category" : "Community Services",
+  "createdAt" : 1355432589,
+  "description" : "A history of Lake Weatherford's water level (in feet).",
+  "displayType" : "chart",
+  "downloadCount" : 9,
+  "indexUpdatedAt" : 1387720947,
+  "newBackend" : false,
+  "numberOfComments" : 0,
+  "oid" : 3068148,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1365084694,
+  "publicationGroup" : 554734,
+  "publicationStage" : "published",
+  "rowsUpdatedAt" : 1387720129,
+  "rowsUpdatedBy" : "hzuj-kbdh",
+  "signed" : false,
+  "state" : "normal",
+  "tableId" : 774572,
+  "totalTimesRated" : 0,
+  "viewCount" : 136,
+  "viewLastModified" : 1365087031,
+  "viewType" : "tabular",
+  "grants" : [ {
+    "inherited" : true,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "custom_fields" : {
+      "Weatherford" : {
+        "Update Frequency" : "Monthly"
+      }
+    },
+    "renderTypeConfig" : {
+      "visible" : {
+        "chart" : true,
+        "table" : true
+      }
+    },
+    "availableDisplayTypes" : [ "chart", "table", "fatrow", "page" ]
+  },
+  "owner" : {
+    "id" : "ern2-u3vk",
+    "displayName" : "Kyle Lester",
+    "screenName" : "Kyle Lester"
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "ern2-u3vk",
+    "displayName" : "Kyle Lester",
+    "screenName" : "Kyle Lester"
+  },
+  "tags" : [ "lake weatherford" ]
+}, {
+  "id" : "s2dc-5w34",
+  "name" : "Recent Lake Levels and Conservation Stages",
+  "averageRating" : 0,
+  "category" : "Community Services",
+  "createdAt" : 1365088486,
+  "description" : "A graph of lake levels since July 2012. Lake levels are color coded based on the triggers from the 2013 drought contingency plan.",
+  "displayType" : "chart",
+  "downloadCount" : 14,
+  "indexUpdatedAt" : 1387720940,
+  "newBackend" : false,
+  "numberOfComments" : 0,
+  "oid" : 3068663,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1365084694,
+  "publicationGroup" : 554734,
+  "publicationStage" : "published",
+  "rowClass" : "",
+  "rowsUpdatedAt" : 1387720129,
+  "rowsUpdatedBy" : "hzuj-kbdh",
+  "signed" : false,
+  "state" : "normal",
+  "tableId" : 774572,
+  "totalTimesRated" : 0,
+  "viewCount" : 77,
+  "viewLastModified" : 1365089426,
+  "viewType" : "tabular",
+  "grants" : [ {
+    "inherited" : true,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "custom_fields" : {
+      "Updating" : {
+        "Type" : "Append"
+      },
+      "Weatherford" : {
+        "Update Frequency" : "Monthly"
+      }
+    },
+    "renderTypeConfig" : {
+      "visible" : {
+        "chart" : true,
+        "table" : true
+      }
+    },
+    "availableDisplayTypes" : [ "chart", "table", "fatrow", "page" ],
+    "rdfSubject" : "0",
+    "conditionalFormatting" : [ {
+      "condition" : {
+        "_key" : "(9183784|GREATER_THAN_OR_EQUALS|889)",
+        "value" : 889,
+        "tableColumnId" : 9183784,
+        "operator" : "GREATER_THAN_OR_EQUALS"
+      },
+      "color" : "#274e13",
+      "description" : "No Restrictions"
+    }, {
+      "condition" : {
+        "_key" : "((9183784|LESS_THAN|889)|AND|(9183784|GREATER_THAN_OR_EQUALS|887.5))",
+        "children" : [ {
+          "value" : 889,
+          "tableColumnId" : 9183784,
+          "operator" : "LESS_THAN"
+        }, {
+          "value" : 887.5,
+          "tableColumnId" : 9183784,
+          "operator" : "GREATER_THAN_OR_EQUALS"
+        } ],
+        "operator" : "and"
+      },
+      "color" : "#ffd966",
+      "description" : "Stage 1"
+    }, {
+      "condition" : {
+        "_key" : "((9183784|LESS_THAN|887.5)|AND|(9183784|GREATER_THAN|885.5))",
+        "children" : [ {
+          "value" : 887.5,
+          "tableColumnId" : 9183784,
+          "operator" : "LESS_THAN"
+        }, {
+          "value" : 885.5,
+          "tableColumnId" : 9183784,
+          "operator" : "GREATER_THAN"
+        } ],
+        "operator" : "and"
+      },
+      "color" : "#e69138",
+      "description" : "Stage 2"
+    }, {
+      "condition" : {
+        "_key" : "(9183784|LESS_THAN_OR_EQUALS|885.5)",
+        "value" : 885.5,
+        "tableColumnId" : 9183784,
+        "operator" : "LESS_THAN_OR_EQUALS"
+      },
+      "color" : "#e06666",
+      "description" : "Stage 3"
+    } ],
+    "rowIdentifier" : "0",
+    "rdfClass" : ""
+  },
+  "owner" : {
+    "id" : "hzuj-kbdh",
+    "displayName" : "Chad Janicek",
+    "screenName" : "Chad Janicek"
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "ern2-u3vk",
+    "displayName" : "Kyle Lester",
+    "screenName" : "Kyle Lester"
+  },
+  "tags" : [ "lake weatherford" ]
+}, {
+  "id" : "7tdp-p5kk",
+  "name" : "Park Maintenance Daily Workload",
+  "averageRating" : 0,
+  "category" : "Community Services",
+  "createdAt" : 1364567859,
+  "description" : "A chart showing the number of work orders completed each day.",
+  "displayType" : "chart",
+  "downloadCount" : 16,
+  "indexUpdatedAt" : 1387603004,
+  "newBackend" : false,
+  "numberOfComments" : 0,
+  "oid" : 2997251,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1364567562,
+  "publicationGroup" : 758057,
+  "publicationStage" : "published",
+  "rowClass" : "",
+  "rowsUpdatedAt" : 1387579571,
+  "rowsUpdatedBy" : "hzuj-kbdh",
+  "signed" : false,
+  "state" : "normal",
+  "tableId" : 762723,
+  "totalTimesRated" : 0,
+  "viewCount" : 80,
+  "viewLastModified" : 1364568730,
+  "viewType" : "tabular",
+  "grants" : [ {
+    "inherited" : true,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "custom_fields" : {
+      "Updating" : {
+        "Type" : "Append"
+      },
+      "Weatherford" : {
+        "Update Frequency" : "More than once a day"
+      }
+    },
+    "renderTypeConfig" : {
+      "visible" : {
+        "chart" : true
+      }
+    },
+    "availableDisplayTypes" : [ "chart", "table", "fatrow", "page" ],
+    "rdfSubject" : "0",
+    "rowIdentifier" : "54027291",
+    "rdfClass" : ""
+  },
+  "owner" : {
+    "id" : "hzuj-kbdh",
+    "displayName" : "Chad Janicek",
+    "screenName" : "Chad Janicek"
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "hzuj-kbdh",
+    "displayName" : "Chad Janicek",
+    "screenName" : "Chad Janicek"
+  },
+  "tags" : [ "parks", "work orders", "parkman", "maintenance" ]
+}, {
+  "id" : "8bte-7cqp",
+  "name" : "Mosquito Treatment",
+  "averageRating" : 0,
+  "category" : "Public Safety",
+  "createdAt" : 1367876293,
+  "description" : "Logs of all larvacide treatments except for spraying",
+  "displayType" : "table",
+  "downloadCount" : 16,
+  "indexUpdatedAt" : 1381571077,
+  "newBackend" : false,
+  "numberOfComments" : 0,
+  "oid" : 4080098,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1371504511,
+  "publicationGroup" : 834931,
+  "publicationStage" : "published",
+  "rowsUpdatedAt" : 1381504997,
+  "rowsUpdatedBy" : "hzuj-kbdh",
+  "signed" : false,
+  "state" : "normal",
+  "tableId" : 924627,
+  "totalTimesRated" : 0,
+  "viewCount" : 42,
+  "viewLastModified" : 1371504393,
+  "viewType" : "tabular",
+  "grants" : [ {
+    "inherited" : true,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "custom_fields" : {
+      "Updating" : {
+        "Type" : "Append"
+      },
+      "Weatherford" : {
+        "Update Frequency" : "Ad Hoc"
+      }
+    },
+    "renderTypeConfig" : {
+      "visible" : {
+        "table" : true
+      }
+    },
+    "availableDisplayTypes" : [ "table", "fatrow", "page" ],
+    "rdfSubject" : "0"
+  },
+  "owner" : {
+    "id" : "hzuj-kbdh",
+    "displayName" : "Chad Janicek",
+    "screenName" : "Chad Janicek"
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "hzuj-kbdh",
+    "displayName" : "Chad Janicek",
+    "screenName" : "Chad Janicek"
+  },
+  "tags" : [ "mosquito" ]
+}, {
+  "id" : "3xxn-pcj5",
+  "name" : "Park Maintenance Work Categories",
+  "averageRating" : 0,
+  "category" : "Community Services",
+  "createdAt" : 1364568788,
+  "description" : "Calendar showing the type of work orders completed by the Parks & Properties division of the Parks & Recreation Department.",
+  "displayType" : "calendar",
+  "downloadCount" : 20,
+  "indexUpdatedAt" : 1387603022,
+  "newBackend" : false,
+  "numberOfComments" : 0,
+  "oid" : 2997480,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1364567562,
+  "publicationGroup" : 758057,
+  "publicationStage" : "published",
+  "rowClass" : "",
+  "rowsUpdatedAt" : 1387579571,
+  "rowsUpdatedBy" : "hzuj-kbdh",
+  "signed" : false,
+  "state" : "normal",
+  "tableId" : 762723,
+  "totalTimesRated" : 0,
+  "viewCount" : 219,
+  "viewLastModified" : 1364568965,
+  "viewType" : "tabular",
+  "grants" : [ {
+    "inherited" : true,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "custom_fields" : {
+      "Updating" : {
+        "Type" : "Append"
+      },
+      "Weatherford" : {
+        "Update Frequency" : "More than once a day"
+      }
+    },
+    "renderTypeConfig" : {
+      "visible" : {
+        "calendar" : true
+      }
+    },
+    "availableDisplayTypes" : [ "calendar", "table", "fatrow", "page" ],
+    "rdfSubject" : "0",
+    "rowIdentifier" : "54030509",
+    "rdfClass" : ""
+  },
+  "owner" : {
+    "id" : "hzuj-kbdh",
+    "displayName" : "Chad Janicek",
+    "screenName" : "Chad Janicek"
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "hzuj-kbdh",
+    "displayName" : "Chad Janicek",
+    "screenName" : "Chad Janicek"
+  },
+  "tags" : [ "parks", "work orders", "parkman", "maintenance" ]
+}, {
+  "id" : "bg9q-v7x9",
+  "name" : "Total Monthly Electric Billing Graph",
+  "averageRating" : 0,
+  "category" : "Finance & Budget",
+  "createdAt" : 1354296850,
+  "description" : "Graph of total billed consumption by month",
+  "displayType" : "chart",
+  "downloadCount" : 63,
+  "indexUpdatedAt" : 1376081175,
+  "newBackend" : false,
+  "numberOfComments" : 0,
+  "oid" : 4845371,
+  "publicationAppendEnabled" : true,
+  "publicationDate" : 1376080189,
+  "publicationGroup" : 529505,
+  "publicationStage" : "published",
+  "rowsUpdatedAt" : 1376080169,
+  "rowsUpdatedBy" : "hzuj-kbdh",
+  "signed" : false,
+  "tableId" : 1031777,
+  "totalTimesRated" : 0,
+  "viewCount" : 26,
+  "viewLastModified" : 1371227585,
+  "viewType" : "tabular",
+  "grants" : [ {
+    "inherited" : true,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "custom_fields" : {
+      "Updating" : {
+        "Type" : "Replace"
+      },
+      "Weatherford" : {
+        "Update Frequency" : "Monthly"
+      }
+    },
+    "renderTypeConfig" : {
+      "visible" : {
+        "chart" : true,
+        "table" : true
+      }
+    },
+    "availableDisplayTypes" : [ "chart", "table", "fatrow", "page" ],
+    "rdfSubject" : "0"
+  },
+  "owner" : {
+    "id" : "hzuj-kbdh",
+    "displayName" : "Chad Janicek",
+    "screenName" : "Chad Janicek"
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "hzuj-kbdh",
+    "displayName" : "Chad Janicek",
+    "screenName" : "Chad Janicek"
+  },
+  "tags" : [ "electric", "utilities", "billing" ]
+}, {
+  "id" : "gax8-krdx",
+  "name" : "Work Order daily total",
+  "averageRating" : 0,
+  "category" : "Community Services",
+  "createdAt" : 1367876599,
+  "description" : "A chart showing the number of work orders completed each day.",
+  "displayType" : "chart",
+  "downloadCount" : 14,
+  "indexUpdatedAt" : 1387602991,
+  "newBackend" : false,
+  "numberOfComments" : 0,
+  "oid" : 3494500,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1364567562,
+  "publicationGroup" : 758057,
+  "publicationStage" : "published",
+  "rowClass" : "",
+  "rowsUpdatedAt" : 1387579571,
+  "rowsUpdatedBy" : "hzuj-kbdh",
+  "signed" : false,
+  "state" : "normal",
+  "tableId" : 762723,
+  "totalTimesRated" : 0,
+  "viewCount" : 75,
+  "viewLastModified" : 1367876599,
+  "viewType" : "tabular",
+  "grants" : [ {
+    "inherited" : true,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "custom_fields" : {
+      "Updating" : {
+        "Type" : "Append"
+      },
+      "Weatherford" : {
+        "Update Frequency" : "More than once a day"
+      }
+    },
+    "renderTypeConfig" : {
+      "visible" : {
+        "chart" : true
+      }
+    },
+    "availableDisplayTypes" : [ "chart", "table", "fatrow", "page" ],
+    "rdfSubject" : "0",
+    "rdfClass" : ""
+  },
+  "owner" : {
+    "id" : "hiab-aw2z",
+    "displayName" : "sgoodman",
+    "screenName" : "sgoodman"
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "hzuj-kbdh",
+    "displayName" : "Chad Janicek",
+    "screenName" : "Chad Janicek"
+  },
+  "tags" : [ "parks", "work orders", "parkman", "maintenance" ]
+}, {
+  "id" : "c4zr-3y7x",
+  "name" : "Monthly Sales Tax Collections",
+  "averageRating" : 0,
+  "category" : "Finance & Budget",
+  "createdAt" : 1360183773,
+  "description" : "Monthly sales tax collections since 1990. Taxes collected by the city are shown separately beginning around 2007.",
+  "displayType" : "table",
+  "downloadCount" : 18,
+  "indexUpdatedAt" : 1362667208,
+  "newBackend" : false,
+  "numberOfComments" : 0,
+  "oid" : 2742074,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1362666869,
+  "publicationGroup" : 661625,
+  "publicationStage" : "published",
+  "resourceName" : "monthly-sales-tax",
+  "rowsUpdatedAt" : 1362666842,
+  "rowsUpdatedBy" : "hzuj-kbdh",
+  "signed" : false,
+  "tableId" : 719673,
+  "totalTimesRated" : 0,
+  "viewCount" : 47,
+  "viewLastModified" : 1362666869,
+  "viewType" : "tabular",
+  "grants" : [ {
+    "inherited" : true,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "custom_fields" : {
+      "Updating" : {
+        "Type" : "Replace"
+      },
+      "Weatherford" : {
+        "Update Type" : "Replace",
+        "Update Frequency" : "Monthly"
+      }
+    },
+    "renderTypeConfig" : {
+      "visible" : {
+        "table" : true
+      }
+    },
+    "availableDisplayTypes" : [ "table", "fatrow", "page" ],
+    "rdfSubject" : "0"
+  },
+  "owner" : {
+    "id" : "hzuj-kbdh",
+    "displayName" : "Chad Janicek",
+    "screenName" : "Chad Janicek"
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "hzuj-kbdh",
+    "displayName" : "Chad Janicek",
+    "screenName" : "Chad Janicek"
+  },
+  "tags" : [ "sales tax", "finance" ],
+  "flags" : [ "default" ]
+}, {
+  "id" : "dngh-t9qr",
+  "name" : "Wastewater Consumption Chart",
+  "averageRating" : 0,
+  "createdAt" : 1356128709,
+  "description" : "Sum total consumption by month and utility, ranging back through FY2008.",
+  "displayType" : "chart",
+  "downloadCount" : 14,
+  "indexUpdatedAt" : 1362604950,
+  "newBackend" : false,
+  "numberOfComments" : 0,
+  "oid" : 2733680,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1362604857,
+  "publicationGroup" : 570807,
+  "publicationStage" : "published",
+  "rowsUpdatedAt" : 1362604816,
+  "rowsUpdatedBy" : "ern2-u3vk",
+  "signed" : false,
+  "tableId" : 718275,
+  "totalTimesRated" : 0,
+  "viewCount" : 24,
+  "viewLastModified" : 1362604941,
+  "viewType" : "tabular",
+  "grants" : [ {
+    "inherited" : true,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "custom_fields" : {
+      "Weatherford" : {
+        "Update Frequency" : "Monthly"
+      }
+    },
+    "renderTypeConfig" : {
+      "visible" : {
+        "chart" : true,
+        "table" : true
+      }
+    },
+    "availableDisplayTypes" : [ "chart", "table", "fatrow", "page" ]
+  },
+  "owner" : {
+    "id" : "ern2-u3vk",
+    "displayName" : "Kyle Lester",
+    "screenName" : "Kyle Lester"
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "ern2-u3vk",
+    "displayName" : "Kyle Lester",
+    "screenName" : "Kyle Lester"
+  },
+  "tags" : [ "utility consumption" ]
+}, {
+  "id" : "cuz9-rcre",
+  "name" : "Electric Consumption Chart",
+  "averageRating" : 0,
+  "createdAt" : 1356128496,
+  "description" : "Sum total consumption by month and utility, ranging back through FY2008.",
+  "displayType" : "chart",
+  "downloadCount" : 16,
+  "indexUpdatedAt" : 1362604950,
+  "newBackend" : false,
+  "numberOfComments" : 0,
+  "oid" : 2733679,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1362604857,
+  "publicationGroup" : 570807,
+  "publicationStage" : "published",
+  "rowsUpdatedAt" : 1362604816,
+  "rowsUpdatedBy" : "ern2-u3vk",
+  "signed" : false,
+  "tableId" : 718275,
+  "totalTimesRated" : 0,
+  "viewCount" : 24,
+  "viewLastModified" : 1356128496,
+  "viewType" : "tabular",
+  "grants" : [ {
+    "inherited" : true,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "custom_fields" : {
+      "Weatherford" : {
+        "Update Frequency" : "Monthly"
+      }
+    },
+    "renderTypeConfig" : {
+      "visible" : {
+        "chart" : true,
+        "table" : true
+      }
+    },
+    "availableDisplayTypes" : [ "chart", "table", "fatrow", "page" ]
+  },
+  "owner" : {
+    "id" : "ern2-u3vk",
+    "displayName" : "Kyle Lester",
+    "screenName" : "Kyle Lester"
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "ern2-u3vk",
+    "displayName" : "Kyle Lester",
+    "screenName" : "Kyle Lester"
+  },
+  "tags" : [ "utility consumption" ]
+}, {
+  "id" : "vy7g-yivs",
+  "name" : "Code Enforcement - Number of Cases Closed by Day",
+  "averageRating" : 0,
+  "category" : "Community Services",
+  "createdAt" : 1359742574,
+  "description" : "A summary of all closed code enforcement cases since January 2007. Includes dates opened and closed, type, officer, and description.",
+  "displayType" : "table",
+  "downloadCount" : 11,
+  "indexUpdatedAt" : 1376083074,
+  "newBackend" : false,
+  "numberOfComments" : 0,
+  "oid" : 2404574,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1359739959,
+  "publicationGroup" : 650969,
+  "publicationStage" : "published",
+  "rowsUpdatedAt" : 1359739936,
+  "rowsUpdatedBy" : "hzuj-kbdh",
+  "signed" : false,
+  "tableId" : 650996,
+  "totalTimesRated" : 0,
+  "viewCount" : 90,
+  "viewLastModified" : 1361923209,
+  "viewType" : "tabular",
+  "grants" : [ {
+    "inherited" : true,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "custom_fields" : {
+      "Weatherford" : {
+        "Update Frequency" : "Monthly"
+      }
+    },
+    "renderTypeConfig" : {
+      "visible" : {
+        "table" : true
+      }
+    },
+    "availableDisplayTypes" : [ "table", "fatrow", "page" ],
+    "rdfSubject" : "0"
+  },
+  "owner" : {
+    "id" : "hzuj-kbdh",
+    "displayName" : "Chad Janicek",
+    "screenName" : "Chad Janicek"
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "hzuj-kbdh",
+    "displayName" : "Chad Janicek",
+    "screenName" : "Chad Janicek"
+  },
+  "tags" : [ "code" ]
+}, {
+  "id" : "xzd8-2b3e",
+  "name" : "Code Enforcement - Cases Closed by Officer",
+  "averageRating" : 0,
+  "category" : "Community Services",
+  "createdAt" : 1359742619,
+  "description" : "A summary of all closed code enforcement cases since January 2007. Includes dates opened and closed, type, officer, and description.",
+  "displayType" : "table",
+  "downloadCount" : 11,
+  "indexUpdatedAt" : 1376084446,
+  "newBackend" : false,
+  "numberOfComments" : 0,
+  "oid" : 2404584,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1359739959,
+  "publicationGroup" : 650969,
+  "publicationStage" : "published",
+  "rowsUpdatedAt" : 1359739936,
+  "rowsUpdatedBy" : "hzuj-kbdh",
+  "signed" : false,
+  "tableId" : 650996,
+  "totalTimesRated" : 0,
+  "viewCount" : 125,
+  "viewLastModified" : 1359742619,
+  "viewType" : "tabular",
+  "grants" : [ {
+    "inherited" : true,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "custom_fields" : {
+      "Weatherford" : {
+        "Update Frequency" : "Monthly"
+      }
+    },
+    "renderTypeConfig" : {
+      "visible" : {
+        "table" : true
+      }
+    },
+    "availableDisplayTypes" : [ "table", "fatrow", "page" ],
+    "rdfSubject" : "0"
+  },
+  "owner" : {
+    "id" : "hzuj-kbdh",
+    "displayName" : "Chad Janicek",
+    "screenName" : "Chad Janicek"
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "hzuj-kbdh",
+    "displayName" : "Chad Janicek",
+    "screenName" : "Chad Janicek"
+  },
+  "tags" : [ "code" ]
+}, {
+  "id" : "vhv4-pkrx",
+  "name" : "City Facilities",
+  "averageRating" : 0,
+  "category" : "Government",
+  "createdAt" : 1356549223,
+  "description" : "A list of public City facilities, including type and location",
+  "displayType" : "table",
+  "downloadCount" : 46,
+  "indexUpdatedAt" : 1356549562,
+  "newBackend" : false,
+  "numberOfComments" : 0,
+  "oid" : 2114091,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1356549274,
+  "publicationGroup" : 579638,
+  "publicationStage" : "published",
+  "rowsUpdatedAt" : 1356549229,
+  "rowsUpdatedBy" : "hzuj-kbdh",
+  "signed" : false,
+  "tableId" : 579638,
+  "totalTimesRated" : 0,
+  "viewCount" : 21,
+  "viewLastModified" : 1356549274,
+  "viewType" : "tabular",
+  "grants" : [ {
+    "inherited" : true,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "custom_fields" : {
+      "Weatherford" : {
+        "Update Frequency" : "Ad Hoc"
+      }
+    },
+    "renderTypeConfig" : {
+      "visible" : {
+        "table" : true
+      }
+    },
+    "availableDisplayTypes" : [ "table", "fatrow", "page" ]
+  },
+  "owner" : {
+    "id" : "hzuj-kbdh",
+    "displayName" : "Chad Janicek",
+    "screenName" : "Chad Janicek"
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "hzuj-kbdh",
+    "displayName" : "Chad Janicek",
+    "screenName" : "Chad Janicek"
+  },
+  "flags" : [ "default" ]
+}, {
+  "id" : "hphz-3y4w",
+  "name" : "Average Code Case Length by Officer",
+  "averageRating" : 0,
+  "category" : "Performance Metrics",
+  "createdAt" : 1359742687,
+  "description" : "All staff who have worked on code cases, the number of cases worked on, and the average duration in days.",
+  "displayType" : "table",
+  "downloadCount" : 18,
+  "indexUpdatedAt" : 1376084457,
+  "newBackend" : false,
+  "numberOfComments" : 0,
+  "oid" : 2404588,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1359739959,
+  "publicationGroup" : 650969,
+  "publicationStage" : "published",
+  "rowClass" : "",
+  "rowsUpdatedAt" : 1359739936,
+  "rowsUpdatedBy" : "hzuj-kbdh",
+  "signed" : false,
+  "tableId" : 650996,
+  "totalTimesRated" : 0,
+  "viewCount" : 13,
+  "viewLastModified" : 1359743107,
+  "viewType" : "tabular",
+  "grants" : [ {
+    "inherited" : true,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "custom_fields" : {
+      "Weatherford" : {
+        "Update Frequency" : "Monthly"
+      }
+    },
+    "renderTypeConfig" : {
+      "visible" : {
+        "table" : true
+      }
+    },
+    "availableDisplayTypes" : [ "table", "fatrow", "page" ],
+    "rdfSubject" : "0",
+    "rowIdentifier" : "0",
+    "rdfClass" : ""
+  },
+  "owner" : {
+    "id" : "hzuj-kbdh",
+    "displayName" : "Chad Janicek",
+    "screenName" : "Chad Janicek"
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "hzuj-kbdh",
+    "displayName" : "Chad Janicek",
+    "screenName" : "Chad Janicek"
+  },
+  "tags" : [ "code", "metrics" ]
+}, {
+  "id" : "t7t8-t82j",
+  "name" : "Water Consumption Chart",
+  "averageRating" : 0,
+  "createdAt" : 1356128637,
+  "description" : "Sum total consumption by month and utility, ranging back through FY2008.",
+  "displayType" : "chart",
+  "downloadCount" : 12,
+  "indexUpdatedAt" : 1362604956,
+  "newBackend" : false,
+  "numberOfComments" : 0,
+  "oid" : 2733678,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1362604857,
+  "publicationGroup" : 570807,
+  "publicationStage" : "published",
+  "rowsUpdatedAt" : 1362604816,
+  "rowsUpdatedBy" : "ern2-u3vk",
+  "signed" : false,
+  "tableId" : 718275,
+  "totalTimesRated" : 0,
+  "viewCount" : 22,
+  "viewLastModified" : 1356128637,
+  "viewType" : "tabular",
+  "grants" : [ {
+    "inherited" : true,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "custom_fields" : {
+      "Weatherford" : {
+        "Update Frequency" : "Monthly"
+      }
+    },
+    "renderTypeConfig" : {
+      "visible" : {
+        "chart" : true,
+        "table" : true
+      }
+    },
+    "availableDisplayTypes" : [ "chart", "table", "fatrow", "page" ]
+  },
+  "owner" : {
+    "id" : "ern2-u3vk",
+    "displayName" : "Kyle Lester",
+    "screenName" : "Kyle Lester"
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "ern2-u3vk",
+    "displayName" : "Kyle Lester",
+    "screenName" : "Kyle Lester"
+  },
+  "tags" : [ "utility consumption" ]
+}, {
+  "id" : "a9tx-k4s7",
+  "name" : "Animal Shelter Adopted Budget - FY13",
+  "averageRating" : 0,
+  "category" : "Finance & Budget",
+  "createdAt" : 1354723219,
+  "description" : "Line item budget for the fiscal year beginning October 1, 2012, and ending September 30, 2013, as approved in September 2012.\r\n\r\nMunicipal Utility Fund items are approved by the Municipal Utility Board. All other funds are approved by the City Council.",
+  "displayType" : "table",
+  "downloadCount" : 62,
+  "newBackend" : false,
+  "numberOfComments" : 0,
+  "oid" : 1911395,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1354512485,
+  "publicationGroup" : 529283,
+  "publicationStage" : "published",
+  "rowClass" : "http://www.w3.org/ns/dcat#Dataset",
+  "rowsUpdatedAt" : 1354288518,
+  "rowsUpdatedBy" : "hzuj-kbdh",
+  "signed" : false,
+  "tableId" : 529291,
+  "totalTimesRated" : 0,
+  "viewCount" : 56,
+  "viewLastModified" : 1354723246,
+  "viewType" : "tabular",
+  "grants" : [ {
+    "inherited" : true,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "renderTypeConfig" : {
+      "visible" : {
+        "table" : true
+      }
+    },
+    "availableDisplayTypes" : [ "table", "fatrow", "page" ],
+    "thumbnail" : {
+      "page" : {
+        "created" : true,
+        "filename" : "page.png-288.153.1024.4.png",
+        "selection" : {
+          "height" : 153,
+          "width" : 288,
+          "y1" : 4,
+          "y2" : 157,
+          "x2" : 1312,
+          "x1" : 1024
+        }
+      }
+    },
+    "rdfSubject" : "0",
+    "rowIdentifier" : "0",
+    "rdfClass" : "http://www.w3.org/ns/dcat#Dataset"
+  },
+  "owner" : {
+    "id" : "hzuj-kbdh",
+    "displayName" : "Chad Janicek",
+    "screenName" : "Chad Janicek"
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "hzuj-kbdh",
+    "displayName" : "Chad Janicek",
+    "screenName" : "Chad Janicek"
+  },
+  "tags" : [ "budget", "financial" ]
+}, {
+  "id" : "ysfs-8f2v",
+  "name" : "Water Monthly Billing By Class",
+  "averageRating" : 0,
+  "category" : "Finance & Budget",
+  "createdAt" : 1354303237,
+  "description" : "Water Department billing data by class, including number of customers, consumption, and amount billed.",
+  "displayType" : "table",
+  "downloadCount" : 16,
+  "indexUpdatedAt" : 1376081343,
+  "newBackend" : false,
+  "numberOfComments" : 0,
+  "oid" : 4845358,
+  "publicationAppendEnabled" : true,
+  "publicationDate" : 1376080193,
+  "publicationGroup" : 529655,
+  "publicationStage" : "published",
+  "rowsUpdatedAt" : 1376080173,
+  "rowsUpdatedBy" : "hzuj-kbdh",
+  "signed" : false,
+  "tableId" : 1031779,
+  "totalTimesRated" : 0,
+  "viewCount" : 83,
+  "viewLastModified" : 1376080193,
+  "viewType" : "tabular",
+  "grants" : [ {
+    "inherited" : false,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "custom_fields" : {
+      "Weatherford" : {
+        "Update Frequency" : "Monthly"
+      }
+    },
+    "renderTypeConfig" : {
+      "visible" : {
+        "table" : true
+      }
+    },
+    "availableDisplayTypes" : [ "table", "fatrow", "page" ],
+    "rdfSubject" : "0"
+  },
+  "owner" : {
+    "id" : "hzuj-kbdh",
+    "displayName" : "Chad Janicek",
+    "screenName" : "Chad Janicek"
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "hzuj-kbdh",
+    "displayName" : "Chad Janicek",
+    "screenName" : "Chad Janicek"
+  },
+  "tags" : [ "water", "billing" ],
+  "flags" : [ "default" ]
+}, {
+  "id" : "u2u7-hf87",
+  "name" : "Wastewater Monthly Billing By Class",
+  "averageRating" : 0,
+  "category" : "Finance & Budget",
+  "createdAt" : 1354303449,
+  "description" : "Wastewater Department billing data by class, including number of customers, consumption, and amount billed.",
+  "displayType" : "table",
+  "downloadCount" : 17,
+  "indexUpdatedAt" : 1376081342,
+  "newBackend" : false,
+  "numberOfComments" : 0,
+  "oid" : 4845357,
+  "publicationAppendEnabled" : true,
+  "publicationDate" : 1376080191,
+  "publicationGroup" : 529659,
+  "publicationStage" : "published",
+  "rowsUpdatedAt" : 1376080172,
+  "rowsUpdatedBy" : "hzuj-kbdh",
+  "signed" : false,
+  "tableId" : 1031778,
+  "totalTimesRated" : 0,
+  "viewCount" : 157,
+  "viewLastModified" : 1376080191,
+  "viewType" : "tabular",
+  "grants" : [ {
+    "inherited" : false,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "custom_fields" : {
+      "Weatherford" : {
+        "Update Frequency" : "Monthly"
+      }
+    },
+    "renderTypeConfig" : {
+      "visible" : {
+        "table" : true
+      }
+    },
+    "availableDisplayTypes" : [ "table", "fatrow", "page" ],
+    "rdfSubject" : "0"
+  },
+  "owner" : {
+    "id" : "hzuj-kbdh",
+    "displayName" : "Chad Janicek",
+    "screenName" : "Chad Janicek"
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "hzuj-kbdh",
+    "displayName" : "Chad Janicek",
+    "screenName" : "Chad Janicek"
+  },
+  "tags" : [ "wastewater", "billing" ],
+  "flags" : [ "default" ]
+}, {
+  "id" : "mvy8-6q2t",
+  "name" : "Solid Waste Operating Statistics",
+  "averageRating" : 0,
+  "category" : "Government",
+  "createdAt" : 1354831027,
+  "description" : "Solid waste operating information. Updated monthly.",
+  "displayType" : "table",
+  "downloadCount" : 11,
+  "indexUpdatedAt" : 1384796960,
+  "newBackend" : false,
+  "numberOfComments" : 0,
+  "oid" : 6470199,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1384793754,
+  "publicationGroup" : 541348,
+  "publicationStage" : "published",
+  "rowsUpdatedAt" : 1384793741,
+  "rowsUpdatedBy" : "ern2-u3vk",
+  "signed" : false,
+  "tableId" : 1359818,
+  "totalTimesRated" : 0,
+  "viewCount" : 53,
+  "viewLastModified" : 1384793754,
+  "viewType" : "tabular",
+  "grants" : [ {
+    "inherited" : false,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "custom_fields" : {
+      "Weatherford" : {
+        "Update Frequency" : "Monthly"
+      }
+    },
+    "renderTypeConfig" : {
+      "visible" : {
+        "table" : true
+      }
+    },
+    "availableDisplayTypes" : [ "table", "fatrow", "page" ],
+    "rdfSubject" : "0"
+  },
+  "owner" : {
+    "id" : "ern2-u3vk",
+    "displayName" : "Kyle Lester",
+    "screenName" : "Kyle Lester"
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "ern2-u3vk",
+    "displayName" : "Kyle Lester",
+    "screenName" : "Kyle Lester"
+  },
+  "flags" : [ "default" ]
+}, {
+  "id" : "t6i6-pnn2",
+  "name" : "Electric Consumption Chart - Monthly by Class",
+  "averageRating" : 0,
+  "category" : "Finance & Budget",
+  "createdAt" : 1361922921,
+  "description" : "Weatherford Electric billing data by class, including number of customers, consumption, and amount billed.",
+  "displayType" : "chart",
+  "downloadCount" : 62,
+  "indexUpdatedAt" : 1376081175,
+  "newBackend" : false,
+  "numberOfComments" : 0,
+  "oid" : 4845372,
+  "publicationAppendEnabled" : true,
+  "publicationDate" : 1376080189,
+  "publicationGroup" : 529505,
+  "publicationStage" : "published",
+  "rowsUpdatedAt" : 1376080169,
+  "rowsUpdatedBy" : "hzuj-kbdh",
+  "signed" : false,
+  "tableId" : 1031777,
+  "totalTimesRated" : 0,
+  "viewCount" : 13,
+  "viewLastModified" : 1371227439,
+  "viewType" : "tabular",
+  "grants" : [ {
+    "inherited" : true,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "custom_fields" : {
+      "Weatherford" : {
+        "Update Frequency" : "Monthly"
+      }
+    },
+    "renderTypeConfig" : {
+      "visible" : {
+        "chart" : true,
+        "table" : true
+      }
+    },
+    "availableDisplayTypes" : [ "chart", "table", "fatrow", "page" ],
+    "rdfSubject" : "0"
+  },
+  "owner" : {
+    "id" : "hzuj-kbdh",
+    "displayName" : "Chad Janicek",
+    "screenName" : "Chad Janicek"
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "hzuj-kbdh",
+    "displayName" : "Chad Janicek",
+    "screenName" : "Chad Janicek"
+  },
+  "tags" : [ "electric", "utilities", "billing" ]
+}, {
+  "id" : "rmsq-r7j2",
+  "name" : "Mosquito Complaint Form",
+  "averageRating" : 0,
+  "category" : "Public Safety",
+  "createdAt" : 1367505659,
+  "description" : "For citizens to document potential concerns regarding mosquitos",
+  "displayType" : "form",
+  "downloadCount" : 3,
+  "indexUpdatedAt" : 1382751793,
+  "newBackend" : false,
+  "numberOfComments" : 0,
+  "oid" : 6091947,
+  "publicationAppendEnabled" : true,
+  "publicationDate" : 1382735049,
+  "publicationGroup" : 830967,
+  "publicationStage" : "published",
+  "rowsUpdatedAt" : 1382735047,
+  "rowsUpdatedBy" : "nyyb-p9ez",
+  "signed" : false,
+  "tableId" : 1287161,
+  "totalTimesRated" : 0,
+  "viewCount" : 27,
+  "viewLastModified" : 1367505659,
+  "viewType" : "tabular",
+  "grants" : [ {
+    "inherited" : false,
+    "type" : "contributor",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "custom_fields" : {
+      "Updating" : {
+        "Type" : "Append"
+      },
+      "Weatherford" : {
+        "Update Frequency" : "Ad Hoc"
+      }
+    },
+    "renderTypeConfig" : {
+      "visible" : {
+        "form" : true
+      }
+    },
+    "availableDisplayTypes" : [ "form" ]
+  },
+  "owner" : {
+    "id" : "hzuj-kbdh",
+    "displayName" : "Chad Janicek",
+    "screenName" : "Chad Janicek"
+  },
+  "rights" : [ "read", "add" ],
+  "tableAuthor" : {
+    "id" : "nyyb-p9ez",
+    "displayName" : "Angel Rudolph",
+    "screenName" : "Angel Rudolph"
+  },
+  "tags" : [ "mosquitos" ]
+}, {
+  "id" : "uhdw-jeqx",
+  "name" : "FY13 Budget Tree Map",
+  "averageRating" : 0,
+  "category" : "Finance & Budget",
+  "createdAt" : 1354771896,
+  "description" : "Line item budget for the fiscal year beginning October 1, 2012, and ending September 30, 2013, as approved in September 2012.\r\n\r\nMunicipal Utility Fund items are approved by the Municipal Utility Board. All other funds are approved by the City Council.",
+  "displayType" : "chart",
+  "downloadCount" : 16,
+  "newBackend" : false,
+  "numberOfComments" : 0,
+  "oid" : 1919418,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1354512485,
+  "publicationGroup" : 529283,
+  "publicationStage" : "published",
+  "rowClass" : "http://www.w3.org/ns/dcat#Dataset",
+  "rowsUpdatedAt" : 1354288518,
+  "rowsUpdatedBy" : "hzuj-kbdh",
+  "signed" : false,
+  "tableId" : 529291,
+  "totalTimesRated" : 0,
+  "viewCount" : 37,
+  "viewLastModified" : 1354771896,
+  "viewType" : "tabular",
+  "grants" : [ {
+    "inherited" : true,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "renderTypeConfig" : {
+      "visible" : {
+        "chart" : true
+      }
+    },
+    "availableDisplayTypes" : [ "chart", "table", "fatrow", "page" ],
+    "thumbnail" : {
+      "page" : {
+        "created" : true,
+        "filename" : "page.png-288.153.1024.4.png",
+        "selection" : {
+          "height" : 153,
+          "width" : 288,
+          "y1" : 4,
+          "y2" : 157,
+          "x2" : 1312,
+          "x1" : 1024
+        }
+      }
+    },
+    "rdfSubject" : "0",
+    "rowIdentifier" : "0",
+    "rdfClass" : "http://www.w3.org/ns/dcat#Dataset"
+  },
+  "owner" : {
+    "id" : "hzuj-kbdh",
+    "displayName" : "Chad Janicek",
+    "screenName" : "Chad Janicek"
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "hzuj-kbdh",
+    "displayName" : "Chad Janicek",
+    "screenName" : "Chad Janicek"
+  },
+  "tags" : [ "budget", "financial" ]
+}, {
+  "id" : "bpma-ut4v",
+  "name" : "Local Economic Indicators",
+  "averageRating" : 0,
+  "category" : "Business",
+  "createdAt" : 1360687419,
+  "description" : "A monthly summary of some economic local and national indicators.",
+  "displayType" : "table",
+  "downloadCount" : 18,
+  "indexUpdatedAt" : 1361923781,
+  "newBackend" : false,
+  "numberOfComments" : 0,
+  "oid" : 2504897,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1360687906,
+  "publicationGroup" : 673145,
+  "publicationStage" : "published",
+  "resourceName" : "local-economic-indicators",
+  "rowClass" : "",
+  "rowsUpdatedAt" : 1360687430,
+  "rowsUpdatedBy" : "hzuj-kbdh",
+  "signed" : false,
+  "tableId" : 673145,
+  "totalTimesRated" : 0,
+  "viewCount" : 47,
+  "viewLastModified" : 1361923763,
+  "viewType" : "tabular",
+  "grants" : [ {
+    "inherited" : false,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "custom_fields" : {
+      "Weatherford" : {
+        "Update Frequency" : "Monthly"
+      }
+    },
+    "renderTypeConfig" : {
+      "visible" : {
+        "table" : true
+      }
+    },
+    "availableDisplayTypes" : [ "table", "fatrow", "page" ],
+    "rdfSubject" : "0",
+    "rowIdentifier" : "0",
+    "rdfClass" : ""
+  },
+  "owner" : {
+    "id" : "hzuj-kbdh",
+    "displayName" : "Chad Janicek",
+    "screenName" : "Chad Janicek"
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "hzuj-kbdh",
+    "displayName" : "Chad Janicek",
+    "screenName" : "Chad Janicek"
+  },
+  "tags" : [ "economics" ],
+  "flags" : [ "default" ]
+}, {
+  "id" : "idj9-c9dm",
+  "name" : "TPW - 2006 Street Condition Survey",
+  "averageRating" : 0,
+  "category" : "Infrastructure",
+  "createdAt" : 1360192095,
+  "description" : "Original 2006 street condition survey conducted by IMS.",
+  "displayType" : "table",
+  "downloadCount" : 19,
+  "indexUpdatedAt" : 1360192325,
+  "newBackend" : false,
+  "numberOfComments" : 0,
+  "oid" : 2452384,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1360192280,
+  "publicationGroup" : 661871,
+  "publicationStage" : "published",
+  "rowsUpdatedAt" : 1360192106,
+  "rowsUpdatedBy" : "hzuj-kbdh",
+  "signed" : false,
+  "tableId" : 661871,
+  "totalTimesRated" : 0,
+  "viewCount" : 173,
+  "viewLastModified" : 1360192280,
+  "viewType" : "tabular",
+  "grants" : [ {
+    "inherited" : false,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "custom_fields" : {
+      "Weatherford" : {
+        "Update Frequency" : "Ad Hoc"
+      }
+    },
+    "renderTypeConfig" : {
+      "visible" : {
+        "table" : true
+      }
+    },
+    "availableDisplayTypes" : [ "table", "fatrow", "page" ]
+  },
+  "owner" : {
+    "id" : "hzuj-kbdh",
+    "displayName" : "Chad Janicek",
+    "screenName" : "Chad Janicek"
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "hzuj-kbdh",
+    "displayName" : "Chad Janicek",
+    "screenName" : "Chad Janicek"
+  },
+  "tags" : [ "tpw", "streets", "infrastructure" ],
+  "flags" : [ "default" ]
+}, {
+  "id" : "88pd-2kqk",
+  "name" : "General Fund History",
+  "averageRating" : 0,
+  "category" : "Finance & Budget",
+  "createdAt" : 1355770515,
+  "description" : "A history of General Fund budget and expenditures.",
+  "displayType" : "table",
+  "downloadCount" : 6,
+  "indexUpdatedAt" : 1362673740,
+  "newBackend" : false,
+  "numberOfComments" : 0,
+  "oid" : 2734336,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1362610718,
+  "publicationGroup" : 562046,
+  "publicationStage" : "published",
+  "rowsUpdatedAt" : 1362610456,
+  "rowsUpdatedBy" : "ern2-u3vk",
+  "signed" : false,
+  "tableId" : 718401,
+  "totalTimesRated" : 0,
+  "viewCount" : 87,
+  "viewLastModified" : 1362673294,
+  "viewType" : "tabular",
+  "grants" : [ {
+    "inherited" : false,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "custom_fields" : {
+      "Weatherford" : {
+        "Update Frequency" : "Monthly"
+      }
+    },
+    "renderTypeConfig" : {
+      "visible" : {
+        "table" : true
+      }
+    },
+    "availableDisplayTypes" : [ "table", "fatrow", "page" ]
+  },
+  "owner" : {
+    "id" : "ern2-u3vk",
+    "displayName" : "Kyle Lester",
+    "screenName" : "Kyle Lester"
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "ern2-u3vk",
+    "displayName" : "Kyle Lester",
+    "screenName" : "Kyle Lester"
+  },
+  "tags" : [ "general fund" ],
+  "flags" : [ "default" ]
+}, {
+  "id" : "c68f-eup2",
+  "name" : "Authorized Vendor List",
+  "averageRating" : 0,
+  "category" : "Finance & Budget",
+  "createdAt" : 1354301327,
+  "description" : "Full list of authorized vendors.",
+  "displayType" : "table",
+  "downloadCount" : 280,
+  "newBackend" : false,
+  "numberOfComments" : 0,
+  "oid" : 1879087,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1354301474,
+  "publicationGroup" : 529614,
+  "publicationStage" : "published",
+  "rowClass" : "",
+  "rowsUpdatedAt" : 1354301331,
+  "rowsUpdatedBy" : "hzuj-kbdh",
+  "signed" : false,
+  "tableId" : 529614,
+  "totalTimesRated" : 0,
+  "viewCount" : 73,
+  "viewLastModified" : 1354321034,
+  "viewType" : "tabular",
+  "grants" : [ {
+    "inherited" : false,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "custom_fields" : {
+      "Weatherford" : {
+        "Update Frequency" : "Annually"
+      }
+    },
+    "renderTypeConfig" : {
+      "visible" : {
+        "table" : true
+      }
+    },
+    "availableDisplayTypes" : [ "table", "fatrow", "page" ],
+    "rdfSubject" : "0",
+    "rowIdentifier" : "0",
+    "rdfClass" : ""
+  },
+  "owner" : {
+    "id" : "hzuj-kbdh",
+    "displayName" : "Chad Janicek",
+    "screenName" : "Chad Janicek"
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "hzuj-kbdh",
+    "displayName" : "Chad Janicek",
+    "screenName" : "Chad Janicek"
+  },
+  "tags" : [ "vendors", "purchasing" ],
+  "flags" : [ "default" ]
+}, {
+  "id" : "32ak-r84i",
+  "name" : "Primary Datasets",
+  "averageRating" : 0,
+  "category" : "Government",
+  "createdAt" : 1360014921,
+  "description" : "A listing of all primary datasets and links to embed in the City's web site.",
+  "displayType" : "table",
+  "downloadCount" : 10,
+  "indexUpdatedAt" : 1361033521,
+  "newBackend" : false,
+  "numberOfComments" : 0,
+  "oid" : 2541829,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1361033471,
+  "publicationGroup" : 657209,
+  "publicationStage" : "published",
+  "resourceName" : "primary-datasets",
+  "rowsUpdatedAt" : 1361033462,
+  "rowsUpdatedBy" : "hzuj-kbdh",
+  "signed" : false,
+  "tableId" : 681699,
+  "totalTimesRated" : 0,
+  "viewCount" : 23,
+  "viewLastModified" : 1361033471,
+  "viewType" : "tabular",
+  "grants" : [ {
+    "inherited" : false,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "custom_fields" : {
+      "Updating" : {
+        "Type" : "Replace"
+      },
+      "Weatherford" : {
+        "Update Frequency" : "Ad Hoc"
+      }
+    },
+    "renderTypeConfig" : {
+      "visible" : {
+        "table" : true
+      }
+    },
+    "availableDisplayTypes" : [ "table", "fatrow", "page" ],
+    "rdfSubject" : "0"
+  },
+  "owner" : {
+    "id" : "hzuj-kbdh",
+    "displayName" : "Chad Janicek",
+    "screenName" : "Chad Janicek"
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "hzuj-kbdh",
+    "displayName" : "Chad Janicek",
+    "screenName" : "Chad Janicek"
+  },
+  "flags" : [ "default" ]
+}, {
+  "id" : "q7xu-xtzf",
+  "name" : "Recent Sales Tax Collection Graph",
+  "averageRating" : 0,
+  "category" : "Finance & Budget",
+  "createdAt" : 1362667014,
+  "description" : "Monthly sales tax collections since 1990. Taxes collected by the city are shown separately beginning around 2007.",
+  "displayType" : "chart",
+  "downloadCount" : 15,
+  "indexUpdatedAt" : 1362667212,
+  "newBackend" : false,
+  "numberOfComments" : 0,
+  "oid" : 2742091,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1362666869,
+  "publicationGroup" : 661625,
+  "publicationStage" : "published",
+  "rowsUpdatedAt" : 1362666842,
+  "rowsUpdatedBy" : "hzuj-kbdh",
+  "signed" : false,
+  "tableId" : 719673,
+  "totalTimesRated" : 0,
+  "viewCount" : 34,
+  "viewLastModified" : 1362667014,
+  "viewType" : "tabular",
+  "grants" : [ {
+    "inherited" : true,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "custom_fields" : {
+      "Updating" : {
+        "Type" : "Replace"
+      },
+      "Weatherford" : {
+        "Update Type" : "Replace",
+        "Update Frequency" : "Monthly"
+      }
+    },
+    "renderTypeConfig" : {
+      "visible" : {
+        "chart" : true,
+        "table" : true
+      }
+    },
+    "availableDisplayTypes" : [ "chart", "table", "fatrow", "page" ],
+    "rdfSubject" : "0"
+  },
+  "owner" : {
+    "id" : "hzuj-kbdh",
+    "displayName" : "Chad Janicek",
+    "screenName" : "Chad Janicek"
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "hzuj-kbdh",
+    "displayName" : "Chad Janicek",
+    "screenName" : "Chad Janicek"
+  },
+  "tags" : [ "sales tax", "finance" ]
+}, {
+  "id" : "v6eu-rt9x",
+  "name" : "City Wide Fuel Purchases",
+  "averageRating" : 0,
+  "category" : "Finance & Budget",
+  "createdAt" : 1360964395,
+  "displayType" : "table",
+  "downloadCount" : 8,
+  "indexUpdatedAt" : 1360965103,
+  "newBackend" : false,
+  "numberOfComments" : 0,
+  "oid" : 2534870,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1360964845,
+  "publicationGroup" : 680102,
+  "publicationStage" : "published",
+  "rowsUpdatedAt" : 1360964711,
+  "rowsUpdatedBy" : "ern2-u3vk",
+  "signed" : false,
+  "tableId" : 680102,
+  "totalTimesRated" : 0,
+  "viewCount" : 55,
+  "viewLastModified" : 1360964845,
+  "viewType" : "tabular",
+  "grants" : [ {
+    "inherited" : false,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "custom_fields" : {
+      "Weatherford" : {
+        "Update Frequency" : "Monthly"
+      }
+    },
+    "renderTypeConfig" : {
+      "visible" : {
+        "table" : true
+      }
+    },
+    "availableDisplayTypes" : [ "table", "fatrow", "page" ]
+  },
+  "owner" : {
+    "id" : "ern2-u3vk",
+    "displayName" : "Kyle Lester",
+    "screenName" : "Kyle Lester"
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "ern2-u3vk",
+    "displayName" : "Kyle Lester",
+    "screenName" : "Kyle Lester"
+  },
+  "flags" : [ "default" ]
+}, {
+  "id" : "39gt-rxzc",
+  "name" : "City Facility Map",
+  "averageRating" : 0,
+  "category" : "Government",
+  "createdAt" : 1356549397,
+  "description" : "A list of public City facilities, including type and location",
+  "displayType" : "map",
+  "downloadCount" : 19,
+  "indexUpdatedAt" : 1356549562,
+  "newBackend" : false,
+  "numberOfComments" : 0,
+  "oid" : 2114105,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1356549274,
+  "publicationGroup" : 579638,
+  "publicationStage" : "published",
+  "rowsUpdatedAt" : 1356549229,
+  "rowsUpdatedBy" : "hzuj-kbdh",
+  "signed" : false,
+  "tableId" : 579638,
+  "totalTimesRated" : 0,
+  "viewCount" : 28,
+  "viewLastModified" : 1356549397,
+  "viewType" : "tabular",
+  "grants" : [ {
+    "inherited" : true,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "custom_fields" : {
+      "Weatherford" : {
+        "Update Frequency" : "Ad Hoc"
+      }
+    },
+    "renderTypeConfig" : {
+      "visible" : {
+        "map" : true,
+        "table" : true
+      }
+    },
+    "availableDisplayTypes" : [ "map", "table", "fatrow", "page" ]
+  },
+  "owner" : {
+    "id" : "hzuj-kbdh",
+    "displayName" : "Chad Janicek",
+    "screenName" : "Chad Janicek"
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "hzuj-kbdh",
+    "displayName" : "Chad Janicek",
+    "screenName" : "Chad Janicek"
+  }
+}, {
+  "id" : "5t7p-7njb",
+  "name" : "Other Funds History",
+  "averageRating" : 0,
+  "createdAt" : 1355958040,
+  "description" : "Solid Waste Fund, Chandor Gardens Fund, and the Hotel Tax Fund history of budget and expenses.",
+  "displayType" : "table",
+  "downloadCount" : 10,
+  "indexUpdatedAt" : 1362609984,
+  "newBackend" : false,
+  "numberOfComments" : 0,
+  "oid" : 2734121,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1362608857,
+  "publicationGroup" : 566707,
+  "publicationStage" : "published",
+  "rowsUpdatedAt" : 1362608665,
+  "rowsUpdatedBy" : "ern2-u3vk",
+  "signed" : false,
+  "tableId" : 718362,
+  "totalTimesRated" : 0,
+  "viewCount" : 82,
+  "viewLastModified" : 1362609203,
+  "viewType" : "tabular",
+  "grants" : [ {
+    "inherited" : false,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "custom_fields" : {
+      "Weatherford" : {
+        "Update Frequency" : "Monthly"
+      }
+    },
+    "renderTypeConfig" : {
+      "visible" : {
+        "table" : true
+      }
+    },
+    "availableDisplayTypes" : [ "table", "fatrow", "page" ]
+  },
+  "owner" : {
+    "id" : "ern2-u3vk",
+    "displayName" : "Kyle Lester",
+    "screenName" : "Kyle Lester"
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "ern2-u3vk",
+    "displayName" : "Kyle Lester",
+    "screenName" : "Kyle Lester"
+  },
+  "flags" : [ "default" ]
+}, {
+  "id" : "cdyu-igpi",
+  "name" : "Utilities Fund History",
+  "averageRating" : 0,
+  "category" : "Finance & Budget",
+  "createdAt" : 1355954857,
+  "description" : "A history of Utilities Fund Revenues, Expenditures, and Encumbrances (both Budget and Actual, YTD and MTD)",
+  "displayType" : "table",
+  "downloadCount" : 5,
+  "indexUpdatedAt" : 1362609984,
+  "newBackend" : false,
+  "numberOfComments" : 0,
+  "oid" : 2733709,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1362605724,
+  "publicationGroup" : 566614,
+  "publicationStage" : "published",
+  "rowsUpdatedAt" : 1362605717,
+  "rowsUpdatedBy" : "ern2-u3vk",
+  "signed" : false,
+  "tableId" : 718285,
+  "totalTimesRated" : 0,
+  "viewCount" : 68,
+  "viewLastModified" : 1362609211,
+  "viewType" : "tabular",
+  "grants" : [ {
+    "inherited" : false,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "custom_fields" : {
+      "Weatherford" : {
+        "Update Frequency" : "Monthly"
+      }
+    },
+    "renderTypeConfig" : {
+      "visible" : {
+        "table" : true
+      }
+    },
+    "availableDisplayTypes" : [ "table", "fatrow", "page" ]
+  },
+  "owner" : {
+    "id" : "ern2-u3vk",
+    "displayName" : "Kyle Lester",
+    "screenName" : "Kyle Lester"
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "ern2-u3vk",
+    "displayName" : "Kyle Lester",
+    "screenName" : "Kyle Lester"
+  },
+  "tags" : [ "utilities fund" ],
+  "flags" : [ "default" ]
+}, {
+  "id" : "3usd-zinv",
+  "name" : "Results Of Preliminary Street Funding Study",
+  "averageRating" : 0,
+  "category" : "Infrastructure",
+  "createdAt" : 1361546165,
+  "description" : "Taken from the preliminary street funding study reported to Council on February 26, 2013. Includes the summary results at the end of each year for each scenario simulated.",
+  "displayType" : "table",
+  "downloadCount" : 19,
+  "indexUpdatedAt" : 1361546753,
+  "newBackend" : false,
+  "numberOfComments" : 0,
+  "oid" : 2599605,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1361546567,
+  "publicationGroup" : 693461,
+  "publicationStage" : "published",
+  "rowsUpdatedAt" : 1361546552,
+  "rowsUpdatedBy" : "hzuj-kbdh",
+  "signed" : false,
+  "tableId" : 693461,
+  "totalTimesRated" : 0,
+  "viewCount" : 60,
+  "viewLastModified" : 1361546567,
+  "viewType" : "tabular",
+  "grants" : [ {
+    "inherited" : false,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "custom_fields" : {
+      "Updating" : {
+        "Type" : "Replace"
+      },
+      "Weatherford" : {
+        "Update Frequency" : "Ad Hoc"
+      }
+    },
+    "renderTypeConfig" : {
+      "visible" : {
+        "table" : true
+      }
+    },
+    "availableDisplayTypes" : [ "table", "fatrow", "page" ],
+    "attachments" : [ {
+      "blobId" : "C8A723CD-B339-4ADB-BEC6-792F6904AE0F",
+      "name" : "Preliminary_Street_Simulations_Report.pdf",
+      "filename" : "Preliminary_Street_Simulations_Report.pdf"
+    } ]
+  },
+  "owner" : {
+    "id" : "hzuj-kbdh",
+    "displayName" : "Chad Janicek",
+    "screenName" : "Chad Janicek"
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "hzuj-kbdh",
+    "displayName" : "Chad Janicek",
+    "screenName" : "Chad Janicek"
+  },
+  "tags" : [ "tpw", "streets", "infrastructure", "budget", "simulations", "research" ],
+  "flags" : [ "default" ]
+}, {
+  "id" : "ce3q-vytn",
+  "name" : "Sign Permits Issued",
+  "averageRating" : 0,
+  "category" : "Development",
+  "createdAt" : 1362088173,
+  "description" : "All historical permits issued, including issue date, type, subtype, etc.",
+  "displayType" : "table",
+  "downloadCount" : 13,
+  "indexUpdatedAt" : 1383611746,
+  "newBackend" : false,
+  "numberOfComments" : 0,
+  "oid" : 6256804,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1383599813,
+  "publicationGroup" : 705846,
+  "publicationStage" : "published",
+  "rowsUpdatedAt" : 1383599791,
+  "rowsUpdatedBy" : "ern2-u3vk",
+  "signed" : false,
+  "tableId" : 1322094,
+  "totalTimesRated" : 0,
+  "viewCount" : 31,
+  "viewLastModified" : 1362088174,
+  "viewType" : "tabular",
+  "grants" : [ {
+    "inherited" : true,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "custom_fields" : {
+      "Updating" : {
+        "Type" : "Replace"
+      },
+      "Weatherford" : {
+        "Update Frequency" : "Monthly"
+      }
+    },
+    "renderTypeConfig" : {
+      "visible" : {
+        "table" : true
+      }
+    },
+    "availableDisplayTypes" : [ "table", "fatrow", "page" ]
+  },
+  "owner" : {
+    "id" : "hzuj-kbdh",
+    "displayName" : "Chad Janicek",
+    "screenName" : "Chad Janicek"
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "hzuj-kbdh",
+    "displayName" : "Chad Janicek",
+    "screenName" : "Chad Janicek"
+  },
+  "tags" : [ "permits" ]
+}, {
+  "id" : "v44e-g82x",
+  "name" : "Single Family Residential Permits",
+  "averageRating" : 0,
+  "category" : "Development",
+  "createdAt" : 1362087358,
+  "description" : "All historical permits issued, including issue date, type, subtype, etc.",
+  "displayType" : "table",
+  "downloadCount" : 25,
+  "indexUpdatedAt" : 1383610474,
+  "newBackend" : false,
+  "numberOfComments" : 0,
+  "oid" : 6256797,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1383599813,
+  "publicationGroup" : 705846,
+  "publicationStage" : "published",
+  "rowsUpdatedAt" : 1383599791,
+  "rowsUpdatedBy" : "ern2-u3vk",
+  "signed" : false,
+  "tableId" : 1322094,
+  "totalTimesRated" : 0,
+  "viewCount" : 85,
+  "viewLastModified" : 1362088977,
+  "viewType" : "tabular",
+  "grants" : [ {
+    "inherited" : true,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "custom_fields" : {
+      "Updating" : {
+        "Type" : "Replace"
+      },
+      "Weatherford" : {
+        "Update Frequency" : "Monthly"
+      }
+    },
+    "renderTypeConfig" : {
+      "visible" : {
+        "table" : true
+      }
+    },
+    "availableDisplayTypes" : [ "table", "fatrow", "page" ]
+  },
+  "owner" : {
+    "id" : "hzuj-kbdh",
+    "displayName" : "Chad Janicek",
+    "screenName" : "Chad Janicek"
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "hzuj-kbdh",
+    "displayName" : "Chad Janicek",
+    "screenName" : "Chad Janicek"
+  },
+  "tags" : [ "permits" ]
+}, {
+  "id" : "vrhc-6z87",
+  "name" : "Single Family Permits Issued by Day",
+  "averageRating" : 0,
+  "category" : "Development",
+  "createdAt" : 1362089004,
+  "description" : "All historical permits issued, including issue date, type, subtype, etc.",
+  "displayType" : "table",
+  "downloadCount" : 12,
+  "indexUpdatedAt" : 1383610474,
+  "newBackend" : false,
+  "numberOfComments" : 0,
+  "oid" : 6256799,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1383599813,
+  "publicationGroup" : 705846,
+  "publicationStage" : "published",
+  "rowsUpdatedAt" : 1383599791,
+  "rowsUpdatedBy" : "ern2-u3vk",
+  "signed" : false,
+  "tableId" : 1322094,
+  "totalTimesRated" : 0,
+  "viewCount" : 45,
+  "viewLastModified" : 1362089037,
+  "viewType" : "tabular",
+  "grants" : [ {
+    "inherited" : true,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "custom_fields" : {
+      "Updating" : {
+        "Type" : "Replace"
+      },
+      "Weatherford" : {
+        "Update Frequency" : "Monthly"
+      }
+    },
+    "renderTypeConfig" : {
+      "visible" : {
+        "table" : true
+      }
+    },
+    "availableDisplayTypes" : [ "table", "fatrow", "page" ]
+  },
+  "owner" : {
+    "id" : "hzuj-kbdh",
+    "displayName" : "Chad Janicek",
+    "screenName" : "Chad Janicek"
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "hzuj-kbdh",
+    "displayName" : "Chad Janicek",
+    "screenName" : "Chad Janicek"
+  },
+  "tags" : [ "permits" ]
+}, {
+  "id" : "cb27-ccqz",
+  "name" : "Animals Picked Up in Hudson Oaks",
+  "averageRating" : 0,
+  "category" : "Community Services",
+  "createdAt" : 1383685929,
+  "description" : "All animal cases since April 2007, including arrival and disposition date, status, type, breed, and other information.",
+  "displayType" : "table",
+  "downloadCount" : 15,
+  "indexUpdatedAt" : 1387688925,
+  "newBackend" : false,
+  "numberOfComments" : 0,
+  "oid" : 6274980,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1365535099,
+  "publicationGroup" : 548777,
+  "publicationStage" : "published",
+  "rowIdentifierColumnId" : 112679614,
+  "rowsUpdatedAt" : 1387674008,
+  "rowsUpdatedBy" : "hzuj-kbdh",
+  "signed" : false,
+  "state" : "normal",
+  "tableId" : 785636,
+  "totalTimesRated" : 0,
+  "viewCount" : 35,
+  "viewLastModified" : 1383685930,
+  "viewType" : "tabular",
+  "grants" : [ {
+    "inherited" : true,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "custom_fields" : {
+      "Updating" : {
+        "Type" : "Replace"
+      },
+      "Weatherford" : {
+        "Update Frequency" : "More than once a day"
+      }
+    },
+    "renderTypeConfig" : {
+      "visible" : {
+        "table" : true
+      }
+    },
+    "availableDisplayTypes" : [ "table", "fatrow", "page" ],
+    "rdfSubject" : "0",
+    "rowIdentifier" : 112679614
+  },
+  "owner" : {
+    "id" : "hzuj-kbdh",
+    "displayName" : "Chad Janicek",
+    "screenName" : "Chad Janicek"
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "hzuj-kbdh",
+    "displayName" : "Chad Janicek",
+    "screenName" : "Chad Janicek"
+  },
+  "tags" : [ "animal shelter" ]
+}, {
+  "id" : "648e-teft",
+  "name" : "march wf permits",
+  "averageRating" : 0,
+  "category" : "Development",
+  "createdAt" : 1367335744,
+  "description" : "A calendar showing all finaled permits for new construction",
+  "displayType" : "calendar",
+  "downloadCount" : 13,
+  "indexUpdatedAt" : 1383610475,
+  "newBackend" : false,
+  "numberOfComments" : 0,
+  "oid" : 6256800,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1383599813,
+  "publicationGroup" : 705846,
+  "publicationStage" : "published",
+  "rowsUpdatedAt" : 1383599791,
+  "rowsUpdatedBy" : "ern2-u3vk",
+  "signed" : false,
+  "tableId" : 1322094,
+  "totalTimesRated" : 0,
+  "viewCount" : 53,
+  "viewLastModified" : 1367335744,
+  "viewType" : "tabular",
+  "grants" : [ {
+    "inherited" : true,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "custom_fields" : {
+      "Updating" : {
+        "Type" : "Replace"
+      },
+      "Weatherford" : {
+        "Update Frequency" : "Monthly"
+      }
+    },
+    "renderTypeConfig" : {
+      "visible" : {
+        "calendar" : true
+      }
+    },
+    "availableDisplayTypes" : [ "calendar", "table", "fatrow", "page" ],
+    "rdfSubject" : "0"
+  },
+  "owner" : {
+    "id" : "37ag-pyrd",
+    "displayName" : "Keith Kirk",
+    "screenName" : "Keith Kirk"
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "hzuj-kbdh",
+    "displayName" : "Chad Janicek",
+    "screenName" : "Chad Janicek"
+  },
+  "tags" : [ "permits", "construction" ]
+}, {
+  "id" : "8m3c-9aap",
+  "name" : "New Construction Permits by Day",
+  "averageRating" : 0,
+  "category" : "Development",
+  "createdAt" : 1364485197,
+  "description" : "All historical permits issued, including issue date, type, subtype, etc.",
+  "displayType" : "table",
+  "downloadCount" : 11,
+  "indexUpdatedAt" : 1383610472,
+  "newBackend" : false,
+  "numberOfComments" : 0,
+  "oid" : 6256803,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1383599813,
+  "publicationGroup" : 705846,
+  "publicationStage" : "published",
+  "rowsUpdatedAt" : 1383599791,
+  "rowsUpdatedBy" : "ern2-u3vk",
+  "signed" : false,
+  "tableId" : 1322094,
+  "totalTimesRated" : 0,
+  "viewCount" : 56,
+  "viewLastModified" : 1364485209,
+  "viewType" : "tabular",
+  "grants" : [ {
+    "inherited" : true,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "custom_fields" : {
+      "Updating" : {
+        "Type" : "Replace"
+      },
+      "Weatherford" : {
+        "Update Frequency" : "Monthly"
+      }
+    },
+    "renderTypeConfig" : {
+      "visible" : {
+        "table" : true
+      }
+    },
+    "availableDisplayTypes" : [ "table", "fatrow", "page" ]
+  },
+  "owner" : {
+    "id" : "hzuj-kbdh",
+    "displayName" : "Chad Janicek",
+    "screenName" : "Chad Janicek"
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "hzuj-kbdh",
+    "displayName" : "Chad Janicek",
+    "screenName" : "Chad Janicek"
+  },
+  "tags" : [ "permits" ]
+}, {
+  "id" : "catd-f4rf",
+  "name" : "New Construction Permit Calendar",
+  "averageRating" : 0,
+  "category" : "Development",
+  "createdAt" : 1364486673,
+  "description" : "A calendar showing all finaled permits for new construction",
+  "displayType" : "calendar",
+  "downloadCount" : 29,
+  "indexUpdatedAt" : 1383611727,
+  "newBackend" : false,
+  "numberOfComments" : 0,
+  "oid" : 6256798,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1383599813,
+  "publicationGroup" : 705846,
+  "publicationStage" : "published",
+  "rowsUpdatedAt" : 1383599791,
+  "rowsUpdatedBy" : "ern2-u3vk",
+  "signed" : false,
+  "tableId" : 1322094,
+  "totalTimesRated" : 0,
+  "viewCount" : 341,
+  "viewLastModified" : 1364486722,
+  "viewType" : "tabular",
+  "grants" : [ {
+    "inherited" : true,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "custom_fields" : {
+      "Updating" : {
+        "Type" : "Replace"
+      },
+      "Weatherford" : {
+        "Update Frequency" : "Monthly"
+      }
+    },
+    "renderTypeConfig" : {
+      "visible" : {
+        "calendar" : true
+      }
+    },
+    "availableDisplayTypes" : [ "calendar", "table", "fatrow", "page" ],
+    "rdfSubject" : "0"
+  },
+  "owner" : {
+    "id" : "hzuj-kbdh",
+    "displayName" : "Chad Janicek",
+    "screenName" : "Chad Janicek"
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "hzuj-kbdh",
+    "displayName" : "Chad Janicek",
+    "screenName" : "Chad Janicek"
+  },
+  "tags" : [ "permits", "construction" ]
+}, {
+  "id" : "d5tp-wn69",
+  "name" : "Daily Permits Issued by Type",
+  "averageRating" : 0,
+  "category" : "Development",
+  "createdAt" : 1364485459,
+  "description" : "All historical permits issued, including issue date, type, subtype, etc.",
+  "displayType" : "table",
+  "downloadCount" : 13,
+  "indexUpdatedAt" : 1383610476,
+  "newBackend" : false,
+  "numberOfComments" : 0,
+  "oid" : 6256806,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1383599813,
+  "publicationGroup" : 705846,
+  "publicationStage" : "published",
+  "rowsUpdatedAt" : 1383599791,
+  "rowsUpdatedBy" : "ern2-u3vk",
+  "signed" : false,
+  "tableId" : 1322094,
+  "totalTimesRated" : 0,
+  "viewCount" : 115,
+  "viewLastModified" : 1364485498,
+  "viewType" : "tabular",
+  "grants" : [ {
+    "inherited" : true,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "custom_fields" : {
+      "Updating" : {
+        "Type" : "Replace"
+      },
+      "Weatherford" : {
+        "Update Frequency" : "Monthly"
+      }
+    },
+    "renderTypeConfig" : {
+      "visible" : {
+        "table" : true
+      }
+    },
+    "availableDisplayTypes" : [ "table", "fatrow", "page" ]
+  },
+  "owner" : {
+    "id" : "hzuj-kbdh",
+    "displayName" : "Chad Janicek",
+    "screenName" : "Chad Janicek"
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "hzuj-kbdh",
+    "displayName" : "Chad Janicek",
+    "screenName" : "Chad Janicek"
+  },
+  "tags" : [ "permits" ]
+}, {
+  "id" : "fgmy-jv95",
+  "name" : "New Construction Permits",
+  "averageRating" : 0,
+  "category" : "Development",
+  "createdAt" : 1364484984,
+  "description" : "All historical permits issued, including issue date, type, subtype, etc.",
+  "displayType" : "table",
+  "downloadCount" : 17,
+  "indexUpdatedAt" : 1383611745,
+  "newBackend" : false,
+  "numberOfComments" : 0,
+  "oid" : 6256801,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1383599813,
+  "publicationGroup" : 705846,
+  "publicationStage" : "published",
+  "rowsUpdatedAt" : 1383599791,
+  "rowsUpdatedBy" : "ern2-u3vk",
+  "signed" : false,
+  "tableId" : 1322094,
+  "totalTimesRated" : 0,
+  "viewCount" : 101,
+  "viewLastModified" : 1364484984,
+  "viewType" : "tabular",
+  "grants" : [ {
+    "inherited" : true,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "custom_fields" : {
+      "Updating" : {
+        "Type" : "Replace"
+      },
+      "Weatherford" : {
+        "Update Frequency" : "Monthly"
+      }
+    },
+    "renderTypeConfig" : {
+      "visible" : {
+        "table" : true
+      }
+    },
+    "availableDisplayTypes" : [ "table", "fatrow", "page" ]
+  },
+  "owner" : {
+    "id" : "hzuj-kbdh",
+    "displayName" : "Chad Janicek",
+    "screenName" : "Chad Janicek"
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "hzuj-kbdh",
+    "displayName" : "Chad Janicek",
+    "screenName" : "Chad Janicek"
+  },
+  "tags" : [ "permits" ]
+}, {
+  "id" : "ivjg-v96d",
+  "name" : "All Permits Calendar",
+  "averageRating" : 0,
+  "category" : "Development",
+  "createdAt" : 1364486062,
+  "description" : "All historical permits issued, including issue date, type, subtype, etc.",
+  "displayType" : "calendar",
+  "downloadCount" : 63,
+  "indexUpdatedAt" : 1383610474,
+  "newBackend" : false,
+  "numberOfComments" : 0,
+  "oid" : 6256807,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1383599813,
+  "publicationGroup" : 705846,
+  "publicationStage" : "published",
+  "rowsUpdatedAt" : 1383599791,
+  "rowsUpdatedBy" : "ern2-u3vk",
+  "signed" : false,
+  "tableId" : 1322094,
+  "totalTimesRated" : 0,
+  "viewCount" : 100,
+  "viewLastModified" : 1364486108,
+  "viewType" : "tabular",
+  "grants" : [ {
+    "inherited" : true,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "custom_fields" : {
+      "Updating" : {
+        "Type" : "Replace"
+      },
+      "Weatherford" : {
+        "Update Frequency" : "Monthly"
+      }
+    },
+    "renderTypeConfig" : {
+      "visible" : {
+        "page" : true,
+        "calendar" : true
+      },
+      "active" : {
+        "page" : {
+          "id" : "6194"
+        }
+      }
+    },
+    "availableDisplayTypes" : [ "calendar", "table", "fatrow", "page" ]
+  },
+  "owner" : {
+    "id" : "ern2-u3vk",
+    "displayName" : "Kyle Lester",
+    "screenName" : "Kyle Lester"
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "hzuj-kbdh",
+    "displayName" : "Chad Janicek",
+    "screenName" : "Chad Janicek"
+  },
+  "tags" : [ "permits" ]
+}, {
+  "id" : "dy5q-p5dt",
+  "name" : "Weatherford Social Media Accounts",
+  "averageRating" : 0,
+  "createdAt" : 1364309649,
+  "displayType" : "table",
+  "downloadCount" : 14,
+  "indexUpdatedAt" : 1364310851,
+  "newBackend" : false,
+  "numberOfComments" : 0,
+  "oid" : 2961387,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1364310066,
+  "publicationGroup" : 757076,
+  "publicationStage" : "published",
+  "rowsUpdatedAt" : 1364310042,
+  "rowsUpdatedBy" : "hzuj-kbdh",
+  "signed" : false,
+  "tableId" : 757082,
+  "totalTimesRated" : 0,
+  "viewCount" : 17,
+  "viewLastModified" : 1364310066,
+  "viewType" : "tabular",
+  "grants" : [ {
+    "inherited" : false,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "custom_fields" : {
+      "Updating" : {
+        "Type" : "Append"
+      },
+      "Weatherford" : {
+        "Update Frequency" : "Ad Hoc"
+      }
+    },
+    "renderTypeConfig" : {
+      "visible" : {
+        "table" : true
+      }
+    },
+    "availableDisplayTypes" : [ "table", "fatrow", "page" ]
+  },
+  "owner" : {
+    "id" : "hzuj-kbdh",
+    "displayName" : "Chad Janicek",
+    "screenName" : "Chad Janicek"
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "hzuj-kbdh",
+    "displayName" : "Chad Janicek",
+    "screenName" : "Chad Janicek"
+  },
+  "tags" : [ "social media" ],
+  "flags" : [ "default" ]
+}, {
+  "id" : "k7b9-7zjb",
+  "name" : "TPW - 2013 Street Condition Survey",
+  "averageRating" : 0,
+  "category" : "Infrastructure",
+  "createdAt" : 1374957243,
+  "description" : "2013 pavement condition survey conducted by IMS.",
+  "displayType" : "table",
+  "downloadCount" : 16,
+  "indexUpdatedAt" : 1374958777,
+  "newBackend" : false,
+  "numberOfComments" : 0,
+  "oid" : 4654842,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1374957522,
+  "publicationGroup" : 1003168,
+  "publicationStage" : "published",
+  "rowsUpdatedAt" : 1374957420,
+  "rowsUpdatedBy" : "hzuj-kbdh",
+  "signed" : false,
+  "tableId" : 1003168,
+  "totalTimesRated" : 0,
+  "viewCount" : 76,
+  "viewLastModified" : 1374957541,
+  "viewType" : "tabular",
+  "grants" : [ {
+    "inherited" : false,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "custom_fields" : {
+      "Updating" : {
+        "Type" : "Replace"
+      },
+      "Weatherford" : {
+        "Update Frequency" : "Ad Hoc"
+      }
+    },
+    "renderTypeConfig" : {
+      "visible" : {
+        "table" : true
+      }
+    },
+    "availableDisplayTypes" : [ "table", "fatrow", "page" ]
+  },
+  "owner" : {
+    "id" : "98au-fudk",
+    "displayName" : "Manny Palacios",
+    "screenName" : "Manny Palacios"
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "hzuj-kbdh",
+    "displayName" : "Chad Janicek",
+    "screenName" : "Chad Janicek"
+  },
+  "tags" : [ "tpw", "streets", "infrastructure" ],
+  "flags" : [ "default" ]
+} ]

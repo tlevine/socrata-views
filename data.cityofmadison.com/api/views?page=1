@@ -1,0 +1,3761 @@
+[ {
+  "id" : "4ng4-nf3c",
+  "name" : "Map: Madison Police Calls for Service",
+  "averageRating" : 0,
+  "category" : "Police",
+  "createdAt" : 1355754029,
+  "description" : "Calls for Service;  Type of Call; Descriptions; Date/Time; Location by 100 block; Incident Number",
+  "displayType" : "map",
+  "downloadCount" : 119,
+  "indexUpdatedAt" : 1381773417,
+  "newBackend" : false,
+  "numberOfComments" : 0,
+  "oid" : 5915687,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1381770932,
+  "publicationGroup" : 529495,
+  "publicationStage" : "published",
+  "rowsUpdatedAt" : 1378926661,
+  "rowsUpdatedBy" : "cszg-v4tm",
+  "signed" : false,
+  "tableId" : 1137748,
+  "totalTimesRated" : 0,
+  "viewCount" : 6219,
+  "viewLastModified" : 1363626179,
+  "viewType" : "tabular",
+  "grants" : [ {
+    "inherited" : true,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "renderTypeConfig" : {
+      "visible" : {
+        "map" : true,
+        "table" : true
+      }
+    },
+    "availableDisplayTypes" : [ "map", "table", "fatrow", "page" ],
+    "rdfSubject" : "0"
+  },
+  "owner" : {
+    "id" : "cszg-v4tm",
+    "displayName" : "City of Madison Data Administrator",
+    "profileImageUrlLarge" : "/images/profile/8823/6544/logo1_large.jpg",
+    "profileImageUrlMedium" : "/images/profile/8823/6544/logo1_thumb.jpg",
+    "profileImageUrlSmall" : "/images/profile/8823/6544/logo1_tiny.jpg",
+    "screenName" : "City of Madison Data Administrator"
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "maie-8avu",
+    "displayName" : "dhaueter",
+    "screenName" : "dhaueter"
+  },
+  "tags" : [ "madison police department calls for service" ]
+}, {
+  "id" : "u7ns-6d4x",
+  "name" : "Assessor Property Information",
+  "averageRating" : 0,
+  "category" : "Property",
+  "createdAt" : 1354572982,
+  "description" : "Parcels; Property Value; Property Information: Zoning; Property Class; Water Frontage; Assessment Area; TIF District; Frontage; Residential Building Information:  Home-Style; Stories; Year Built; Number of Garages; Driveway; Roof type and replacement; Interior Information: Number of bedrooms, Full Baths, Half Baths, Fireplaces; Living Areas: Floor and Size of rooms in square feet; Other Structures; Mechanicals.",
+  "displayType" : "table",
+  "downloadCount" : 342,
+  "indexUpdatedAt" : 1387606547,
+  "newBackend" : false,
+  "numberOfComments" : 0,
+  "oid" : 3304724,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1366733229,
+  "publicationGroup" : 534980,
+  "publicationStage" : "published",
+  "rowIdentifierColumnId" : 60040311,
+  "rowsUpdatedAt" : 1387606128,
+  "rowsUpdatedBy" : "cszg-v4tm",
+  "signed" : false,
+  "state" : "normal",
+  "tableId" : 812367,
+  "totalTimesRated" : 0,
+  "viewCount" : 2997,
+  "viewLastModified" : 1366733297,
+  "viewType" : "tabular",
+  "grants" : [ {
+    "inherited" : true,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "renderTypeConfig" : {
+      "visible" : {
+        "table" : true
+      }
+    },
+    "availableDisplayTypes" : [ "table", "fatrow", "page" ],
+    "thumbnail" : {
+      "page" : {
+        "created" : true
+      }
+    },
+    "rdfSubject" : "0",
+    "rowIdentifier" : 60040311
+  },
+  "owner" : {
+    "id" : "cszg-v4tm",
+    "displayName" : "City of Madison Data Administrator",
+    "profileImageUrlLarge" : "/images/profile/8823/6544/logo1_large.jpg",
+    "profileImageUrlMedium" : "/images/profile/8823/6544/logo1_thumb.jpg",
+    "profileImageUrlSmall" : "/images/profile/8823/6544/logo1_tiny.jpg",
+    "screenName" : "City of Madison Data Administrator"
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "cszg-v4tm",
+    "displayName" : "City of Madison Data Administrator",
+    "profileImageUrlLarge" : "/images/profile/8823/6544/logo1_large.jpg",
+    "profileImageUrlMedium" : "/images/profile/8823/6544/logo1_thumb.jpg",
+    "profileImageUrlSmall" : "/images/profile/8823/6544/logo1_tiny.jpg",
+    "screenName" : "City of Madison Data Administrator"
+  },
+  "tags" : [ "residential and commercial  property information", "commercial property information", "parcels", "property value", "property information", "zoning" ],
+  "flags" : [ "default" ]
+}, {
+  "id" : "4gss-84dk",
+  "name" : "Madison Police Calls for Service",
+  "averageRating" : 0,
+  "category" : "Police",
+  "createdAt" : 1354295985,
+  "description" : "Type of Call; Date/Time; Location by 100 block; Incident Number",
+  "displayType" : "table",
+  "downloadCount" : 123,
+  "indexUpdatedAt" : 1381773382,
+  "newBackend" : false,
+  "numberOfComments" : 0,
+  "oid" : 5366551,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1381770932,
+  "publicationGroup" : 529495,
+  "publicationStage" : "published",
+  "rowClass" : "",
+  "rowIdentifierColumnId" : 97454655,
+  "rowsUpdatedAt" : 1378926661,
+  "rowsUpdatedBy" : "cszg-v4tm",
+  "signed" : false,
+  "tableId" : 1137748,
+  "totalTimesRated" : 0,
+  "viewCount" : 1802,
+  "viewLastModified" : 1381770932,
+  "viewType" : "tabular",
+  "grants" : [ {
+    "inherited" : true,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "renderTypeConfig" : {
+      "visible" : {
+        "table" : true
+      }
+    },
+    "availableDisplayTypes" : [ "table", "fatrow", "page" ],
+    "rdfSubject" : "0",
+    "rowIdentifier" : "97454655",
+    "rdfClass" : ""
+  },
+  "owner" : {
+    "id" : "maie-8avu",
+    "displayName" : "dhaueter",
+    "screenName" : "dhaueter"
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "maie-8avu",
+    "displayName" : "dhaueter",
+    "screenName" : "dhaueter"
+  },
+  "tags" : [ "madison police department calls for service" ],
+  "flags" : [ "default" ]
+}, {
+  "id" : "3kgn-2bpa",
+  "name" : "Map: Commercial Land Sales",
+  "averageRating" : 0,
+  "category" : "Property",
+  "createdAt" : 1355522329,
+  "description" : "Improved Commercial Sales Determined to be Arms-Length and Verified by Assessor's Office Staff; Information is subject to change upon further review by appraisal staff; Area; Parcel Number; Situs; Grantor; Sale Date; Sale Price; Description of Sale",
+  "displayType" : "map",
+  "downloadCount" : 183,
+  "indexUpdatedAt" : 1357669149,
+  "newBackend" : false,
+  "numberOfComments" : 0,
+  "oid" : 2029364,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1355522004,
+  "publicationGroup" : 556949,
+  "publicationStage" : "published",
+  "rowClass" : "",
+  "rowsUpdatedAt" : 1355521806,
+  "rowsUpdatedBy" : "cszg-v4tm",
+  "signed" : false,
+  "tableId" : 556949,
+  "totalTimesRated" : 0,
+  "viewCount" : 2877,
+  "viewLastModified" : 1357669102,
+  "viewType" : "tabular",
+  "grants" : [ {
+    "inherited" : true,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "renderTypeConfig" : {
+      "visible" : {
+        "map" : true,
+        "table" : true
+      },
+      "active" : {
+        "table" : {
+          "id" : "7dbz-yi8h"
+        }
+      }
+    },
+    "availableDisplayTypes" : [ "map", "table", "fatrow", "page" ],
+    "rdfSubject" : "sale",
+    "rowIdentifier" : "0",
+    "rdfClass" : ""
+  },
+  "owner" : {
+    "id" : "cszg-v4tm",
+    "displayName" : "City of Madison Data Administrator",
+    "profileImageUrlLarge" : "/images/profile/8823/6544/logo1_large.jpg",
+    "profileImageUrlMedium" : "/images/profile/8823/6544/logo1_thumb.jpg",
+    "profileImageUrlSmall" : "/images/profile/8823/6544/logo1_tiny.jpg",
+    "screenName" : "City of Madison Data Administrator"
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "cszg-v4tm",
+    "displayName" : "City of Madison Data Administrator",
+    "profileImageUrlLarge" : "/images/profile/8823/6544/logo1_large.jpg",
+    "profileImageUrlMedium" : "/images/profile/8823/6544/logo1_thumb.jpg",
+    "profileImageUrlSmall" : "/images/profile/8823/6544/logo1_tiny.jpg",
+    "screenName" : "City of Madison Data Administrator"
+  }
+}, {
+  "id" : "99g9-p6ki",
+  "name" : "Map: Vacant Land Sales",
+  "averageRating" : 0,
+  "category" : "Property",
+  "createdAt" : 1354285898,
+  "description" : "Vacant Commercial Sales Determined to be Arms-Length and Verified by Assessor's Office Staff.",
+  "displayType" : "map",
+  "downloadCount" : 140,
+  "indexUpdatedAt" : 1357669147,
+  "newBackend" : false,
+  "numberOfComments" : 0,
+  "oid" : 2049656,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1355752965,
+  "publicationGroup" : 527723,
+  "publicationStage" : "published",
+  "rowClass" : "",
+  "rowsUpdatedAt" : 1355524264,
+  "rowsUpdatedBy" : "cszg-v4tm",
+  "signed" : false,
+  "tableId" : 556768,
+  "totalTimesRated" : 0,
+  "viewCount" : 1547,
+  "viewLastModified" : 1357668936,
+  "viewType" : "tabular",
+  "grants" : [ {
+    "inherited" : true,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "renderTypeConfig" : {
+      "visible" : {
+        "map" : true,
+        "table" : true
+      },
+      "active" : {
+        "table" : {
+          "id" : "99g9-p6ki"
+        }
+      }
+    },
+    "availableDisplayTypes" : [ "map", "table", "fatrow", "page" ],
+    "rdfSubject" : "0",
+    "rowIdentifier" : "0",
+    "rdfClass" : ""
+  },
+  "owner" : {
+    "id" : "cszg-v4tm",
+    "displayName" : "City of Madison Data Administrator",
+    "profileImageUrlLarge" : "/images/profile/8823/6544/logo1_large.jpg",
+    "profileImageUrlMedium" : "/images/profile/8823/6544/logo1_thumb.jpg",
+    "profileImageUrlSmall" : "/images/profile/8823/6544/logo1_tiny.jpg",
+    "screenName" : "City of Madison Data Administrator"
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "cszg-v4tm",
+    "displayName" : "City of Madison Data Administrator",
+    "profileImageUrlLarge" : "/images/profile/8823/6544/logo1_large.jpg",
+    "profileImageUrlMedium" : "/images/profile/8823/6544/logo1_thumb.jpg",
+    "profileImageUrlSmall" : "/images/profile/8823/6544/logo1_tiny.jpg",
+    "screenName" : "City of Madison Data Administrator"
+  }
+}, {
+  "id" : "d686-rvcw",
+  "name" : "Police Incident Reports",
+  "averageRating" : 0,
+  "category" : "Police",
+  "createdAt" : 1355509594,
+  "description" : "Incidents listed are selected by the Officer In Charge of each shift that may have significant public interest. Incidents listed are not inclusive of all incidents.",
+  "displayType" : "table",
+  "downloadCount" : 282,
+  "indexUpdatedAt" : 1387703678,
+  "newBackend" : false,
+  "numberOfComments" : 0,
+  "oid" : 2045323,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1355719887,
+  "publicationGroup" : 556605,
+  "publicationStage" : "published",
+  "rowClass" : "",
+  "rowIdentifierColumnId" : 35338551,
+  "rowsUpdatedAt" : 1387702980,
+  "rowsUpdatedBy" : "cszg-v4tm",
+  "signed" : false,
+  "state" : "normal",
+  "tableId" : 560812,
+  "totalTimesRated" : 0,
+  "viewCount" : 2180,
+  "viewLastModified" : 1377188903,
+  "viewType" : "tabular",
+  "grants" : [ {
+    "inherited" : true,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "renderTypeConfig" : {
+      "visible" : {
+        "table" : true
+      }
+    },
+    "availableDisplayTypes" : [ "table", "fatrow", "page" ],
+    "rdfSubject" : "0",
+    "rowIdentifier" : "35338551",
+    "rdfClass" : ""
+  },
+  "owner" : {
+    "id" : "cszg-v4tm",
+    "displayName" : "City of Madison Data Administrator",
+    "profileImageUrlLarge" : "/images/profile/8823/6544/logo1_large.jpg",
+    "profileImageUrlMedium" : "/images/profile/8823/6544/logo1_thumb.jpg",
+    "profileImageUrlSmall" : "/images/profile/8823/6544/logo1_tiny.jpg",
+    "screenName" : "City of Madison Data Administrator"
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "cszg-v4tm",
+    "displayName" : "City of Madison Data Administrator",
+    "profileImageUrlLarge" : "/images/profile/8823/6544/logo1_large.jpg",
+    "profileImageUrlMedium" : "/images/profile/8823/6544/logo1_thumb.jpg",
+    "profileImageUrlSmall" : "/images/profile/8823/6544/logo1_tiny.jpg",
+    "screenName" : "City of Madison Data Administrator"
+  },
+  "tags" : [ "police", "incidents" ],
+  "flags" : [ "default" ]
+}, {
+  "id" : "wwtc-pw9p",
+  "name" : "Map: Madison Metro Transit Bus Stops",
+  "averageRating" : 0,
+  "category" : "Metro Transportation",
+  "createdAt" : 1354730781,
+  "displayType" : "map",
+  "downloadCount" : 113,
+  "indexUpdatedAt" : 1380736919,
+  "newBackend" : false,
+  "numberOfComments" : 0,
+  "oid" : 2244619,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1358270198,
+  "publicationGroup" : 538959,
+  "publicationStage" : "published",
+  "rowsUpdatedAt" : 1358270024,
+  "rowsUpdatedBy" : "cszg-v4tm",
+  "signed" : false,
+  "tableId" : 616112,
+  "totalTimesRated" : 0,
+  "viewCount" : 874,
+  "viewLastModified" : 1358269647,
+  "viewType" : "tabular",
+  "grants" : [ {
+    "inherited" : true,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "renderTypeConfig" : {
+      "visible" : {
+        "map" : true
+      },
+      "active" : {
+        "page" : {
+          "id" : "f5sy-kcer"
+        },
+        "table" : {
+          "id" : "f5sy-kcer"
+        }
+      }
+    },
+    "availableDisplayTypes" : [ "map", "table", "fatrow", "page" ],
+    "rdfSubject" : "0"
+  },
+  "owner" : {
+    "id" : "cszg-v4tm",
+    "displayName" : "City of Madison Data Administrator",
+    "profileImageUrlLarge" : "/images/profile/8823/6544/logo1_large.jpg",
+    "profileImageUrlMedium" : "/images/profile/8823/6544/logo1_thumb.jpg",
+    "profileImageUrlSmall" : "/images/profile/8823/6544/logo1_tiny.jpg",
+    "screenName" : "City of Madison Data Administrator"
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "cszg-v4tm",
+    "displayName" : "City of Madison Data Administrator",
+    "profileImageUrlLarge" : "/images/profile/8823/6544/logo1_large.jpg",
+    "profileImageUrlMedium" : "/images/profile/8823/6544/logo1_thumb.jpg",
+    "profileImageUrlSmall" : "/images/profile/8823/6544/logo1_tiny.jpg",
+    "screenName" : "City of Madison Data Administrator"
+  },
+  "tags" : [ "bus stops", "madison metro", "public transit" ]
+}, {
+  "id" : "gxhk-44q9",
+  "name" : "City Calendar of Events",
+  "averageRating" : 0,
+  "category" : "Events",
+  "createdAt" : 1354227457,
+  "description" : "Date, Location, Categories: City Event, Elections, Environment, Holiday, City Offices Closed, Informational Meetings, Listening Session, Neighborhood Event/Meeting, Parks Events, Public Hearing/Meeting, Safety & Wellness, Seniors, Task Force; Cost; Aldermanic District; Contacts; Description of Event",
+  "displayType" : "table",
+  "downloadCount" : 371,
+  "indexUpdatedAt" : 1387702092,
+  "newBackend" : false,
+  "numberOfComments" : 0,
+  "oid" : 2045076,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1355715948,
+  "publicationGroup" : 527801,
+  "publicationStage" : "published",
+  "rowClass" : "",
+  "rowIdentifierColumnId" : 35335104,
+  "rowsUpdatedAt" : 1387699289,
+  "rowsUpdatedBy" : "cszg-v4tm",
+  "signed" : false,
+  "state" : "normal",
+  "tableId" : 560738,
+  "totalTimesRated" : 0,
+  "viewCount" : 805,
+  "viewLastModified" : 1377190148,
+  "viewType" : "tabular",
+  "grants" : [ {
+    "inherited" : true,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "renderTypeConfig" : {
+      "visible" : {
+        "table" : true
+      }
+    },
+    "availableDisplayTypes" : [ "table", "fatrow", "page" ],
+    "rdfSubject" : "0",
+    "rowIdentifier" : "35335104",
+    "rdfClass" : ""
+  },
+  "owner" : {
+    "id" : "cszg-v4tm",
+    "displayName" : "City of Madison Data Administrator",
+    "profileImageUrlLarge" : "/images/profile/8823/6544/logo1_large.jpg",
+    "profileImageUrlMedium" : "/images/profile/8823/6544/logo1_thumb.jpg",
+    "profileImageUrlSmall" : "/images/profile/8823/6544/logo1_tiny.jpg",
+    "screenName" : "City of Madison Data Administrator"
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "cszg-v4tm",
+    "displayName" : "City of Madison Data Administrator",
+    "profileImageUrlLarge" : "/images/profile/8823/6544/logo1_large.jpg",
+    "profileImageUrlMedium" : "/images/profile/8823/6544/logo1_thumb.jpg",
+    "profileImageUrlSmall" : "/images/profile/8823/6544/logo1_tiny.jpg",
+    "screenName" : "City of Madison Data Administrator"
+  },
+  "tags" : [ "city event calendar", "city event", "elections", "environment", "holiday", "city offices closed", "informational meetings", "listening session", "neighborhood event/meeting", "parks events", "public hearing/meeting", "safety & wellness", "seniors", "task force" ],
+  "flags" : [ "default" ]
+}, {
+  "id" : "rtyh-6ucr",
+  "name" : "Polling Places",
+  "averageRating" : 0,
+  "category" : "Polling Places",
+  "createdAt" : 1355334065,
+  "description" : "Ward; Aldermanic District; Polling Place; Polling Place Address; Handicap Accessible; Comments about location of polling place in building.",
+  "displayType" : "table",
+  "downloadCount" : 249,
+  "indexUpdatedAt" : 1357668568,
+  "newBackend" : false,
+  "numberOfComments" : 0,
+  "oid" : 2007478,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1355350337,
+  "publicationGroup" : 552361,
+  "publicationStage" : "published",
+  "rowClass" : "",
+  "rowIdentifierColumnId" : 34604153,
+  "rowsUpdatedAt" : 1355338739,
+  "rowsUpdatedBy" : "cszg-v4tm",
+  "signed" : false,
+  "state" : "normal",
+  "tableId" : 552361,
+  "totalTimesRated" : 0,
+  "viewCount" : 378,
+  "viewLastModified" : 1357668371,
+  "viewType" : "tabular",
+  "grants" : [ {
+    "inherited" : true,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "renderTypeConfig" : {
+      "visible" : {
+        "table" : true
+      }
+    },
+    "availableDisplayTypes" : [ "table", "fatrow", "page" ],
+    "rdfSubject" : "0",
+    "rowIdentifier" : "ward",
+    "rdfClass" : ""
+  },
+  "owner" : {
+    "id" : "cszg-v4tm",
+    "displayName" : "City of Madison Data Administrator",
+    "profileImageUrlLarge" : "/images/profile/8823/6544/logo1_large.jpg",
+    "profileImageUrlMedium" : "/images/profile/8823/6544/logo1_thumb.jpg",
+    "profileImageUrlSmall" : "/images/profile/8823/6544/logo1_tiny.jpg",
+    "screenName" : "City of Madison Data Administrator"
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "cszg-v4tm",
+    "displayName" : "City of Madison Data Administrator",
+    "profileImageUrlLarge" : "/images/profile/8823/6544/logo1_large.jpg",
+    "profileImageUrlMedium" : "/images/profile/8823/6544/logo1_thumb.jpg",
+    "profileImageUrlSmall" : "/images/profile/8823/6544/logo1_tiny.jpg",
+    "screenName" : "City of Madison Data Administrator"
+  },
+  "flags" : [ "default" ]
+}, {
+  "id" : "spu7-hym6",
+  "name" : "Total Incidents by Type",
+  "averageRating" : 0,
+  "category" : "Police",
+  "createdAt" : 1359742857,
+  "description" : "October Calls for Service;  Type of Call; Descriptions; Date/Time; Location by 100 block; Incident Number",
+  "displayType" : "table",
+  "downloadCount" : 18,
+  "indexUpdatedAt" : 1381773382,
+  "newBackend" : false,
+  "numberOfComments" : 0,
+  "oid" : 5915688,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1381770932,
+  "publicationGroup" : 529495,
+  "publicationStage" : "published",
+  "rowsUpdatedAt" : 1378926661,
+  "rowsUpdatedBy" : "cszg-v4tm",
+  "signed" : false,
+  "tableId" : 1137748,
+  "totalTimesRated" : 0,
+  "viewCount" : 379,
+  "viewLastModified" : 1359742857,
+  "viewType" : "tabular",
+  "grants" : [ {
+    "inherited" : true,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "renderTypeConfig" : {
+      "visible" : {
+        "table" : true
+      }
+    },
+    "availableDisplayTypes" : [ "table", "fatrow", "page" ],
+    "rdfSubject" : "0"
+  },
+  "owner" : {
+    "id" : "8est-2umm",
+    "displayName" : "Sells",
+    "screenName" : "Sells",
+    "rights" : [ "create_datasets", "edit_others_datasets", "edit_sdp", "edit_site_theme", "moderate_comments", "manage_users", "chown_datasets", "edit_nominations", "approve_nominations", "feature_items", "federations", "manage_stories", "manage_approval", "change_configurations", "view_domain", "view_others_datasets", "edit_pages", "create_pages", "view_goals", "view_dashboards", "edit_goals", "edit_dashboards", "create_dashboards" ],
+    "flags" : [ "admin" ]
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "maie-8avu",
+    "displayName" : "dhaueter",
+    "screenName" : "dhaueter"
+  },
+  "tags" : [ "madison police department calls for service" ]
+}, {
+  "id" : "p4au-pwd2",
+  "name" : "Map: Madison Public Library Locations",
+  "averageRating" : 0,
+  "category" : "Library",
+  "createdAt" : 1354751876,
+  "displayType" : "map",
+  "downloadCount" : 62,
+  "indexUpdatedAt" : 1383336446,
+  "newBackend" : false,
+  "numberOfComments" : 0,
+  "oid" : 6208571,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1383328465,
+  "publicationGroup" : 539542,
+  "publicationStage" : "published",
+  "rowsUpdatedAt" : 1383328414,
+  "rowsUpdatedBy" : "cszg-v4tm",
+  "signed" : false,
+  "tableId" : 1311559,
+  "totalTimesRated" : 0,
+  "viewCount" : 232,
+  "viewLastModified" : 1357668872,
+  "viewType" : "tabular",
+  "grants" : [ {
+    "inherited" : true,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "renderTypeConfig" : {
+      "visible" : {
+        "map" : true
+      },
+      "active" : {
+        "table" : {
+          "id" : "hb5z-buaz"
+        }
+      }
+    },
+    "availableDisplayTypes" : [ "map", "table", "fatrow", "page" ],
+    "rdfSubject" : "0"
+  },
+  "owner" : {
+    "id" : "cszg-v4tm",
+    "displayName" : "City of Madison Data Administrator",
+    "profileImageUrlLarge" : "/images/profile/8823/6544/logo1_large.jpg",
+    "profileImageUrlMedium" : "/images/profile/8823/6544/logo1_thumb.jpg",
+    "profileImageUrlSmall" : "/images/profile/8823/6544/logo1_tiny.jpg",
+    "screenName" : "City of Madison Data Administrator"
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "xjhj-xnzs",
+    "displayName" : "Tana Elias",
+    "screenName" : "Tana Elias"
+  }
+}, {
+  "id" : "kfv2-f9ss",
+  "name" : "2012 Report a Problem Stats",
+  "averageRating" : 0,
+  "category" : "Service Requests",
+  "createdAt" : 1354734760,
+  "description" : "Statistics on Report a Problem service requests.",
+  "displayType" : "table",
+  "downloadCount" : 23,
+  "indexUpdatedAt" : 1370547597,
+  "newBackend" : false,
+  "numberOfComments" : 0,
+  "oid" : 3922383,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1370542388,
+  "publicationGroup" : 539064,
+  "publicationStage" : "published",
+  "rowsUpdatedAt" : 1370542324,
+  "rowsUpdatedBy" : "cszg-v4tm",
+  "signed" : false,
+  "tableId" : 903016,
+  "totalTimesRated" : 0,
+  "viewCount" : 179,
+  "viewLastModified" : 1370542388,
+  "viewType" : "tabular",
+  "grants" : [ {
+    "inherited" : false,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "renderTypeConfig" : {
+      "visible" : {
+        "table" : true
+      }
+    },
+    "availableDisplayTypes" : [ "table", "fatrow", "page" ],
+    "rdfSubject" : "0"
+  },
+  "owner" : {
+    "id" : "cszg-v4tm",
+    "displayName" : "City of Madison Data Administrator",
+    "profileImageUrlLarge" : "/images/profile/8823/6544/logo1_large.jpg",
+    "profileImageUrlMedium" : "/images/profile/8823/6544/logo1_thumb.jpg",
+    "profileImageUrlSmall" : "/images/profile/8823/6544/logo1_tiny.jpg",
+    "screenName" : "City of Madison Data Administrator"
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "cszg-v4tm",
+    "displayName" : "City of Madison Data Administrator",
+    "profileImageUrlLarge" : "/images/profile/8823/6544/logo1_large.jpg",
+    "profileImageUrlMedium" : "/images/profile/8823/6544/logo1_thumb.jpg",
+    "profileImageUrlSmall" : "/images/profile/8823/6544/logo1_tiny.jpg",
+    "screenName" : "City of Madison Data Administrator"
+  },
+  "tags" : [ "statistics", "service requests", "report a problem" ],
+  "flags" : [ "default" ]
+}, {
+  "id" : "svr6-6gvb",
+  "name" : "Parks and Facilties",
+  "averageRating" : 0,
+  "category" : "Parks & Recreation",
+  "createdAt" : 1355375668,
+  "description" : "Park name, address, acreage, type and the facilities available at each park.",
+  "displayType" : "table",
+  "downloadCount" : 95,
+  "indexUpdatedAt" : 1383633072,
+  "newBackend" : false,
+  "numberOfComments" : 0,
+  "oid" : 3304420,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1366663119,
+  "publicationGroup" : 553319,
+  "publicationStage" : "published",
+  "rowIdentifierColumnId" : 60035308,
+  "rowsUpdatedAt" : 1383604060,
+  "rowsUpdatedBy" : "cszg-v4tm",
+  "signed" : false,
+  "state" : "normal",
+  "tableId" : 812301,
+  "totalTimesRated" : 0,
+  "viewCount" : 251,
+  "viewLastModified" : 1366663546,
+  "viewType" : "tabular",
+  "grants" : [ {
+    "inherited" : true,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "renderTypeConfig" : {
+      "visible" : {
+        "page" : true,
+        "table" : true
+      },
+      "active" : {
+        "page" : {
+          "id" : "16"
+        }
+      }
+    },
+    "availableDisplayTypes" : [ "table", "fatrow", "page" ],
+    "rdfSubject" : "0",
+    "rowIdentifier" : 60035308
+  },
+  "owner" : {
+    "id" : "cszg-v4tm",
+    "displayName" : "City of Madison Data Administrator",
+    "profileImageUrlLarge" : "/images/profile/8823/6544/logo1_large.jpg",
+    "profileImageUrlMedium" : "/images/profile/8823/6544/logo1_thumb.jpg",
+    "profileImageUrlSmall" : "/images/profile/8823/6544/logo1_tiny.jpg",
+    "screenName" : "City of Madison Data Administrator"
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "cszg-v4tm",
+    "displayName" : "City of Madison Data Administrator",
+    "profileImageUrlLarge" : "/images/profile/8823/6544/logo1_large.jpg",
+    "profileImageUrlMedium" : "/images/profile/8823/6544/logo1_thumb.jpg",
+    "profileImageUrlSmall" : "/images/profile/8823/6544/logo1_tiny.jpg",
+    "screenName" : "City of Madison Data Administrator"
+  },
+  "flags" : [ "default" ]
+}, {
+  "id" : "f5sy-kcer",
+  "name" : "Madison Metro Transit Bus Stops",
+  "averageRating" : 0,
+  "category" : "Metro Transportation",
+  "createdAt" : 1354730351,
+  "description" : "Updated quarterly.",
+  "displayType" : "table",
+  "downloadCount" : 78,
+  "indexUpdatedAt" : 1380736910,
+  "newBackend" : false,
+  "numberOfComments" : 0,
+  "oid" : 2244607,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1358270198,
+  "publicationGroup" : 538959,
+  "publicationStage" : "published",
+  "rowIdentifierColumnId" : 39294364,
+  "rowsUpdatedAt" : 1358270024,
+  "rowsUpdatedBy" : "cszg-v4tm",
+  "signed" : false,
+  "tableId" : 616112,
+  "totalTimesRated" : 0,
+  "viewCount" : 404,
+  "viewLastModified" : 1375736692,
+  "viewType" : "tabular",
+  "grants" : [ {
+    "inherited" : true,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "renderTypeConfig" : {
+      "visible" : {
+        "table" : true
+      }
+    },
+    "availableDisplayTypes" : [ "table", "fatrow", "page" ],
+    "rdfSubject" : "0",
+    "rowIdentifier" : 39294364
+  },
+  "owner" : {
+    "id" : "v8w4-iu9r",
+    "displayName" : "metes",
+    "screenName" : "metes"
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "cszg-v4tm",
+    "displayName" : "City of Madison Data Administrator",
+    "profileImageUrlLarge" : "/images/profile/8823/6544/logo1_large.jpg",
+    "profileImageUrlMedium" : "/images/profile/8823/6544/logo1_thumb.jpg",
+    "profileImageUrlSmall" : "/images/profile/8823/6544/logo1_tiny.jpg",
+    "screenName" : "City of Madison Data Administrator"
+  },
+  "tags" : [ "bus stops", "madison metro", "public transit" ],
+  "flags" : [ "default" ]
+}, {
+  "id" : "iig4-49xp",
+  "name" : "Vacant Land Sales",
+  "averageRating" : 0,
+  "category" : "Property",
+  "createdAt" : 1354224124,
+  "description" : "Vacant Commercial Sales Determined to be Arms-Length and Verified by Assessor's Office Staff.",
+  "displayType" : "table",
+  "downloadCount" : 62,
+  "indexUpdatedAt" : 1357669147,
+  "newBackend" : false,
+  "numberOfComments" : 0,
+  "oid" : 2028716,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1355752965,
+  "publicationGroup" : 527723,
+  "publicationStage" : "published",
+  "rowClass" : "",
+  "rowIdentifierColumnId" : 35041596,
+  "rowsUpdatedAt" : 1355524264,
+  "rowsUpdatedBy" : "cszg-v4tm",
+  "signed" : false,
+  "tableId" : 556768,
+  "totalTimesRated" : 0,
+  "viewCount" : 264,
+  "viewLastModified" : 1357669059,
+  "viewType" : "tabular",
+  "grants" : [ {
+    "inherited" : true,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "renderTypeConfig" : {
+      "visible" : {
+        "table" : true
+      }
+    },
+    "availableDisplayTypes" : [ "table", "fatrow", "page" ],
+    "rdfSubject" : "0",
+    "rowIdentifier" : "35041596",
+    "rdfClass" : ""
+  },
+  "owner" : {
+    "id" : "cszg-v4tm",
+    "displayName" : "City of Madison Data Administrator",
+    "profileImageUrlLarge" : "/images/profile/8823/6544/logo1_large.jpg",
+    "profileImageUrlMedium" : "/images/profile/8823/6544/logo1_thumb.jpg",
+    "profileImageUrlSmall" : "/images/profile/8823/6544/logo1_tiny.jpg",
+    "screenName" : "City of Madison Data Administrator"
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "cszg-v4tm",
+    "displayName" : "City of Madison Data Administrator",
+    "profileImageUrlLarge" : "/images/profile/8823/6544/logo1_large.jpg",
+    "profileImageUrlMedium" : "/images/profile/8823/6544/logo1_thumb.jpg",
+    "profileImageUrlSmall" : "/images/profile/8823/6544/logo1_tiny.jpg",
+    "screenName" : "City of Madison Data Administrator"
+  },
+  "flags" : [ "default" ]
+}, {
+  "id" : "hb5z-buaz",
+  "name" : "Madison Public Library Locations",
+  "averageRating" : 0,
+  "category" : "Library",
+  "createdAt" : 1354751672,
+  "displayType" : "table",
+  "downloadCount" : 46,
+  "indexUpdatedAt" : 1383336196,
+  "newBackend" : false,
+  "numberOfComments" : 0,
+  "oid" : 6208560,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1383328465,
+  "publicationGroup" : 539542,
+  "publicationStage" : "published",
+  "rowsUpdatedAt" : 1383328414,
+  "rowsUpdatedBy" : "cszg-v4tm",
+  "signed" : false,
+  "tableId" : 1311559,
+  "totalTimesRated" : 0,
+  "viewCount" : 148,
+  "viewLastModified" : 1383328466,
+  "viewType" : "tabular",
+  "grants" : [ {
+    "inherited" : true,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "renderTypeConfig" : {
+      "visible" : {
+        "table" : true
+      }
+    },
+    "availableDisplayTypes" : [ "table", "fatrow", "page" ],
+    "rdfSubject" : "0",
+    "sidebar" : {
+      "width" : 358
+    }
+  },
+  "owner" : {
+    "id" : "xjhj-xnzs",
+    "displayName" : "Tana Elias",
+    "screenName" : "Tana Elias"
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "xjhj-xnzs",
+    "displayName" : "Tana Elias",
+    "screenName" : "Tana Elias"
+  },
+  "tags" : [ "library locations" ],
+  "flags" : [ "default" ]
+}, {
+  "id" : "fvxz-66tr",
+  "name" : "Diana Rhoads",
+  "averageRating" : 0,
+  "category" : "Property",
+  "createdAt" : 1360342325,
+  "description" : "Parcels; Property Value; Property Information: Zoning; Property Class; Water Frontage; Assessment Area; TIF District; Frontage; Residential Building Information:  Home-Style; Stories; Year Built; Number of Garages; Driveway; Roof type and replacement; Interior Information: Number of bedrooms, Full Baths, Half Baths, Fireplaces; Living Areas: Floor and Size of rooms in square feet; Other Structures; Mechanicals.",
+  "displayType" : "table",
+  "downloadCount" : 20,
+  "indexUpdatedAt" : 1387606362,
+  "newBackend" : false,
+  "numberOfComments" : 0,
+  "oid" : 3315801,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1366733229,
+  "publicationGroup" : 534980,
+  "publicationStage" : "published",
+  "rowsUpdatedAt" : 1387606128,
+  "rowsUpdatedBy" : "cszg-v4tm",
+  "searchString" : "Diana Rhoads",
+  "signed" : false,
+  "state" : "normal",
+  "tableId" : 812367,
+  "totalTimesRated" : 0,
+  "viewCount" : 132,
+  "viewLastModified" : 1360342326,
+  "viewType" : "tabular",
+  "grants" : [ {
+    "inherited" : true,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "renderTypeConfig" : {
+      "visible" : {
+        "fatrow" : true,
+        "page" : true,
+        "table" : true
+      }
+    },
+    "availableDisplayTypes" : [ "table", "fatrow", "page" ],
+    "thumbnail" : {
+      "page" : {
+        "created" : true
+      }
+    },
+    "rdfSubject" : "0"
+  },
+  "owner" : {
+    "id" : "5hiu-twbd",
+    "displayName" : "Di",
+    "screenName" : "Di"
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "cszg-v4tm",
+    "displayName" : "City of Madison Data Administrator",
+    "profileImageUrlLarge" : "/images/profile/8823/6544/logo1_large.jpg",
+    "profileImageUrlMedium" : "/images/profile/8823/6544/logo1_thumb.jpg",
+    "profileImageUrlSmall" : "/images/profile/8823/6544/logo1_tiny.jpg",
+    "screenName" : "City of Madison Data Administrator"
+  },
+  "tags" : [ "residential and commercial  property information", "commercial property information", "parcels", "property value", "property information", "zoning" ]
+}, {
+  "id" : "t5vc-2fm7",
+  "name" : "City Events Calendar View",
+  "averageRating" : 0,
+  "category" : "Events",
+  "createdAt" : 1354718030,
+  "description" : "Date, Location, Categories: City Event, Elections, Environment, Holiday, City Offices Closed, Informational Meetings, Listening Session, Neighborhood Event/Meeting, Parks Events, Public Hearing/Meeting, Safety & Wellness, Seniors, Task Force; Cost; Aldermanic District; Contacts; Description of Event",
+  "displayType" : "calendar",
+  "downloadCount" : 244,
+  "indexUpdatedAt" : 1387702078,
+  "newBackend" : false,
+  "numberOfComments" : 0,
+  "oid" : 2045086,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1355715948,
+  "publicationGroup" : 527801,
+  "publicationStage" : "published",
+  "rowClass" : "",
+  "rowsUpdatedAt" : 1387699289,
+  "rowsUpdatedBy" : "cszg-v4tm",
+  "signed" : false,
+  "state" : "normal",
+  "tableId" : 560738,
+  "totalTimesRated" : 0,
+  "viewCount" : 462,
+  "viewLastModified" : 1357669512,
+  "viewType" : "tabular",
+  "grants" : [ {
+    "inherited" : true,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "renderTypeConfig" : {
+      "visible" : {
+        "calendar" : true
+      },
+      "active" : {
+        "page" : {
+          "id" : "824"
+        }
+      }
+    },
+    "availableDisplayTypes" : [ "calendar", "table", "fatrow", "page" ],
+    "rdfSubject" : "0",
+    "rowIdentifier" : "0",
+    "rdfClass" : ""
+  },
+  "owner" : {
+    "id" : "cszg-v4tm",
+    "displayName" : "City of Madison Data Administrator",
+    "profileImageUrlLarge" : "/images/profile/8823/6544/logo1_large.jpg",
+    "profileImageUrlMedium" : "/images/profile/8823/6544/logo1_thumb.jpg",
+    "profileImageUrlSmall" : "/images/profile/8823/6544/logo1_tiny.jpg",
+    "screenName" : "City of Madison Data Administrator"
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "cszg-v4tm",
+    "displayName" : "City of Madison Data Administrator",
+    "profileImageUrlLarge" : "/images/profile/8823/6544/logo1_large.jpg",
+    "profileImageUrlMedium" : "/images/profile/8823/6544/logo1_thumb.jpg",
+    "profileImageUrlSmall" : "/images/profile/8823/6544/logo1_tiny.jpg",
+    "screenName" : "City of Madison Data Administrator"
+  },
+  "tags" : [ "city event calendar", "city event", "elections", "environment", "holiday", "city offices closed", "informational meetings", "listening session", "neighborhood event/meeting", "parks events", "public hearing/meeting", "safety & wellness", "seniors", "task force" ]
+}, {
+  "id" : "7dbz-yi8h",
+  "name" : "Commercial Land Sales",
+  "averageRating" : 0,
+  "category" : "Property",
+  "createdAt" : 1355521728,
+  "description" : "Improved Commercial Sales Determined to be Arms-Length and Verified by Assessor's Office Staff; Information is subject to change upon further review by appraisal staff; Area; Parcel Number; Situs; Grantor; Sale Date; Sale Price; Description of Sale",
+  "displayType" : "table",
+  "downloadCount" : 67,
+  "indexUpdatedAt" : 1357669148,
+  "newBackend" : false,
+  "numberOfComments" : 0,
+  "oid" : 2029316,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1355522004,
+  "publicationGroup" : 556949,
+  "publicationStage" : "published",
+  "rowClass" : "",
+  "rowsUpdatedAt" : 1355521806,
+  "rowsUpdatedBy" : "cszg-v4tm",
+  "signed" : false,
+  "tableId" : 556949,
+  "totalTimesRated" : 0,
+  "viewCount" : 263,
+  "viewLastModified" : 1357669137,
+  "viewType" : "tabular",
+  "grants" : [ {
+    "inherited" : true,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "renderTypeConfig" : {
+      "visible" : {
+        "table" : true
+      }
+    },
+    "availableDisplayTypes" : [ "table", "fatrow", "page" ],
+    "rdfSubject" : "sale",
+    "rowIdentifier" : "0",
+    "rdfClass" : ""
+  },
+  "owner" : {
+    "id" : "cszg-v4tm",
+    "displayName" : "City of Madison Data Administrator",
+    "profileImageUrlLarge" : "/images/profile/8823/6544/logo1_large.jpg",
+    "profileImageUrlMedium" : "/images/profile/8823/6544/logo1_thumb.jpg",
+    "profileImageUrlSmall" : "/images/profile/8823/6544/logo1_tiny.jpg",
+    "screenName" : "City of Madison Data Administrator"
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "cszg-v4tm",
+    "displayName" : "City of Madison Data Administrator",
+    "profileImageUrlLarge" : "/images/profile/8823/6544/logo1_large.jpg",
+    "profileImageUrlMedium" : "/images/profile/8823/6544/logo1_thumb.jpg",
+    "profileImageUrlSmall" : "/images/profile/8823/6544/logo1_tiny.jpg",
+    "screenName" : "City of Madison Data Administrator"
+  },
+  "flags" : [ "default" ]
+}, {
+  "id" : "9u47-9h3u",
+  "name" : "Map: Parks",
+  "averageRating" : 0,
+  "category" : "Parks & Recreation",
+  "createdAt" : 1355722006,
+  "description" : "Park name, address, acreage, type and the facilities available at each park.",
+  "displayType" : "map",
+  "downloadCount" : 33,
+  "indexUpdatedAt" : 1383632646,
+  "newBackend" : false,
+  "numberOfComments" : 0,
+  "oid" : 3304424,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1366663119,
+  "publicationGroup" : 553319,
+  "publicationStage" : "published",
+  "rowsUpdatedAt" : 1383604060,
+  "rowsUpdatedBy" : "cszg-v4tm",
+  "signed" : false,
+  "state" : "normal",
+  "tableId" : 812301,
+  "totalTimesRated" : 0,
+  "viewCount" : 153,
+  "viewLastModified" : 1357669660,
+  "viewType" : "tabular",
+  "grants" : [ {
+    "inherited" : true,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "renderTypeConfig" : {
+      "visible" : {
+        "map" : true
+      },
+      "active" : {
+        "page" : {
+          "id" : "svr6-6gvb"
+        }
+      }
+    },
+    "availableDisplayTypes" : [ "map", "table", "fatrow", "page" ],
+    "rdfSubject" : "0"
+  },
+  "owner" : {
+    "id" : "cszg-v4tm",
+    "displayName" : "City of Madison Data Administrator",
+    "profileImageUrlLarge" : "/images/profile/8823/6544/logo1_large.jpg",
+    "profileImageUrlMedium" : "/images/profile/8823/6544/logo1_thumb.jpg",
+    "profileImageUrlSmall" : "/images/profile/8823/6544/logo1_tiny.jpg",
+    "screenName" : "City of Madison Data Administrator"
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "cszg-v4tm",
+    "displayName" : "City of Madison Data Administrator",
+    "profileImageUrlLarge" : "/images/profile/8823/6544/logo1_large.jpg",
+    "profileImageUrlMedium" : "/images/profile/8823/6544/logo1_thumb.jpg",
+    "profileImageUrlSmall" : "/images/profile/8823/6544/logo1_tiny.jpg",
+    "screenName" : "City of Madison Data Administrator"
+  }
+}, {
+  "id" : "6ym2-385s",
+  "name" : "Public Safety Locations: Police and Fire Stations",
+  "averageRating" : 0,
+  "category" : "Public Safety",
+  "createdAt" : 1354657926,
+  "description" : "Police District and Fire Station Locations",
+  "displayType" : "table",
+  "downloadCount" : 32,
+  "indexUpdatedAt" : 1357669378,
+  "newBackend" : false,
+  "numberOfComments" : 0,
+  "oid" : 1899981,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1354733645,
+  "publicationGroup" : 537079,
+  "publicationStage" : "published",
+  "rowClass" : "",
+  "rowsUpdatedAt" : 1354733619,
+  "rowsUpdatedBy" : "cszg-v4tm",
+  "signed" : false,
+  "tableId" : 537095,
+  "totalTimesRated" : 0,
+  "viewCount" : 81,
+  "viewLastModified" : 1357669333,
+  "viewType" : "tabular",
+  "grants" : [ {
+    "inherited" : true,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "renderTypeConfig" : {
+      "visible" : {
+        "table" : true
+      }
+    },
+    "availableDisplayTypes" : [ "table", "fatrow", "page" ],
+    "rdfSubject" : "0",
+    "rowIdentifier" : "0",
+    "rdfClass" : ""
+  },
+  "owner" : {
+    "id" : "cszg-v4tm",
+    "displayName" : "City of Madison Data Administrator",
+    "profileImageUrlLarge" : "/images/profile/8823/6544/logo1_large.jpg",
+    "profileImageUrlMedium" : "/images/profile/8823/6544/logo1_thumb.jpg",
+    "profileImageUrlSmall" : "/images/profile/8823/6544/logo1_tiny.jpg",
+    "screenName" : "City of Madison Data Administrator"
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "cszg-v4tm",
+    "displayName" : "City of Madison Data Administrator",
+    "profileImageUrlLarge" : "/images/profile/8823/6544/logo1_large.jpg",
+    "profileImageUrlMedium" : "/images/profile/8823/6544/logo1_thumb.jpg",
+    "profileImageUrlSmall" : "/images/profile/8823/6544/logo1_tiny.jpg",
+    "screenName" : "City of Madison Data Administrator"
+  },
+  "tags" : [ "police district and fire station locations" ],
+  "flags" : [ "default" ]
+}, {
+  "id" : "b7xj-5uyg",
+  "name" : "Parks Events Calendar View",
+  "averageRating" : 0,
+  "category" : "Events",
+  "createdAt" : 1355503663,
+  "description" : "Date, Location, Categories: City Event, Elections, Environment, Holiday, City Offices Closed, Informational Meetings, Listening Session, Neighborhood Event/Meeting, Parks Events, Public Hearing/Meeting, Safety & Wellness, Seniors, Task Force; Cost; Aldermanic District; Contacts; Description of Event",
+  "displayType" : "calendar",
+  "downloadCount" : 68,
+  "indexUpdatedAt" : 1387702088,
+  "newBackend" : false,
+  "numberOfComments" : 0,
+  "oid" : 2045087,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1355715948,
+  "publicationGroup" : 527801,
+  "publicationStage" : "published",
+  "rowClass" : "",
+  "rowsUpdatedAt" : 1387699289,
+  "rowsUpdatedBy" : "cszg-v4tm",
+  "signed" : false,
+  "state" : "normal",
+  "tableId" : 560738,
+  "totalTimesRated" : 0,
+  "viewCount" : 320,
+  "viewLastModified" : 1357669744,
+  "viewType" : "tabular",
+  "grants" : [ {
+    "inherited" : true,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "renderTypeConfig" : {
+      "visible" : {
+        "table" : true,
+        "calendar" : true
+      }
+    },
+    "availableDisplayTypes" : [ "calendar", "table", "fatrow", "page" ],
+    "rdfSubject" : "0",
+    "rowIdentifier" : "0",
+    "rdfClass" : ""
+  },
+  "owner" : {
+    "id" : "cszg-v4tm",
+    "displayName" : "City of Madison Data Administrator",
+    "profileImageUrlLarge" : "/images/profile/8823/6544/logo1_large.jpg",
+    "profileImageUrlMedium" : "/images/profile/8823/6544/logo1_thumb.jpg",
+    "profileImageUrlSmall" : "/images/profile/8823/6544/logo1_tiny.jpg",
+    "screenName" : "City of Madison Data Administrator"
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "cszg-v4tm",
+    "displayName" : "City of Madison Data Administrator",
+    "profileImageUrlLarge" : "/images/profile/8823/6544/logo1_large.jpg",
+    "profileImageUrlMedium" : "/images/profile/8823/6544/logo1_thumb.jpg",
+    "profileImageUrlSmall" : "/images/profile/8823/6544/logo1_tiny.jpg",
+    "screenName" : "City of Madison Data Administrator"
+  },
+  "tags" : [ "city event calendar", "city event", "elections", "environment", "holiday", "city offices closed", "informational meetings", "listening session", "neighborhood event/meeting", "parks events", "public hearing/meeting", "safety & wellness", "seniors", "task force" ]
+}, {
+  "id" : "f4km-tx65",
+  "name" : "Map: Police and Fire Station Locations",
+  "averageRating" : 0,
+  "category" : "Public Safety",
+  "createdAt" : 1354658432,
+  "description" : "Police District and Fire Station Locations",
+  "displayType" : "map",
+  "downloadCount" : 21,
+  "indexUpdatedAt" : 1357669499,
+  "newBackend" : false,
+  "numberOfComments" : 0,
+  "oid" : 1913192,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1354733645,
+  "publicationGroup" : 537079,
+  "publicationStage" : "published",
+  "rowClass" : "",
+  "rowsUpdatedAt" : 1354733619,
+  "rowsUpdatedBy" : "cszg-v4tm",
+  "signed" : false,
+  "tableId" : 537095,
+  "totalTimesRated" : 0,
+  "viewCount" : 81,
+  "viewLastModified" : 1357669467,
+  "viewType" : "tabular",
+  "grants" : [ {
+    "inherited" : true,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "renderTypeConfig" : {
+      "visible" : {
+        "map" : true,
+        "table" : true
+      }
+    },
+    "availableDisplayTypes" : [ "map", "table", "fatrow", "page" ],
+    "rdfSubject" : "0",
+    "rowIdentifier" : "0",
+    "rdfClass" : ""
+  },
+  "owner" : {
+    "id" : "cszg-v4tm",
+    "displayName" : "City of Madison Data Administrator",
+    "profileImageUrlLarge" : "/images/profile/8823/6544/logo1_large.jpg",
+    "profileImageUrlMedium" : "/images/profile/8823/6544/logo1_thumb.jpg",
+    "profileImageUrlSmall" : "/images/profile/8823/6544/logo1_tiny.jpg",
+    "screenName" : "City of Madison Data Administrator"
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "cszg-v4tm",
+    "displayName" : "City of Madison Data Administrator",
+    "profileImageUrlLarge" : "/images/profile/8823/6544/logo1_large.jpg",
+    "profileImageUrlMedium" : "/images/profile/8823/6544/logo1_thumb.jpg",
+    "profileImageUrlSmall" : "/images/profile/8823/6544/logo1_tiny.jpg",
+    "screenName" : "City of Madison Data Administrator"
+  },
+  "tags" : [ "police district locations", "fire station locations" ]
+}, {
+  "id" : "vf3w-yibt",
+  "name" : "Map: Polling Places",
+  "averageRating" : 0,
+  "category" : "Polling Places",
+  "createdAt" : 1355713872,
+  "description" : "Ward; Aldermanic District; Polling Place; Polling Place Address; Handicap Accessible; Comments about location of polling place in building.",
+  "displayType" : "map",
+  "downloadCount" : 28,
+  "indexUpdatedAt" : 1357669727,
+  "newBackend" : false,
+  "numberOfComments" : 0,
+  "oid" : 2045022,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1355350337,
+  "publicationGroup" : 552361,
+  "publicationStage" : "published",
+  "rowClass" : "",
+  "rowIdentifierColumnId" : 35334427,
+  "rowsUpdatedAt" : 1355338739,
+  "rowsUpdatedBy" : "cszg-v4tm",
+  "signed" : false,
+  "state" : "normal",
+  "tableId" : 552361,
+  "totalTimesRated" : 0,
+  "viewCount" : 114,
+  "viewLastModified" : 1357669711,
+  "viewType" : "tabular",
+  "grants" : [ {
+    "inherited" : true,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "renderTypeConfig" : {
+      "visible" : {
+        "fatrow" : true,
+        "map" : true
+      },
+      "active" : {
+        "page" : {
+          "id" : "rtyh-6ucr"
+        },
+        "fatrow" : {
+          "id" : "rtyh-6ucr"
+        },
+        "table" : {
+          "id" : "rtyh-6ucr"
+        }
+      }
+    },
+    "availableDisplayTypes" : [ "map", "table", "fatrow", "page" ],
+    "rdfSubject" : "0",
+    "rowIdentifier" : "35334427",
+    "rdfClass" : ""
+  },
+  "owner" : {
+    "id" : "cszg-v4tm",
+    "displayName" : "City of Madison Data Administrator",
+    "profileImageUrlLarge" : "/images/profile/8823/6544/logo1_large.jpg",
+    "profileImageUrlMedium" : "/images/profile/8823/6544/logo1_thumb.jpg",
+    "profileImageUrlSmall" : "/images/profile/8823/6544/logo1_tiny.jpg",
+    "screenName" : "City of Madison Data Administrator"
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "cszg-v4tm",
+    "displayName" : "City of Madison Data Administrator",
+    "profileImageUrlLarge" : "/images/profile/8823/6544/logo1_large.jpg",
+    "profileImageUrlMedium" : "/images/profile/8823/6544/logo1_thumb.jpg",
+    "profileImageUrlSmall" : "/images/profile/8823/6544/logo1_tiny.jpg",
+    "screenName" : "City of Madison Data Administrator"
+  }
+}, {
+  "id" : "hwdm-jhzj",
+  "name" : "1 utah",
+  "averageRating" : 0,
+  "category" : "Property",
+  "createdAt" : 1360511250,
+  "description" : "Parcels; Property Value; Property Information: Zoning; Property Class; Water Frontage; Assessment Area; TIF District; Frontage; Residential Building Information:  Home-Style; Stories; Year Built; Number of Garages; Driveway; Roof type and replacement; Interior Information: Number of bedrooms, Full Baths, Half Baths, Fireplaces; Living Areas: Floor and Size of rooms in square feet; Other Structures; Mechanicals.",
+  "displayType" : "table",
+  "downloadCount" : 16,
+  "indexUpdatedAt" : 1387606512,
+  "newBackend" : false,
+  "numberOfComments" : 0,
+  "oid" : 3315802,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1366733229,
+  "publicationGroup" : 534980,
+  "publicationStage" : "published",
+  "rowsUpdatedAt" : 1387606128,
+  "rowsUpdatedBy" : "cszg-v4tm",
+  "searchString" : "1 utah",
+  "signed" : false,
+  "state" : "normal",
+  "tableId" : 812367,
+  "totalTimesRated" : 0,
+  "viewCount" : 76,
+  "viewLastModified" : 1360511251,
+  "viewType" : "tabular",
+  "grants" : [ {
+    "inherited" : true,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "renderTypeConfig" : {
+      "visible" : {
+        "table" : true
+      }
+    },
+    "availableDisplayTypes" : [ "table", "fatrow", "page" ],
+    "thumbnail" : {
+      "page" : {
+        "created" : true
+      }
+    },
+    "rdfSubject" : "0"
+  },
+  "owner" : {
+    "id" : "xhtb-nh8c",
+    "displayName" : "KB",
+    "screenName" : "KB"
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "cszg-v4tm",
+    "displayName" : "City of Madison Data Administrator",
+    "profileImageUrlLarge" : "/images/profile/8823/6544/logo1_large.jpg",
+    "profileImageUrlMedium" : "/images/profile/8823/6544/logo1_thumb.jpg",
+    "profileImageUrlSmall" : "/images/profile/8823/6544/logo1_tiny.jpg",
+    "screenName" : "City of Madison Data Administrator"
+  },
+  "tags" : [ "residential and commercial  property information", "commercial property information", "parcels", "property value", "property information", "zoning" ]
+}, {
+  "id" : "t89i-9tka",
+  "name" : "Moorpark",
+  "averageRating" : 0,
+  "category" : "Property",
+  "createdAt" : 1367599456,
+  "description" : "Parcels; Property Value; Property Information: Zoning; Property Class; Water Frontage; Assessment Area; TIF District; Frontage; Residential Building Information:  Home-Style; Stories; Year Built; Number of Garages; Driveway; Roof type and replacement; Interior Information: Number of bedrooms, Full Baths, Half Baths, Fireplaces; Living Areas: Floor and Size of rooms in square feet; Other Structures; Mechanicals.",
+  "displayType" : "table",
+  "downloadCount" : 19,
+  "indexUpdatedAt" : 1387606358,
+  "newBackend" : false,
+  "numberOfComments" : 0,
+  "oid" : 3454099,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1366733229,
+  "publicationGroup" : 534980,
+  "publicationStage" : "published",
+  "rowIdentifierColumnId" : 62963393,
+  "rowsUpdatedAt" : 1387606128,
+  "rowsUpdatedBy" : "cszg-v4tm",
+  "searchString" : "668 Flinn Ave., Moorpark, CA",
+  "signed" : false,
+  "state" : "normal",
+  "tableId" : 812367,
+  "totalTimesRated" : 0,
+  "viewCount" : 48,
+  "viewLastModified" : 1367599457,
+  "viewType" : "tabular",
+  "grants" : [ {
+    "inherited" : true,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "renderTypeConfig" : {
+      "visible" : {
+        "table" : true
+      }
+    },
+    "availableDisplayTypes" : [ "table", "fatrow", "page" ],
+    "thumbnail" : {
+      "page" : {
+        "created" : true
+      }
+    },
+    "rdfSubject" : "0",
+    "rowIdentifier" : 62963393
+  },
+  "owner" : {
+    "id" : "pf9x-t3fw",
+    "displayName" : "Delmy",
+    "screenName" : "Delmy"
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "cszg-v4tm",
+    "displayName" : "City of Madison Data Administrator",
+    "profileImageUrlLarge" : "/images/profile/8823/6544/logo1_large.jpg",
+    "profileImageUrlMedium" : "/images/profile/8823/6544/logo1_thumb.jpg",
+    "profileImageUrlSmall" : "/images/profile/8823/6544/logo1_tiny.jpg",
+    "screenName" : "City of Madison Data Administrator"
+  },
+  "tags" : [ "residential and commercial  property information", "commercial property information", "parcels", "property value", "property information", "zoning" ]
+}, {
+  "id" : "geuk-tayq",
+  "name" : "6/11/13",
+  "averageRating" : 0,
+  "category" : "Police",
+  "createdAt" : 1370972145,
+  "description" : "Calls for Service;  Type of Call; Descriptions; Date/Time; Location by 100 block; Incident Number",
+  "displayType" : "table",
+  "downloadCount" : 22,
+  "indexUpdatedAt" : 1381773406,
+  "newBackend" : false,
+  "numberOfComments" : 0,
+  "oid" : 5915689,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1381770932,
+  "publicationGroup" : 529495,
+  "publicationStage" : "published",
+  "rowsUpdatedAt" : 1378926661,
+  "rowsUpdatedBy" : "cszg-v4tm",
+  "signed" : false,
+  "tableId" : 1137748,
+  "totalTimesRated" : 0,
+  "viewCount" : 253,
+  "viewLastModified" : 1370972445,
+  "viewType" : "tabular",
+  "grants" : [ {
+    "inherited" : true,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "renderTypeConfig" : {
+      "visible" : {
+        "page" : true,
+        "table" : true
+      },
+      "active" : {
+        "page" : {
+          "id" : "4gss-84dk"
+        },
+        "table" : {
+          "id" : "self"
+        }
+      }
+    },
+    "availableDisplayTypes" : [ "map", "table", "fatrow", "page" ],
+    "rdfSubject" : "0"
+  },
+  "owner" : {
+    "id" : "wuk3-dzqi",
+    "displayName" : "ashleyahorton",
+    "screenName" : "ashleyahorton"
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "maie-8avu",
+    "displayName" : "dhaueter",
+    "screenName" : "dhaueter"
+  },
+  "tags" : [ "madison police department calls for service" ]
+}, {
+  "id" : "32m2-fqa2",
+  "name" : "tt",
+  "averageRating" : 0,
+  "category" : "Property",
+  "createdAt" : 1369322982,
+  "description" : "Parcels; Property Value; Property Information: Zoning; Property Class; Water Frontage; Assessment Area; TIF District; Frontage; Residential Building Information:  Home-Style; Stories; Year Built; Number of Garages; Driveway; Roof type and replacement; Interior Information: Number of bedrooms, Full Baths, Half Baths, Fireplaces; Living Areas: Floor and Size of rooms in square feet; Other Structures; Mechanicals.",
+  "displayType" : "table",
+  "downloadCount" : 15,
+  "indexUpdatedAt" : 1387606358,
+  "newBackend" : false,
+  "numberOfComments" : 0,
+  "oid" : 3728814,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1366733229,
+  "publicationGroup" : 534980,
+  "publicationStage" : "published",
+  "rowIdentifierColumnId" : 68159415,
+  "rowsUpdatedAt" : 1387606128,
+  "rowsUpdatedBy" : "cszg-v4tm",
+  "searchString" : "tt",
+  "signed" : false,
+  "state" : "normal",
+  "tableId" : 812367,
+  "totalTimesRated" : 0,
+  "viewCount" : 38,
+  "viewLastModified" : 1369323582,
+  "viewType" : "tabular",
+  "grants" : [ {
+    "inherited" : true,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "renderTypeConfig" : {
+      "visible" : {
+        "table" : true
+      }
+    },
+    "availableDisplayTypes" : [ "table", "fatrow", "page" ],
+    "thumbnail" : {
+      "page" : {
+        "created" : true
+      }
+    },
+    "rdfSubject" : "0",
+    "rowIdentifier" : 68159415
+  },
+  "owner" : {
+    "id" : "9amh-gdpj",
+    "displayName" : "Judy",
+    "screenName" : "Judy"
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "cszg-v4tm",
+    "displayName" : "City of Madison Data Administrator",
+    "profileImageUrlLarge" : "/images/profile/8823/6544/logo1_large.jpg",
+    "profileImageUrlMedium" : "/images/profile/8823/6544/logo1_thumb.jpg",
+    "profileImageUrlSmall" : "/images/profile/8823/6544/logo1_tiny.jpg",
+    "screenName" : "City of Madison Data Administrator"
+  },
+  "tags" : [ "residential and commercial  property information", "commercial property information", "parcels", "property value", "property information", "zoning" ]
+}, {
+  "id" : "efhs-2ube",
+  "name" : "2011 Report a Problem Stats",
+  "averageRating" : 0,
+  "category" : "Service Requests",
+  "createdAt" : 1370542535,
+  "description" : "Statistics on Report a Problem service requests.",
+  "displayType" : "table",
+  "downloadCount" : 17,
+  "indexUpdatedAt" : 1370547737,
+  "newBackend" : false,
+  "numberOfComments" : 0,
+  "oid" : 3922567,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1370542738,
+  "publicationGroup" : 903049,
+  "publicationStage" : "published",
+  "rowsUpdatedAt" : 1370542540,
+  "rowsUpdatedBy" : "cszg-v4tm",
+  "signed" : false,
+  "tableId" : 903049,
+  "totalTimesRated" : 0,
+  "viewCount" : 25,
+  "viewLastModified" : 1370542738,
+  "viewType" : "tabular",
+  "grants" : [ {
+    "inherited" : false,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "renderTypeConfig" : {
+      "visible" : {
+        "table" : true
+      }
+    },
+    "availableDisplayTypes" : [ "table", "fatrow", "page" ]
+  },
+  "owner" : {
+    "id" : "cszg-v4tm",
+    "displayName" : "City of Madison Data Administrator",
+    "profileImageUrlLarge" : "/images/profile/8823/6544/logo1_large.jpg",
+    "profileImageUrlMedium" : "/images/profile/8823/6544/logo1_thumb.jpg",
+    "profileImageUrlSmall" : "/images/profile/8823/6544/logo1_tiny.jpg",
+    "screenName" : "City of Madison Data Administrator"
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "cszg-v4tm",
+    "displayName" : "City of Madison Data Administrator",
+    "profileImageUrlLarge" : "/images/profile/8823/6544/logo1_large.jpg",
+    "profileImageUrlMedium" : "/images/profile/8823/6544/logo1_thumb.jpg",
+    "profileImageUrlSmall" : "/images/profile/8823/6544/logo1_tiny.jpg",
+    "screenName" : "City of Madison Data Administrator"
+  },
+  "tags" : [ "statistics", "service requests", "report a problem" ],
+  "flags" : [ "default" ]
+}, {
+  "id" : "2tcz-87nc",
+  "name" : "PoliceReports",
+  "averageRating" : 0,
+  "category" : "Police",
+  "createdAt" : 1370983446,
+  "description" : "Incidents listed are selected by the Officer In Charge of each shift that may have significant public interest. Incidents listed are not inclusive of all incidents.",
+  "displayType" : "table",
+  "downloadCount" : 3,
+  "indexUpdatedAt" : 1387703665,
+  "newBackend" : false,
+  "numberOfComments" : 0,
+  "oid" : 3992666,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1355719887,
+  "publicationGroup" : 556605,
+  "publicationStage" : "published",
+  "rowClass" : "",
+  "rowIdentifierColumnId" : 73016556,
+  "rowsUpdatedAt" : 1387702980,
+  "rowsUpdatedBy" : "cszg-v4tm",
+  "signed" : false,
+  "state" : "normal",
+  "tableId" : 560812,
+  "totalTimesRated" : 0,
+  "viewCount" : 128,
+  "viewLastModified" : 1370983467,
+  "viewType" : "tabular",
+  "grants" : [ {
+    "inherited" : true,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "renderTypeConfig" : {
+      "visible" : {
+        "table" : true
+      }
+    },
+    "availableDisplayTypes" : [ "table", "fatrow", "page" ],
+    "rdfSubject" : "0",
+    "rowIdentifier" : 73016556,
+    "rdfClass" : ""
+  },
+  "owner" : {
+    "id" : "8eve-ccbu",
+    "displayName" : "MadCrime",
+    "screenName" : "MadCrime"
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "cszg-v4tm",
+    "displayName" : "City of Madison Data Administrator",
+    "profileImageUrlLarge" : "/images/profile/8823/6544/logo1_large.jpg",
+    "profileImageUrlMedium" : "/images/profile/8823/6544/logo1_thumb.jpg",
+    "profileImageUrlSmall" : "/images/profile/8823/6544/logo1_tiny.jpg",
+    "screenName" : "City of Madison Data Administrator"
+  },
+  "tags" : [ "police", "incidents" ]
+}, {
+  "id" : "qdb8-htgr",
+  "name" : "Incident Reports 2013",
+  "averageRating" : 0,
+  "category" : "Police",
+  "createdAt" : 1382017295,
+  "description" : "Incidents listed are selected by the Officer In Charge of each shift that may have significant public interest. Incidents listed are not inclusive of all incidents.",
+  "displayType" : "table",
+  "downloadCount" : 42,
+  "indexUpdatedAt" : 1387703675,
+  "newBackend" : false,
+  "numberOfComments" : 0,
+  "oid" : 5966954,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1355719887,
+  "publicationGroup" : 556605,
+  "publicationStage" : "published",
+  "rowClass" : "",
+  "rowIdentifierColumnId" : 107672460,
+  "rowsUpdatedAt" : 1387702980,
+  "rowsUpdatedBy" : "cszg-v4tm",
+  "signed" : false,
+  "state" : "normal",
+  "tableId" : 560812,
+  "totalTimesRated" : 0,
+  "viewCount" : 105,
+  "viewLastModified" : 1382017439,
+  "viewType" : "tabular",
+  "grants" : [ {
+    "inherited" : true,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "renderTypeConfig" : {
+      "visible" : {
+        "page" : true,
+        "table" : true
+      }
+    },
+    "availableDisplayTypes" : [ "table", "fatrow", "page" ],
+    "rdfSubject" : "0",
+    "conditionalFormatting" : [ {
+      "condition" : {
+        "_key" : "(6079783|GREATER_THAN|2011-01-01T00:00:00)",
+        "value" : "2011-01-01T00:00:00",
+        "tableColumnId" : 6079783,
+        "operator" : "GREATER_THAN"
+      },
+      "color" : "#bbffbb"
+    } ],
+    "rowIdentifier" : 107672460,
+    "rdfClass" : ""
+  },
+  "owner" : {
+    "id" : "9sad-4tec",
+    "displayName" : "kettell",
+    "screenName" : "kettell"
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "cszg-v4tm",
+    "displayName" : "City of Madison Data Administrator",
+    "profileImageUrlLarge" : "/images/profile/8823/6544/logo1_large.jpg",
+    "profileImageUrlMedium" : "/images/profile/8823/6544/logo1_thumb.jpg",
+    "profileImageUrlSmall" : "/images/profile/8823/6544/logo1_tiny.jpg",
+    "screenName" : "City of Madison Data Administrator"
+  },
+  "tags" : [ "police", "incidents" ]
+}, {
+  "id" : "fyin-zvkt",
+  "name" : "East Johnson Street properties",
+  "averageRating" : 0,
+  "category" : "Property",
+  "createdAt" : 1383756813,
+  "description" : "Parcels; Property Value; Property Information: Zoning; Property Class; Water Frontage; Assessment Area; TIF District; Frontage; Residential Building Information:  Home-Style; Stories; Year Built; Number of Garages; Driveway; Roof type and replacement; Interior Information: Number of bedrooms, Full Baths, Half Baths, Fireplaces; Living Areas: Floor and Size of rooms in square feet; Other Structures; Mechanicals.",
+  "displayType" : "table",
+  "downloadCount" : 16,
+  "indexUpdatedAt" : 1387606346,
+  "newBackend" : false,
+  "numberOfComments" : 0,
+  "oid" : 6290696,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1366733229,
+  "publicationGroup" : 534980,
+  "publicationStage" : "published",
+  "rowIdentifierColumnId" : 112948885,
+  "rowsUpdatedAt" : 1387606128,
+  "rowsUpdatedBy" : "cszg-v4tm",
+  "signed" : false,
+  "state" : "normal",
+  "tableId" : 812367,
+  "totalTimesRated" : 0,
+  "viewCount" : 35,
+  "viewLastModified" : 1383756855,
+  "viewType" : "tabular",
+  "grants" : [ {
+    "inherited" : true,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "renderTypeConfig" : {
+      "visible" : {
+        "table" : true
+      }
+    },
+    "availableDisplayTypes" : [ "table", "fatrow", "page" ],
+    "thumbnail" : {
+      "page" : {
+        "created" : true
+      }
+    },
+    "rdfSubject" : "0",
+    "rowIdentifier" : 112948885
+  },
+  "owner" : {
+    "id" : "gcns-fguu",
+    "displayName" : "Erik Paulson",
+    "screenName" : "Erik Paulson"
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "cszg-v4tm",
+    "displayName" : "City of Madison Data Administrator",
+    "profileImageUrlLarge" : "/images/profile/8823/6544/logo1_large.jpg",
+    "profileImageUrlMedium" : "/images/profile/8823/6544/logo1_thumb.jpg",
+    "profileImageUrlSmall" : "/images/profile/8823/6544/logo1_tiny.jpg",
+    "screenName" : "City of Madison Data Administrator"
+  },
+  "tags" : [ "residential and commercial  property information", "commercial property information", "parcels", "property value", "property information", "zoning" ]
+}, {
+  "id" : "pi5r-e26i",
+  "name" : "Property Styles and Ages",
+  "averageRating" : 0,
+  "category" : "Property",
+  "createdAt" : 1384050262,
+  "description" : "Parcels; Property Value; Property Information: Zoning; Property Class; Water Frontage; Assessment Area; TIF District; Frontage; Residential Building Information:  Home-Style; Stories; Year Built; Number of Garages; Driveway; Roof type and replacement; Interior Information: Number of bedrooms, Full Baths, Half Baths, Fireplaces; Living Areas: Floor and Size of rooms in square feet; Other Structures; Mechanicals.",
+  "displayType" : "table",
+  "downloadCount" : 8,
+  "indexUpdatedAt" : 1387606477,
+  "newBackend" : false,
+  "numberOfComments" : 0,
+  "oid" : 6348980,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1366733229,
+  "publicationGroup" : 534980,
+  "publicationStage" : "published",
+  "rowsUpdatedAt" : 1387606128,
+  "rowsUpdatedBy" : "cszg-v4tm",
+  "signed" : false,
+  "state" : "normal",
+  "tableId" : 812367,
+  "totalTimesRated" : 0,
+  "viewCount" : 80,
+  "viewLastModified" : 1384050620,
+  "viewType" : "tabular",
+  "grants" : [ {
+    "inherited" : true,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "renderTypeConfig" : {
+      "visible" : {
+        "table" : true
+      }
+    },
+    "availableDisplayTypes" : [ "table", "fatrow", "page" ],
+    "thumbnail" : {
+      "page" : {
+        "created" : true
+      }
+    },
+    "rdfSubject" : "0",
+    "rowIdentifier" : 113913171
+  },
+  "owner" : {
+    "id" : "t7j9-idww",
+    "displayName" : "garrettnelson",
+    "screenName" : "garrettnelson"
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "cszg-v4tm",
+    "displayName" : "City of Madison Data Administrator",
+    "profileImageUrlLarge" : "/images/profile/8823/6544/logo1_large.jpg",
+    "profileImageUrlMedium" : "/images/profile/8823/6544/logo1_thumb.jpg",
+    "profileImageUrlSmall" : "/images/profile/8823/6544/logo1_tiny.jpg",
+    "screenName" : "City of Madison Data Administrator"
+  },
+  "tags" : [ "residential and commercial  property information", "commercial property information", "parcels", "property value", "property information", "zoning" ]
+}, {
+  "id" : "wf2u-ezp8",
+  "name" : "Performance",
+  "averageRating" : 0,
+  "category" : "Property",
+  "createdAt" : 1383073267,
+  "description" : "Parcels; Property Value; Property Information: Zoning; Property Class; Water Frontage; Assessment Area; TIF District; Frontage; Residential Building Information:  Home-Style; Stories; Year Built; Number of Garages; Driveway; Roof type and replacement; Interior Information: Number of bedrooms, Full Baths, Half Baths, Fireplaces; Living Areas: Floor and Size of rooms in square feet; Other Structures; Mechanicals.",
+  "displayType" : "table",
+  "downloadCount" : 4,
+  "indexUpdatedAt" : 1387606449,
+  "newBackend" : false,
+  "numberOfComments" : 0,
+  "oid" : 6156474,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1366733229,
+  "publicationGroup" : 534980,
+  "publicationStage" : "published",
+  "rowsUpdatedAt" : 1387606128,
+  "rowsUpdatedBy" : "cszg-v4tm",
+  "signed" : false,
+  "state" : "normal",
+  "tableId" : 812367,
+  "totalTimesRated" : 0,
+  "viewCount" : 98,
+  "viewLastModified" : 1383073554,
+  "viewType" : "tabular",
+  "grants" : [ {
+    "inherited" : true,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "renderTypeConfig" : {
+      "visible" : {
+        "table" : true
+      }
+    },
+    "availableDisplayTypes" : [ "table", "fatrow", "page" ],
+    "thumbnail" : {
+      "page" : {
+        "created" : true
+      }
+    },
+    "rdfSubject" : "0",
+    "rowIdentifier" : 110867426
+  },
+  "owner" : {
+    "id" : "rygp-mdbn",
+    "displayName" : "mark faultersack",
+    "screenName" : "mark faultersack"
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "cszg-v4tm",
+    "displayName" : "City of Madison Data Administrator",
+    "profileImageUrlLarge" : "/images/profile/8823/6544/logo1_large.jpg",
+    "profileImageUrlMedium" : "/images/profile/8823/6544/logo1_thumb.jpg",
+    "profileImageUrlSmall" : "/images/profile/8823/6544/logo1_tiny.jpg",
+    "screenName" : "City of Madison Data Administrator"
+  },
+  "tags" : [ "residential and commercial  property information", "commercial property information", "parcels", "property value", "property information", "zoning" ]
+}, {
+  "id" : "m8qu-5gbp",
+  "name" : "Wards With No Registered Voters At This Time",
+  "averageRating" : 0,
+  "category" : "Elections",
+  "createdAt" : 1387295820,
+  "description" : "These wards consist of recently annexed land, and currently do not have any registered voters.  This data will be updated two weeks before each election to provide clarification for anyone waiting for election returns.",
+  "displayType" : "table",
+  "downloadCount" : 0,
+  "indexUpdatedAt" : 1387305602,
+  "newBackend" : false,
+  "numberOfComments" : 0,
+  "oid" : 6836724,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1387296193,
+  "publicationGroup" : 1403158,
+  "publicationStage" : "published",
+  "rowsUpdatedAt" : 1387295831,
+  "rowsUpdatedBy" : "jphu-vngw",
+  "signed" : false,
+  "tableId" : 1403158,
+  "totalTimesRated" : 0,
+  "viewCount" : 3,
+  "viewLastModified" : 1387296193,
+  "viewType" : "tabular",
+  "grants" : [ {
+    "inherited" : false,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "renderTypeConfig" : {
+      "visible" : {
+        "table" : true
+      }
+    },
+    "availableDisplayTypes" : [ "table", "fatrow", "page" ]
+  },
+  "owner" : {
+    "id" : "jphu-vngw",
+    "displayName" : "Maribeth Witzel-Behl",
+    "screenName" : "Maribeth Witzel-Behl"
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "jphu-vngw",
+    "displayName" : "Maribeth Witzel-Behl",
+    "screenName" : "Maribeth Witzel-Behl"
+  },
+  "flags" : [ "default" ]
+}, {
+  "id" : "jbpd-4xxj",
+  "name" : "Fire Hydrants",
+  "averageRating" : 0,
+  "category" : "City Facilities ",
+  "createdAt" : 1380549825,
+  "description" : "Fire hydrants owned and maintained by the Madison Water Utility",
+  "displayType" : "table",
+  "downloadCount" : 5,
+  "indexUpdatedAt" : 1380552251,
+  "newBackend" : false,
+  "numberOfComments" : 0,
+  "oid" : 5684745,
+  "publicationAppendEnabled" : true,
+  "publicationDate" : 1380551993,
+  "publicationGroup" : 1201596,
+  "publicationStage" : "published",
+  "rowClass" : "http://www.w3.org/2003/01/geo/wgs84_pos#Point",
+  "rowsUpdatedAt" : 1380551992,
+  "rowsUpdatedBy" : "x8tp-8zxg",
+  "signed" : false,
+  "tableId" : 1201694,
+  "totalTimesRated" : 0,
+  "viewCount" : 194,
+  "viewLastModified" : 1380551993,
+  "viewType" : "tabular",
+  "disabledFeatureFlags" : [ "allow_comments" ],
+  "grants" : [ {
+    "inherited" : true,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "renderTypeConfig" : {
+      "visible" : {
+        "table" : true
+      }
+    },
+    "availableDisplayTypes" : [ "table", "fatrow", "page" ],
+    "rdfSubject" : "0",
+    "rdfClass" : "http://www.w3.org/2003/01/geo/wgs84_pos#Point"
+  },
+  "owner" : {
+    "id" : "x8tp-8zxg",
+    "displayName" : "Peter Braselton",
+    "screenName" : "Peter Braselton"
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "x8tp-8zxg",
+    "displayName" : "Peter Braselton",
+    "screenName" : "Peter Braselton"
+  },
+  "tags" : [ "fire hydrant" ],
+  "flags" : [ "default" ]
+}, {
+  "id" : "tbc5-gynu",
+  "name" : "Fire Hydrant Overview Map",
+  "averageRating" : 0,
+  "category" : "City Facilities ",
+  "createdAt" : 1380550102,
+  "description" : "Fire hydrants owned and maintained by the Madison Water Utility",
+  "displayType" : "map",
+  "downloadCount" : 4,
+  "indexUpdatedAt" : 1380552252,
+  "newBackend" : false,
+  "numberOfComments" : 0,
+  "oid" : 5684752,
+  "publicationAppendEnabled" : true,
+  "publicationDate" : 1380551993,
+  "publicationGroup" : 1201596,
+  "publicationStage" : "published",
+  "rowClass" : "http://www.w3.org/2003/01/geo/wgs84_pos#Point",
+  "rowsUpdatedAt" : 1380551992,
+  "rowsUpdatedBy" : "x8tp-8zxg",
+  "signed" : false,
+  "tableId" : 1201694,
+  "totalTimesRated" : 0,
+  "viewCount" : 179,
+  "viewLastModified" : 1380550102,
+  "viewType" : "tabular",
+  "disabledFeatureFlags" : [ "allow_comments" ],
+  "grants" : [ {
+    "inherited" : true,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "renderTypeConfig" : {
+      "visible" : {
+        "map" : true,
+        "table" : true
+      }
+    },
+    "availableDisplayTypes" : [ "map", "table", "fatrow", "page" ],
+    "rdfSubject" : "0",
+    "rdfClass" : "http://www.w3.org/2003/01/geo/wgs84_pos#Point"
+  },
+  "owner" : {
+    "id" : "x8tp-8zxg",
+    "displayName" : "Peter Braselton",
+    "screenName" : "Peter Braselton"
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "x8tp-8zxg",
+    "displayName" : "Peter Braselton",
+    "screenName" : "Peter Braselton"
+  },
+  "tags" : [ "fire hydrant" ]
+}, {
+  "id" : "2a9g-qge2",
+  "name" : "Bus-1.0",
+  "averageRating" : 0,
+  "category" : "Metro Transportation",
+  "createdAt" : 1377872994,
+  "displayType" : "map",
+  "downloadCount" : 10,
+  "indexUpdatedAt" : 1380736906,
+  "newBackend" : false,
+  "numberOfComments" : 0,
+  "oid" : 5179479,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1358270198,
+  "publicationGroup" : 538959,
+  "publicationStage" : "published",
+  "rowsUpdatedAt" : 1358270024,
+  "rowsUpdatedBy" : "cszg-v4tm",
+  "signed" : false,
+  "tableId" : 616112,
+  "totalTimesRated" : 0,
+  "viewCount" : 198,
+  "viewLastModified" : 1377872995,
+  "viewType" : "tabular",
+  "grants" : [ {
+    "inherited" : true,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "renderTypeConfig" : {
+      "visible" : {
+        "map" : true
+      },
+      "active" : {
+        "fatrow" : {
+          "id" : "f5sy-kcer"
+        },
+        "page" : {
+          "id" : "self"
+        },
+        "table" : {
+          "id" : "self"
+        }
+      }
+    },
+    "availableDisplayTypes" : [ "map", "table", "fatrow", "page" ],
+    "rdfSubject" : "0"
+  },
+  "owner" : {
+    "id" : "mpi5-ggzc",
+    "displayName" : "TommyC81",
+    "screenName" : "TommyC81"
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "cszg-v4tm",
+    "displayName" : "City of Madison Data Administrator",
+    "profileImageUrlLarge" : "/images/profile/8823/6544/logo1_large.jpg",
+    "profileImageUrlMedium" : "/images/profile/8823/6544/logo1_thumb.jpg",
+    "profileImageUrlSmall" : "/images/profile/8823/6544/logo1_tiny.jpg",
+    "screenName" : "City of Madison Data Administrator"
+  },
+  "tags" : [ "bus stops", "madison metro", "public transit" ]
+}, {
+  "id" : "r6nk-wjfh",
+  "name" : "test",
+  "averageRating" : 0,
+  "category" : "Metro Transportation",
+  "createdAt" : 1380736466,
+  "displayType" : "map",
+  "downloadCount" : 4,
+  "indexUpdatedAt" : 1380736909,
+  "newBackend" : false,
+  "numberOfComments" : 0,
+  "oid" : 5721396,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1358270198,
+  "publicationGroup" : 538959,
+  "publicationStage" : "published",
+  "rowsUpdatedAt" : 1358270024,
+  "rowsUpdatedBy" : "cszg-v4tm",
+  "signed" : false,
+  "tableId" : 616112,
+  "totalTimesRated" : 0,
+  "viewCount" : 107,
+  "viewLastModified" : 1380736467,
+  "viewType" : "tabular",
+  "grants" : [ {
+    "inherited" : true,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "renderTypeConfig" : {
+      "visible" : {
+        "map" : true
+      },
+      "active" : {
+        "page" : {
+          "id" : "self"
+        },
+        "table" : {
+          "id" : "self"
+        }
+      }
+    },
+    "availableDisplayTypes" : [ "map", "table", "fatrow", "page" ],
+    "rdfSubject" : "0"
+  },
+  "owner" : {
+    "id" : "56sg-yfu3",
+    "displayName" : "maximolly",
+    "screenName" : "maximolly"
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "cszg-v4tm",
+    "displayName" : "City of Madison Data Administrator",
+    "profileImageUrlLarge" : "/images/profile/8823/6544/logo1_large.jpg",
+    "profileImageUrlMedium" : "/images/profile/8823/6544/logo1_thumb.jpg",
+    "profileImageUrlSmall" : "/images/profile/8823/6544/logo1_tiny.jpg",
+    "screenName" : "City of Madison Data Administrator"
+  },
+  "tags" : [ "bus stops", "madison metro", "public transit" ]
+}, {
+  "id" : "cq85-dipd",
+  "name" : "September 2008 Voter Turnout",
+  "averageRating" : 0,
+  "category" : "Elections",
+  "createdAt" : 1376677712,
+  "displayType" : "table",
+  "downloadCount" : 33,
+  "indexUpdatedAt" : 1376681458,
+  "newBackend" : false,
+  "numberOfComments" : 0,
+  "oid" : 4959216,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1376677824,
+  "publicationGroup" : 1055539,
+  "publicationStage" : "published",
+  "rowsUpdatedAt" : 1376677814,
+  "rowsUpdatedBy" : "jphu-vngw",
+  "signed" : false,
+  "tableId" : 1055539,
+  "totalTimesRated" : 0,
+  "viewCount" : 25,
+  "viewLastModified" : 1376677824,
+  "viewType" : "tabular",
+  "grants" : [ {
+    "inherited" : false,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "renderTypeConfig" : {
+      "visible" : {
+        "table" : true
+      }
+    },
+    "availableDisplayTypes" : [ "table", "fatrow", "page" ]
+  },
+  "owner" : {
+    "id" : "jphu-vngw",
+    "displayName" : "Maribeth Witzel-Behl",
+    "screenName" : "Maribeth Witzel-Behl"
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "jphu-vngw",
+    "displayName" : "Maribeth Witzel-Behl",
+    "screenName" : "Maribeth Witzel-Behl"
+  },
+  "flags" : [ "default" ]
+}, {
+  "id" : "7shu-mkhv",
+  "name" : "Election Statistics",
+  "averageRating" : 0,
+  "category" : "Elections",
+  "createdAt" : 1376668501,
+  "description" : "Voter turnout and absentee ballot statistics by election.",
+  "displayType" : "table",
+  "downloadCount" : 9,
+  "indexUpdatedAt" : 1376671331,
+  "newBackend" : false,
+  "numberOfComments" : 0,
+  "oid" : 4957765,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1376668886,
+  "publicationGroup" : 1055149,
+  "publicationStage" : "published",
+  "rowClass" : "",
+  "rowsUpdatedAt" : 1376668519,
+  "rowsUpdatedBy" : "jphu-vngw",
+  "signed" : false,
+  "tableId" : 1055149,
+  "totalTimesRated" : 0,
+  "viewCount" : 24,
+  "viewLastModified" : 1376671161,
+  "viewType" : "tabular",
+  "grants" : [ {
+    "inherited" : false,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "renderTypeConfig" : {
+      "visible" : {
+        "table" : true
+      }
+    },
+    "availableDisplayTypes" : [ "table", "fatrow", "page" ],
+    "rdfSubject" : "0",
+    "rowIdentifier" : "0",
+    "rdfClass" : ""
+  },
+  "owner" : {
+    "id" : "jphu-vngw",
+    "displayName" : "Maribeth Witzel-Behl",
+    "screenName" : "Maribeth Witzel-Behl"
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "jphu-vngw",
+    "displayName" : "Maribeth Witzel-Behl",
+    "screenName" : "Maribeth Witzel-Behl"
+  },
+  "flags" : [ "default" ]
+}, {
+  "id" : "kbjz-kaud",
+  "name" : "February 2012 Voter Turnout",
+  "averageRating" : 0,
+  "category" : "Elections",
+  "createdAt" : 1376679872,
+  "displayType" : "table",
+  "downloadCount" : 8,
+  "indexUpdatedAt" : 1376686808,
+  "newBackend" : false,
+  "numberOfComments" : 0,
+  "oid" : 4959630,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1376679932,
+  "publicationGroup" : 1055643,
+  "publicationStage" : "published",
+  "rowsUpdatedAt" : 1376679880,
+  "rowsUpdatedBy" : "jphu-vngw",
+  "signed" : false,
+  "tableId" : 1055643,
+  "totalTimesRated" : 0,
+  "viewCount" : 19,
+  "viewLastModified" : 1376679932,
+  "viewType" : "tabular",
+  "grants" : [ {
+    "inherited" : false,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "renderTypeConfig" : {
+      "visible" : {
+        "table" : true
+      }
+    },
+    "availableDisplayTypes" : [ "table", "fatrow", "page" ]
+  },
+  "owner" : {
+    "id" : "jphu-vngw",
+    "displayName" : "Maribeth Witzel-Behl",
+    "screenName" : "Maribeth Witzel-Behl"
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "jphu-vngw",
+    "displayName" : "Maribeth Witzel-Behl",
+    "screenName" : "Maribeth Witzel-Behl"
+  },
+  "flags" : [ "default" ]
+}, {
+  "id" : "qcfn-n3we",
+  "name" : "November 2012 Voter Turnout",
+  "averageRating" : 0,
+  "category" : "Elections",
+  "createdAt" : 1376677515,
+  "displayType" : "table",
+  "downloadCount" : 25,
+  "indexUpdatedAt" : 1376680902,
+  "newBackend" : false,
+  "numberOfComments" : 0,
+  "oid" : 4959202,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1376677599,
+  "publicationGroup" : 1055530,
+  "publicationStage" : "published",
+  "rowsUpdatedAt" : 1376677522,
+  "rowsUpdatedBy" : "jphu-vngw",
+  "signed" : false,
+  "tableId" : 1055530,
+  "totalTimesRated" : 0,
+  "viewCount" : 23,
+  "viewLastModified" : 1376677599,
+  "viewType" : "tabular",
+  "grants" : [ {
+    "inherited" : false,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "renderTypeConfig" : {
+      "visible" : {
+        "table" : true
+      }
+    },
+    "availableDisplayTypes" : [ "table", "fatrow", "page" ]
+  },
+  "owner" : {
+    "id" : "jphu-vngw",
+    "displayName" : "Maribeth Witzel-Behl",
+    "screenName" : "Maribeth Witzel-Behl"
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "jphu-vngw",
+    "displayName" : "Maribeth Witzel-Behl",
+    "screenName" : "Maribeth Witzel-Behl"
+  },
+  "flags" : [ "default" ]
+}, {
+  "id" : "gqa8-dxgc",
+  "name" : "February 2011 Voter Turnout",
+  "averageRating" : 0,
+  "category" : "Elections",
+  "createdAt" : 1376680067,
+  "displayType" : "table",
+  "downloadCount" : 5,
+  "indexUpdatedAt" : 1376686925,
+  "newBackend" : false,
+  "numberOfComments" : 0,
+  "oid" : 4959646,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1376680160,
+  "publicationGroup" : 1055651,
+  "publicationStage" : "published",
+  "rowsUpdatedAt" : 1376680139,
+  "rowsUpdatedBy" : "jphu-vngw",
+  "signed" : false,
+  "tableId" : 1055651,
+  "totalTimesRated" : 0,
+  "viewCount" : 19,
+  "viewLastModified" : 1376680160,
+  "viewType" : "tabular",
+  "grants" : [ {
+    "inherited" : false,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "renderTypeConfig" : {
+      "visible" : {
+        "table" : true
+      }
+    },
+    "availableDisplayTypes" : [ "table", "fatrow", "page" ]
+  },
+  "owner" : {
+    "id" : "jphu-vngw",
+    "displayName" : "Maribeth Witzel-Behl",
+    "screenName" : "Maribeth Witzel-Behl"
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "jphu-vngw",
+    "displayName" : "Maribeth Witzel-Behl",
+    "screenName" : "Maribeth Witzel-Behl"
+  },
+  "flags" : [ "default" ]
+}, {
+  "id" : "9wf4-wytn",
+  "name" : "September 2010 Voter Turnout",
+  "averageRating" : 0,
+  "category" : "Elections",
+  "createdAt" : 1376676183,
+  "displayType" : "table",
+  "downloadCount" : 10,
+  "indexUpdatedAt" : 1376680332,
+  "newBackend" : false,
+  "numberOfComments" : 0,
+  "oid" : 4959018,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1376676424,
+  "publicationGroup" : 1055473,
+  "publicationStage" : "published",
+  "rowsUpdatedAt" : 1376676410,
+  "rowsUpdatedBy" : "jphu-vngw",
+  "signed" : false,
+  "tableId" : 1055483,
+  "totalTimesRated" : 0,
+  "viewCount" : 16,
+  "viewLastModified" : 1376676424,
+  "viewType" : "tabular",
+  "grants" : [ {
+    "inherited" : false,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "renderTypeConfig" : {
+      "visible" : {
+        "table" : true
+      }
+    },
+    "availableDisplayTypes" : [ "table", "fatrow", "page" ]
+  },
+  "owner" : {
+    "id" : "jphu-vngw",
+    "displayName" : "Maribeth Witzel-Behl",
+    "screenName" : "Maribeth Witzel-Behl"
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "jphu-vngw",
+    "displayName" : "Maribeth Witzel-Behl",
+    "screenName" : "Maribeth Witzel-Behl"
+  },
+  "flags" : [ "default" ]
+}, {
+  "id" : "pveg-u4zq",
+  "name" : "November 2008 Voter Turnout",
+  "averageRating" : 0,
+  "category" : "Elections",
+  "createdAt" : 1376678316,
+  "displayType" : "table",
+  "downloadCount" : 34,
+  "indexUpdatedAt" : 1376681462,
+  "newBackend" : false,
+  "numberOfComments" : 0,
+  "oid" : 4959284,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1376678380,
+  "publicationGroup" : 1055564,
+  "publicationStage" : "published",
+  "rowsUpdatedAt" : 1376678322,
+  "rowsUpdatedBy" : "jphu-vngw",
+  "signed" : false,
+  "tableId" : 1055564,
+  "totalTimesRated" : 0,
+  "viewCount" : 13,
+  "viewLastModified" : 1376678380,
+  "viewType" : "tabular",
+  "grants" : [ {
+    "inherited" : false,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "renderTypeConfig" : {
+      "visible" : {
+        "table" : true
+      }
+    },
+    "availableDisplayTypes" : [ "table", "fatrow", "page" ]
+  },
+  "owner" : {
+    "id" : "jphu-vngw",
+    "displayName" : "Maribeth Witzel-Behl",
+    "screenName" : "Maribeth Witzel-Behl"
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "jphu-vngw",
+    "displayName" : "Maribeth Witzel-Behl",
+    "screenName" : "Maribeth Witzel-Behl"
+  },
+  "flags" : [ "default" ]
+}, {
+  "id" : "ipd7-scz8",
+  "name" : "June 2012 Voter Turnout",
+  "averageRating" : 0,
+  "category" : "Elections",
+  "createdAt" : 1376678718,
+  "displayType" : "table",
+  "downloadCount" : 77,
+  "indexUpdatedAt" : 1376681460,
+  "newBackend" : false,
+  "numberOfComments" : 0,
+  "oid" : 4959495,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1376678779,
+  "publicationGroup" : 1055583,
+  "publicationStage" : "published",
+  "rowsUpdatedAt" : 1376678725,
+  "rowsUpdatedBy" : "jphu-vngw",
+  "signed" : false,
+  "tableId" : 1055583,
+  "totalTimesRated" : 0,
+  "viewCount" : 16,
+  "viewLastModified" : 1376678779,
+  "viewType" : "tabular",
+  "grants" : [ {
+    "inherited" : false,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "renderTypeConfig" : {
+      "visible" : {
+        "table" : true
+      }
+    },
+    "availableDisplayTypes" : [ "table", "fatrow", "page" ]
+  },
+  "owner" : {
+    "id" : "jphu-vngw",
+    "displayName" : "Maribeth Witzel-Behl",
+    "screenName" : "Maribeth Witzel-Behl"
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "jphu-vngw",
+    "displayName" : "Maribeth Witzel-Behl",
+    "screenName" : "Maribeth Witzel-Behl"
+  },
+  "flags" : [ "default" ]
+}, {
+  "id" : "j4t2-fn7a",
+  "name" : "November 2010 Voter Turnout",
+  "averageRating" : 0,
+  "category" : "Elections",
+  "createdAt" : 1376678025,
+  "displayType" : "table",
+  "downloadCount" : 45,
+  "indexUpdatedAt" : 1376681460,
+  "newBackend" : false,
+  "numberOfComments" : 0,
+  "oid" : 4959245,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1376678134,
+  "publicationGroup" : 1055552,
+  "publicationStage" : "published",
+  "rowsUpdatedAt" : 1376678111,
+  "rowsUpdatedBy" : "jphu-vngw",
+  "signed" : false,
+  "tableId" : 1055552,
+  "totalTimesRated" : 0,
+  "viewCount" : 20,
+  "viewLastModified" : 1376678134,
+  "viewType" : "tabular",
+  "grants" : [ {
+    "inherited" : false,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "renderTypeConfig" : {
+      "visible" : {
+        "table" : true
+      }
+    },
+    "availableDisplayTypes" : [ "table", "fatrow", "page" ]
+  },
+  "owner" : {
+    "id" : "jphu-vngw",
+    "displayName" : "Maribeth Witzel-Behl",
+    "screenName" : "Maribeth Witzel-Behl"
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "jphu-vngw",
+    "displayName" : "Maribeth Witzel-Behl",
+    "screenName" : "Maribeth Witzel-Behl"
+  },
+  "flags" : [ "default" ]
+}, {
+  "id" : "jvs7-37vw",
+  "name" : "February 2009 Voter Turnout",
+  "averageRating" : 0,
+  "category" : "Elections",
+  "createdAt" : 1376680513,
+  "displayType" : "table",
+  "downloadCount" : 8,
+  "indexUpdatedAt" : 1376687478,
+  "newBackend" : false,
+  "numberOfComments" : 0,
+  "oid" : 4959697,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1376680572,
+  "publicationGroup" : 1055676,
+  "publicationStage" : "published",
+  "rowsUpdatedAt" : 1376680520,
+  "rowsUpdatedBy" : "jphu-vngw",
+  "signed" : false,
+  "tableId" : 1055676,
+  "totalTimesRated" : 0,
+  "viewCount" : 18,
+  "viewLastModified" : 1376680572,
+  "viewType" : "tabular",
+  "grants" : [ {
+    "inherited" : false,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "renderTypeConfig" : {
+      "visible" : {
+        "table" : true
+      }
+    },
+    "availableDisplayTypes" : [ "table", "fatrow", "page" ]
+  },
+  "owner" : {
+    "id" : "jphu-vngw",
+    "displayName" : "Maribeth Witzel-Behl",
+    "screenName" : "Maribeth Witzel-Behl"
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "jphu-vngw",
+    "displayName" : "Maribeth Witzel-Behl",
+    "screenName" : "Maribeth Witzel-Behl"
+  },
+  "flags" : [ "default" ]
+}, {
+  "id" : "38c6-a8m4",
+  "name" : "July 2011 Voter Turnout",
+  "averageRating" : 0,
+  "category" : "Elections",
+  "createdAt" : 1376679330,
+  "displayType" : "table",
+  "downloadCount" : 8,
+  "indexUpdatedAt" : 1376681550,
+  "newBackend" : false,
+  "numberOfComments" : 0,
+  "oid" : 4959564,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1376679385,
+  "publicationGroup" : 1055610,
+  "publicationStage" : "published",
+  "rowsUpdatedAt" : 1376679380,
+  "rowsUpdatedBy" : "jphu-vngw",
+  "signed" : false,
+  "tableId" : 1055610,
+  "totalTimesRated" : 0,
+  "viewCount" : 6,
+  "viewLastModified" : 1376679385,
+  "viewType" : "tabular",
+  "grants" : [ {
+    "inherited" : false,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "renderTypeConfig" : {
+      "visible" : {
+        "table" : true
+      }
+    },
+    "availableDisplayTypes" : [ "table", "fatrow", "page" ]
+  },
+  "owner" : {
+    "id" : "jphu-vngw",
+    "displayName" : "Maribeth Witzel-Behl",
+    "screenName" : "Maribeth Witzel-Behl"
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "jphu-vngw",
+    "displayName" : "Maribeth Witzel-Behl",
+    "screenName" : "Maribeth Witzel-Behl"
+  },
+  "flags" : [ "default" ]
+}, {
+  "id" : "3a6w-jfnq",
+  "name" : "February 2013 Voter Turnout",
+  "averageRating" : 0,
+  "category" : "Elections",
+  "createdAt" : 1376679578,
+  "displayType" : "table",
+  "downloadCount" : 76,
+  "indexUpdatedAt" : 1376681559,
+  "newBackend" : false,
+  "numberOfComments" : 0,
+  "oid" : 4959584,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1376679655,
+  "publicationGroup" : 1055620,
+  "publicationStage" : "published",
+  "rowsUpdatedAt" : 1376679583,
+  "rowsUpdatedBy" : "jphu-vngw",
+  "signed" : false,
+  "tableId" : 1055620,
+  "totalTimesRated" : 0,
+  "viewCount" : 17,
+  "viewLastModified" : 1376679655,
+  "viewType" : "tabular",
+  "grants" : [ {
+    "inherited" : false,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "renderTypeConfig" : {
+      "visible" : {
+        "table" : true
+      }
+    },
+    "availableDisplayTypes" : [ "table", "fatrow", "page" ]
+  },
+  "owner" : {
+    "id" : "jphu-vngw",
+    "displayName" : "Maribeth Witzel-Behl",
+    "screenName" : "Maribeth Witzel-Behl"
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "jphu-vngw",
+    "displayName" : "Maribeth Witzel-Behl",
+    "screenName" : "Maribeth Witzel-Behl"
+  },
+  "flags" : [ "default" ]
+}, {
+  "id" : "r98k-9799",
+  "name" : "April 2012 Voter Turnout",
+  "averageRating" : 0,
+  "category" : "Elections",
+  "createdAt" : 1376681876,
+  "displayType" : "table",
+  "downloadCount" : 8,
+  "indexUpdatedAt" : 1376687914,
+  "newBackend" : false,
+  "numberOfComments" : 0,
+  "oid" : 4959937,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1376681957,
+  "publicationGroup" : 1055740,
+  "publicationStage" : "published",
+  "rowsUpdatedAt" : 1376681883,
+  "rowsUpdatedBy" : "jphu-vngw",
+  "signed" : false,
+  "tableId" : 1055740,
+  "totalTimesRated" : 0,
+  "viewCount" : 14,
+  "viewLastModified" : 1376681957,
+  "viewType" : "tabular",
+  "grants" : [ {
+    "inherited" : false,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "renderTypeConfig" : {
+      "visible" : {
+        "table" : true
+      }
+    },
+    "availableDisplayTypes" : [ "table", "fatrow", "page" ]
+  },
+  "owner" : {
+    "id" : "jphu-vngw",
+    "displayName" : "Maribeth Witzel-Behl",
+    "screenName" : "Maribeth Witzel-Behl"
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "jphu-vngw",
+    "displayName" : "Maribeth Witzel-Behl",
+    "screenName" : "Maribeth Witzel-Behl"
+  },
+  "flags" : [ "default" ]
+}, {
+  "id" : "hi83-zfb3",
+  "name" : "February 2010 Voter Turnout",
+  "averageRating" : 0,
+  "category" : "Elections",
+  "createdAt" : 1376680309,
+  "displayType" : "table",
+  "downloadCount" : 8,
+  "indexUpdatedAt" : 1376687151,
+  "newBackend" : false,
+  "numberOfComments" : 0,
+  "oid" : 4959675,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1376680377,
+  "publicationGroup" : 1055667,
+  "publicationStage" : "published",
+  "rowsUpdatedAt" : 1376680360,
+  "rowsUpdatedBy" : "jphu-vngw",
+  "signed" : false,
+  "tableId" : 1055667,
+  "totalTimesRated" : 0,
+  "viewCount" : 13,
+  "viewLastModified" : 1376680377,
+  "viewType" : "tabular",
+  "grants" : [ {
+    "inherited" : false,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "renderTypeConfig" : {
+      "visible" : {
+        "table" : true
+      }
+    },
+    "availableDisplayTypes" : [ "table", "fatrow", "page" ]
+  },
+  "owner" : {
+    "id" : "jphu-vngw",
+    "displayName" : "Maribeth Witzel-Behl",
+    "screenName" : "Maribeth Witzel-Behl"
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "jphu-vngw",
+    "displayName" : "Maribeth Witzel-Behl",
+    "screenName" : "Maribeth Witzel-Behl"
+  },
+  "flags" : [ "default" ]
+}, {
+  "id" : "r7yp-j3t7",
+  "name" : "February 2008 Voter Turnout",
+  "averageRating" : 0,
+  "category" : "Elections",
+  "createdAt" : 1376680703,
+  "displayType" : "table",
+  "downloadCount" : 8,
+  "indexUpdatedAt" : 1376687351,
+  "newBackend" : false,
+  "numberOfComments" : 0,
+  "oid" : 4959709,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1376680763,
+  "publicationGroup" : 1055686,
+  "publicationStage" : "published",
+  "rowsUpdatedAt" : 1376680710,
+  "rowsUpdatedBy" : "jphu-vngw",
+  "signed" : false,
+  "tableId" : 1055686,
+  "totalTimesRated" : 0,
+  "viewCount" : 13,
+  "viewLastModified" : 1376680763,
+  "viewType" : "tabular",
+  "grants" : [ {
+    "inherited" : false,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "renderTypeConfig" : {
+      "visible" : {
+        "table" : true
+      }
+    },
+    "availableDisplayTypes" : [ "table", "fatrow", "page" ]
+  },
+  "owner" : {
+    "id" : "jphu-vngw",
+    "displayName" : "Maribeth Witzel-Behl",
+    "screenName" : "Maribeth Witzel-Behl"
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "jphu-vngw",
+    "displayName" : "Maribeth Witzel-Behl",
+    "screenName" : "Maribeth Witzel-Behl"
+  },
+  "flags" : [ "default" ]
+}, {
+  "id" : "mser-b9tq",
+  "name" : "Daily Clerk's Office Election Statistics",
+  "averageRating" : 0,
+  "category" : "Elections",
+  "createdAt" : 1376684246,
+  "description" : "Statistics compiled only as time permits.",
+  "displayType" : "table",
+  "downloadCount" : 9,
+  "indexUpdatedAt" : 1376688190,
+  "newBackend" : false,
+  "numberOfComments" : 0,
+  "oid" : 4960364,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1376684353,
+  "publicationGroup" : 1055849,
+  "publicationStage" : "published",
+  "rowsUpdatedAt" : 1376684253,
+  "rowsUpdatedBy" : "jphu-vngw",
+  "signed" : false,
+  "tableId" : 1055849,
+  "totalTimesRated" : 0,
+  "viewCount" : 16,
+  "viewLastModified" : 1376684353,
+  "viewType" : "tabular",
+  "grants" : [ {
+    "inherited" : false,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "renderTypeConfig" : {
+      "visible" : {
+        "table" : true
+      }
+    },
+    "availableDisplayTypes" : [ "table", "fatrow", "page" ]
+  },
+  "owner" : {
+    "id" : "jphu-vngw",
+    "displayName" : "Maribeth Witzel-Behl",
+    "screenName" : "Maribeth Witzel-Behl"
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "jphu-vngw",
+    "displayName" : "Maribeth Witzel-Behl",
+    "screenName" : "Maribeth Witzel-Behl"
+  },
+  "flags" : [ "default" ]
+}, {
+  "id" : "3syz-mw6z",
+  "name" : "Voter Turnout 2001-2009",
+  "averageRating" : 0,
+  "category" : "Elections",
+  "createdAt" : 1376684510,
+  "displayType" : "table",
+  "downloadCount" : 8,
+  "indexUpdatedAt" : 1376688199,
+  "newBackend" : false,
+  "numberOfComments" : 0,
+  "oid" : 4960393,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1376684618,
+  "publicationGroup" : 1055863,
+  "publicationStage" : "published",
+  "rowsUpdatedAt" : 1376684524,
+  "rowsUpdatedBy" : "jphu-vngw",
+  "signed" : false,
+  "tableId" : 1055863,
+  "totalTimesRated" : 0,
+  "viewCount" : 16,
+  "viewLastModified" : 1376684618,
+  "viewType" : "tabular",
+  "grants" : [ {
+    "inherited" : false,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "renderTypeConfig" : {
+      "visible" : {
+        "table" : true
+      }
+    },
+    "availableDisplayTypes" : [ "table", "fatrow", "page" ]
+  },
+  "owner" : {
+    "id" : "jphu-vngw",
+    "displayName" : "Maribeth Witzel-Behl",
+    "screenName" : "Maribeth Witzel-Behl"
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "jphu-vngw",
+    "displayName" : "Maribeth Witzel-Behl",
+    "screenName" : "Maribeth Witzel-Behl"
+  },
+  "flags" : [ "default" ]
+}, {
+  "id" : "s9b5-pi49",
+  "name" : "August 2012 Voter Turnout",
+  "averageRating" : 0,
+  "category" : "Elections",
+  "createdAt" : 1376680931,
+  "displayType" : "table",
+  "downloadCount" : 8,
+  "indexUpdatedAt" : 1376687615,
+  "newBackend" : false,
+  "numberOfComments" : 0,
+  "oid" : 4959753,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1376680987,
+  "publicationGroup" : 1055697,
+  "publicationStage" : "published",
+  "rowsUpdatedAt" : 1376680938,
+  "rowsUpdatedBy" : "jphu-vngw",
+  "signed" : false,
+  "tableId" : 1055697,
+  "totalTimesRated" : 0,
+  "viewCount" : 12,
+  "viewLastModified" : 1376680987,
+  "viewType" : "tabular",
+  "grants" : [ {
+    "inherited" : false,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "renderTypeConfig" : {
+      "visible" : {
+        "table" : true
+      }
+    },
+    "availableDisplayTypes" : [ "table", "fatrow", "page" ]
+  },
+  "owner" : {
+    "id" : "jphu-vngw",
+    "displayName" : "Maribeth Witzel-Behl",
+    "screenName" : "Maribeth Witzel-Behl"
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "jphu-vngw",
+    "displayName" : "Maribeth Witzel-Behl",
+    "screenName" : "Maribeth Witzel-Behl"
+  },
+  "flags" : [ "default" ]
+}, {
+  "id" : "5eh3-n3ms",
+  "name" : "April 2013 Voter Turnout",
+  "averageRating" : 0,
+  "category" : "Elections",
+  "createdAt" : 1376681659,
+  "displayType" : "table",
+  "downloadCount" : 8,
+  "indexUpdatedAt" : 1376687914,
+  "newBackend" : false,
+  "numberOfComments" : 0,
+  "oid" : 4959916,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1376681721,
+  "publicationGroup" : 1055730,
+  "publicationStage" : "published",
+  "rowsUpdatedAt" : 1376681665,
+  "rowsUpdatedBy" : "jphu-vngw",
+  "signed" : false,
+  "tableId" : 1055730,
+  "totalTimesRated" : 0,
+  "viewCount" : 15,
+  "viewLastModified" : 1376681721,
+  "viewType" : "tabular",
+  "grants" : [ {
+    "inherited" : false,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "renderTypeConfig" : {
+      "visible" : {
+        "table" : true
+      }
+    },
+    "availableDisplayTypes" : [ "table", "fatrow", "page" ]
+  },
+  "owner" : {
+    "id" : "jphu-vngw",
+    "displayName" : "Maribeth Witzel-Behl",
+    "screenName" : "Maribeth Witzel-Behl"
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "jphu-vngw",
+    "displayName" : "Maribeth Witzel-Behl",
+    "screenName" : "Maribeth Witzel-Behl"
+  },
+  "flags" : [ "default" ]
+}, {
+  "id" : "bgrv-wya2",
+  "name" : "April 2011 Voter Turnout",
+  "averageRating" : 0,
+  "category" : "Elections",
+  "createdAt" : 1376682166,
+  "displayType" : "table",
+  "downloadCount" : 8,
+  "indexUpdatedAt" : 1376687915,
+  "newBackend" : false,
+  "numberOfComments" : 0,
+  "oid" : 4960135,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1376682256,
+  "publicationGroup" : 1055753,
+  "publicationStage" : "published",
+  "rowsUpdatedAt" : 1376682209,
+  "rowsUpdatedBy" : "jphu-vngw",
+  "signed" : false,
+  "tableId" : 1055753,
+  "totalTimesRated" : 0,
+  "viewCount" : 14,
+  "viewLastModified" : 1376682256,
+  "viewType" : "tabular",
+  "grants" : [ {
+    "inherited" : false,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "renderTypeConfig" : {
+      "visible" : {
+        "table" : true
+      }
+    },
+    "availableDisplayTypes" : [ "table", "fatrow", "page" ]
+  },
+  "owner" : {
+    "id" : "jphu-vngw",
+    "displayName" : "Maribeth Witzel-Behl",
+    "screenName" : "Maribeth Witzel-Behl"
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "jphu-vngw",
+    "displayName" : "Maribeth Witzel-Behl",
+    "screenName" : "Maribeth Witzel-Behl"
+  },
+  "flags" : [ "default" ]
+}, {
+  "id" : "mz4p-68jd",
+  "name" : "April 2008 Voter Turnout",
+  "averageRating" : 0,
+  "category" : "Elections",
+  "createdAt" : 1376683118,
+  "displayType" : "table",
+  "downloadCount" : 8,
+  "indexUpdatedAt" : 1376687918,
+  "newBackend" : false,
+  "numberOfComments" : 0,
+  "oid" : 4960224,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1376683195,
+  "publicationGroup" : 1055796,
+  "publicationStage" : "published",
+  "rowsUpdatedAt" : 1376683180,
+  "rowsUpdatedBy" : "jphu-vngw",
+  "signed" : false,
+  "tableId" : 1055796,
+  "totalTimesRated" : 0,
+  "viewCount" : 15,
+  "viewLastModified" : 1376683195,
+  "viewType" : "tabular",
+  "grants" : [ {
+    "inherited" : false,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "renderTypeConfig" : {
+      "visible" : {
+        "table" : true
+      }
+    },
+    "availableDisplayTypes" : [ "table", "fatrow", "page" ]
+  },
+  "owner" : {
+    "id" : "jphu-vngw",
+    "displayName" : "Maribeth Witzel-Behl",
+    "screenName" : "Maribeth Witzel-Behl"
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "jphu-vngw",
+    "displayName" : "Maribeth Witzel-Behl",
+    "screenName" : "Maribeth Witzel-Behl"
+  },
+  "flags" : [ "default" ]
+}, {
+  "id" : "wz7i-taa5",
+  "name" : "August 2011 Voter Turnout",
+  "averageRating" : 0,
+  "category" : "Elections",
+  "createdAt" : 1376681135,
+  "displayType" : "table",
+  "downloadCount" : 8,
+  "indexUpdatedAt" : 1376687615,
+  "newBackend" : false,
+  "numberOfComments" : 0,
+  "oid" : 4959795,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1376681236,
+  "publicationGroup" : 1055706,
+  "publicationStage" : "published",
+  "rowsUpdatedAt" : 1376681229,
+  "rowsUpdatedBy" : "jphu-vngw",
+  "signed" : false,
+  "tableId" : 1055710,
+  "totalTimesRated" : 0,
+  "viewCount" : 7,
+  "viewLastModified" : 1376681236,
+  "viewType" : "tabular",
+  "grants" : [ {
+    "inherited" : false,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "renderTypeConfig" : {
+      "visible" : {
+        "table" : true
+      }
+    },
+    "availableDisplayTypes" : [ "table", "fatrow", "page" ]
+  },
+  "owner" : {
+    "id" : "jphu-vngw",
+    "displayName" : "Maribeth Witzel-Behl",
+    "screenName" : "Maribeth Witzel-Behl"
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "jphu-vngw",
+    "displayName" : "Maribeth Witzel-Behl",
+    "screenName" : "Maribeth Witzel-Behl"
+  },
+  "flags" : [ "default" ]
+}, {
+  "id" : "vb36-v77y",
+  "name" : "In-Person Absentee Voting Statistics for November 2012",
+  "averageRating" : 0,
+  "category" : "Elections",
+  "createdAt" : 1376684789,
+  "displayType" : "table",
+  "downloadCount" : 10,
+  "indexUpdatedAt" : 1376688206,
+  "newBackend" : false,
+  "numberOfComments" : 0,
+  "oid" : 4960466,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1376684899,
+  "publicationGroup" : 1055878,
+  "publicationStage" : "published",
+  "rowsUpdatedAt" : 1376684794,
+  "rowsUpdatedBy" : "jphu-vngw",
+  "signed" : false,
+  "tableId" : 1055878,
+  "totalTimesRated" : 0,
+  "viewCount" : 9,
+  "viewLastModified" : 1376684899,
+  "viewType" : "tabular",
+  "grants" : [ {
+    "inherited" : false,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "renderTypeConfig" : {
+      "visible" : {
+        "table" : true
+      }
+    },
+    "availableDisplayTypes" : [ "table", "fatrow", "page" ]
+  },
+  "owner" : {
+    "id" : "jphu-vngw",
+    "displayName" : "Maribeth Witzel-Behl",
+    "screenName" : "Maribeth Witzel-Behl"
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "jphu-vngw",
+    "displayName" : "Maribeth Witzel-Behl",
+    "screenName" : "Maribeth Witzel-Behl"
+  },
+  "flags" : [ "default" ]
+}, {
+  "id" : "t6n5-id96",
+  "name" : "April 2009 Voter Turnout",
+  "averageRating" : 0,
+  "category" : "Elections",
+  "createdAt" : 1376682637,
+  "displayType" : "table",
+  "downloadCount" : 7,
+  "indexUpdatedAt" : 1376687918,
+  "newBackend" : false,
+  "numberOfComments" : 0,
+  "oid" : 4960184,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1376682967,
+  "publicationGroup" : 1055778,
+  "publicationStage" : "published",
+  "rowsUpdatedAt" : 1376682947,
+  "rowsUpdatedBy" : "jphu-vngw",
+  "signed" : false,
+  "tableId" : 1055778,
+  "totalTimesRated" : 0,
+  "viewCount" : 15,
+  "viewLastModified" : 1376682967,
+  "viewType" : "tabular",
+  "grants" : [ {
+    "inherited" : false,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "renderTypeConfig" : {
+      "visible" : {
+        "table" : true
+      }
+    },
+    "availableDisplayTypes" : [ "table", "fatrow", "page" ]
+  },
+  "owner" : {
+    "id" : "jphu-vngw",
+    "displayName" : "Maribeth Witzel-Behl",
+    "screenName" : "Maribeth Witzel-Behl"
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "jphu-vngw",
+    "displayName" : "Maribeth Witzel-Behl",
+    "screenName" : "Maribeth Witzel-Behl"
+  },
+  "flags" : [ "default" ]
+}, {
+  "id" : "q5sg-7k3x",
+  "name" : "Wards and Districts",
+  "averageRating" : 0,
+  "category" : "Elections",
+  "createdAt" : 1376683416,
+  "description" : "Table of City of Madison Wards by School District, Aldermanic District, County Supervisor District, Assembly District, and Senate District.",
+  "displayType" : "table",
+  "downloadCount" : 76,
+  "indexUpdatedAt" : 1376687918,
+  "newBackend" : false,
+  "numberOfComments" : 0,
+  "oid" : 4960263,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1376683662,
+  "publicationGroup" : 1055812,
+  "publicationStage" : "published",
+  "rowsUpdatedAt" : 1376683419,
+  "rowsUpdatedBy" : "jphu-vngw",
+  "signed" : false,
+  "tableId" : 1055812,
+  "totalTimesRated" : 0,
+  "viewCount" : 20,
+  "viewLastModified" : 1376683662,
+  "viewType" : "tabular",
+  "grants" : [ {
+    "inherited" : false,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "renderTypeConfig" : {
+      "visible" : {
+        "table" : true
+      }
+    },
+    "availableDisplayTypes" : [ "table", "fatrow", "page" ]
+  },
+  "owner" : {
+    "id" : "jphu-vngw",
+    "displayName" : "Maribeth Witzel-Behl",
+    "screenName" : "Maribeth Witzel-Behl"
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "jphu-vngw",
+    "displayName" : "Maribeth Witzel-Behl",
+    "screenName" : "Maribeth Witzel-Behl"
+  },
+  "flags" : [ "default" ]
+}, {
+  "id" : "4kgp-uj2z",
+  "name" : "April 2010 Voter Turnout",
+  "averageRating" : 0,
+  "category" : "Elections",
+  "createdAt" : 1376682448,
+  "displayType" : "table",
+  "downloadCount" : 75,
+  "indexUpdatedAt" : 1376687917,
+  "newBackend" : false,
+  "numberOfComments" : 0,
+  "oid" : 4960162,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1376682514,
+  "publicationGroup" : 1055766,
+  "publicationStage" : "published",
+  "rowsUpdatedAt" : 1376682492,
+  "rowsUpdatedBy" : "jphu-vngw",
+  "signed" : false,
+  "tableId" : 1055766,
+  "totalTimesRated" : 0,
+  "viewCount" : 15,
+  "viewLastModified" : 1376682514,
+  "viewType" : "tabular",
+  "grants" : [ {
+    "inherited" : false,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "renderTypeConfig" : {
+      "visible" : {
+        "table" : true
+      }
+    },
+    "availableDisplayTypes" : [ "table", "fatrow", "page" ]
+  },
+  "owner" : {
+    "id" : "jphu-vngw",
+    "displayName" : "Maribeth Witzel-Behl",
+    "screenName" : "Maribeth Witzel-Behl"
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "jphu-vngw",
+    "displayName" : "Maribeth Witzel-Behl",
+    "screenName" : "Maribeth Witzel-Behl"
+  },
+  "flags" : [ "default" ]
+}, {
+  "id" : "84vr-dpbk",
+  "name" : "Private Wells",
+  "averageRating" : 0,
+  "category" : "Property",
+  "createdAt" : 1379015724,
+  "description" : "Active private water wells within the Madison Water Utility service area. To learn more about the MWU Private Well Program, visit our Web Page (http://www.cityofmadison.com/water/programs/privateWells.cfm).",
+  "displayType" : "table",
+  "downloadCount" : 8,
+  "indexUpdatedAt" : 1379508782,
+  "newBackend" : false,
+  "numberOfComments" : 0,
+  "oid" : 5383888,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1379086802,
+  "publicationGroup" : 1141501,
+  "publicationStage" : "published",
+  "rowClass" : "",
+  "rowsUpdatedAt" : 1379015735,
+  "rowsUpdatedBy" : "x8tp-8zxg",
+  "signed" : false,
+  "tableId" : 1141501,
+  "totalTimesRated" : 0,
+  "viewCount" : 31,
+  "viewLastModified" : 1379506848,
+  "viewType" : "tabular",
+  "grants" : [ {
+    "inherited" : false,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "renderTypeConfig" : {
+      "visible" : {
+        "table" : true
+      }
+    },
+    "availableDisplayTypes" : [ "table", "fatrow", "page" ],
+    "rdfSubject" : "0",
+    "rowIdentifier" : "0",
+    "rdfClass" : ""
+  },
+  "owner" : {
+    "id" : "x8tp-8zxg",
+    "displayName" : "Peter Braselton",
+    "screenName" : "Peter Braselton"
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "x8tp-8zxg",
+    "displayName" : "Peter Braselton",
+    "screenName" : "Peter Braselton"
+  },
+  "tags" : [ "water", "wells" ],
+  "flags" : [ "default" ]
+}, {
+  "id" : "miyr-ap4j",
+  "name" : "Toilet Rebate Summary",
+  "averageRating" : 0,
+  "createdAt" : 1379018417,
+  "description" : "Summary of toilet rebates. Includes number of rebates and dollars refunded to Madison Water Utility customers. To learn more about the High Efficiency Toilet Rebate Program, visit the MWU website (http://www.cityofmadison.com/water/inTheHome/toiletRebate.cfm).",
+  "displayType" : "table",
+  "downloadCount" : 3,
+  "indexUpdatedAt" : 1379095466,
+  "newBackend" : false,
+  "numberOfComments" : 0,
+  "oid" : 5384504,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1379086856,
+  "publicationGroup" : 1141613,
+  "publicationStage" : "published",
+  "rowsUpdatedAt" : 1379018432,
+  "rowsUpdatedBy" : "x8tp-8zxg",
+  "signed" : false,
+  "tableId" : 1141613,
+  "totalTimesRated" : 0,
+  "viewCount" : 34,
+  "viewLastModified" : 1379086856,
+  "viewType" : "tabular",
+  "grants" : [ {
+    "inherited" : false,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "renderTypeConfig" : {
+      "visible" : {
+        "table" : true
+      }
+    },
+    "availableDisplayTypes" : [ "table", "fatrow", "page" ]
+  },
+  "owner" : {
+    "id" : "x8tp-8zxg",
+    "displayName" : "Peter Braselton",
+    "screenName" : "Peter Braselton"
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "x8tp-8zxg",
+    "displayName" : "Peter Braselton",
+    "screenName" : "Peter Braselton"
+  },
+  "tags" : [ "madison water utility", "toilet rebates." ],
+  "flags" : [ "default" ]
+} ]

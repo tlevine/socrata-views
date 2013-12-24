@@ -1,0 +1,5271 @@
+[ {
+  "id" : "2mq3-p3xc",
+  "name" : "Code Enforcement Inspections",
+  "averageRating" : 0,
+  "category" : "Administrative Data",
+  "createdAt" : 1329419839,
+  "description" : "Lists all inspections of private property completed by the New Orleans Code Enforcement and Hearings Bureau, with dates, case numbers, addresses, type and result of inspections. Each address has been assigned additional geographic attributes: council district, police district, census tract, inspection district, and neighborhood attributes.",
+  "displayType" : "table",
+  "downloadCount" : 361,
+  "indexUpdatedAt" : 1380262535,
+  "newBackend" : false,
+  "numberOfComments" : 0,
+  "oid" : 780910,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1340144442,
+  "publicationGroup" : 286525,
+  "publicationStage" : "published",
+  "rowClass" : "",
+  "rowsUpdatedAt" : 1340141575,
+  "rowsUpdatedBy" : "ck47-rkbr",
+  "signed" : false,
+  "tableId" : 363700,
+  "totalTimesRated" : 0,
+  "viewCount" : 11538,
+  "viewLastModified" : 1356152060,
+  "viewType" : "tabular",
+  "grants" : [ {
+    "inherited" : false,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "custom_fields" : {
+      "Source Information" : {
+        "Source Department" : "",
+        "Program" : ""
+      }
+    },
+    "renderTypeConfig" : {
+      "visible" : {
+        "table" : true
+      }
+    },
+    "availableDisplayTypes" : [ "table", "fatrow", "page" ],
+    "thumbnail" : {
+      "page" : {
+        "created" : true
+      }
+    },
+    "rdfSubject" : "0",
+    "rowIdentifier" : "0",
+    "rdfClass" : ""
+  },
+  "owner" : {
+    "id" : "knbi-ixsc",
+    "displayName" : "Denice Ross",
+    "screenName" : "Denice Ross"
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "knbi-ixsc",
+    "displayName" : "Denice Ross",
+    "screenName" : "Denice Ross"
+  },
+  "tags" : [ "blight", "code enforcement", "inspections" ],
+  "flags" : [ "default" ]
+}, {
+  "id" : "aexs-y2ma",
+  "name" : "Hearings Docket; Status of Properties",
+  "averageRating" : 0,
+  "category" : "Administrative Data",
+  "createdAt" : 1331168258,
+  "description" : "Detailed results info on the most recent adjudication action against property owners cited for violation of municipal code (mainly building code)",
+  "displayType" : "table",
+  "downloadCount" : 584,
+  "indexUpdatedAt" : 1380261119,
+  "newBackend" : false,
+  "numberOfComments" : 0,
+  "oid" : 770733,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1339804834,
+  "publicationGroup" : 293623,
+  "publicationStage" : "published",
+  "rowsUpdatedAt" : 1339795409,
+  "rowsUpdatedBy" : "ck47-rkbr",
+  "signed" : false,
+  "tableId" : 361208,
+  "totalTimesRated" : 0,
+  "viewCount" : 6322,
+  "viewLastModified" : 1356152660,
+  "viewType" : "tabular",
+  "grants" : [ {
+    "inherited" : false,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "custom_fields" : {
+      "Source Information" : {
+        "Source Department" : "Code Enforcement and Hearings Bureau",
+        "Program" : ""
+      }
+    },
+    "renderTypeConfig" : {
+      "visible" : {
+        "table" : true
+      }
+    },
+    "availableDisplayTypes" : [ "table", "fatrow", "page" ],
+    "rdfSubject" : "0"
+  },
+  "owner" : {
+    "id" : "knbi-ixsc",
+    "displayName" : "Denice Ross",
+    "screenName" : "Denice Ross"
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "ck47-rkbr",
+    "displayName" : "jkray",
+    "profileImageUrlLarge" : "/images/profile/5112/9733/hardhat_seawall_kray_large.jpg",
+    "profileImageUrlMedium" : "/images/profile/5112/9733/hardhat_seawall_kray_thumb.jpg",
+    "profileImageUrlSmall" : "/images/profile/5112/9733/hardhat_seawall_kray_tiny.jpg",
+    "screenName" : "jkray"
+  },
+  "tags" : [ "hearings", "blight", "blightstat" ],
+  "flags" : [ "default" ]
+}, {
+  "id" : "q683-wc79",
+  "name" : "NOPD Districts",
+  "averageRating" : 0,
+  "blobFilename" : "NOPD_Districts_20130322.zip",
+  "blobFileSize" : 37158,
+  "blobId" : "GNhp0m0zbS3G__nCaUEW4SSApLpDGTKGqnMKbzlJ-Q8",
+  "blobMimeType" : "application/zip; charset=binary",
+  "category" : "Geographic Reference",
+  "createdAt" : 1363982707,
+  "description" : "New Orleans Police Department Districts as of December 2011",
+  "displayType" : "map",
+  "downloadCount" : 0,
+  "indexUpdatedAt" : 1369570477,
+  "newBackend" : false,
+  "numberOfComments" : 0,
+  "oid" : 2920509,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1363982730,
+  "publicationGroup" : 749984,
+  "publicationStage" : "published",
+  "signed" : false,
+  "tableId" : 749984,
+  "totalTimesRated" : 0,
+  "viewCount" : 20442,
+  "viewLastModified" : 1363982838,
+  "viewType" : "geo",
+  "childViews" : [ "6ata-7b8z" ],
+  "grants" : [ {
+    "inherited" : false,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "custom_fields" : {
+      "Source Information" : {
+        "Source Department" : "New Orleans Police Department",
+        "Program" : ""
+      }
+    },
+    "renderTypeConfig" : {
+      "visible" : {
+        "map" : true
+      }
+    },
+    "availableDisplayTypes" : [ "map", "table", "fatrow", "page" ],
+    "geo" : {
+      "owsUrl" : "/api/geospatial/q683-wc79",
+      "bbox" : "-90.14098407642713,29.862207083518218,-89.62462546656496,30.18055065599445",
+      "layers" : "geo_q683-wc79-1",
+      "featureIdAttribute" : "_SocrataID",
+      "bboxCrs" : "EPSG:4326",
+      "namespace" : "geo_q683-wc79"
+    }
+  },
+  "owner" : {
+    "id" : "guap-8ddq",
+    "displayName" : "Doug Paulson, GISP",
+    "screenName" : "Doug Paulson, GISP"
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "guap-8ddq",
+    "displayName" : "Doug Paulson, GISP",
+    "screenName" : "Doug Paulson, GISP"
+  },
+  "tags" : [ "new orleans", "police", "districts", "nopd" ],
+  "flags" : [ "default" ]
+}, {
+  "id" : "j4pt-mz93",
+  "name" : "NOLA Master Street List - DRAFT",
+  "averageRating" : 0,
+  "category" : "Geographic Reference",
+  "createdAt" : 1331070135,
+  "description" : "This lists replaces the previous version of the New Orleans street name file.  It is a work-in-progress and will be updated as needed.  This version updates column names and corrects spellings of several streets.  It represents an inventory of official street name spellings in the City of New Orleans.  Note:  This list may not represent what is currently displayed on street signs. City of New Orleans official street list is derived from New Orleans street centerline file, 9-1-1 centerline file, and CPC plat maps. Fields include the full street name and the parsed elements along with abbreviations using US Postal Standards.",
+  "displayType" : "table",
+  "downloadCount" : 342,
+  "indexUpdatedAt" : 1384283221,
+  "newBackend" : false,
+  "numberOfComments" : 0,
+  "oid" : 6388474,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1384276177,
+  "publicationGroup" : 293002,
+  "publicationStage" : "published",
+  "rowsUpdatedAt" : 1384276042,
+  "rowsUpdatedBy" : "wvd3-542u",
+  "signed" : false,
+  "tableId" : 1348846,
+  "totalTimesRated" : 0,
+  "viewCount" : 5795,
+  "viewLastModified" : 1384276295,
+  "viewType" : "tabular",
+  "grants" : [ {
+    "inherited" : false,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "custom_fields" : {
+      "Source Information" : {
+        "Source Department" : "Information Technology & Innovation",
+        "Program" : ""
+      }
+    },
+    "renderTypeConfig" : {
+      "visible" : {
+        "table" : true
+      }
+    },
+    "availableDisplayTypes" : [ "table", "fatrow", "page" ],
+    "rdfSubject" : "0"
+  },
+  "owner" : {
+    "id" : "wvd3-542u",
+    "displayName" : "Christopher Ard",
+    "screenName" : "Christopher Ard"
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "wvd3-542u",
+    "displayName" : "Christopher Ard",
+    "screenName" : "Christopher Ard"
+  },
+  "tags" : [ "streets" ],
+  "flags" : [ "default" ]
+}, {
+  "id" : "div8-5v7i",
+  "name" : "NOLA Addresses",
+  "averageRating" : 100,
+  "blobFilename" : "NOLA_Addresses_20131220.zip",
+  "blobFileSize" : 13728151,
+  "blobId" : "luhwjlvaX-ebwj7QzPexUG33o3F13jJhRZxJb5AzdBM",
+  "blobMimeType" : "application/zip; charset=binary",
+  "category" : "Geographic Reference",
+  "createdAt" : 1310506283,
+  "description" : "City of New Orleans commercial and residential addresses.  ESRI shapefile format, GIS software required for viewing geometry (http://www.esri.com/software/arcgis/arcreader/).  Tabular data (DBF), included as part of the shapefile, are viewable in Excel.  Scheduled update: weekly",
+  "downloadCount" : 1532,
+  "indexUpdatedAt" : 1387559756,
+  "newBackend" : false,
+  "numberOfComments" : 14,
+  "oid" : 329646,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1310506283,
+  "publicationGroup" : 238349,
+  "publicationStage" : "published",
+  "signed" : false,
+  "tableId" : 238349,
+  "totalTimesRated" : 2,
+  "viewCount" : 2850,
+  "viewLastModified" : 1387559551,
+  "viewType" : "blobby",
+  "grants" : [ {
+    "inherited" : false,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "custom_fields" : {
+      "Source Information" : {
+        "Source Department" : "City of New Orleans - Department of Information Technology & Innovation",
+        "Program" : ""
+      }
+    }
+  },
+  "owner" : {
+    "id" : "guap-8ddq",
+    "displayName" : "Doug Paulson, GISP",
+    "screenName" : "Doug Paulson, GISP"
+  },
+  "ratings" : {
+    "rating" : 100
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "guap-8ddq",
+    "displayName" : "Doug Paulson, GISP",
+    "screenName" : "Doug Paulson, GISP"
+  },
+  "tags" : [ "new orleans", "address" ],
+  "flags" : [ "default" ]
+}, {
+  "id" : "6yxk-jztq",
+  "name" : "NOLA Local Historic Districts",
+  "averageRating" : 0,
+  "blobFilename" : "NOLA_Historic_Districts_20120113.zip",
+  "blobFileSize" : 26979,
+  "blobId" : "BPTF1Li5RXhqH_8xRkH0Qgq6pAqEsxvxGJH7x6fdsPg",
+  "blobMimeType" : "application/zip; charset=binary",
+  "category" : "Geographic Reference",
+  "createdAt" : 1353081383,
+  "description" : "City of New Orleans Local Historic Districts. There are 14 local historic districts within New Orleans/Orleans Parish, ten administered by the New Orleans Historic District Landmarks Commission and four by the Central Business District Historic District Landmarks Commission. Two of the districts administrated by HDLC are split between full and partial control.\r\n\r\nUpdate: As Needed",
+  "displayType" : "map",
+  "downloadCount" : 0,
+  "indexUpdatedAt" : 1377667477,
+  "newBackend" : false,
+  "numberOfComments" : 0,
+  "oid" : 1698799,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1353081385,
+  "publicationGroup" : 503081,
+  "publicationStage" : "published",
+  "signed" : false,
+  "tableId" : 503081,
+  "totalTimesRated" : 0,
+  "viewCount" : 8788,
+  "viewLastModified" : 1363631918,
+  "viewType" : "geo",
+  "childViews" : [ "apa2-wyj9" ],
+  "grants" : [ {
+    "inherited" : false,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "custom_fields" : {
+      "Source Information" : {
+        "Source Department" : "New Orleans Historic District Landmarks Commission",
+        "Program" : ""
+      }
+    },
+    "renderTypeConfig" : {
+      "visible" : {
+        "map" : true
+      }
+    },
+    "availableDisplayTypes" : [ "map", "table", "fatrow", "page" ],
+    "geo" : {
+      "owsUrl" : "/api/geospatial/6yxk-jztq",
+      "bbox" : "-90.10347642760789,29.91745462199716,-90.00881916534722,29.988796093864067",
+      "layers" : "geo_6yxk-jztq-1",
+      "featureIdAttribute" : "_SocrataID",
+      "bboxCrs" : "EPSG:4326",
+      "namespace" : "geo_6yxk-jztq"
+    }
+  },
+  "owner" : {
+    "id" : "guap-8ddq",
+    "displayName" : "Doug Paulson, GISP",
+    "screenName" : "Doug Paulson, GISP"
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "guap-8ddq",
+    "displayName" : "Doug Paulson, GISP",
+    "screenName" : "Doug Paulson, GISP"
+  },
+  "tags" : [ "superbowl", "new orleans", "hdlc", "cbdhdlc", "historic district" ],
+  "flags" : [ "default" ]
+}, {
+  "id" : "y66v-uj5w",
+  "name" : "NOLA Street Centerlines",
+  "averageRating" : 100,
+  "blobFilename" : "NOLA_Streets_20131220.zip",
+  "blobFileSize" : 2750126,
+  "blobId" : "MNAZfaS31R6sARNkdUCtxOgROsysJVwp4h08zxkN8FY",
+  "blobMimeType" : "application/zip; charset=binary",
+  "category" : "Geographic Reference",
+  "createdAt" : 1310580336,
+  "description" : "City of New Orleans street centerlines.  ESRI shapefile format, GIS software required for viewing geometry (http://www.esri.com/software/arcgis/arcreader/).  Tabular data (DBF), included as part of the shapefile, are viewable in Excel.  Scheduled update: weekly",
+  "displayType" : "blob",
+  "downloadCount" : 997,
+  "indexUpdatedAt" : 1387559786,
+  "newBackend" : false,
+  "numberOfComments" : 0,
+  "oid" : 329687,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1310580336,
+  "publicationGroup" : 238370,
+  "publicationStage" : "published",
+  "signed" : false,
+  "tableId" : 238370,
+  "totalTimesRated" : 2,
+  "viewCount" : 1445,
+  "viewLastModified" : 1387559606,
+  "viewType" : "blobby",
+  "grants" : [ {
+    "inherited" : false,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "custom_fields" : {
+      "Source Information" : {
+        "Source Department" : "City of New Orleans - Department of Information Technology & Innovation",
+        "Program" : ""
+      }
+    },
+    "renderTypeConfig" : {
+      "visible" : {
+        "blob" : true
+      }
+    },
+    "availableDisplayTypes" : [ "blob" ]
+  },
+  "owner" : {
+    "id" : "guap-8ddq",
+    "displayName" : "Doug Paulson, GISP",
+    "screenName" : "Doug Paulson, GISP"
+  },
+  "ratings" : {
+    "rating" : 100
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "guap-8ddq",
+    "displayName" : "Doug Paulson, GISP",
+    "screenName" : "Doug Paulson, GISP"
+  },
+  "tags" : [ "new orleans", "street", "centerlines" ],
+  "flags" : [ "default" ]
+}, {
+  "id" : "mesf-89bm",
+  "name" : "Lower 9 Lot Maintenance Program",
+  "averageRating" : 0,
+  "createdAt" : 1320694486,
+  "displayType" : "table",
+  "downloadCount" : 88,
+  "newBackend" : false,
+  "numberOfComments" : 0,
+  "oid" : 393462,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1323788417,
+  "publicationGroup" : 251027,
+  "publicationStage" : "published",
+  "rowClass" : "",
+  "rowsUpdatedAt" : 1323734498,
+  "rowsUpdatedBy" : "p5hd-q4ij",
+  "signed" : false,
+  "tableId" : 259579,
+  "totalTimesRated" : 0,
+  "viewCount" : 1698,
+  "viewLastModified" : 1323789030,
+  "viewType" : "tabular",
+  "disabledFeatureFlags" : [ "allow_comments" ],
+  "grants" : [ {
+    "inherited" : false,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "custom_fields" : {
+      "Source Information" : {
+        "Source Department" : "",
+        "Program" : ""
+      }
+    },
+    "renderTypeConfig" : {
+      "visible" : {
+        "table" : true
+      }
+    },
+    "availableDisplayTypes" : [ "table", "fatrow", "page" ],
+    "rdfSubject" : "0",
+    "rowIdentifier" : "0",
+    "rdfClass" : ""
+  },
+  "owner" : {
+    "id" : "p5hd-q4ij",
+    "displayName" : "David Lessinger",
+    "profileImageUrlLarge" : "/images/profile/9653/3103/Image_David_Lessinger_large.jpg",
+    "profileImageUrlMedium" : "/images/profile/9653/3103/Image_David_Lessinger_thumb.jpg",
+    "profileImageUrlSmall" : "/images/profile/9653/3103/Image_David_Lessinger_tiny.jpg",
+    "screenName" : "David Lessinger"
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "p5hd-q4ij",
+    "displayName" : "David Lessinger",
+    "profileImageUrlLarge" : "/images/profile/9653/3103/Image_David_Lessinger_large.jpg",
+    "profileImageUrlMedium" : "/images/profile/9653/3103/Image_David_Lessinger_thumb.jpg",
+    "profileImageUrlSmall" : "/images/profile/9653/3103/Image_David_Lessinger_tiny.jpg",
+    "screenName" : "David Lessinger"
+  },
+  "flags" : [ "default" ]
+}, {
+  "id" : "5fn8-vtui",
+  "name" : "Calls for Service 2013",
+  "averageRating" : 0,
+  "createdAt" : 1360015482,
+  "description" : "Data Description and Disclaimer\r\nThis dataset reflects incidents that have been reported to the New Orleans Police Department in 2013. Data is provided by Orleans Parish Communication District (OPCD), the administrative office of 9-1-1 for the City of New Orleans. In the OPCD system, NOPD may reclassify or change the signal type for up to 36 hours after the incident is marked up. For information about an incident after this time period, citizens may request police reports from the NOPD Public Records Division.  In order to protect the privacy of victims, addresses are shown at the block level and the call types cruelty to juveniles, juvenile attachment and missing juvenile have been removed in accordance with the Louisiana Public Records Act, L.R.S. 44:1.  Map coordinates (X,Y) have been removed for the following call types: Aggravated Rape, Aggravated Rape - MA, Crime Against Nature, Mental Patient, Oral Sexual Battery, Prostitution, Sexual Battery, Simple Rape, Simple Rape - Male V, and Soliciting for Prost.\r\n\r\nDisclaimer: These incidents may be based upon preliminary information supplied to the Police Department by the reporting parties that have not been verified. The preliminary crime classifications may be changed at a later date based upon additional investigation and there is always the possibility of mechanical or human error. Therefore, the New Orleans Police Department does not guarantee (either expressed or implied) the accuracy, completeness, timeliness, or correct sequencing of the information and the information should not be used for comparison purposes over time. The New Orleans Police Department will not be responsible for any error or omission, or for the use of, or the results obtained from the use of this information. All data visualizations on maps should be considered approximate and attempts to derive specific addresses are strictly prohibited. The New Orleans Police Department is not responsible for the content of any off-site pages that are referenced by or that reference this web page other than an official City of New Orleans or New Orleans Police Department web page. The user specifically acknowledges that the New Orleans Police Department is not responsible for any defamatory, offensive, misleading, or illegal conduct of other users, links, or third parties and that the risk of injury from the foregoing rests entirely with the user. Any use of the information for commercial purposes is strictly prohibited. The unauthorized use of the words \"New Orleans Police Department,\" \"NOPD,\" or any colorable imitation of these words or the unauthorized use of the New Orleans Police Department logo is unlawful. This web page does not, in any way, authorize such use.",
+  "displayType" : "table",
+  "downloadCount" : 616,
+  "indexUpdatedAt" : 1387693940,
+  "newBackend" : false,
+  "numberOfComments" : 11,
+  "oid" : 5572090,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1379998564,
+  "publicationGroup" : 657221,
+  "publicationStage" : "published",
+  "rowIdentifierColumnId" : 100948280,
+  "rowsUpdatedAt" : 1387692173,
+  "rowsUpdatedBy" : "ubzy-vsh3",
+  "signed" : false,
+  "state" : "normal",
+  "tableId" : 1179284,
+  "totalTimesRated" : 0,
+  "viewCount" : 9397,
+  "viewLastModified" : 1381524674,
+  "viewType" : "tabular",
+  "grants" : [ {
+    "inherited" : true,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "custom_fields" : {
+      "Source Information" : {
+        "Source Department" : "NOPD",
+        "Program" : ""
+      }
+    },
+    "renderTypeConfig" : {
+      "visible" : {
+        "table" : true
+      }
+    },
+    "availableDisplayTypes" : [ "table", "fatrow", "page" ],
+    "rdfSubject" : "0",
+    "rowIdentifier" : 100948280,
+    "thumbnail" : {
+      "page" : {
+        "created" : true
+      }
+    }
+  },
+  "owner" : {
+    "id" : "ubzy-vsh3",
+    "displayName" : "Socrata Service Account",
+    "screenName" : "Socrata Service Account"
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "ubzy-vsh3",
+    "displayName" : "Socrata Service Account",
+    "screenName" : "Socrata Service Account"
+  },
+  "tags" : [ "crime", "police" ],
+  "flags" : [ "default" ]
+}, {
+  "id" : "mbxb-ejdy",
+  "name" : "Tropical Storm Lee 311 Caller Needs",
+  "averageRating" : 0,
+  "category" : "Administrative Data",
+  "createdAt" : 1316206437,
+  "description" : "Simple call types for the Tropical Storm Lee 311 activation event.",
+  "displayType" : "table",
+  "downloadCount" : 119,
+  "newBackend" : false,
+  "numberOfComments" : 0,
+  "oid" : 333256,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1316206437,
+  "publicationGroup" : 240487,
+  "publicationStage" : "published",
+  "rowClass" : "",
+  "rowsUpdatedAt" : 1316206439,
+  "rowsUpdatedBy" : "knbi-ixsc",
+  "signed" : false,
+  "tableId" : 240487,
+  "totalTimesRated" : 0,
+  "viewCount" : 1413,
+  "viewLastModified" : 1316209232,
+  "viewType" : "tabular",
+  "grants" : [ {
+    "inherited" : false,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "custom_fields" : {
+      "Source Information" : {
+        "Source Department" : "Information Technology & Innovation",
+        "Program" : "311"
+      }
+    },
+    "renderTypeConfig" : {
+      "visible" : {
+        "table" : true
+      }
+    },
+    "availableDisplayTypes" : [ "table", "fatrow", "page" ],
+    "rdfSubject" : "0",
+    "rowIdentifier" : "0",
+    "rdfClass" : ""
+  },
+  "owner" : {
+    "id" : "knbi-ixsc",
+    "displayName" : "Denice Ross",
+    "screenName" : "Denice Ross"
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "knbi-ixsc",
+    "displayName" : "Denice Ross",
+    "screenName" : "Denice Ross"
+  },
+  "tags" : [ "311", "emergency" ],
+  "flags" : [ "default" ]
+}, {
+  "id" : "aird-4z7g",
+  "name" : "Census 2010 - New Orleans Regional Planning Commission",
+  "averageRating" : 0,
+  "category" : "Demographic Data",
+  "createdAt" : 1310740734,
+  "description" : "Census data (block, block group, tract) for New Orleans, compiled by the New Orleans Regional Planning Commission.\r\n\r\nScroll down to red Census tab then click on New Orleans tab.",
+  "displayType" : "href",
+  "downloadCount" : 943,
+  "newBackend" : false,
+  "numberOfComments" : 0,
+  "oid" : 329814,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1310740734,
+  "publicationGroup" : 238443,
+  "publicationStage" : "published",
+  "signed" : false,
+  "tableId" : 238443,
+  "totalTimesRated" : 0,
+  "viewCount" : 1636,
+  "viewLastModified" : 1313034362,
+  "viewType" : "href",
+  "grants" : [ {
+    "inherited" : false,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "custom_fields" : {
+      "Source Information" : {
+        "Source Department" : "U.S. Census Bureau",
+        "Program" : ""
+      }
+    },
+    "renderTypeConfig" : {
+      "visible" : {
+        "href" : true
+      }
+    },
+    "availableDisplayTypes" : [ "href" ],
+    "accessPoints" : {
+      "link" : "http://www.norpc.org/"
+    }
+  },
+  "owner" : {
+    "id" : "guap-8ddq",
+    "displayName" : "Doug Paulson, GISP",
+    "screenName" : "Doug Paulson, GISP"
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "guap-8ddq",
+    "displayName" : "Doug Paulson, GISP",
+    "screenName" : "Doug Paulson, GISP"
+  },
+  "tags" : [ "new orleans", "census", "2010" ],
+  "flags" : [ "default" ]
+}, {
+  "id" : "r82n-4xx7",
+  "name" : "Brake Tag Stations",
+  "averageRating" : 0,
+  "category" : "City Assets",
+  "createdAt" : 1335547380,
+  "description" : "The City of New Orleans official brake tag inspections will be available at these locations.\r\n\r\nBrake tag inspection fees are as follows:\r\n- All trucks over 6,000 pounds gross vehicle weight shall pay a fee of $40.00\r\n- All trucks, 6,000 pounds gross vehicle weight or less shall pay a fee of $30.00\r\n- All other vehicles (this includes: Motorcycles and Utility Trailers) shall pay a fee of $25.000).\r\n\r\nPlease call (504) 658-7186  with questions or concerns; also, if you are a business and are interested in applying for the brake tag program.\r\n\r\nThe list of vehicle inspection stations is subject to change as businesses come and go from the program. Check back to find additional locations as they become available.",
+  "displayType" : "table",
+  "downloadCount" : 161,
+  "indexUpdatedAt" : 1375801597,
+  "newBackend" : false,
+  "numberOfComments" : 0,
+  "oid" : 4790281,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1375800544,
+  "publicationGroup" : 328877,
+  "publicationStage" : "published",
+  "rowsUpdatedAt" : 1375800528,
+  "rowsUpdatedBy" : "8x8r-xmxi",
+  "signed" : false,
+  "tableId" : 1022279,
+  "totalTimesRated" : 0,
+  "viewCount" : 1631,
+  "viewLastModified" : 1375800544,
+  "viewType" : "tabular",
+  "grants" : [ {
+    "inherited" : false,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "custom_fields" : {
+      "Source Information" : {
+        "Source Department" : "Safety & Permits",
+        "Program" : ""
+      }
+    },
+    "renderTypeConfig" : {
+      "visible" : {
+        "table" : true
+      }
+    },
+    "availableDisplayTypes" : [ "table", "fatrow", "page" ],
+    "rdfSubject" : "0"
+  },
+  "owner" : {
+    "id" : "8x8r-xmxi",
+    "displayName" : "Eric Ogburn",
+    "screenName" : "Eric Ogburn"
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "8x8r-xmxi",
+    "displayName" : "Eric Ogburn",
+    "screenName" : "Eric Ogburn"
+  },
+  "tags" : [ "brake tags", "safety and permits", "inspections" ],
+  "flags" : [ "default" ]
+}, {
+  "id" : "rv3g-ypg7",
+  "name" : "Calls for Service 2012",
+  "averageRating" : 0,
+  "category" : "Administrative Data",
+  "createdAt" : 1357256967,
+  "description" : "Data Description and Disclaimer\r\nThis dataset reflects incidents that have been reported to the New Orleans Police Department in 2012. Data is provided by Orleans Parish Communication District (OPCD), the administrative office of 9-1-1 for the City of New Orleans. In the OPCD system, NOPD may reclassify or change the signal type for up to 36 hours after the incident is marked up. For information about an incident after this time period, citizens may request police reports from the NOPD Public Records Division.  In order to protect the privacy of victims, addresses are shown at the block level and the call types cruelty to juveniles, juvenile attachment and missing juvenile have been removed in accordance with the Louisiana Public Records Act, L.R.S. 44:1.  Map coordinates (X,Y) have been removed for the following call types: Aggravated Rape, Aggravated Rape - MA, Crime Against Nature, Mental Patient, Oral Sexual Battery, Prostitution, Sexual Battery, Simple Rape, Simple Rape - Male V, and Soliciting for Prost.\r\n\r\nDisclaimer: These incidents may be based upon preliminary information supplied to the Police Department by the reporting parties that have not been verified. The preliminary crime classifications may be changed at a later date based upon additional investigation and there is always the possibility of mechanical or human error. Therefore, the New Orleans Police Department does not guarantee (either expressed or implied) the accuracy, completeness, timeliness, or correct sequencing of the information and the information should not be used for comparison purposes over time. The New Orleans Police Department will not be responsible for any error or omission, or for the use of, or the results obtained from the use of this information. All data visualizations on maps should be considered approximate and attempts to derive specific addresses are strictly prohibited. The New Orleans Police Department is not responsible for the content of any off-site pages that are referenced by or that reference this web page other than an official City of New Orleans or New Orleans Police Department web page. The user specifically acknowledges that the New Orleans Police Department is not responsible for any defamatory, offensive, misleading, or illegal conduct of other users, links, or third parties and that the risk of injury from the foregoing rests entirely with the user. Any use of the information for commercial purposes is strictly prohibited. The unauthorized use of the words \"New Orleans Police Department,\" \"NOPD,\" or any colorable imitation of these words or the unauthorized use of the New Orleans Police Department logo is unlawful. This web page does not, in any way, authorize such use.",
+  "displayType" : "table",
+  "downloadCount" : 209,
+  "indexUpdatedAt" : 1370043670,
+  "newBackend" : false,
+  "numberOfComments" : 0,
+  "oid" : 2158420,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1357332045,
+  "publicationGroup" : 594264,
+  "publicationStage" : "published",
+  "rowClass" : "",
+  "rowsUpdatedAt" : 1357257159,
+  "rowsUpdatedBy" : "etmh-sfwk",
+  "signed" : false,
+  "tableId" : 594264,
+  "totalTimesRated" : 0,
+  "viewCount" : 2903,
+  "viewLastModified" : 1357667047,
+  "viewType" : "tabular",
+  "grants" : [ {
+    "inherited" : false,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "custom_fields" : {
+      "Source Information" : {
+        "Source Department" : "NOPD",
+        "Program" : ""
+      }
+    },
+    "renderTypeConfig" : {
+      "visible" : {
+        "table" : true
+      }
+    },
+    "availableDisplayTypes" : [ "table", "fatrow", "page" ],
+    "thumbnail" : {
+      "page" : {
+        "created" : true,
+        "selection" : {
+          "height" : 232,
+          "width" : 434,
+          "y1" : 485,
+          "y2" : 717,
+          "x2" : 846,
+          "x1" : 412
+        },
+        "filename" : "page.png-434.232.412.485.png"
+      }
+    },
+    "rdfSubject" : "0",
+    "rowIdentifier" : "0",
+    "rdfClass" : ""
+  },
+  "owner" : {
+    "id" : "etmh-sfwk",
+    "displayName" : "Greg Hymel",
+    "screenName" : "Greg Hymel"
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "etmh-sfwk",
+    "displayName" : "Greg Hymel",
+    "screenName" : "Greg Hymel"
+  },
+  "tags" : [ "crime", "police" ],
+  "flags" : [ "default" ]
+}, {
+  "id" : "3utr-tkrh",
+  "name" : "Upcoming Hearings",
+  "averageRating" : 20,
+  "category" : "Administrative Data",
+  "createdAt" : 1330384316,
+  "description" : "The Hearings Bureau sets properties for public hearing for the following agencies: Code Enforcement, Historic District Landmarks Commission, Vieux Carre Commission, and Safety & Permits",
+  "displayType" : "table",
+  "downloadCount" : 221,
+  "indexUpdatedAt" : 1364223158,
+  "newBackend" : false,
+  "numberOfComments" : 0,
+  "oid" : 1600965,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1352403825,
+  "publicationGroup" : 290076,
+  "publicationStage" : "published",
+  "rowsUpdatedAt" : 1352403621,
+  "rowsUpdatedBy" : "9mck-wzqt",
+  "signed" : false,
+  "tableId" : 488689,
+  "totalTimesRated" : 1,
+  "viewCount" : 1008,
+  "viewLastModified" : 1364223145,
+  "viewType" : "tabular",
+  "grants" : [ {
+    "inherited" : false,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "custom_fields" : {
+      "Source Information" : {
+        "Source Department" : "Code Enforcement and Hearings Bureau",
+        "Program" : "http://www.nola.gov/RESIDENTS/Code-Enforcement/Code-Enforcement-Document-Library"
+      }
+    },
+    "renderTypeConfig" : {
+      "visible" : {
+        "table" : true
+      }
+    },
+    "availableDisplayTypes" : [ "table", "fatrow", "page" ],
+    "rdfSubject" : "0"
+  },
+  "owner" : {
+    "id" : "knbi-ixsc",
+    "displayName" : "Denice Ross",
+    "screenName" : "Denice Ross"
+  },
+  "ratings" : {
+    "rating" : 20
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "9mck-wzqt",
+    "displayName" : "Kim Mitchell",
+    "profileImageUrlLarge" : "/images/profile/6898/7771/kim_large.jpg",
+    "profileImageUrlMedium" : "/images/profile/6898/7771/kim_thumb.jpg",
+    "profileImageUrlSmall" : "/images/profile/6898/7771/kim_tiny.jpg",
+    "screenName" : "Kim Mitchell"
+  },
+  "tags" : [ "blight", "hdlc", "vcc", "code enforcement", "historic" ],
+  "flags" : [ "default" ]
+}, {
+  "id" : "rw6e-a9x3",
+  "name" : "NOLA Permits - Accela (Historic Data: 3/2004 - 3/2012)",
+  "averageRating" : 0,
+  "blobFilename" : "NOLA_Permits_20120331.zip",
+  "blobFileSize" : 85509798,
+  "blobId" : "0g22SXtix9TXnCJmds_o0g_PQDRUC5N08GmiMhNOG3k",
+  "blobMimeType" : "application/zip; charset=binary",
+  "category" : "Administrative Data",
+  "createdAt" : 1314379151,
+  "description" : "City of New Orleans Permits (March 2004 to March 2012).  ESRI shapefile format, GIS software required for viewing geometry (http://www.esri.com/software/arcgis/arcreader/).  Tabular data (DBF), included as part of the shapefile, are viewable in Excel.  Large dataset - 400,000+ records. Associated spreadsheet 'Permits_3PrimeDomain' lists domains for three of the primary permit fields. Scheduled update: Quarterly",
+  "displayType" : "blob",
+  "downloadCount" : 539,
+  "indexUpdatedAt" : 1360966720,
+  "newBackend" : false,
+  "numberOfComments" : 2,
+  "oid" : 332097,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1314379151,
+  "publicationGroup" : 239841,
+  "publicationStage" : "published",
+  "signed" : false,
+  "tableId" : 239841,
+  "totalTimesRated" : 0,
+  "viewCount" : 954,
+  "viewLastModified" : 1360966703,
+  "viewType" : "blobby",
+  "grants" : [ {
+    "inherited" : false,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "custom_fields" : {
+      "Source Information" : {
+        "Source Department" : "City of New Orleans - Office of Safety and Permits",
+        "Program" : ""
+      }
+    },
+    "renderTypeConfig" : {
+      "visible" : {
+        "blob" : true
+      }
+    },
+    "availableDisplayTypes" : [ "blob" ],
+    "attachments" : [ {
+      "blobId" : "B1AC4322-16C8-4EF6-8E53-565DFED2C9BF",
+      "name" : "Permits_3PrimeDomain.xls",
+      "filename" : "Permits_3PrimeDomain.xls"
+    } ]
+  },
+  "owner" : {
+    "id" : "guap-8ddq",
+    "displayName" : "Doug Paulson, GISP",
+    "screenName" : "Doug Paulson, GISP"
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "guap-8ddq",
+    "displayName" : "Doug Paulson, GISP",
+    "screenName" : "Doug Paulson, GISP"
+  },
+  "tags" : [ "new orleans", "permits" ],
+  "flags" : [ "default" ]
+}, {
+  "id" : "vu74-j8jp",
+  "name" : "General Map of New Orleans Streets -- Poster",
+  "averageRating" : 0,
+  "blobFilename" : "\\\\cityofno.com\\CNO-FS\\UserData\\Home1\\dwross\\NO_Streetmap_NOEInset_20110721.pdf",
+  "blobFileSize" : 3971705,
+  "blobId" : "i4-dTbNJpSkYF8f_FEhOFQmUFHR9N9guRczQgjNm4fE",
+  "blobMimeType" : "application/pdf; charset=binary",
+  "category" : "Geographic Reference",
+  "createdAt" : 1317239820,
+  "description" : "Poster-sized street map of New Orleans with New Orleans East inset. PDF format. Next update: July 2012.",
+  "displayType" : "blob",
+  "downloadCount" : 458,
+  "newBackend" : false,
+  "numberOfComments" : 0,
+  "oid" : 336339,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1317239820,
+  "publicationGroup" : 241787,
+  "publicationStage" : "published",
+  "signed" : false,
+  "tableId" : 241787,
+  "totalTimesRated" : 0,
+  "viewCount" : 1048,
+  "viewLastModified" : 1317325958,
+  "viewType" : "blobby",
+  "grants" : [ {
+    "inherited" : false,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "custom_fields" : {
+      "Source Information" : {
+        "Source Department" : "CIty of New Orleans Department of Information Technology & Innovation",
+        "Program" : "GIS"
+      }
+    },
+    "renderTypeConfig" : {
+      "visible" : {
+        "blob" : true
+      }
+    },
+    "availableDisplayTypes" : [ "blob" ]
+  },
+  "owner" : {
+    "id" : "knbi-ixsc",
+    "displayName" : "Denice Ross",
+    "screenName" : "Denice Ross"
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "knbi-ixsc",
+    "displayName" : "Denice Ross",
+    "screenName" : "Denice Ross"
+  },
+  "tags" : [ "streets" ],
+  "flags" : [ "default" ]
+}, {
+  "id" : "67t2-it3c",
+  "name" : "NOLA Squares",
+  "averageRating" : 0,
+  "blobFilename" : "NOLA_Squares_20131220.zip",
+  "blobFileSize" : 4403235,
+  "blobId" : "npF8hVAbwRT-pKWWf_dE0zlCfgfcUsi-y6OAnwjVgA8",
+  "blobMimeType" : "application/zip; charset=binary",
+  "category" : "Geographic Reference",
+  "createdAt" : 1319485999,
+  "description" : "City of New Orleans squares, 'Square' - A portion of property with specific street or other designated boundaries and a given alpha/numeric identification.  ESRI shapefile format, GIS software required for viewing geometry (http://www.esri.com/software/arcgis/arcreader/).  Tabular date (DBF), included as part of the shapefile, are viewable in Excel.  Update: weekly",
+  "displayType" : "blob",
+  "downloadCount" : 465,
+  "indexUpdatedAt" : 1387559787,
+  "newBackend" : false,
+  "numberOfComments" : 0,
+  "oid" : 352759,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1319485999,
+  "publicationGroup" : 247965,
+  "publicationStage" : "published",
+  "signed" : false,
+  "tableId" : 247965,
+  "totalTimesRated" : 0,
+  "viewCount" : 840,
+  "viewLastModified" : 1387559679,
+  "viewType" : "blobby",
+  "grants" : [ {
+    "inherited" : false,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "custom_fields" : {
+      "Source Information" : {
+        "Source Department" : "City of New Orleans - Department of Information Technology & Innovation",
+        "Program" : ""
+      }
+    },
+    "renderTypeConfig" : {
+      "visible" : {
+        "blob" : true
+      }
+    },
+    "availableDisplayTypes" : [ "blob" ]
+  },
+  "owner" : {
+    "id" : "guap-8ddq",
+    "displayName" : "Doug Paulson, GISP",
+    "screenName" : "Doug Paulson, GISP"
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "guap-8ddq",
+    "displayName" : "Doug Paulson, GISP",
+    "screenName" : "Doug Paulson, GISP"
+  },
+  "tags" : [ "new orleans", "square", "property" ],
+  "flags" : [ "default" ]
+}, {
+  "id" : "gsin-etzy",
+  "name" : "NOLA Parks",
+  "averageRating" : 0,
+  "blobFilename" : "NOLA_Parks_20110818.zip",
+  "blobFileSize" : 80309,
+  "blobId" : "qaU-oseBceR47gfJhLsSgZMLDL1J-uP2j_iQUmWkMTU",
+  "blobMimeType" : "application/zip; charset=binary",
+  "category" : "Geographic Reference",
+  "createdAt" : 1313697594,
+  "description" : "City of New Orleans Parks.  ESRI shapefile format, GIS software required for viewing geometry (http://www.esri.com/software/arcgis/arcreader/).  Tabular data (DBF), included as part of the shapefile, are viewable in Excel.  Update: As Needed",
+  "displayType" : "blob",
+  "downloadCount" : 599,
+  "indexUpdatedAt" : 1357321557,
+  "newBackend" : false,
+  "numberOfComments" : 0,
+  "oid" : 331742,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1313697594,
+  "publicationGroup" : 239654,
+  "publicationStage" : "published",
+  "signed" : false,
+  "tableId" : 239654,
+  "totalTimesRated" : 0,
+  "viewCount" : 704,
+  "viewLastModified" : 1357321429,
+  "viewType" : "blobby",
+  "grants" : [ {
+    "inherited" : false,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "custom_fields" : {
+      "Source Information" : {
+        "Source Department" : "City of New Orleans - Department of Information Technology & Innovation",
+        "Program" : ""
+      }
+    },
+    "renderTypeConfig" : {
+      "visible" : {
+        "blob" : true
+      }
+    },
+    "availableDisplayTypes" : [ "blob" ]
+  },
+  "owner" : {
+    "id" : "guap-8ddq",
+    "displayName" : "Doug Paulson, GISP",
+    "screenName" : "Doug Paulson, GISP"
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "guap-8ddq",
+    "displayName" : "Doug Paulson, GISP",
+    "screenName" : "Doug Paulson, GISP"
+  },
+  "tags" : [ "superbowl", "city of new orleans", "parks" ],
+  "flags" : [ "default" ]
+}, {
+  "id" : "4uek-d54m",
+  "name" : "New Orleans Public Libraries",
+  "averageRating" : 60,
+  "category" : "City Assets",
+  "createdAt" : 1314896229,
+  "description" : "Location and basic information for New Orleans Public Libraries.",
+  "displayType" : "table",
+  "downloadCount" : 164,
+  "newBackend" : false,
+  "numberOfComments" : 0,
+  "oid" : 332348,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1314896229,
+  "publicationGroup" : 240015,
+  "publicationStage" : "published",
+  "rowClass" : "",
+  "rowsUpdatedAt" : 1314902009,
+  "rowsUpdatedBy" : "i7d8-sc4w",
+  "signed" : false,
+  "tableId" : 240015,
+  "totalTimesRated" : 1,
+  "viewCount" : 481,
+  "viewLastModified" : 1317868635,
+  "viewType" : "tabular",
+  "grants" : [ {
+    "inherited" : false,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "custom_fields" : {
+      "Source Information" : {
+        "Source Department" : "",
+        "Program" : ""
+      }
+    },
+    "renderTypeConfig" : {
+      "visible" : {
+        "table" : true
+      }
+    },
+    "availableDisplayTypes" : [ "table", "fatrow", "page" ],
+    "rdfSubject" : "0",
+    "rowIdentifier" : "0",
+    "rdfClass" : ""
+  },
+  "owner" : {
+    "id" : "knbi-ixsc",
+    "displayName" : "Denice Ross",
+    "screenName" : "Denice Ross"
+  },
+  "ratings" : {
+    "rating" : 60
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "i7d8-sc4w",
+    "displayName" : "Chris Metcalf",
+    "profileImageUrlLarge" : "/images/profile/3353/3169/project_managing_reasonably_sized_large.jpg",
+    "profileImageUrlMedium" : "/images/profile/3353/3169/project_managing_reasonably_sized_thumb.jpg",
+    "profileImageUrlSmall" : "/images/profile/3353/3169/project_managing_reasonably_sized_tiny.jpg",
+    "screenName" : "Chris Metcalf",
+    "rights" : [ "create_datasets", "edit_others_datasets", "edit_sdp", "edit_site_theme", "moderate_comments", "manage_users", "chown_datasets", "edit_nominations", "approve_nominations", "feature_items", "federations", "manage_stories", "manage_approval", "change_configurations", "view_domain", "view_others_datasets", "edit_pages", "create_pages", "view_goals", "view_dashboards", "edit_goals", "edit_dashboards", "create_dashboards" ],
+    "flags" : [ "admin" ]
+  },
+  "flags" : [ "default" ]
+}, {
+  "id" : "5kp7-cxpd",
+  "name" : "NOLA City Council Districts maps - 8.5 x 11",
+  "averageRating" : 0,
+  "blobFilename" : "Council_District_Binder_ABCDE_letter.pdf",
+  "blobFileSize" : 8270963,
+  "blobId" : "0eozgM0r2CqyAPTD6LBKCPwtxm78ooeDQYgfizCVEuY",
+  "blobMimeType" : "application/pdf; charset=binary",
+  "category" : "Geographic Reference",
+  "createdAt" : 1313678566,
+  "description" : "City of New Orleans, Council Districts.  PDF binder containing individual 8.5 x 11 (letter size) maps for each of the five New Orleans City Council Districts.  Update: As Needed.  Individual poster size maps (ANSI-E, 34 x 44) are available in PDF format for each of the Council Districts.",
+  "displayType" : "blob",
+  "downloadCount" : 379,
+  "newBackend" : false,
+  "numberOfComments" : 0,
+  "oid" : 331681,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1313678566,
+  "publicationGroup" : 239607,
+  "publicationStage" : "published",
+  "signed" : false,
+  "tableId" : 239607,
+  "totalTimesRated" : 0,
+  "viewCount" : 692,
+  "viewLastModified" : 1317910734,
+  "viewType" : "blobby",
+  "grants" : [ {
+    "inherited" : false,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "custom_fields" : {
+      "Source Information" : {
+        "Source Department" : "City of New Orleans - Department of Information Technology & Innovation",
+        "Program" : ""
+      }
+    },
+    "renderTypeConfig" : {
+      "visible" : {
+        "blob" : true
+      }
+    },
+    "availableDisplayTypes" : [ "blob" ]
+  },
+  "owner" : {
+    "id" : "guap-8ddq",
+    "displayName" : "Doug Paulson, GISP",
+    "screenName" : "Doug Paulson, GISP"
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "guap-8ddq",
+    "displayName" : "Doug Paulson, GISP",
+    "screenName" : "Doug Paulson, GISP"
+  },
+  "tags" : [ "new orleans", "city council", "map" ],
+  "flags" : [ "default" ]
+}, {
+  "id" : "6tdr-yhxz",
+  "name" : "NOLA Curb Lines",
+  "averageRating" : 0,
+  "blobFilename" : "NOLA_curbs.zip",
+  "blobFileSize" : 13889904,
+  "blobId" : "7qdaS-f2qa7dUkbuxGOhEJecYA7jsBThjpS1ccxzZuA",
+  "blobMimeType" : "application/zip; charset=binary",
+  "category" : "Geographic Reference",
+  "createdAt" : 1314377576,
+  "description" : "City of New Orleans curb lines.  ESRI shapefile format, GIS software required for viewing geometry (http://www.esri.com/software/arcgis/arcreader/).  Tabular data (DBF), included as part of the shapefile, are viewable in Excel.  Update: As Needed",
+  "displayType" : "blob",
+  "downloadCount" : 446,
+  "newBackend" : false,
+  "numberOfComments" : 0,
+  "oid" : 332094,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1314377576,
+  "publicationGroup" : 239839,
+  "publicationStage" : "published",
+  "signed" : false,
+  "tableId" : 239839,
+  "totalTimesRated" : 0,
+  "viewCount" : 680,
+  "viewLastModified" : 1325088406,
+  "viewType" : "blobby",
+  "grants" : [ {
+    "inherited" : false,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "custom_fields" : {
+      "Source Information" : {
+        "Source Department" : "City of New Orleans - Department of Information Technology & Innovation",
+        "Program" : ""
+      }
+    },
+    "renderTypeConfig" : {
+      "visible" : {
+        "blob" : true
+      }
+    },
+    "availableDisplayTypes" : [ "blob" ]
+  },
+  "owner" : {
+    "id" : "guap-8ddq",
+    "displayName" : "Doug Paulson, GISP",
+    "screenName" : "Doug Paulson, GISP"
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "guap-8ddq",
+    "displayName" : "Doug Paulson, GISP",
+    "screenName" : "Doug Paulson, GISP"
+  },
+  "tags" : [ "new orleans", "curbs" ],
+  "flags" : [ "default" ]
+}, {
+  "id" : "fhra-haa6",
+  "name" : "NOLA GIS Planning And Zoning Data",
+  "averageRating" : 0,
+  "blobFilename" : "NOLA_GIS_Planning_and_Zoning_data.zip",
+  "blobFileSize" : 1171355,
+  "blobId" : "x9tl6TggMczLMWXs3lnmBEzdxyZRdRS7yQz_taOzot8",
+  "blobMimeType" : "application/zip; charset=binary",
+  "category" : "Geographic Reference",
+  "createdAt" : 1363360402,
+  "description" : "Data layers supporting Planning & Zoning lookup tool",
+  "displayType" : "blob",
+  "downloadCount" : 1797,
+  "indexUpdatedAt" : 1363360855,
+  "newBackend" : false,
+  "numberOfComments" : 0,
+  "oid" : 2834753,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1363360402,
+  "publicationGroup" : 735238,
+  "publicationStage" : "published",
+  "signed" : false,
+  "tableId" : 735238,
+  "totalTimesRated" : 0,
+  "viewCount" : 3771,
+  "viewLastModified" : 1363360778,
+  "viewType" : "blobby",
+  "grants" : [ {
+    "inherited" : false,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "custom_fields" : {
+      "Source Information" : {
+        "Source Department" : "City of New Orleans - City Planning Commission",
+        "Program" : ""
+      }
+    },
+    "renderTypeConfig" : {
+      "visible" : {
+        "blob" : true
+      }
+    },
+    "availableDisplayTypes" : [ "blob" ]
+  },
+  "owner" : {
+    "id" : "guap-8ddq",
+    "displayName" : "Doug Paulson, GISP",
+    "screenName" : "Doug Paulson, GISP"
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "guap-8ddq",
+    "displayName" : "Doug Paulson, GISP",
+    "screenName" : "Doug Paulson, GISP"
+  },
+  "tags" : [ "new orleans", "planning", "zoning", "data" ],
+  "flags" : [ "default" ]
+}, {
+  "id" : "c9gq-4kyr",
+  "name" : "NOLA Census 1990",
+  "averageRating" : 0,
+  "blobFilename" : "Orleans Census1990.zip",
+  "blobFileSize" : 2033840,
+  "blobId" : "ScL16x82WwjqQfRf_aGShBVPf9TZ2o-wOKvNyvxUGuA",
+  "blobMimeType" : "application/zip; charset=binary",
+  "category" : "Demographic Data",
+  "createdAt" : 1310419396,
+  "description" : "1990 City of New Orleans/Orleans Parish Census data.  ESRI shapefile format, GIS software required for viewing geometry (http://www.esri.com/software/arcgis/arcreader/).  Tabular data (DBF), included as part of the shapefile, are viewable in Excel.",
+  "displayType" : "blob",
+  "downloadCount" : 310,
+  "newBackend" : false,
+  "numberOfComments" : 0,
+  "oid" : 329557,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1310419396,
+  "publicationGroup" : 238288,
+  "publicationStage" : "published",
+  "signed" : false,
+  "tableId" : 238288,
+  "totalTimesRated" : 0,
+  "viewCount" : 516,
+  "viewLastModified" : 1325088175,
+  "viewType" : "blobby",
+  "grants" : [ {
+    "inherited" : false,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "custom_fields" : {
+      "Source Information" : {
+        "Source Department" : "U.S. Department of Commerce, Census Bureau ",
+        "Program" : ""
+      }
+    },
+    "renderTypeConfig" : {
+      "visible" : {
+        "blob" : true
+      }
+    },
+    "availableDisplayTypes" : [ "blob" ]
+  },
+  "owner" : {
+    "id" : "guap-8ddq",
+    "displayName" : "Doug Paulson, GISP",
+    "screenName" : "Doug Paulson, GISP"
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "guap-8ddq",
+    "displayName" : "Doug Paulson, GISP",
+    "screenName" : "Doug Paulson, GISP"
+  },
+  "tags" : [ "census", "orleans parish", "new orleans" ],
+  "flags" : [ "default" ]
+}, {
+  "id" : "zizw-dzmg",
+  "name" : "NOFD Districts",
+  "averageRating" : 0,
+  "blobFilename" : "NOFD_Districts_20120615.zip",
+  "blobFileSize" : 98234,
+  "blobId" : "hCKrAHg9dE2d0dAo4Y61SeOvzNCwkasb30fXSGVt8p8",
+  "blobMimeType" : "application/zip; charset=binary",
+  "category" : "Geographic Reference",
+  "createdAt" : 1319480450,
+  "description" : "New Orleans Fire Department Districts.  ESRI shapefile format, GIS software required for viewing geometry (http://www.esri.com/software/arcgis/arcreader/).  Tabular data (DBF), included as part of the shapefile, are viewable in Excel.  Note: 8.5 x 11 map attached.  Update: As Needed",
+  "displayType" : "blob",
+  "downloadCount" : 207,
+  "iconUrl" : "C124F1B7-6F56-4641-9290-8AD0CB140B2C",
+  "newBackend" : false,
+  "numberOfComments" : 0,
+  "oid" : 352729,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1319480450,
+  "publicationGroup" : 247942,
+  "publicationStage" : "published",
+  "signed" : false,
+  "tableId" : 247942,
+  "totalTimesRated" : 0,
+  "viewCount" : 461,
+  "viewLastModified" : 1339793323,
+  "viewType" : "blobby",
+  "grants" : [ {
+    "inherited" : false,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "custom_fields" : {
+      "Source Information" : {
+        "Source Department" : "New Orleans Fire Department",
+        "Program" : ""
+      }
+    },
+    "renderTypeConfig" : {
+      "visible" : {
+        "blob" : true
+      }
+    },
+    "availableDisplayTypes" : [ "blob" ],
+    "attachments" : [ {
+      "blobId" : "F73F2C93-34A6-4343-8E79-969BDBD3B7FD",
+      "name" : "NOFD_Districts_20120615_letter.pdf",
+      "filename" : "NOFD_Districts_20120615_letter.pdf"
+    } ]
+  },
+  "owner" : {
+    "id" : "guap-8ddq",
+    "displayName" : "Doug Paulson, GISP",
+    "screenName" : "Doug Paulson, GISP"
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "guap-8ddq",
+    "displayName" : "Doug Paulson, GISP",
+    "screenName" : "Doug Paulson, GISP"
+  },
+  "tags" : [ "nofd", "fire", "districts" ],
+  "flags" : [ "default" ]
+}, {
+  "id" : "28ec-c8d6",
+  "name" : "Calls for Service 2011",
+  "averageRating" : 0,
+  "category" : "Administrative Data",
+  "createdAt" : 1357164235,
+  "description" : "Data Description and Disclaimer\r\nThis dataset reflects incidents that have been reported to the New Orleans Police Department in 2011. Data is provided by Orleans Parish Communication District (OPCD), the administrative office of 9-1-1 for the City of New Orleans. In the OPCD system, NOPD may reclassify or change the signal type for up to 36 hours after the incident is marked up. For information about an incident after this time period, citizens may request police reports from the NOPD Public Records Division.  In order to protect the privacy of victims, addresses are shown at the block level and the call types cruelty to juveniles, juvenile attachment and missing juvenile have been removed in accordance with the Louisiana Public Records Act, L.R.S. 44:1.  Map coordinates (X,Y) have been removed for the following call types: Aggravated Rape, Aggravated Rape - MA, Crime Against Nature, Mental Patient, Oral Sexual Battery, Prostitution, Sexual Battery, Simple Rape, and Soliciting for Prost.\r\n\r\nDisclaimer: These incidents may be based upon preliminary information supplied to the Police Department by the reporting parties that have not been verified. The preliminary crime classifications may be changed at a later date based upon additional investigation and there is always the possibility of mechanical or human error. Therefore, the New Orleans Police Department does not guarantee (either expressed or implied) the accuracy, completeness, timeliness, or correct sequencing of the information and the information should not be used for comparison purposes over time. The New Orleans Police Department will not be responsible for any error or omission, or for the use of, or the results obtained from the use of this information. All data visualizations on maps should be considered approximate and attempts to derive specific addresses are strictly prohibited. The New Orleans Police Department is not responsible for the content of any off-site pages that are referenced by or that reference this web page other than an official City of New Orleans or New Orleans Police Department web page. The user specifically acknowledges that the New Orleans Police Department is not responsible for any defamatory, offensive, misleading, or illegal conduct of other users, links, or third parties and that the risk of injury from the foregoing rests entirely with the user. Any use of the information for commercial purposes is strictly prohibited. The unauthorized use of the words \"New Orleans Police Department,\" \"NOPD,\" or any colorable imitation of these words or the unauthorized use of the New Orleans Police Department logo is unlawful. This web page does not, in any way, authorize such use.",
+  "displayType" : "table",
+  "downloadCount" : 142,
+  "indexUpdatedAt" : 1370042008,
+  "newBackend" : false,
+  "numberOfComments" : 0,
+  "oid" : 2153630,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1357332015,
+  "publicationGroup" : 592468,
+  "publicationStage" : "published",
+  "rowClass" : "",
+  "rowsUpdatedAt" : 1357164413,
+  "rowsUpdatedBy" : "etmh-sfwk",
+  "signed" : false,
+  "tableId" : 592468,
+  "totalTimesRated" : 0,
+  "viewCount" : 1793,
+  "viewLastModified" : 1357675108,
+  "viewType" : "tabular",
+  "grants" : [ {
+    "inherited" : false,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "custom_fields" : {
+      "Source Information" : {
+        "Source Department" : "NOPD",
+        "Program" : ""
+      }
+    },
+    "renderTypeConfig" : {
+      "visible" : {
+        "table" : true
+      }
+    },
+    "availableDisplayTypes" : [ "table", "fatrow", "page" ],
+    "thumbnail" : {
+      "page" : {
+        "created" : true,
+        "selection" : {
+          "height" : 212,
+          "width" : 398,
+          "y1" : 29,
+          "y2" : 241,
+          "x2" : 826,
+          "x1" : 428
+        },
+        "filename" : "page.png-398.212.428.29.png"
+      }
+    },
+    "rdfSubject" : "0",
+    "rowIdentifier" : "0",
+    "rdfClass" : ""
+  },
+  "owner" : {
+    "id" : "etmh-sfwk",
+    "displayName" : "Greg Hymel",
+    "screenName" : "Greg Hymel"
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "etmh-sfwk",
+    "displayName" : "Greg Hymel",
+    "screenName" : "Greg Hymel"
+  },
+  "tags" : [ "crime", "police" ],
+  "flags" : [ "default" ]
+}, {
+  "id" : "e3wd-h7q2",
+  "name" : "BlightStatus Demolitions",
+  "averageRating" : 0,
+  "category" : "Administrative Data",
+  "createdAt" : 1357943536,
+  "description" : "Blighted structures that have been demolished since the inception of BlightStat on October 1, 2010.  BlightStat is a public meeting that tracks the City's progress in meeting Mayor Landrieu's stated goal of eliminating 10,000 blighted New Orleans properties in three years.  Scheduled update: Monthly",
+  "displayType" : "table",
+  "downloadCount" : 141,
+  "indexUpdatedAt" : 1387393805,
+  "newBackend" : false,
+  "numberOfComments" : 0,
+  "oid" : 6848346,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1387383011,
+  "publicationGroup" : 608781,
+  "publicationStage" : "published",
+  "rowsUpdatedAt" : 1387382955,
+  "rowsUpdatedBy" : "guap-8ddq",
+  "signed" : false,
+  "tableId" : 1404607,
+  "totalTimesRated" : 0,
+  "viewCount" : 998,
+  "viewLastModified" : 1387383011,
+  "viewType" : "tabular",
+  "grants" : [ {
+    "inherited" : false,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "custom_fields" : {
+      "Source Information" : {
+        "Source Department" : "City of New Orleans Code Enforcement, NORA, City Contractors: DRC, SAIC",
+        "Program" : "Strategic Demolition for Economic Recovery (SDER), FEMA-funded demolitions, Imminent Danger of Collapse (IDC), NORA/LLT demolitions"
+      }
+    },
+    "renderTypeConfig" : {
+      "visible" : {
+        "table" : true
+      }
+    },
+    "availableDisplayTypes" : [ "table", "fatrow", "page" ],
+    "rdfSubject" : "0"
+  },
+  "owner" : {
+    "id" : "guap-8ddq",
+    "displayName" : "Doug Paulson, GISP",
+    "screenName" : "Doug Paulson, GISP"
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "guap-8ddq",
+    "displayName" : "Doug Paulson, GISP",
+    "screenName" : "Doug Paulson, GISP"
+  },
+  "tags" : [ "blightstat", "blight", "demolition", "demo" ],
+  "flags" : [ "default" ]
+}, {
+  "id" : "hpm5-48nj",
+  "name" : "NORA Sold Properties",
+  "averageRating" : 0,
+  "category" : "Administrative Data",
+  "createdAt" : 1360173102,
+  "description" : "This data set is a listing of all former Road Home properties sold by NORA through the following disposition channels.\r\n-Auction: Properties put up for auction and sold to the highest bidder.\r\n-Development: Properties offered via request for proposals to create affordable housing.\r\n-Lot Next Door: Properties sold to adjacent owners.\r\n-Alternate Land Use: Properties sold for purposes of creating green space and used for activities such as community gardens.",
+  "displayType" : "table",
+  "downloadCount" : 125,
+  "indexUpdatedAt" : 1379454753,
+  "newBackend" : false,
+  "numberOfComments" : 0,
+  "oid" : 5467627,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1379452208,
+  "publicationGroup" : 661345,
+  "publicationStage" : "published",
+  "rowsUpdatedAt" : 1379451983,
+  "rowsUpdatedBy" : "c4j8-jv6s",
+  "signed" : false,
+  "tableId" : 1157820,
+  "totalTimesRated" : 0,
+  "viewCount" : 703,
+  "viewLastModified" : 1379452208,
+  "viewType" : "tabular",
+  "grants" : [ {
+    "inherited" : false,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "custom_fields" : {
+      "Source Information" : {
+        "Source Department" : "",
+        "Program" : ""
+      }
+    },
+    "renderTypeConfig" : {
+      "visible" : {
+        "table" : true
+      }
+    },
+    "availableDisplayTypes" : [ "table", "fatrow", "page" ],
+    "rdfSubject" : "0"
+  },
+  "owner" : {
+    "id" : "c4j8-jv6s",
+    "displayName" : "ssmadden",
+    "profileImageUrlLarge" : "/images/profile/8664/3644/Tulips_large.jpg",
+    "profileImageUrlMedium" : "/images/profile/8664/3644/Tulips_thumb.jpg",
+    "profileImageUrlSmall" : "/images/profile/8664/3644/Tulips_tiny.jpg",
+    "screenName" : "ssmadden"
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "c4j8-jv6s",
+    "displayName" : "ssmadden",
+    "profileImageUrlLarge" : "/images/profile/8664/3644/Tulips_large.jpg",
+    "profileImageUrlMedium" : "/images/profile/8664/3644/Tulips_thumb.jpg",
+    "profileImageUrlSmall" : "/images/profile/8664/3644/Tulips_tiny.jpg",
+    "screenName" : "ssmadden"
+  },
+  "flags" : [ "default" ]
+}, {
+  "id" : "m7iz-wdrn",
+  "name" : "NOLA Cultural Products Districts",
+  "averageRating" : 0,
+  "blobFilename" : "NOLA_Cultural_Products_Districts_20121018.zip",
+  "blobFileSize" : 22481,
+  "blobId" : "vbFzS0Dr4Mi_dyyYidaYLC3lz29cRk7z09SkFtPnVYw",
+  "blobMimeType" : "application/zip; charset=binary",
+  "category" : "Geographic Reference",
+  "createdAt" : 1351263642,
+  "description" : "Louisiana's Cultural Products Districts provide for tax free sales of original works of visual art, as well as tax credits for commercial and residential renovation within the specified district. The primary goal of this initiative is to spark community revitalization based on cultural activity though tax incentives. This dataset depicts boundaries, as of October 2012, for the 21 Cultural Products Districts within the City of New Orelans. This dataset is designed to be used in conjunction with the City of New Orleans 'Parcel' and 'Address' data to identify eligible properties. For specific information on eligibility, please contact the City of New Orelans Cultural Economy Project Coordinator. Update: As Needed",
+  "displayType" : "map",
+  "downloadCount" : 0,
+  "indexUpdatedAt" : 1366728858,
+  "newBackend" : false,
+  "numberOfComments" : 0,
+  "oid" : 1432592,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1366728584,
+  "publicationGroup" : 464008,
+  "publicationStage" : "published",
+  "signed" : false,
+  "tableId" : 464008,
+  "totalTimesRated" : 0,
+  "viewCount" : 543,
+  "viewLastModified" : 1366728584,
+  "viewType" : "geo",
+  "childViews" : [ "bhxb-24eu" ],
+  "grants" : [ {
+    "inherited" : false,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "custom_fields" : {
+      "Source Information" : {
+        "Source Department" : "Office of the Mayor",
+        "Program" : "Cultural Economy Project Coordinator"
+      }
+    },
+    "renderTypeConfig" : {
+      "visible" : {
+        "map" : true
+      }
+    },
+    "availableDisplayTypes" : [ "map", "table", "fatrow", "page" ],
+    "geo" : {
+      "layers" : "geo_m7iz-wdrn-1",
+      "bbox" : "-90.13831040574712,29.90973896888474,-89.9014917518791,30.07802259990197",
+      "bboxCrs" : "EPSG:4326",
+      "featureIdAttribute" : "_SocrataID",
+      "owsUrl" : "/api/geospatial/m7iz-wdrn",
+      "namespace" : "geo_m7iz-wdrn"
+    }
+  },
+  "owner" : {
+    "id" : "guap-8ddq",
+    "displayName" : "Doug Paulson, GISP",
+    "screenName" : "Doug Paulson, GISP"
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "guap-8ddq",
+    "displayName" : "Doug Paulson, GISP",
+    "screenName" : "Doug Paulson, GISP"
+  },
+  "tags" : [ "superbowl", "new orleans", "cultural", "products", "districts" ],
+  "flags" : [ "default" ]
+}, {
+  "id" : "cz87-uixy",
+  "name" : "Lots Cuts October 2011",
+  "averageRating" : 0,
+  "blobFilename" : "Lots_Cuts_October 2011.pdf",
+  "blobFileSize" : 302858,
+  "blobId" : "s2AHkmUjWQu68D2wbHc0hg8Xcjv6t0kr1V2sDN-6h7k",
+  "blobMimeType" : "application/pdf; charset=binary",
+  "createdAt" : 1320704424,
+  "displayType" : "blob",
+  "downloadCount" : 200,
+  "newBackend" : false,
+  "numberOfComments" : 0,
+  "oid" : 363572,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1320704424,
+  "publicationGroup" : 251054,
+  "publicationStage" : "published",
+  "signed" : false,
+  "tableId" : 251054,
+  "totalTimesRated" : 0,
+  "viewCount" : 314,
+  "viewLastModified" : 1320704478,
+  "viewType" : "blobby",
+  "grants" : [ {
+    "inherited" : false,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "custom_fields" : {
+      "Source Information" : {
+        "Source Department" : "",
+        "Program" : ""
+      }
+    },
+    "renderTypeConfig" : {
+      "visible" : {
+        "blob" : true
+      }
+    },
+    "availableDisplayTypes" : [ "blob" ]
+  },
+  "owner" : {
+    "id" : "p5hd-q4ij",
+    "displayName" : "David Lessinger",
+    "profileImageUrlLarge" : "/images/profile/9653/3103/Image_David_Lessinger_large.jpg",
+    "profileImageUrlMedium" : "/images/profile/9653/3103/Image_David_Lessinger_thumb.jpg",
+    "profileImageUrlSmall" : "/images/profile/9653/3103/Image_David_Lessinger_tiny.jpg",
+    "screenName" : "David Lessinger"
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "p5hd-q4ij",
+    "displayName" : "David Lessinger",
+    "profileImageUrlLarge" : "/images/profile/9653/3103/Image_David_Lessinger_large.jpg",
+    "profileImageUrlMedium" : "/images/profile/9653/3103/Image_David_Lessinger_thumb.jpg",
+    "profileImageUrlSmall" : "/images/profile/9653/3103/Image_David_Lessinger_tiny.jpg",
+    "screenName" : "David Lessinger"
+  },
+  "tags" : [ "blight", "lower 9" ],
+  "flags" : [ "default" ]
+}, {
+  "id" : "d9hd-x6nn",
+  "name" : "Regional Hospitals Sep2011",
+  "averageRating" : 0,
+  "createdAt" : 1318519883,
+  "displayType" : "table",
+  "downloadCount" : 117,
+  "indexUpdatedAt" : 1382751378,
+  "newBackend" : false,
+  "numberOfComments" : 0,
+  "oid" : 344749,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1318520420,
+  "publicationGroup" : 245466,
+  "publicationStage" : "published",
+  "rowClass" : "",
+  "rowsUpdatedAt" : 1318519885,
+  "rowsUpdatedBy" : "etmh-sfwk",
+  "signed" : false,
+  "tableId" : 245466,
+  "totalTimesRated" : 0,
+  "viewCount" : 266,
+  "viewLastModified" : 1318534432,
+  "viewType" : "tabular",
+  "grants" : [ {
+    "inherited" : false,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "custom_fields" : {
+      "Source Information" : {
+        "Source Department" : "",
+        "Program" : ""
+      }
+    },
+    "renderTypeConfig" : {
+      "visible" : {
+        "table" : true
+      }
+    },
+    "availableDisplayTypes" : [ "table", "fatrow", "page" ],
+    "rdfSubject" : "0",
+    "attachments" : [ {
+      "blobId" : "0941420C-47DA-4E3E-8DF0-9904714CAE5F",
+      "name" : "Regional_Hospitals_2011.zip",
+      "filename" : "Regional_Hospitals_2011.zip"
+    } ],
+    "rowIdentifier" : "0",
+    "rdfClass" : ""
+  },
+  "owner" : {
+    "id" : "etmh-sfwk",
+    "displayName" : "Greg Hymel",
+    "screenName" : "Greg Hymel"
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "etmh-sfwk",
+    "displayName" : "Greg Hymel",
+    "screenName" : "Greg Hymel"
+  },
+  "flags" : [ "default" ]
+}, {
+  "id" : "65t6-gi32",
+  "name" : "Playgrounds Remediated for Lead 2011",
+  "averageRating" : 0,
+  "category" : "Administrative Data",
+  "createdAt" : 1320767445,
+  "description" : "New Orleans playgrounds that underwent extensive lead remediation.",
+  "displayType" : "table",
+  "downloadCount" : 116,
+  "newBackend" : false,
+  "numberOfComments" : 0,
+  "oid" : 364029,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1320774681,
+  "publicationGroup" : 251196,
+  "publicationStage" : "published",
+  "rowsUpdatedAt" : 1320774664,
+  "rowsUpdatedBy" : "etmh-sfwk",
+  "signed" : false,
+  "tableId" : 251231,
+  "totalTimesRated" : 0,
+  "viewCount" : 276,
+  "viewLastModified" : 1320774681,
+  "viewType" : "tabular",
+  "grants" : [ {
+    "inherited" : false,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "custom_fields" : {
+      "Source Information" : {
+        "Source Department" : "City of New Orleans Coastal & Environmental Affairs",
+        "Program" : ""
+      }
+    },
+    "renderTypeConfig" : {
+      "visible" : {
+        "table" : true
+      }
+    },
+    "availableDisplayTypes" : [ "table", "fatrow", "page" ],
+    "rdfSubject" : "0"
+  },
+  "owner" : {
+    "id" : "etmh-sfwk",
+    "displayName" : "Greg Hymel",
+    "screenName" : "Greg Hymel"
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "etmh-sfwk",
+    "displayName" : "Greg Hymel",
+    "screenName" : "Greg Hymel"
+  },
+  "tags" : [ "lead", "parks", "playgrounds" ],
+  "flags" : [ "default" ]
+}, {
+  "id" : "rcm3-fn58",
+  "name" : "NOLA Permits",
+  "averageRating" : 0,
+  "category" : "Administrative Data",
+  "createdAt" : 1361295642,
+  "description" : "City of New Oreleans permit data, 1/01/2012-3/31/2013\r\nNote: For download of entire dataset, export as .csv",
+  "displayType" : "table",
+  "downloadCount" : 163,
+  "indexUpdatedAt" : 1366314402,
+  "newBackend" : false,
+  "numberOfComments" : 0,
+  "oid" : 3255276,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1366314027,
+  "publicationGroup" : 687079,
+  "publicationStage" : "published",
+  "rowClass" : "",
+  "rowsUpdatedAt" : 1366313455,
+  "rowsUpdatedBy" : "guap-8ddq",
+  "signed" : false,
+  "tableId" : 804742,
+  "totalTimesRated" : 0,
+  "viewCount" : 1566,
+  "viewLastModified" : 1366314124,
+  "viewType" : "tabular",
+  "grants" : [ {
+    "inherited" : false,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "custom_fields" : {
+      "Source Information" : {
+        "Source Department" : "City of New Orleans, Department of Safety and Permits",
+        "Program" : "LAMA"
+      }
+    },
+    "renderTypeConfig" : {
+      "visible" : {
+        "table" : true
+      }
+    },
+    "availableDisplayTypes" : [ "table", "fatrow", "page" ],
+    "rdfSubject" : "0",
+    "rowIdentifier" : "0",
+    "rdfClass" : ""
+  },
+  "owner" : {
+    "id" : "guap-8ddq",
+    "displayName" : "Doug Paulson, GISP",
+    "screenName" : "Doug Paulson, GISP"
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "guap-8ddq",
+    "displayName" : "Doug Paulson, GISP",
+    "screenName" : "Doug Paulson, GISP"
+  },
+  "tags" : [ "city of new orleans", "permits" ],
+  "flags" : [ "default" ]
+}, {
+  "id" : "9zys-nyu9",
+  "name" : "Superbowl 2013 Road Closures",
+  "averageRating" : 0,
+  "blobFilename" : "TRAFFIC.zip",
+  "blobFileSize" : 16833,
+  "blobId" : "JHAeXpT5ZFIPL8qjlXa1fQunSsSUMLtuwc_AFUFue2Q",
+  "blobMimeType" : "application/zip; charset=binary",
+  "createdAt" : 1357942358,
+  "description" : "Downtown road closures for days leading up to Superbowl 2013.",
+  "displayType" : "map",
+  "downloadCount" : 0,
+  "indexUpdatedAt" : 1357945263,
+  "newBackend" : false,
+  "numberOfComments" : 0,
+  "oid" : 2212557,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1357945198,
+  "publicationGroup" : 608751,
+  "publicationStage" : "published",
+  "signed" : false,
+  "tableId" : 608751,
+  "totalTimesRated" : 0,
+  "viewCount" : 226,
+  "viewLastModified" : 1357945239,
+  "viewType" : "geo",
+  "childViews" : [ "kkq5-hycx" ],
+  "grants" : [ {
+    "inherited" : false,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "custom_fields" : {
+      "Source Information" : {
+        "Source Department" : "",
+        "Program" : ""
+      }
+    },
+    "renderTypeConfig" : {
+      "visible" : {
+        "map" : true
+      }
+    },
+    "availableDisplayTypes" : [ "map", "table", "fatrow", "page" ],
+    "geo" : {
+      "owsUrl" : "/api/geospatial/9zys-nyu9",
+      "bbox" : "-90.0892532033077,29.9446927717209,-90.07048060157668,29.956140427623904",
+      "layers" : "geo_9zys-nyu9-1",
+      "featureIdAttribute" : "_SocrataID",
+      "bboxCrs" : "EPSG:4326",
+      "namespace" : "geo_9zys-nyu9"
+    }
+  },
+  "owner" : {
+    "id" : "etmh-sfwk",
+    "displayName" : "Greg Hymel",
+    "screenName" : "Greg Hymel"
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "etmh-sfwk",
+    "displayName" : "Greg Hymel",
+    "screenName" : "Greg Hymel"
+  },
+  "tags" : [ "superbowl" ],
+  "flags" : [ "default" ]
+}, {
+  "id" : "4mw7-knsq",
+  "name" : "NOLA NRHP Districts",
+  "averageRating" : 0,
+  "blobFilename" : "NOLA_NRHP_Districts.zip",
+  "blobFileSize" : 44184,
+  "blobId" : "tsG08U7nqLAHcUHBPgPg5nmJMZEiWw-fyQw_q10LFxM",
+  "blobMimeType" : "application/zip; charset=binary",
+  "category" : "Geographic Reference",
+  "createdAt" : 1348860762,
+  "description" : "A National Register historic district is a historic district that is listed in the National Register of Historic Places. The National Register is our country’s official list of historic properties and resources worthy of preservation. It includes individual buildings, structures, sites, and objects as well as historic districts that are considered to be significant in American history, architecture, engineering, archaeology, and culture.  This dataset is the result of collaboration between the Louisiana State Historic Preservation Office and City of New Orleans ITI-GIS.  Two E-size (34 x 44) maps (pdf) included as attachments, (1) Listed Districts only, (2) Listed and Proposed Districts or Extensions.",
+  "displayType" : "map",
+  "downloadCount" : 0,
+  "indexUpdatedAt" : 1382115220,
+  "newBackend" : false,
+  "numberOfComments" : 0,
+  "oid" : 1146544,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1348860765,
+  "publicationGroup" : 438254,
+  "publicationStage" : "published",
+  "signed" : false,
+  "tableId" : 438254,
+  "totalTimesRated" : 0,
+  "viewCount" : 427,
+  "viewLastModified" : 1377279404,
+  "viewType" : "geo",
+  "childViews" : [ "h5mv-siud" ],
+  "grants" : [ {
+    "inherited" : false,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "custom_fields" : {
+      "Source Information" : {
+        "Source Department" : "Louisiana Office of Cultural Development",
+        "Program" : "State Historic Preservation Office"
+      }
+    },
+    "renderTypeConfig" : {
+      "visible" : {
+        "map" : true
+      }
+    },
+    "availableDisplayTypes" : [ "map", "table", "fatrow", "page" ],
+    "geo" : {
+      "owsUrl" : "/api/geospatial/4mw7-knsq",
+      "bbox" : "-90.13665635877152,29.91445476600131,-90.00878453059468,30.009790209764137",
+      "layers" : "geo_4mw7-knsq-1",
+      "featureIdAttribute" : "_SocrataID",
+      "bboxCrs" : "EPSG:4326",
+      "namespace" : "geo_4mw7-knsq"
+    },
+    "attachments" : [ {
+      "blobId" : "998FBDA3-7260-4A2F-8E67-B8810D3FFCFB",
+      "name" : "NRHP_Listed_Districts_WallMap.pdf",
+      "filename" : "NRHP_Listed_Districts_WallMap.pdf"
+    }, {
+      "blobId" : "CCD361BC-3D7C-4CCD-90BC-B17CD7EF7E90",
+      "name" : "NRHP_Listed_Proposed_Districts_WallMap.pdf",
+      "filename" : "NRHP_Listed_Proposed_Districts_WallMap.pdf"
+    } ]
+  },
+  "owner" : {
+    "id" : "guap-8ddq",
+    "displayName" : "Doug Paulson, GISP",
+    "screenName" : "Doug Paulson, GISP"
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "guap-8ddq",
+    "displayName" : "Doug Paulson, GISP",
+    "screenName" : "Doug Paulson, GISP"
+  },
+  "tags" : [ "superbowl", "new orleans", "national register", "historic", "districts" ],
+  "flags" : [ "default" ]
+}, {
+  "id" : "kpc9-4t3j",
+  "name" : "Post- Isaac Emergency Demolitions",
+  "averageRating" : 0,
+  "category" : "Administrative Data",
+  "createdAt" : 1347571359,
+  "description" : "Buildings that experienced severe structural failure as a result of Hurricane Isaac, 8/28-8/30/12.  Many of these buildings were blighted before Isaac, but the storm exacerbated their condition to a point where they were deemed a threat to public safety, and were expedited as IDC cases, or \"Imminent Danger of Collapse\"",
+  "displayType" : "table",
+  "downloadCount" : 103,
+  "indexUpdatedAt" : 1355865907,
+  "newBackend" : false,
+  "numberOfComments" : 0,
+  "oid" : 1075146,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1347571724,
+  "publicationGroup" : 425632,
+  "publicationStage" : "published",
+  "rowClass" : "",
+  "rowsUpdatedAt" : 1347571370,
+  "rowsUpdatedBy" : "ck47-rkbr",
+  "signed" : false,
+  "tableId" : 425632,
+  "totalTimesRated" : 0,
+  "viewCount" : 199,
+  "viewLastModified" : 1355865779,
+  "viewType" : "tabular",
+  "grants" : [ {
+    "inherited" : false,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "custom_fields" : {
+      "Source Information" : {
+        "Source Department" : "New Orleans Code Enforcement, Durr Heavy Construction",
+        "Program" : "Imminent Danger of Collapse"
+      }
+    },
+    "renderTypeConfig" : {
+      "visible" : {
+        "table" : true
+      }
+    },
+    "availableDisplayTypes" : [ "table", "fatrow", "page" ],
+    "rdfSubject" : "0",
+    "rowIdentifier" : "0",
+    "rdfClass" : "",
+    "thumbnail" : {
+      "page" : {
+        "created" : true
+      }
+    }
+  },
+  "owner" : {
+    "id" : "knbi-ixsc",
+    "displayName" : "Denice Ross",
+    "screenName" : "Denice Ross"
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "ck47-rkbr",
+    "displayName" : "jkray",
+    "profileImageUrlLarge" : "/images/profile/5112/9733/hardhat_seawall_kray_large.jpg",
+    "profileImageUrlMedium" : "/images/profile/5112/9733/hardhat_seawall_kray_thumb.jpg",
+    "profileImageUrlSmall" : "/images/profile/5112/9733/hardhat_seawall_kray_tiny.jpg",
+    "screenName" : "jkray"
+  },
+  "tags" : [ "blight", "demolitions", "code enforcement", "blightstat" ],
+  "flags" : [ "default" ]
+}, {
+  "id" : "dasg-fxyv",
+  "name" : "NOLA Short Term Rentals",
+  "averageRating" : 0,
+  "category" : "Geographic Reference",
+  "createdAt" : 1355867148,
+  "description" : "Trade Names and Addresses of facilities, within the City of New Orleans, offering short term rental. Facilities include Hotels, Motels, Bed & Breakfasts and Rooming & Boarding Houses.  Update: Quarterly",
+  "displayType" : "table",
+  "downloadCount" : 56,
+  "indexUpdatedAt" : 1386736293,
+  "newBackend" : false,
+  "numberOfComments" : 0,
+  "oid" : 3878814,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1370291911,
+  "publicationGroup" : 564493,
+  "publicationStage" : "published",
+  "rowClass" : "",
+  "rowsUpdatedAt" : 1370291870,
+  "rowsUpdatedBy" : "guap-8ddq",
+  "signed" : false,
+  "tableId" : 896880,
+  "totalTimesRated" : 0,
+  "viewCount" : 272,
+  "viewLastModified" : 1384549741,
+  "viewType" : "tabular",
+  "grants" : [ {
+    "inherited" : true,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "custom_fields" : {
+      "Source Information" : {
+        "Source Department" : "City of New Orleans, Bureau of Revenue",
+        "Program" : ""
+      }
+    },
+    "renderTypeConfig" : {
+      "visible" : {
+        "table" : true
+      }
+    },
+    "availableDisplayTypes" : [ "table", "fatrow", "page" ],
+    "rdfSubject" : "0",
+    "rowIdentifier" : "0",
+    "rdfClass" : ""
+  },
+  "owner" : {
+    "id" : "guap-8ddq",
+    "displayName" : "Doug Paulson, GISP",
+    "screenName" : "Doug Paulson, GISP"
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "guap-8ddq",
+    "displayName" : "Doug Paulson, GISP",
+    "screenName" : "Doug Paulson, GISP"
+  },
+  "tags" : [ "superbowl", "city of new orleans", "rental property", "short term" ],
+  "flags" : [ "default" ]
+}, {
+  "id" : "5u6q-caw5",
+  "name" : "Vieux Carre Commission Boundary",
+  "averageRating" : 0,
+  "blobFilename" : "VCC_Boundary.zip",
+  "blobFileSize" : 7719,
+  "blobId" : "4xZx8pOd1bbFpTBhKKJrobBLlOgSktcWBMxyZVwaS4o",
+  "blobMimeType" : "application/zip; charset=binary",
+  "category" : "Geographic Reference",
+  "createdAt" : 1358871043,
+  "description" : "The Vieux Carre Commission (VCC) is the agency of the City of New Orleans whose charge is the preservation of the quaint and distinctive character of the historic French Quarter district of the city, also known as the Vieux Carré (Old Square.) The authority of the VCC is derived from the Louisiana Constitution and the 1995 Code of the City of New Orleans, Part II - Code, Chapter 166, Article I, Section 166-2",
+  "displayType" : "map",
+  "downloadCount" : 0,
+  "indexUpdatedAt" : 1364228879,
+  "newBackend" : false,
+  "numberOfComments" : 0,
+  "oid" : 2307929,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1358888250,
+  "publicationGroup" : 629397,
+  "publicationStage" : "published",
+  "signed" : false,
+  "tableId" : 629397,
+  "totalTimesRated" : 0,
+  "viewCount" : 1104,
+  "viewLastModified" : 1364228365,
+  "viewType" : "geo",
+  "childViews" : [ "jyjj-x3kt" ],
+  "grants" : [ {
+    "inherited" : false,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "custom_fields" : {
+      "Source Information" : {
+        "Source Department" : "Code of the City of New Orleans, Louisiana",
+        "Program" : "Part II - Code, Chapter 166, Article I, Section 166-2"
+      }
+    },
+    "renderTypeConfig" : {
+      "visible" : {
+        "map" : true
+      }
+    },
+    "availableDisplayTypes" : [ "map", "table", "fatrow", "page" ],
+    "geo" : {
+      "owsUrl" : "/api/geospatial/5u6q-caw5",
+      "bbox" : "-90.07199429114836,29.950148342974884,-90.05617478566512,29.965996476767486",
+      "layers" : "geo_5u6q-caw5-1",
+      "featureIdAttribute" : "_SocrataID",
+      "bboxCrs" : "EPSG:4326",
+      "namespace" : "geo_5u6q-caw5"
+    }
+  },
+  "owner" : {
+    "id" : "guap-8ddq",
+    "displayName" : "Doug Paulson, GISP",
+    "screenName" : "Doug Paulson, GISP"
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "guap-8ddq",
+    "displayName" : "Doug Paulson, GISP",
+    "screenName" : "Doug Paulson, GISP"
+  },
+  "tags" : [ "new orleans", "vieux carre", "french quarter" ],
+  "flags" : [ "default" ]
+}, {
+  "id" : "5ktx-e9wc",
+  "name" : "NORA Uncommitted Property Inventory",
+  "averageRating" : 0,
+  "category" : "Administrative Data",
+  "createdAt" : 1363105177,
+  "description" : "This is a listing of all former Road Home properties in NORA's inventory that are not under contract.  All properties were transferred to NORA from the Louisiana Land Trust.",
+  "displayType" : "table",
+  "downloadCount" : 253,
+  "indexUpdatedAt" : 1386558129,
+  "newBackend" : false,
+  "numberOfComments" : 0,
+  "oid" : 5753226,
+  "publicationAppendEnabled" : true,
+  "publicationDate" : 1380920728,
+  "publicationGroup" : 729191,
+  "publicationStage" : "published",
+  "rowsUpdatedAt" : 1380899943,
+  "rowsUpdatedBy" : "c4j8-jv6s",
+  "signed" : false,
+  "tableId" : 1216219,
+  "totalTimesRated" : 0,
+  "viewCount" : 5469,
+  "viewLastModified" : 1380920728,
+  "viewType" : "tabular",
+  "grants" : [ {
+    "inherited" : true,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "custom_fields" : {
+      "Source Information" : {
+        "Source Department" : "",
+        "Program" : ""
+      }
+    },
+    "renderTypeConfig" : {
+      "visible" : {
+        "table" : true
+      }
+    },
+    "availableDisplayTypes" : [ "table", "fatrow", "page" ]
+  },
+  "owner" : {
+    "id" : "c4j8-jv6s",
+    "displayName" : "ssmadden",
+    "profileImageUrlLarge" : "/images/profile/8664/3644/Tulips_large.jpg",
+    "profileImageUrlMedium" : "/images/profile/8664/3644/Tulips_thumb.jpg",
+    "profileImageUrlSmall" : "/images/profile/8664/3644/Tulips_tiny.jpg",
+    "screenName" : "ssmadden"
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "c4j8-jv6s",
+    "displayName" : "ssmadden",
+    "profileImageUrlLarge" : "/images/profile/8664/3644/Tulips_large.jpg",
+    "profileImageUrlMedium" : "/images/profile/8664/3644/Tulips_thumb.jpg",
+    "profileImageUrlSmall" : "/images/profile/8664/3644/Tulips_tiny.jpg",
+    "screenName" : "ssmadden"
+  },
+  "flags" : [ "default" ]
+}, {
+  "id" : "a6tx-de8c",
+  "name" : "Polling Place Locations April 21, 2012",
+  "averageRating" : 0,
+  "category" : "Administrative Data",
+  "createdAt" : 1334848144,
+  "description" : "Polling Places for April 21, 2012.",
+  "displayType" : "table",
+  "downloadCount" : 62,
+  "newBackend" : false,
+  "numberOfComments" : 0,
+  "oid" : 611739,
+  "publicationAppendEnabled" : true,
+  "publicationDate" : 1334849405,
+  "publicationGroup" : 321413,
+  "publicationStage" : "published",
+  "rowClass" : "",
+  "rowsUpdatedAt" : 1334849398,
+  "rowsUpdatedBy" : "25it-ektq",
+  "signed" : false,
+  "tableId" : 321413,
+  "totalTimesRated" : 0,
+  "viewCount" : 142,
+  "viewLastModified" : 1335553728,
+  "viewType" : "tabular",
+  "grants" : [ {
+    "inherited" : false,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "custom_fields" : {
+      "Source Information" : {
+        "Source Department" : "New Orleans Office of the Clerk of Court",
+        "Program" : ""
+      }
+    },
+    "renderTypeConfig" : {
+      "visible" : {
+        "table" : true
+      }
+    },
+    "availableDisplayTypes" : [ "table", "fatrow", "page" ],
+    "rdfSubject" : "0",
+    "rowIdentifier" : "0",
+    "rdfClass" : ""
+  },
+  "owner" : {
+    "id" : "25it-ektq",
+    "displayName" : "greece",
+    "screenName" : "greece"
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "25it-ektq",
+    "displayName" : "greece",
+    "screenName" : "greece"
+  },
+  "tags" : [ "voting", "vote", "poll", "polling", "election" ],
+  "flags" : [ "default" ]
+}, {
+  "id" : "3mrg-5stb",
+  "name" : "Benchmarks for Blight",
+  "averageRating" : 0,
+  "category" : "Demographic Data",
+  "createdAt" : 1347394585,
+  "description" : "In 2006, the U.S. Department of Housing and Urban Development (HUD) began acquiring quarterly extracts of U.S. Postal Service (USPS) data and publishing this data as a possible indicator of blight and vacancy for cities nationwide. In this report, addresses coded as “no–stat” in the HUD data are used as proxies for blighted housing units in New Orleans because a parcel–by–parcel census of all properties in New Orleans is not available. (HUD data description available at: http://www.huduser.org/portal/datasets/usps.html)",
+  "displayType" : "href",
+  "downloadCount" : 124,
+  "newBackend" : false,
+  "numberOfComments" : 0,
+  "oid" : 1066340,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1347394632,
+  "publicationGroup" : 423774,
+  "publicationStage" : "published",
+  "signed" : false,
+  "tableId" : 423774,
+  "totalTimesRated" : 0,
+  "viewCount" : 182,
+  "viewLastModified" : 1347394632,
+  "viewType" : "href",
+  "grants" : [ {
+    "inherited" : false,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "custom_fields" : {
+      "Source Information" : {
+        "Source Department" : "HUD",
+        "Program" : "Aggregated USPS Administrative Data on Address Vacancies"
+      }
+    },
+    "renderTypeConfig" : {
+      "visible" : {
+        "href" : true
+      }
+    },
+    "availableDisplayTypes" : [ "href" ],
+    "accessPoints" : {
+      "html" : "http://www.gnocdc.org/BenchmarksForBlight/index.html"
+    }
+  },
+  "owner" : {
+    "id" : "guap-8ddq",
+    "displayName" : "Doug Paulson, GISP",
+    "screenName" : "Doug Paulson, GISP"
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "guap-8ddq",
+    "displayName" : "Doug Paulson, GISP",
+    "screenName" : "Doug Paulson, GISP"
+  },
+  "flags" : [ "default" ]
+}, {
+  "id" : "srrj-xwma",
+  "name" : "NOLA Local Landmarks - 12/06/2012",
+  "averageRating" : 0,
+  "blobFilename" : "HDLC_Landmarks_both_20121206.zip",
+  "blobFileSize" : 95355,
+  "blobId" : "D0fjFeaaDTak_EaFllvJ_pWQYO45gBnegNiVWRaYA10",
+  "blobMimeType" : "application/zip; charset=binary",
+  "category" : "Geographic Reference",
+  "createdAt" : 1356549308,
+  "description" : "City of New Orleans Local Historic Landmarks. Landmarks and/or Landmark Sites represent particular historic, architectural, or cultural significance and are subject to the jurisdiction of the Historic District Landmarks Commission (HDLC). Points shown have been either nominated or designated, by HDLC, for landmark status. Parcels shown are ownership parcels (Orleans Parish Assessor) associated with nominated or designated landmarks. Note: To access detailed information on individual landmark points, go to 'Layer Summary' and uncheck Parcel layer.",
+  "displayType" : "map",
+  "downloadCount" : 0,
+  "indexUpdatedAt" : 1377667267,
+  "newBackend" : false,
+  "numberOfComments" : 0,
+  "oid" : 2114099,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1356549322,
+  "publicationGroup" : 579642,
+  "publicationStage" : "published",
+  "signed" : false,
+  "tableId" : 579642,
+  "totalTimesRated" : 0,
+  "viewCount" : 172,
+  "viewLastModified" : 1357328336,
+  "viewType" : "geo",
+  "childViews" : [ "eqke-jwdm", "95a5-4sx5" ],
+  "disabledFeatureFlags" : [ "allow_comments" ],
+  "grants" : [ {
+    "inherited" : false,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "custom_fields" : {
+      "Source Information" : {
+        "Source Department" : "City of New Orleans, Historic District Landmarks Commission",
+        "Program" : ""
+      }
+    },
+    "renderTypeConfig" : {
+      "visible" : {
+        "map" : true
+      }
+    },
+    "availableDisplayTypes" : [ "map", "table", "fatrow", "page" ],
+    "geo" : {
+      "owsUrl" : "/api/geospatial/srrj-xwma",
+      "bbox" : "-90.13131788997356,29.91498984828708,-89.99243265189817,30.047592952548936",
+      "layers" : "geo_srrj-xwma-1,geo_srrj-xwma-2",
+      "featureIdAttribute" : "_SocrataID",
+      "bboxCrs" : "EPSG:4326",
+      "namespace" : "geo_srrj-xwma"
+    }
+  },
+  "owner" : {
+    "id" : "guap-8ddq",
+    "displayName" : "Doug Paulson, GISP",
+    "screenName" : "Doug Paulson, GISP"
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "guap-8ddq",
+    "displayName" : "Doug Paulson, GISP",
+    "screenName" : "Doug Paulson, GISP"
+  },
+  "tags" : [ "superbowl", "new orleans", "landmarks", "hdlc" ],
+  "flags" : [ "default" ]
+}, {
+  "id" : "fdhh-psg3",
+  "name" : "NOLA Permits - LAMA (Historic Data: 2004-2011)",
+  "averageRating" : 0,
+  "blobFilename" : "NOLA_Permits_2004-2011.zip",
+  "blobFileSize" : 99791549,
+  "blobId" : "AkRRX2BW77iGwFRIZsb3WTCEBFCIzKeOCds4uKA0Nyc",
+  "blobMimeType" : "application/zip; charset=binary",
+  "category" : "Administrative Data",
+  "createdAt" : 1355515105,
+  "description" : "City of New Orleans Permits (March 2004 thru December 2011).   Tabular data (DBF), Large dataset - 300,000+ records. Historic permit data transferred from Acella system to LAMA (Municipal Land Management Solution Framework)",
+  "displayType" : "blob",
+  "downloadCount" : 98,
+  "indexUpdatedAt" : 1360966846,
+  "newBackend" : false,
+  "numberOfComments" : 0,
+  "oid" : 2028685,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1355515105,
+  "publicationGroup" : 556752,
+  "publicationStage" : "published",
+  "signed" : false,
+  "tableId" : 556752,
+  "totalTimesRated" : 0,
+  "viewCount" : 192,
+  "viewLastModified" : 1360966808,
+  "viewType" : "blobby",
+  "grants" : [ {
+    "inherited" : false,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "custom_fields" : {
+      "Source Information" : {
+        "Source Department" : "Department of Safety and Permits",
+        "Program" : "LAMA"
+      }
+    },
+    "renderTypeConfig" : {
+      "visible" : {
+        "blob" : true
+      }
+    },
+    "availableDisplayTypes" : [ "blob" ]
+  },
+  "owner" : {
+    "id" : "guap-8ddq",
+    "displayName" : "Doug Paulson, GISP",
+    "screenName" : "Doug Paulson, GISP"
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "guap-8ddq",
+    "displayName" : "Doug Paulson, GISP",
+    "screenName" : "Doug Paulson, GISP"
+  },
+  "tags" : [ "new orleans", "permits" ],
+  "flags" : [ "default" ]
+}, {
+  "id" : "fmqa-q7ib",
+  "name" : "Bio District New Orleans",
+  "averageRating" : 0,
+  "blobFilename" : "BioDistrictNewOrleans.zip",
+  "blobFileSize" : 7985,
+  "blobId" : "6_8DsBqH-tybKOpOphMmZlMIR8E8xnI75geYdwGPQx4",
+  "blobMimeType" : "application/zip; charset=binary",
+  "category" : "Geographic Reference",
+  "createdAt" : 1349896254,
+  "description" : "The Greater New Orleans Biosciences Economic Development District (GNOBEDD), now referred to as BioDistrict New Orleans, is a state-enabled economic development district (with taxing and bonding authority) that was created by the State of Louisiana in 2005 and charged with the responsibility of growing both the programmatic and physical development components of the biosciences sector of the New Orleans economy (Louisiana State Legislature, 2005, ACT 487).  Included in the .zip file are shapefiles for 'BioDistrict New Orleans' and 'BioDistrict Hospital Sites'.  Updated 11/02/2012",
+  "displayType" : "blob",
+  "downloadCount" : 121,
+  "newBackend" : false,
+  "numberOfComments" : 0,
+  "oid" : 1241785,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1349896254,
+  "publicationGroup" : 447808,
+  "publicationStage" : "published",
+  "signed" : false,
+  "tableId" : 447808,
+  "totalTimesRated" : 0,
+  "viewCount" : 180,
+  "viewLastModified" : 1351883918,
+  "viewType" : "blobby",
+  "grants" : [ {
+    "inherited" : false,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "custom_fields" : {
+      "Source Information" : {
+        "Source Department" : "http://biodistrictneworleans.org/category/resources/",
+        "Program" : ""
+      }
+    },
+    "renderTypeConfig" : {
+      "visible" : {
+        "blob" : true
+      }
+    },
+    "availableDisplayTypes" : [ "blob" ]
+  },
+  "owner" : {
+    "id" : "guap-8ddq",
+    "displayName" : "Doug Paulson, GISP",
+    "screenName" : "Doug Paulson, GISP"
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "guap-8ddq",
+    "displayName" : "Doug Paulson, GISP",
+    "screenName" : "Doug Paulson, GISP"
+  },
+  "tags" : [ "new orleans", "biodistrict", "economic development" ],
+  "flags" : [ "default" ]
+}, {
+  "id" : "9zdh-rzvg",
+  "name" : "NOLA School Board Districts",
+  "averageRating" : 0,
+  "blobFilename" : "NOLA_School_Board_Districts.zip",
+  "blobFileSize" : 86098,
+  "blobId" : "1IETHWBNTH7n4yRRzWJLwSmhQ67avV7DfmQfrolVHCM",
+  "blobMimeType" : "application/zip; charset=binary",
+  "category" : "Geographic Reference",
+  "createdAt" : 1351277430,
+  "description" : "New Orleans/Orleans Parish School Board Districts",
+  "displayType" : "map",
+  "downloadCount" : 0,
+  "indexUpdatedAt" : 1385272831,
+  "newBackend" : false,
+  "numberOfComments" : 0,
+  "oid" : 1434961,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1351277434,
+  "publicationGroup" : 464283,
+  "publicationStage" : "published",
+  "signed" : false,
+  "tableId" : 464283,
+  "totalTimesRated" : 0,
+  "viewCount" : 175,
+  "viewLastModified" : 1351277659,
+  "viewType" : "geo",
+  "childViews" : [ "c2bt-h76t" ],
+  "grants" : [ {
+    "inherited" : false,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "custom_fields" : {
+      "Source Information" : {
+        "Source Department" : "http://www.nops.k12.la.us/uploads/File/2012/Board%20Office/OPSB%20Resolution%2004-12%20Reapportionment%202012%20v1%20doc.pdf",
+        "Program" : ""
+      }
+    },
+    "renderTypeConfig" : {
+      "visible" : {
+        "map" : true
+      }
+    },
+    "availableDisplayTypes" : [ "map", "table", "fatrow", "page" ],
+    "geo" : {
+      "owsUrl" : "/api/geospatial/9zdh-rzvg",
+      "bbox" : "-90.14102061672061,29.862091437697103,-89.62737653058335,30.17896917365872",
+      "layers" : "geo_9zdh-rzvg-1",
+      "featureIdAttribute" : "_SocrataID",
+      "bboxCrs" : "EPSG:4326",
+      "namespace" : "geo_9zdh-rzvg"
+    }
+  },
+  "owner" : {
+    "id" : "guap-8ddq",
+    "displayName" : "Doug Paulson, GISP",
+    "screenName" : "Doug Paulson, GISP"
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "guap-8ddq",
+    "displayName" : "Doug Paulson, GISP",
+    "screenName" : "Doug Paulson, GISP"
+  },
+  "tags" : [ "new orleans", "orleans parish", "school board" ],
+  "flags" : [ "default" ]
+}, {
+  "id" : "h3yb-9ury",
+  "name" : "Pallas Implosion scheduled 7-22-12 8am",
+  "averageRating" : 0,
+  "blobFilename" : "Pallas Public Letter-Size.pdf",
+  "blobFileSize" : 7432053,
+  "blobId" : "spU-ZR9TTqH_YtHpCipToO0QfW2BoItTjPEO8OHHnMY",
+  "blobMimeType" : "application/pdf; charset=binary",
+  "createdAt" : 1342535491,
+  "description" : "Showing details of Interstate 10 traffic closure and exclusion zone.",
+  "displayType" : "blob",
+  "downloadCount" : 82,
+  "newBackend" : false,
+  "numberOfComments" : 0,
+  "oid" : 876844,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1342535491,
+  "publicationGroup" : 382562,
+  "publicationStage" : "published",
+  "signed" : false,
+  "tableId" : 382562,
+  "totalTimesRated" : 0,
+  "viewCount" : 88,
+  "viewLastModified" : 1342535934,
+  "viewType" : "blobby",
+  "grants" : [ {
+    "inherited" : false,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "custom_fields" : {
+      "Source Information" : {
+        "Source Department" : "NOHSEP, NOPD",
+        "Program" : ""
+      }
+    },
+    "renderTypeConfig" : {
+      "visible" : {
+        "blob" : true
+      }
+    },
+    "availableDisplayTypes" : [ "blob" ]
+  },
+  "owner" : {
+    "id" : "25it-ektq",
+    "displayName" : "greece",
+    "screenName" : "greece"
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "25it-ektq",
+    "displayName" : "greece",
+    "screenName" : "greece"
+  },
+  "tags" : [ "pallas", "implosion" ],
+  "flags" : [ "default" ]
+}, {
+  "id" : "8tsm-38gz",
+  "name" : "NOLA Live Entertainment Permits",
+  "averageRating" : 0,
+  "category" : "Administrative Data",
+  "createdAt" : 1354650327,
+  "description" : "City of New Orleans, Live Entertainment Permits. Data provided by Bureau of Revenue, 11/30/2012, dataset consisted of 447 records, 441 of which could be geocoded and displayed on the map. Closed/Open status was based on closing date being either pre or post 1/1/2012.",
+  "displayType" : "table",
+  "downloadCount" : 71,
+  "indexUpdatedAt" : 1365197089,
+  "newBackend" : false,
+  "numberOfComments" : 0,
+  "oid" : 1898448,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1354650435,
+  "publicationGroup" : 536880,
+  "publicationStage" : "published",
+  "rowClass" : "",
+  "rowsUpdatedAt" : 1354650333,
+  "rowsUpdatedBy" : "guap-8ddq",
+  "signed" : false,
+  "tableId" : 536880,
+  "totalTimesRated" : 0,
+  "viewCount" : 212,
+  "viewLastModified" : 1365196637,
+  "viewType" : "tabular",
+  "grants" : [ {
+    "inherited" : false,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "custom_fields" : {
+      "Source Information" : {
+        "Source Department" : "City of New Orleans, Bureau of Revenue",
+        "Program" : ""
+      }
+    },
+    "renderTypeConfig" : {
+      "visible" : {
+        "table" : true
+      }
+    },
+    "availableDisplayTypes" : [ "table", "fatrow", "page" ],
+    "rdfSubject" : "0",
+    "rowIdentifier" : "0",
+    "rdfClass" : ""
+  },
+  "owner" : {
+    "id" : "guap-8ddq",
+    "displayName" : "Doug Paulson, GISP",
+    "screenName" : "Doug Paulson, GISP"
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "guap-8ddq",
+    "displayName" : "Doug Paulson, GISP",
+    "screenName" : "Doug Paulson, GISP"
+  },
+  "tags" : [ "superbowl" ],
+  "flags" : [ "default" ]
+}, {
+  "id" : "utqx-f83p",
+  "name" : "NOLA Restaurants",
+  "averageRating" : 0,
+  "category" : "Geographic Reference",
+  "createdAt" : 1362414943,
+  "description" : "New Orleans restaurants as of 12/06/2012, source data Bureau of Revenue",
+  "displayType" : "table",
+  "downloadCount" : 81,
+  "indexUpdatedAt" : 1362416061,
+  "newBackend" : false,
+  "numberOfComments" : 0,
+  "oid" : 2707715,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1362415484,
+  "publicationGroup" : 712945,
+  "publicationStage" : "published",
+  "rowsUpdatedAt" : 1362415415,
+  "rowsUpdatedBy" : "guap-8ddq",
+  "signed" : false,
+  "tableId" : 712945,
+  "totalTimesRated" : 0,
+  "viewCount" : 347,
+  "viewLastModified" : 1362415484,
+  "viewType" : "tabular",
+  "grants" : [ {
+    "inherited" : false,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "custom_fields" : {
+      "Source Information" : {
+        "Source Department" : "City of New Orleans, Bureau of Revenue",
+        "Program" : ""
+      }
+    },
+    "renderTypeConfig" : {
+      "visible" : {
+        "table" : true
+      }
+    },
+    "availableDisplayTypes" : [ "table", "fatrow", "page" ]
+  },
+  "owner" : {
+    "id" : "guap-8ddq",
+    "displayName" : "Doug Paulson, GISP",
+    "screenName" : "Doug Paulson, GISP"
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "guap-8ddq",
+    "displayName" : "Doug Paulson, GISP",
+    "screenName" : "Doug Paulson, GISP"
+  },
+  "tags" : [ "new orleans", "restaurants" ],
+  "flags" : [ "default" ]
+}, {
+  "id" : "qdze-iuzu",
+  "name" : "NOLA Lafitte Greenway Project",
+  "averageRating" : 0,
+  "blobFilename" : "NOLA_Lafitte_Greenway_Project.zip",
+  "blobFileSize" : 4539,
+  "blobId" : "Lbyre0eTUlM5i_m8ZLjaKd13yR3S2fKqGVdGWRoAKX0",
+  "blobMimeType" : "application/zip; charset=binary",
+  "category" : "Geographic Reference",
+  "createdAt" : 1352491062,
+  "description" : "The Lafitte Greenway, a major part of the Lafitte Greenway Corridor, is a 3.1-mile long strip of land bounded by Basin Street, Lafitte Avenue, N. Jefferson Davis Parkway, and St. Louis Street and including the entire St. Louis Street right-of-way between N. Jefferson Davis Parkway and Canal Boulevard. http://lafittecorridorconnection.com/",
+  "displayType" : "map",
+  "downloadCount" : 0,
+  "indexUpdatedAt" : 1377915963,
+  "newBackend" : false,
+  "numberOfComments" : 0,
+  "oid" : 1613281,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1352491068,
+  "publicationGroup" : 490693,
+  "publicationStage" : "published",
+  "signed" : false,
+  "tableId" : 490693,
+  "totalTimesRated" : 0,
+  "viewCount" : 174,
+  "viewLastModified" : 1352492154,
+  "viewType" : "geo",
+  "childViews" : [ "2q2t-svwn" ],
+  "grants" : [ {
+    "inherited" : false,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "custom_fields" : {
+      "Source Information" : {
+        "Source Department" : "Place-Based Planning",
+        "Program" : "http://lafittecorridorconnection.com/"
+      }
+    },
+    "renderTypeConfig" : {
+      "visible" : {
+        "map" : true
+      }
+    },
+    "availableDisplayTypes" : [ "map", "table", "fatrow", "page" ],
+    "geo" : {
+      "owsUrl" : "/api/geospatial/qdze-iuzu",
+      "bbox" : "-90.10148995135309,29.96061580406508,-90.06986412259351,29.980139740995032",
+      "layers" : "geo_qdze-iuzu-1",
+      "featureIdAttribute" : "_SocrataID",
+      "bboxCrs" : "EPSG:4326",
+      "namespace" : "geo_qdze-iuzu"
+    }
+  },
+  "owner" : {
+    "id" : "guap-8ddq",
+    "displayName" : "Doug Paulson, GISP",
+    "screenName" : "Doug Paulson, GISP"
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "guap-8ddq",
+    "displayName" : "Doug Paulson, GISP",
+    "screenName" : "Doug Paulson, GISP"
+  },
+  "tags" : [ "lafitte", "greenway" ],
+  "flags" : [ "default" ]
+}, {
+  "id" : "35nr-d6pm",
+  "name" : "NOLA Live Entertainment Permits - Map",
+  "averageRating" : 0,
+  "blobFilename" : "LiveEnt_Permits_Open_20121130_NAD83.zip",
+  "blobFileSize" : 22108,
+  "blobId" : "t2QnzLhF7W1wbYAJbjcNJ_J75eTH0lrBkFQR435cz9c",
+  "blobMimeType" : "application/zip; charset=binary",
+  "category" : "Administrative Data",
+  "createdAt" : 1354725186,
+  "description" : "City of New Orleans, Live Entertainment Permits. Data provided by Bureau of Revenue, 11/30/2012, dataset consisted of 447 records, 441 of which could be geocoded and displayed on the map. Closed/Open status was based on closing date being either pre or post 1/1/2012.",
+  "displayType" : "map",
+  "downloadCount" : 0,
+  "indexUpdatedAt" : 1365197428,
+  "newBackend" : false,
+  "numberOfComments" : 0,
+  "oid" : 1911812,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1354725189,
+  "publicationGroup" : 538823,
+  "publicationStage" : "published",
+  "signed" : false,
+  "tableId" : 538823,
+  "totalTimesRated" : 0,
+  "viewCount" : 118,
+  "viewLastModified" : 1365197040,
+  "viewType" : "geo",
+  "childViews" : [ "67hn-39is" ],
+  "grants" : [ {
+    "inherited" : false,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "custom_fields" : {
+      "Source Information" : {
+        "Source Department" : "City of New Orleans, Bureau of Revenue",
+        "Program" : ""
+      }
+    },
+    "renderTypeConfig" : {
+      "visible" : {
+        "map" : true
+      }
+    },
+    "availableDisplayTypes" : [ "map", "table", "fatrow", "page" ],
+    "geo" : {
+      "owsUrl" : "/api/geospatial/35nr-d6pm",
+      "bbox" : "-90.13198997566377,29.916844494645368,-89.921491998305,30.048220300597045",
+      "layers" : "geo_35nr-d6pm-1",
+      "featureIdAttribute" : "_SocrataID",
+      "bboxCrs" : "EPSG:4326",
+      "namespace" : "geo_35nr-d6pm"
+    }
+  },
+  "owner" : {
+    "id" : "guap-8ddq",
+    "displayName" : "Doug Paulson, GISP",
+    "screenName" : "Doug Paulson, GISP"
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "guap-8ddq",
+    "displayName" : "Doug Paulson, GISP",
+    "screenName" : "Doug Paulson, GISP"
+  },
+  "tags" : [ "new orleans", "live", "entertainment" ],
+  "flags" : [ "default" ]
+}, {
+  "id" : "pqgq-8it9",
+  "name" : "Alcohol Beverage Outlet (ABO) - Active Licenses",
+  "averageRating" : 0,
+  "category" : "Administrative Data",
+  "createdAt" : 1370289159,
+  "description" : "Alcohol Beverage Outlet licenses within the City of New Orleans as of 9/30/2013.  Data provided by City of New Orleans, Bureau of Revenue.  Scheduled Update: Quarterly",
+  "displayType" : "table",
+  "downloadCount" : 124,
+  "indexUpdatedAt" : 1381847062,
+  "newBackend" : false,
+  "numberOfComments" : 0,
+  "oid" : 5931538,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1381846229,
+  "publicationGroup" : 896797,
+  "publicationStage" : "published",
+  "rowClass" : "",
+  "rowsUpdatedAt" : 1381846115,
+  "rowsUpdatedBy" : "guap-8ddq",
+  "signed" : false,
+  "tableId" : 1253360,
+  "totalTimesRated" : 0,
+  "viewCount" : 397,
+  "viewLastModified" : 1381846272,
+  "viewType" : "tabular",
+  "grants" : [ {
+    "inherited" : false,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "custom_fields" : {
+      "Source Information" : {
+        "Source Department" : "City of New Orleans - Bureau of Revenue",
+        "Program" : ""
+      }
+    },
+    "renderTypeConfig" : {
+      "visible" : {
+        "table" : true
+      }
+    },
+    "availableDisplayTypes" : [ "table", "fatrow", "page" ],
+    "rdfSubject" : "0",
+    "rowIdentifier" : "0",
+    "rdfClass" : ""
+  },
+  "owner" : {
+    "id" : "guap-8ddq",
+    "displayName" : "Doug Paulson, GISP",
+    "screenName" : "Doug Paulson, GISP"
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "guap-8ddq",
+    "displayName" : "Doug Paulson, GISP",
+    "screenName" : "Doug Paulson, GISP"
+  },
+  "tags" : [ "new orleans", "alcohol", "abo" ],
+  "flags" : [ "default" ]
+}, {
+  "id" : "phs2-i523",
+  "name" : "NOLA Neighborhood Conservation District",
+  "averageRating" : 0,
+  "blobFilename" : "Neighborhood_Conservation_District_20120410.zip",
+  "blobFileSize" : 16776,
+  "blobId" : "flfv5EQl0rCsn0fmNu74r1sbtzYZuy7AesDKcGcYGjc",
+  "blobMimeType" : "application/zip; charset=binary",
+  "category" : "Geographic Reference",
+  "createdAt" : 1363358260,
+  "description" : "The purpose of the NCD shall be:\r\n1. To attempt to preserve those buildings within the NCD having a historical or architectural value as defined by the historic district landmarks commission or buildings that contribute to the overall character of the neighborhood.\r\n2. To preserve and stabilize neighborhoods through the protection of those structures that represents the character and the quality of the neighborhood.\r\n3. To promote redevelopment that contributes to the historic character of the neighborhood.\r\n4. To discourage underutilization of property in an urban environment.\r\n5. To advise the City Council of New Orleans as it deems appropriate and necessary concerning issues related to the conservation of neighborhoods within the NCD.\r\n\r\nBasis: Code of the City of New Orleans; Part II - Code, Chapter 26, Article I, Sec. 26-3\r\n\r\nCurrent as of 20120410, Update as needed",
+  "displayType" : "map",
+  "downloadCount" : 0,
+  "indexUpdatedAt" : 1364228254,
+  "newBackend" : false,
+  "numberOfComments" : 0,
+  "oid" : 2834234,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1363358263,
+  "publicationGroup" : 735178,
+  "publicationStage" : "published",
+  "signed" : false,
+  "tableId" : 735178,
+  "totalTimesRated" : 0,
+  "viewCount" : 133,
+  "viewLastModified" : 1364227824,
+  "viewType" : "geo",
+  "childViews" : [ "35gn-9auj" ],
+  "grants" : [ {
+    "inherited" : false,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "custom_fields" : {
+      "Source Information" : {
+        "Source Department" : "Code of the City of New Orleans, Louisiana",
+        "Program" : "Part II - Code, Chapter 26, Article I, Sec. 26-3"
+      }
+    },
+    "renderTypeConfig" : {
+      "visible" : {
+        "map" : true
+      }
+    },
+    "availableDisplayTypes" : [ "map", "table", "fatrow", "page" ],
+    "geo" : {
+      "owsUrl" : "/api/geospatial/phs2-i523",
+      "bbox" : "-90.13841808179505,29.91077381453903,-89.99822771454593,30.014127622902325",
+      "layers" : "geo_phs2-i523-1",
+      "featureIdAttribute" : "_SocrataID",
+      "bboxCrs" : "EPSG:4326",
+      "namespace" : "geo_phs2-i523"
+    }
+  },
+  "owner" : {
+    "id" : "guap-8ddq",
+    "displayName" : "Doug Paulson, GISP",
+    "screenName" : "Doug Paulson, GISP"
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "guap-8ddq",
+    "displayName" : "Doug Paulson, GISP",
+    "screenName" : "Doug Paulson, GISP"
+  },
+  "tags" : [ "new orleans", "ncd", "conservation" ],
+  "flags" : [ "default" ]
+}, {
+  "id" : "8d4t-mdkg",
+  "name" : "Claiborne Corridor Study",
+  "averageRating" : 0,
+  "blobFilename" : "ClaiborneCorridorStudy.zip",
+  "blobFileSize" : 19066,
+  "blobId" : "RGMJQ3edkV_jKk2tOvJuEFsj-ntxU3gm2iMRrrGCGog",
+  "blobMimeType" : "application/zip; charset=binary",
+  "category" : "Geographic Reference",
+  "createdAt" : 1364234610,
+  "description" : "New Orleans has been awarded a $2 million federal grant to study ways to revitalize the Claiborne Avenue corridor, included in the .zip file are polygon shapefiles for: 'Claiborne Corridor Linear Extent', 'Claiborne Corridor Areal Extent', and 'Choice Neighborhood Initiative' (http://www.ibervilletreme.org/), and 'Claiborne Corridor Public Housing'.  Last update 11/09/2012",
+  "displayType" : "blob",
+  "downloadCount" : 47,
+  "indexUpdatedAt" : 1364235012,
+  "newBackend" : false,
+  "numberOfComments" : 0,
+  "oid" : 2952330,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1364234610,
+  "publicationGroup" : 755343,
+  "publicationStage" : "published",
+  "signed" : false,
+  "tableId" : 755343,
+  "totalTimesRated" : 0,
+  "viewCount" : 91,
+  "viewLastModified" : 1364234892,
+  "viewType" : "blobby",
+  "grants" : [ {
+    "inherited" : false,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "custom_fields" : {
+      "Source Information" : {
+        "Source Department" : "",
+        "Program" : ""
+      }
+    },
+    "renderTypeConfig" : {
+      "visible" : {
+        "blob" : true
+      }
+    },
+    "availableDisplayTypes" : [ "blob" ]
+  },
+  "owner" : {
+    "id" : "guap-8ddq",
+    "displayName" : "Doug Paulson, GISP",
+    "screenName" : "Doug Paulson, GISP"
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "guap-8ddq",
+    "displayName" : "Doug Paulson, GISP",
+    "screenName" : "Doug Paulson, GISP"
+  },
+  "tags" : [ "new orleans", "claiborne corridor", "revitalization" ],
+  "flags" : [ "default" ]
+}, {
+  "id" : "ssw4-9pg7",
+  "name" : "Place Based Planning",
+  "averageRating" : 0,
+  "blobFilename" : "Place_Based_Planning.zip",
+  "blobFileSize" : 8696,
+  "blobId" : "jYYAezgXsl1DhXFcVp4XQFPj8CluJkeZoEM83ODP1VY",
+  "blobMimeType" : "application/zip; charset=binary",
+  "category" : "Geographic Reference",
+  "createdAt" : 1369763134,
+  "description" : "Place-based developing leverages investments by focusing resources in targeted places and drawing on the compounding effect of well-coordinated action. Effective place-based development can influence how rural and metropolitan areas grow, how well they function as places to live, work, operate a business, preserve heritage, and more. Place-based policies can also streamline otherwise redundant and disconnected programs and maximize efficiencies of operation and budget.\n\nThe Direct Homebuyer Assistance Program in New Orleans provides down payment and closing costs subsidies to eligible first- time homebuyers.  The subsidies bridge the gap between the price of the home (including closing costs) and the maximum amount a homebuyer can borrow with a first mortgage loan.  The homebuyer receives only the amount of soft second funding that is needed to close the affordability gap. While all areas of the city are eligible for this program. Houses within the Place-Based Strategy Areas are eligible for slightly higher subsidies.",
+  "displayType" : "map",
+  "downloadCount" : 0,
+  "indexUpdatedAt" : 1375203850,
+  "newBackend" : false,
+  "numberOfComments" : 0,
+  "oid" : 3798316,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1369763138,
+  "publicationGroup" : 885337,
+  "publicationStage" : "published",
+  "signed" : false,
+  "tableId" : 885337,
+  "totalTimesRated" : 0,
+  "viewCount" : 185,
+  "viewLastModified" : 1369763396,
+  "viewType" : "geo",
+  "childViews" : [ "s4bu-anwc" ],
+  "grants" : [ {
+    "inherited" : false,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "custom_fields" : {
+      "Source Information" : {
+        "Source Department" : "City of New Orelans - Office of Community Development",
+        "Program" : ""
+      }
+    },
+    "renderTypeConfig" : {
+      "visible" : {
+        "map" : true
+      }
+    },
+    "availableDisplayTypes" : [ "map", "table", "fatrow", "page" ],
+    "geo" : {
+      "owsUrl" : "/api/geospatial/ssw4-9pg7",
+      "bbox" : "-90.13125105564085,29.928902669907632,-89.96071394104852,30.058662074268387",
+      "layers" : "geo_ssw4-9pg7-1",
+      "featureIdAttribute" : "_SocrataID",
+      "bboxCrs" : "EPSG:4326",
+      "namespace" : "geo_ssw4-9pg7"
+    }
+  },
+  "owner" : {
+    "id" : "guap-8ddq",
+    "displayName" : "Doug Paulson, GISP",
+    "screenName" : "Doug Paulson, GISP"
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "guap-8ddq",
+    "displayName" : "Doug Paulson, GISP",
+    "screenName" : "Doug Paulson, GISP"
+  },
+  "tags" : [ "new orleans", "planning", "place-based" ],
+  "flags" : [ "default" ]
+}, {
+  "id" : "2b2j-u6kh",
+  "name" : "NOLA Boundary",
+  "averageRating" : 0,
+  "blobFilename" : "NOLA_Boundary.zip",
+  "blobFileSize" : 159310,
+  "blobId" : "QsosrszIfQK2n7woOSk4jvbG5P8HTKDMyrISH4Al3ck",
+  "blobMimeType" : "application/zip; charset=binary",
+  "category" : "Geographic Reference",
+  "createdAt" : 1352471673,
+  "description" : "City of New Orleans/Orleans Parish boundary polygon. Boundary has been split between the area that is mostly land and the area extending into Lake Pontchartrain. \r\n\r\nBasis: Code of the City of New Orleans, Louisiana; Part I - Charter; Article I, Section 1-103.",
+  "displayType" : "map",
+  "downloadCount" : 0,
+  "indexUpdatedAt" : 1380239123,
+  "newBackend" : false,
+  "numberOfComments" : 0,
+  "oid" : 1610673,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1352471676,
+  "publicationGroup" : 490264,
+  "publicationStage" : "published",
+  "signed" : false,
+  "tableId" : 490264,
+  "totalTimesRated" : 0,
+  "viewCount" : 158,
+  "viewLastModified" : 1380226330,
+  "viewType" : "geo",
+  "childViews" : [ "shu5-n5gk" ],
+  "grants" : [ {
+    "inherited" : false,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "custom_fields" : {
+      "Source Information" : {
+        "Source Department" : "Code of the City of New Orleans, Louisiana",
+        "Program" : "Part I - Charter; Article I, Section 1-103."
+      }
+    },
+    "renderTypeConfig" : {
+      "visible" : {
+        "map" : true
+      }
+    },
+    "availableDisplayTypes" : [ "map", "table", "fatrow", "page" ],
+    "geo" : {
+      "owsUrl" : "/api/geospatial/2b2j-u6kh",
+      "bbox" : "-90.14098407642717,29.86220708351823,-89.62425801355285,30.20195577415238",
+      "layers" : "geo_2b2j-u6kh-1",
+      "featureIdAttribute" : "_SocrataID",
+      "bboxCrs" : "EPSG:4326",
+      "namespace" : "geo_2b2j-u6kh"
+    },
+    "attachments" : [ {
+      "blobId" : "6FA91197-E323-4E07-999D-D0D6A17D8851",
+      "name" : "Orleans_Parish_Boundary.docx",
+      "filename" : "Orleans_Parish_Boundary.docx"
+    } ]
+  },
+  "owner" : {
+    "id" : "guap-8ddq",
+    "displayName" : "Doug Paulson, GISP",
+    "screenName" : "Doug Paulson, GISP"
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "guap-8ddq",
+    "displayName" : "Doug Paulson, GISP",
+    "screenName" : "Doug Paulson, GISP"
+  },
+  "tags" : [ "new orleans", "orleans parish", "boundary" ],
+  "flags" : [ "default" ]
+}, {
+  "id" : "w5xp-ktey",
+  "name" : "Nursing Homes",
+  "averageRating" : 0,
+  "blobFilename" : "NursingHomes_NOLA.zip",
+  "blobFileSize" : 7060,
+  "blobId" : "84-FqwwQ1sVtX8ypAilp4BFTT2pSj6wyKALlBm3ES7Y",
+  "blobMimeType" : "application/zip; charset=binary",
+  "createdAt" : 1365872970,
+  "description" : "Nursing Homes within the City of New Orleans",
+  "displayType" : "map",
+  "downloadCount" : 0,
+  "indexUpdatedAt" : 1365873413,
+  "newBackend" : false,
+  "numberOfComments" : 0,
+  "oid" : 3184579,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1365872976,
+  "publicationGroup" : 794061,
+  "publicationStage" : "published",
+  "signed" : false,
+  "tableId" : 794061,
+  "totalTimesRated" : 0,
+  "viewCount" : 53,
+  "viewLastModified" : 1365873221,
+  "viewType" : "geo",
+  "childViews" : [ "he6f-dbpz" ],
+  "grants" : [ {
+    "inherited" : false,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "custom_fields" : {
+      "Source Information" : {
+        "Source Department" : "NOHSEP",
+        "Program" : ""
+      }
+    },
+    "renderTypeConfig" : {
+      "visible" : {
+        "map" : true
+      }
+    },
+    "availableDisplayTypes" : [ "map", "table", "fatrow", "page" ],
+    "geo" : {
+      "owsUrl" : "/api/geospatial/w5xp-ktey",
+      "bbox" : "-90.133803614428,29.900081585372433,-89.94859274910607,30.07320975932042",
+      "layers" : "geo_w5xp-ktey-1",
+      "featureIdAttribute" : "_SocrataID",
+      "bboxCrs" : "EPSG:4326",
+      "namespace" : "geo_w5xp-ktey"
+    }
+  },
+  "owner" : {
+    "id" : "25it-ektq",
+    "displayName" : "greece",
+    "screenName" : "greece"
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "25it-ektq",
+    "displayName" : "greece",
+    "screenName" : "greece"
+  },
+  "tags" : [ "nursing home" ],
+  "flags" : [ "default" ]
+}, {
+  "id" : "rgeq-44vf",
+  "name" : "NOLA Zip Code Tabulation Areas - 2010",
+  "averageRating" : 0,
+  "blobFilename" : "Orleans_ZCTA_2010.zip",
+  "blobFileSize" : 89683,
+  "blobId" : "kkV-M7jDAxNsZWMOcfb2l4-SuIeKHRjFA-ernMDIZ3Q",
+  "blobMimeType" : "application/zip; charset=binary",
+  "category" : "Geographic Reference",
+  "createdAt" : 1364219880,
+  "description" : "IP Code Tabulation Areas (ZCTAs) are approximate area representations of U.S. Postal Service (USPS) ZIP Code service areas that the Census Bureau creates for tabulating summary statistics from census data. This entity was developed to overcome the difficulties in precisely defining the land area covered by each ZIP Code®.  Data users should not use ZCTAs to identify the official USPS ZIP Code for mail delivery.",
+  "displayType" : "map",
+  "downloadCount" : 0,
+  "indexUpdatedAt" : 1364227072,
+  "newBackend" : false,
+  "numberOfComments" : 3,
+  "oid" : 2950250,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1364219884,
+  "publicationGroup" : 754946,
+  "publicationStage" : "published",
+  "signed" : false,
+  "tableId" : 754946,
+  "totalTimesRated" : 0,
+  "viewCount" : 114,
+  "viewLastModified" : 1364226555,
+  "viewType" : "geo",
+  "childViews" : [ "73z2-h53k" ],
+  "grants" : [ {
+    "inherited" : false,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "custom_fields" : {
+      "Source Information" : {
+        "Source Department" : "U.S. Department of Commerce, Census Bureau",
+        "Program" : ""
+      }
+    },
+    "renderTypeConfig" : {
+      "visible" : {
+        "map" : true
+      }
+    },
+    "availableDisplayTypes" : [ "map", "table", "fatrow", "page" ],
+    "geo" : {
+      "owsUrl" : "/api/geospatial/rgeq-44vf",
+      "bbox" : "-90.14101824979944,29.86324878485742,-89.62461123695708,30.181380144813915",
+      "layers" : "geo_rgeq-44vf-1",
+      "featureIdAttribute" : "_SocrataID",
+      "bboxCrs" : "EPSG:4326",
+      "namespace" : "geo_rgeq-44vf"
+    }
+  },
+  "owner" : {
+    "id" : "guap-8ddq",
+    "displayName" : "Doug Paulson, GISP",
+    "screenName" : "Doug Paulson, GISP"
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "guap-8ddq",
+    "displayName" : "Doug Paulson, GISP",
+    "screenName" : "Doug Paulson, GISP"
+  },
+  "tags" : [ "census", "zcta", "zip code", "tabulation" ],
+  "flags" : [ "default" ]
+}, {
+  "id" : "tf5z-dhbr",
+  "name" : "NOLA Inner City Fire District",
+  "averageRating" : 0,
+  "blobFilename" : "Inner_City_Fire_District_20120516.zip",
+  "blobFileSize" : 5647,
+  "blobId" : "nVeZWxy-ihbmwAGWVwBrDs2Z1BoOKwEQwdeig6Xafmw",
+  "blobMimeType" : "application/zip; charset=binary",
+  "category" : "Geographic Reference",
+  "createdAt" : 1364227271,
+  "description" : "The area included within the following described boundaries is hereby designated \"Fire District\". Commencing at the center line of John Churchill Chase Street at the Mississippi River, thence along the center line of John Churchill Chase Street to the center line of Camp Street, thence along the center line of Calliope Street to the center line of St. Charles Avenue, thence alone the center line of St. Charles Avenue to the intersection of Howard Avenue, thence along the center line of Howard Avenue to the center line of Claiborne Avenue, thence along the center line of Claiborne Avenue to the center line of St. Peter Street, thence along the center line of St Peter Street to the Mississippi River, thence along the Mississippi River to the point of commencement.\n\nBasis: Code of the City of New Orleans, Louisiana; Part II - Code, Chapter 26, Article I, Sec D101",
+  "displayType" : "map",
+  "downloadCount" : 0,
+  "indexUpdatedAt" : 1364227950,
+  "newBackend" : false,
+  "numberOfComments" : 0,
+  "oid" : 2951193,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1364227275,
+  "publicationGroup" : 755139,
+  "publicationStage" : "published",
+  "signed" : false,
+  "tableId" : 755139,
+  "totalTimesRated" : 0,
+  "viewCount" : 65,
+  "viewLastModified" : 1364227540,
+  "viewType" : "geo",
+  "childViews" : [ "kr3f-awzx" ],
+  "grants" : [ {
+    "inherited" : false,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "custom_fields" : {
+      "Source Information" : {
+        "Source Department" : "Code of the City of New Orleans, Louisiana",
+        "Program" : "Part II - Code, Chapter 26, Article I, Sec D101"
+      }
+    },
+    "renderTypeConfig" : {
+      "visible" : {
+        "map" : true
+      }
+    },
+    "availableDisplayTypes" : [ "map", "table", "fatrow", "page" ],
+    "geo" : {
+      "owsUrl" : "/api/geospatial/tf5z-dhbr",
+      "bbox" : "-90.08550599656523,29.94047623857834,-90.06083211329694,29.963955808831507",
+      "layers" : "geo_tf5z-dhbr-1",
+      "featureIdAttribute" : "_SocrataID",
+      "bboxCrs" : "EPSG:4326",
+      "namespace" : "geo_tf5z-dhbr"
+    }
+  },
+  "owner" : {
+    "id" : "guap-8ddq",
+    "displayName" : "Doug Paulson, GISP",
+    "screenName" : "Doug Paulson, GISP"
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "guap-8ddq",
+    "displayName" : "Doug Paulson, GISP",
+    "screenName" : "Doug Paulson, GISP"
+  },
+  "tags" : [ "new orleans", "fire district" ],
+  "flags" : [ "default" ]
+}, {
+  "id" : "5hq5-im7i",
+  "name" : "New Orleans Police Dept Records by Type",
+  "averageRating" : 0,
+  "createdAt" : 1383327302,
+  "description" : "Data Description and Disclaimer\r\nThis dataset reflects incidents that have been reported to the New Orleans Police Department in 2013. Data is provided by Orleans Parish Communication District (OPCD), the administrative office of 9-1-1 for the City of New Orleans. In the OPCD system, NOPD may reclassify or change the signal type for up to 36 hours after the incident is marked up. For information about an incident after this time period, citizens may request police reports from the NOPD Public Records Division.  In order to protect the privacy of victims, addresses are shown at the block level and the call types cruelty to juveniles, juvenile attachment and missing juvenile have been removed in accordance with the Louisiana Public Records Act, L.R.S. 44:1.  Map coordinates (X,Y) have been removed for the following call types: Aggravated Rape, Aggravated Rape - MA, Crime Against Nature, Mental Patient, Oral Sexual Battery, Prostitution, Sexual Battery, Simple Rape, Simple Rape - Male V, and Soliciting for Prost.\r\n\r\nDisclaimer: These incidents may be based upon preliminary information supplied to the Police Department by the reporting parties that have not been verified. The preliminary crime classifications may be changed at a later date based upon additional investigation and there is always the possibility of mechanical or human error. Therefore, the New Orleans Police Department does not guarantee (either expressed or implied) the accuracy, completeness, timeliness, or correct sequencing of the information and the information should not be used for comparison purposes over time. The New Orleans Police Department will not be responsible for any error or omission, or for the use of, or the results obtained from the use of this information. All data visualizations on maps should be considered approximate and attempts to derive specific addresses are strictly prohibited. The New Orleans Police Department is not responsible for the content of any off-site pages that are referenced by or that reference this web page other than an official City of New Orleans or New Orleans Police Department web page. The user specifically acknowledges that the New Orleans Police Department is not responsible for any defamatory, offensive, misleading, or illegal conduct of other users, links, or third parties and that the risk of injury from the foregoing rests entirely with the user. Any use of the information for commercial purposes is strictly prohibited. The unauthorized use of the words \"New Orleans Police Department,\" \"NOPD,\" or any colorable imitation of these words or the unauthorized use of the New Orleans Police Department logo is unlawful. This web page does not, in any way, authorize such use.",
+  "displayType" : "chart",
+  "downloadCount" : 54,
+  "indexUpdatedAt" : 1387693955,
+  "moderationStatus" : true,
+  "newBackend" : false,
+  "numberOfComments" : 0,
+  "oid" : 6208276,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1379998564,
+  "publicationGroup" : 657221,
+  "publicationStage" : "published",
+  "rowIdentifierColumnId" : 111669977,
+  "rowsUpdatedAt" : 1387692173,
+  "rowsUpdatedBy" : "ubzy-vsh3",
+  "signed" : false,
+  "state" : "normal",
+  "tableId" : 1179284,
+  "totalTimesRated" : 0,
+  "viewCount" : 161,
+  "viewLastModified" : 1383327302,
+  "viewType" : "tabular",
+  "grants" : [ {
+    "inherited" : true,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "custom_fields" : {
+      "Source Information" : {
+        "Source Department" : "NOPD",
+        "Program" : ""
+      }
+    },
+    "renderTypeConfig" : {
+      "visible" : {
+        "chart" : true,
+        "table" : true
+      }
+    },
+    "availableDisplayTypes" : [ "chart", "table", "fatrow", "page" ],
+    "thumbnail" : {
+      "page" : {
+        "created" : true
+      }
+    },
+    "rdfSubject" : "0",
+    "rowIdentifier" : 111669977
+  },
+  "owner" : {
+    "id" : "dnyg-2s2h",
+    "displayName" : "Reid Serozi",
+    "profileImageUrlLarge" : "/images/profile/9653/7365/IMG_0040_large.JPG",
+    "profileImageUrlMedium" : "/images/profile/9653/7365/IMG_0040_thumb.JPG",
+    "profileImageUrlSmall" : "/images/profile/9653/7365/IMG_0040_tiny.JPG",
+    "screenName" : "Reid Serozi",
+    "rights" : [ "create_datasets", "edit_others_datasets", "edit_sdp", "edit_site_theme", "moderate_comments", "manage_users", "chown_datasets", "edit_nominations", "approve_nominations", "feature_items", "federations", "manage_stories", "manage_approval", "change_configurations", "view_domain", "view_others_datasets", "edit_pages", "create_pages", "view_goals", "view_dashboards", "edit_goals", "edit_dashboards", "create_dashboards" ],
+    "flags" : [ "admin" ]
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "ubzy-vsh3",
+    "displayName" : "Socrata Service Account",
+    "screenName" : "Socrata Service Account"
+  },
+  "tags" : [ "crime", "police" ]
+}, {
+  "id" : "uh5a-f7uw",
+  "name" : "CE All Inspections",
+  "averageRating" : 0,
+  "createdAt" : 1380522065,
+  "description" : "Code Enforcement All Inspections",
+  "displayType" : "table",
+  "downloadCount" : 116,
+  "indexUpdatedAt" : 1387693915,
+  "newBackend" : false,
+  "numberOfComments" : 0,
+  "oid" : 6091859,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1382737726,
+  "publicationGroup" : 1200392,
+  "publicationStage" : "published",
+  "rowClass" : "",
+  "rowIdentifierColumnId" : 109834640,
+  "rowsUpdatedAt" : 1387689331,
+  "rowsUpdatedBy" : "ubzy-vsh3",
+  "signed" : false,
+  "state" : "normal",
+  "tableId" : 1287195,
+  "totalTimesRated" : 0,
+  "viewCount" : 290,
+  "viewLastModified" : 1382739294,
+  "viewType" : "tabular",
+  "grants" : [ {
+    "inherited" : false,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "custom_fields" : {
+      "Source Information" : {
+        "Source Department" : "Code Enforcement",
+        "Program" : ""
+      }
+    },
+    "renderTypeConfig" : {
+      "visible" : {
+        "table" : true
+      }
+    },
+    "availableDisplayTypes" : [ "table", "fatrow", "page" ],
+    "rdfSubject" : "0",
+    "rowIdentifier" : "hashid",
+    "rdfClass" : ""
+  },
+  "owner" : {
+    "id" : "ubzy-vsh3",
+    "displayName" : "Socrata Service Account",
+    "screenName" : "Socrata Service Account"
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "ubzy-vsh3",
+    "displayName" : "Socrata Service Account",
+    "screenName" : "Socrata Service Account"
+  },
+  "flags" : [ "default" ]
+}, {
+  "id" : "8pqz-ftzc",
+  "name" : "CE Active Pipeline",
+  "averageRating" : 0,
+  "createdAt" : 1380518293,
+  "description" : "Code Enforcement Active Pipeline",
+  "displayType" : "table",
+  "downloadCount" : 16,
+  "indexUpdatedAt" : 1387603633,
+  "newBackend" : false,
+  "numberOfComments" : 0,
+  "oid" : 5740585,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1380835634,
+  "publicationGroup" : 1200239,
+  "publicationStage" : "published",
+  "rowIdentifierColumnId" : 103822288,
+  "rowsUpdatedAt" : 1387602019,
+  "rowsUpdatedBy" : "ubzy-vsh3",
+  "signed" : false,
+  "state" : "normal",
+  "tableId" : 1213624,
+  "totalTimesRated" : 0,
+  "viewCount" : 262,
+  "viewLastModified" : 1380838065,
+  "viewType" : "tabular",
+  "grants" : [ {
+    "inherited" : false,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "custom_fields" : {
+      "Source Information" : {
+        "Source Department" : "Code Enforcement",
+        "Program" : ""
+      }
+    },
+    "renderTypeConfig" : {
+      "visible" : {
+        "table" : true
+      }
+    },
+    "availableDisplayTypes" : [ "table", "fatrow", "page" ],
+    "rdfSubject" : "0",
+    "rowIdentifier" : 103822288
+  },
+  "owner" : {
+    "id" : "ubzy-vsh3",
+    "displayName" : "Socrata Service Account",
+    "screenName" : "Socrata Service Account"
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "7kk9-bewq",
+    "displayName" : "J.B. Raasch",
+    "screenName" : "J.B. Raasch"
+  },
+  "flags" : [ "default" ]
+}, {
+  "id" : "u6yx-v2tw",
+  "name" : "CE All Cases",
+  "averageRating" : 0,
+  "createdAt" : 1380520348,
+  "description" : "Code Enforcement All Cases",
+  "displayType" : "table",
+  "downloadCount" : 49,
+  "indexUpdatedAt" : 1387519169,
+  "newBackend" : false,
+  "numberOfComments" : 0,
+  "oid" : 6768465,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1386774820,
+  "publicationGroup" : 1200318,
+  "publicationStage" : "published",
+  "rowIdentifierColumnId" : 121681120,
+  "rowsUpdatedAt" : 1387515981,
+  "rowsUpdatedBy" : "ubzy-vsh3",
+  "signed" : false,
+  "state" : "normal",
+  "tableId" : 1395235,
+  "totalTimesRated" : 0,
+  "viewCount" : 297,
+  "viewLastModified" : 1386775781,
+  "viewType" : "tabular",
+  "grants" : [ {
+    "inherited" : false,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "custom_fields" : {
+      "Source Information" : {
+        "Source Department" : "Code Enforcement",
+        "Program" : ""
+      }
+    },
+    "renderTypeConfig" : {
+      "visible" : {
+        "table" : true
+      }
+    },
+    "availableDisplayTypes" : [ "table", "fatrow", "page" ],
+    "rdfSubject" : "0",
+    "rowIdentifier" : 121681120
+  },
+  "owner" : {
+    "id" : "ubzy-vsh3",
+    "displayName" : "Socrata Service Account",
+    "screenName" : "Socrata Service Account"
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "ubzy-vsh3",
+    "displayName" : "Socrata Service Account",
+    "screenName" : "Socrata Service Account"
+  },
+  "flags" : [ "default" ]
+}, {
+  "id" : "44ct-56tr",
+  "name" : "CE All Hearings",
+  "averageRating" : 0,
+  "createdAt" : 1380521334,
+  "description" : "Code Enforcement All Hearings",
+  "displayType" : "table",
+  "downloadCount" : 101,
+  "indexUpdatedAt" : 1387438218,
+  "newBackend" : false,
+  "numberOfComments" : 0,
+  "oid" : 6091870,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1382737688,
+  "publicationGroup" : 1200357,
+  "publicationStage" : "published",
+  "rowClass" : "",
+  "rowIdentifierColumnId" : 109834634,
+  "rowsUpdatedAt" : 1387429817,
+  "rowsUpdatedBy" : "ubzy-vsh3",
+  "signed" : false,
+  "state" : "normal",
+  "tableId" : 1287200,
+  "totalTimesRated" : 0,
+  "viewCount" : 366,
+  "viewLastModified" : 1383019798,
+  "viewType" : "tabular",
+  "grants" : [ {
+    "inherited" : true,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "custom_fields" : {
+      "Source Information" : {
+        "Source Department" : "Code Enforcement",
+        "Program" : ""
+      }
+    },
+    "renderTypeConfig" : {
+      "visible" : {
+        "table" : true
+      }
+    },
+    "availableDisplayTypes" : [ "table", "fatrow", "page" ],
+    "rdfSubject" : "0",
+    "rowIdentifier" : "hashid",
+    "rdfClass" : ""
+  },
+  "owner" : {
+    "id" : "ubzy-vsh3",
+    "displayName" : "Socrata Service Account",
+    "screenName" : "Socrata Service Account"
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "ubzy-vsh3",
+    "displayName" : "Socrata Service Account",
+    "screenName" : "Socrata Service Account"
+  },
+  "flags" : [ "default" ]
+}, {
+  "id" : "ypza-44w8",
+  "name" : "Code Enforcement Hearings Calendar",
+  "averageRating" : 0,
+  "createdAt" : 1382734930,
+  "description" : "Code Enforcement All Hearings",
+  "displayType" : "calendar",
+  "downloadCount" : 66,
+  "indexUpdatedAt" : 1387438216,
+  "moderationStatus" : true,
+  "newBackend" : false,
+  "numberOfComments" : 0,
+  "oid" : 6092543,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1382737688,
+  "publicationGroup" : 1200357,
+  "publicationStage" : "published",
+  "rowsUpdatedAt" : 1387429817,
+  "rowsUpdatedBy" : "ubzy-vsh3",
+  "signed" : false,
+  "state" : "normal",
+  "tableId" : 1287200,
+  "totalTimesRated" : 0,
+  "viewCount" : 548,
+  "viewLastModified" : 1382735019,
+  "viewType" : "tabular",
+  "grants" : [ {
+    "inherited" : true,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "custom_fields" : {
+      "Source Information" : {
+        "Source Department" : "Code Enforcement",
+        "Program" : ""
+      }
+    },
+    "renderTypeConfig" : {
+      "visible" : {
+        "table" : true,
+        "calendar" : true
+      }
+    },
+    "availableDisplayTypes" : [ "calendar", "table", "fatrow", "page" ],
+    "thumbnail" : {
+      "page" : {
+        "created" : true,
+        "selection" : {
+          "height" : 741,
+          "width" : 1389,
+          "y1" : 11,
+          "y2" : 752,
+          "x2" : 1440,
+          "x1" : 51
+        },
+        "filename" : "page.png-1389.741.51.11.png"
+      }
+    }
+  },
+  "owner" : {
+    "id" : "vcvp-yass",
+    "displayName" : "Dylan",
+    "profileImageUrlLarge" : "/images/profile/0463/4668/puddy_large.jpg",
+    "profileImageUrlMedium" : "/images/profile/0463/4668/puddy_thumb.jpg",
+    "profileImageUrlSmall" : "/images/profile/0463/4668/puddy_tiny.jpg",
+    "screenName" : "Dylan",
+    "rights" : [ "create_datasets", "edit_others_datasets", "edit_sdp", "edit_site_theme", "moderate_comments", "manage_users", "chown_datasets", "edit_nominations", "approve_nominations", "feature_items", "federations", "manage_stories", "manage_approval", "change_configurations", "view_domain", "view_others_datasets", "edit_pages", "create_pages", "view_goals", "view_dashboards", "edit_goals", "edit_dashboards", "create_dashboards" ],
+    "flags" : [ "admin" ]
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "ubzy-vsh3",
+    "displayName" : "Socrata Service Account",
+    "screenName" : "Socrata Service Account"
+  }
+}, {
+  "id" : "vjam-567i",
+  "name" : "NOLA City Council Districts",
+  "averageRating" : 0,
+  "blobFilename" : "NOLA_Council_Districts.zip",
+  "blobFileSize" : 199783,
+  "blobId" : "VB5pEFmKafM2CC3C-Er1ltll0tVEWI33TLvLv5AHKsw",
+  "blobMimeType" : "application/zip; charset=binary",
+  "category" : "Geographic Reference",
+  "createdAt" : 1386957123,
+  "description" : "City of New Orleans, City Council Districts.  'NOLA_Council_District' represents current Council Districts, 'NOLA_Council_District_2014' represents the new Council Districts which become effective May, 2014.",
+  "displayType" : "map",
+  "downloadCount" : 0,
+  "indexUpdatedAt" : 1386960841,
+  "newBackend" : false,
+  "numberOfComments" : 0,
+  "oid" : 6794609,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1386957129,
+  "publicationGroup" : 1398190,
+  "publicationStage" : "published",
+  "signed" : false,
+  "tableId" : 1398190,
+  "totalTimesRated" : 0,
+  "viewCount" : 18,
+  "viewLastModified" : 1386957472,
+  "viewType" : "geo",
+  "childViews" : [ "xazn-h3hy", "fgq5-8a4w" ],
+  "grants" : [ {
+    "inherited" : false,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "custom_fields" : {
+      "Source Information" : {
+        "Source Department" : "City of New Orleans – Office of Information Technology & Innovation, Enterprise Information Team",
+        "Program" : "GIS"
+      }
+    },
+    "renderTypeConfig" : {
+      "visible" : {
+        "map" : true
+      }
+    },
+    "availableDisplayTypes" : [ "map", "table", "fatrow", "page" ],
+    "geo" : {
+      "owsUrl" : "/api/geospatial/vjam-567i",
+      "bbox" : "-90.14102061642852,29.862091438803603,-89.62737585264959,30.178969174094735",
+      "layers" : "geo_vjam-567i-1,geo_vjam-567i-2",
+      "featureIdAttribute" : "_SocrataID",
+      "bboxCrs" : "EPSG:4326",
+      "namespace" : "geo_vjam-567i"
+    }
+  },
+  "owner" : {
+    "id" : "guap-8ddq",
+    "displayName" : "Doug Paulson, GISP",
+    "screenName" : "Doug Paulson, GISP"
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "guap-8ddq",
+    "displayName" : "Doug Paulson, GISP",
+    "screenName" : "Doug Paulson, GISP"
+  },
+  "tags" : [ "new orleans", "council", "district" ],
+  "flags" : [ "default" ]
+}, {
+  "id" : "q4nv-wks6",
+  "name" : "BlightStatus Lien Foreclosures",
+  "averageRating" : 0,
+  "category" : "Administrative Data",
+  "createdAt" : 1374525592,
+  "description" : "Lien foreclosures, current as of 12/11/2013.  'Status Key' is available as attachment.",
+  "displayType" : "table",
+  "downloadCount" : 133,
+  "indexUpdatedAt" : 1386863934,
+  "newBackend" : false,
+  "numberOfComments" : 0,
+  "oid" : 6782598,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1386862769,
+  "publicationGroup" : 992765,
+  "publicationStage" : "published",
+  "rowClass" : "",
+  "rowsUpdatedAt" : 1386862689,
+  "rowsUpdatedBy" : "guap-8ddq",
+  "signed" : false,
+  "tableId" : 1396690,
+  "totalTimesRated" : 0,
+  "viewCount" : 1614,
+  "viewLastModified" : 1386862769,
+  "viewType" : "tabular",
+  "grants" : [ {
+    "inherited" : false,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "custom_fields" : {
+      "Source Information" : {
+        "Source Department" : "City of New Orleans - City Attorney's Office",
+        "Program" : ""
+      }
+    },
+    "renderTypeConfig" : {
+      "visible" : {
+        "table" : true
+      }
+    },
+    "availableDisplayTypes" : [ "table", "fatrow", "page" ],
+    "rdfSubject" : "0",
+    "attachments" : [ {
+      "blobId" : "6D9A2025-0D9A-4FC9-877A-A2C900CED2D8",
+      "name" : "Lien_Status_Key.xlsx",
+      "filename" : "Lien_Status_Key.xlsx"
+    } ],
+    "rowIdentifier" : "0",
+    "rdfClass" : ""
+  },
+  "owner" : {
+    "id" : "guap-8ddq",
+    "displayName" : "Doug Paulson, GISP",
+    "screenName" : "Doug Paulson, GISP"
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "guap-8ddq",
+    "displayName" : "Doug Paulson, GISP",
+    "screenName" : "Doug Paulson, GISP"
+  },
+  "tags" : [ "lien", "foreclosure" ],
+  "flags" : [ "default" ]
+}, {
+  "id" : "hfr2-uqvk",
+  "name" : "New Orleans Council District C",
+  "averageRating" : 0,
+  "blobFilename" : "CouncilDistrictC.pdf",
+  "blobFileSize" : 3146588,
+  "blobId" : "yXm5_o7qVUSD4F-xmhrDfTfpKYZFqn4hYUar1YPYIDU",
+  "blobMimeType" : "application/pdf; charset=binary",
+  "category" : "Geographic Reference",
+  "createdAt" : 1386089255,
+  "description" : "New Orleans City Council District C - Effective May 5, 2014  Voters will be placed in the districts displayed by January 1, 2014 for all future elections.  Council districts are based upon the 2010 census and redistricting.  Precincts are drawn according to the New Orleans Home Rule Charter.",
+  "displayType" : "blob",
+  "downloadCount" : 16,
+  "indexUpdatedAt" : 1386157168,
+  "newBackend" : false,
+  "numberOfComments" : 0,
+  "oid" : 6683581,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1386089255,
+  "publicationGroup" : 1385384,
+  "publicationStage" : "published",
+  "signed" : false,
+  "tableId" : 1385384,
+  "totalTimesRated" : 0,
+  "viewCount" : 17,
+  "viewLastModified" : 1386091355,
+  "viewType" : "blobby",
+  "grants" : [ {
+    "inherited" : false,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "custom_fields" : {
+      "Source Information" : {
+        "Source Department" : "Information Technology & Innovation",
+        "Program" : "GIS"
+      }
+    },
+    "renderTypeConfig" : {
+      "visible" : {
+        "blob" : true
+      }
+    },
+    "availableDisplayTypes" : [ "blob" ]
+  },
+  "owner" : {
+    "id" : "wvd3-542u",
+    "displayName" : "Christopher Ard",
+    "screenName" : "Christopher Ard"
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "wvd3-542u",
+    "displayName" : "Christopher Ard",
+    "screenName" : "Christopher Ard"
+  },
+  "tags" : [ "council district", "precinct", "council district c" ],
+  "flags" : [ "default" ]
+}, {
+  "id" : "3nv3-fmxh",
+  "name" : "New Orleans Council District E",
+  "averageRating" : 0,
+  "blobFilename" : "CouncilDistrictE.pdf",
+  "blobFileSize" : 2646424,
+  "blobId" : "LksxMj-gJKNjCU-QC1s9fB8fwzyZMq--OrsuBR9kUp4",
+  "blobMimeType" : "application/pdf; charset=binary",
+  "category" : "Geographic Reference",
+  "createdAt" : 1386089877,
+  "description" : "New Orleans City Council District E - Effective May 5, 2014  Voters will be placed in the districts displayed by January 1, 2014 for all future elections.  Council districts are based upon the 2010 census and redistricting.  Precincts are drawn according to the New Orleans Home Rule Charter.",
+  "displayType" : "blob",
+  "downloadCount" : 14,
+  "indexUpdatedAt" : 1386157268,
+  "newBackend" : false,
+  "numberOfComments" : 0,
+  "oid" : 6683630,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1386089877,
+  "publicationGroup" : 1385397,
+  "publicationStage" : "published",
+  "signed" : false,
+  "tableId" : 1385397,
+  "totalTimesRated" : 0,
+  "viewCount" : 16,
+  "viewLastModified" : 1386091380,
+  "viewType" : "blobby",
+  "grants" : [ {
+    "inherited" : false,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "custom_fields" : {
+      "Source Information" : {
+        "Source Department" : "Information Technology & Innovation",
+        "Program" : "GIS"
+      }
+    },
+    "renderTypeConfig" : {
+      "visible" : {
+        "blob" : true
+      }
+    },
+    "availableDisplayTypes" : [ "blob" ]
+  },
+  "owner" : {
+    "id" : "wvd3-542u",
+    "displayName" : "Christopher Ard",
+    "screenName" : "Christopher Ard"
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "wvd3-542u",
+    "displayName" : "Christopher Ard",
+    "screenName" : "Christopher Ard"
+  },
+  "tags" : [ "council district", "precinct", "council district e" ],
+  "flags" : [ "default" ]
+}, {
+  "id" : "why5-i2nr",
+  "name" : "New Orleans Council District D",
+  "averageRating" : 0,
+  "blobFilename" : "CouncilDistrictD.pdf",
+  "blobFileSize" : 3532924,
+  "blobId" : "0S-LjLDJ0UBAdocrufY7t2rLuSrXgNsopr-g7x4hMdU",
+  "blobMimeType" : "application/pdf; charset=binary",
+  "category" : "Geographic Reference",
+  "createdAt" : 1386089609,
+  "description" : "New Orleans City Council District D - Effective May 5, 2014  Voters will be placed in the districts displayed by January 1, 2014 for all future elections.  Council districts are based upon the 2010 census and redistricting.  Precincts are drawn according to the New Orleans Home Rule Charter.",
+  "displayType" : "blob",
+  "downloadCount" : 17,
+  "indexUpdatedAt" : 1386157167,
+  "newBackend" : false,
+  "numberOfComments" : 0,
+  "oid" : 6683623,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1386089609,
+  "publicationGroup" : 1385395,
+  "publicationStage" : "published",
+  "signed" : false,
+  "tableId" : 1385395,
+  "totalTimesRated" : 0,
+  "viewCount" : 19,
+  "viewLastModified" : 1386091222,
+  "viewType" : "blobby",
+  "grants" : [ {
+    "inherited" : false,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "custom_fields" : {
+      "Source Information" : {
+        "Source Department" : "Information Technology & Innovation",
+        "Program" : "GIS"
+      }
+    },
+    "renderTypeConfig" : {
+      "visible" : {
+        "blob" : true
+      }
+    },
+    "availableDisplayTypes" : [ "blob" ]
+  },
+  "owner" : {
+    "id" : "wvd3-542u",
+    "displayName" : "Christopher Ard",
+    "screenName" : "Christopher Ard"
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "wvd3-542u",
+    "displayName" : "Christopher Ard",
+    "screenName" : "Christopher Ard"
+  },
+  "tags" : [ "precinct", "council district", "council district d" ],
+  "flags" : [ "default" ]
+}, {
+  "id" : "a7yf-vfpe",
+  "name" : "New Orleans City Council Districts",
+  "averageRating" : 0,
+  "blobFilename" : "NOLA_Council_Districts.pdf",
+  "blobFileSize" : 3578380,
+  "blobId" : "OytaZC6C6Q3dJpxP8Z2NZUgIXRSP0BG0A3hfjJbgBSo",
+  "blobMimeType" : "application/pdf; charset=binary",
+  "category" : "Geographic Reference",
+  "createdAt" : 1386086954,
+  "description" : "New Orleans City Council Districts - Effective May 5, 2014  Voters will be placed in the districts displayed by January 1, 2014 for all future elections.  Council districts are based upon the 2010 census and redistricting.  Precincts are drawn according to the New Orleans Home Rule Charter.",
+  "displayType" : "blob",
+  "downloadCount" : 44,
+  "indexUpdatedAt" : 1386157115,
+  "newBackend" : false,
+  "numberOfComments" : 0,
+  "oid" : 6683148,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1386086954,
+  "publicationGroup" : 1385323,
+  "publicationStage" : "published",
+  "signed" : false,
+  "tableId" : 1385323,
+  "totalTimesRated" : 0,
+  "viewCount" : 25,
+  "viewLastModified" : 1386091109,
+  "viewType" : "blobby",
+  "grants" : [ {
+    "inherited" : false,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "custom_fields" : {
+      "Source Information" : {
+        "Source Department" : "Information Technology & Innovation",
+        "Program" : "GIS"
+      }
+    },
+    "renderTypeConfig" : {
+      "visible" : {
+        "blob" : true
+      }
+    },
+    "availableDisplayTypes" : [ "blob" ]
+  },
+  "owner" : {
+    "id" : "wvd3-542u",
+    "displayName" : "Christopher Ard",
+    "screenName" : "Christopher Ard"
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "wvd3-542u",
+    "displayName" : "Christopher Ard",
+    "screenName" : "Christopher Ard"
+  },
+  "tags" : [ "council district", "parish", "precinct" ],
+  "flags" : [ "default" ]
+}, {
+  "id" : "r47x-umyg",
+  "name" : "New Orleans Council District B",
+  "averageRating" : 0,
+  "blobFilename" : "CouncilDistrictB.pdf",
+  "blobFileSize" : 3492193,
+  "blobId" : "y-hBp_pVayumMi-2okyvknibhb6SEIHMG2V-CnehaYs",
+  "blobMimeType" : "application/pdf; charset=binary",
+  "category" : "Geographic Reference",
+  "createdAt" : 1386088844,
+  "description" : "New Orleans City Council District B - Effective May 5, 2014  Voters will be placed in the districts displayed by January 1, 2014 for all future elections.  Council districts are based upon the 2010 census and redistricting.  Precincts are drawn according to the New Orleans Home Rule Charter.",
+  "displayType" : "blob",
+  "downloadCount" : 17,
+  "indexUpdatedAt" : 1386157167,
+  "newBackend" : false,
+  "numberOfComments" : 0,
+  "oid" : 6683525,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1386088844,
+  "publicationGroup" : 1385370,
+  "publicationStage" : "published",
+  "signed" : false,
+  "tableId" : 1385370,
+  "totalTimesRated" : 0,
+  "viewCount" : 16,
+  "viewLastModified" : 1386091314,
+  "viewType" : "blobby",
+  "grants" : [ {
+    "inherited" : false,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "custom_fields" : {
+      "Source Information" : {
+        "Source Department" : "Information Technology & Innovation",
+        "Program" : "GIS"
+      }
+    },
+    "renderTypeConfig" : {
+      "visible" : {
+        "blob" : true
+      }
+    },
+    "availableDisplayTypes" : [ "blob" ]
+  },
+  "owner" : {
+    "id" : "wvd3-542u",
+    "displayName" : "Christopher Ard",
+    "screenName" : "Christopher Ard"
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "wvd3-542u",
+    "displayName" : "Christopher Ard",
+    "screenName" : "Christopher Ard"
+  },
+  "tags" : [ "council district", "precinct", "council district b" ],
+  "flags" : [ "default" ]
+}, {
+  "id" : "ystx-hcds",
+  "name" : "New Orleans Council District A",
+  "averageRating" : 0,
+  "blobFilename" : "CouncilDistrictA.pdf",
+  "blobFileSize" : 3675047,
+  "blobId" : "51-18wCKrfij_gtJ7Ge3VrZalKzDnzAoqg0pq-X9gc4",
+  "blobMimeType" : "application/pdf; charset=binary",
+  "category" : "Geographic Reference",
+  "createdAt" : 1386088402,
+  "description" : "New Orleans City Council District A - Effective May 5, 2014  Voters will be placed in the districts displayed by January 1, 2014 for all future elections.  Council districts are based upon the 2010 census and redistricting.  Precincts are drawn according to the New Orleans Home Rule Charter.",
+  "displayType" : "blob",
+  "downloadCount" : 33,
+  "indexUpdatedAt" : 1386157167,
+  "newBackend" : false,
+  "numberOfComments" : 0,
+  "oid" : 6683267,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1386088402,
+  "publicationGroup" : 1385363,
+  "publicationStage" : "published",
+  "signed" : false,
+  "tableId" : 1385363,
+  "totalTimesRated" : 0,
+  "viewCount" : 9,
+  "viewLastModified" : 1386091128,
+  "viewType" : "blobby",
+  "grants" : [ {
+    "inherited" : false,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "custom_fields" : {
+      "Source Information" : {
+        "Source Department" : "Information Technology & Innovation",
+        "Program" : "GIS"
+      }
+    },
+    "renderTypeConfig" : {
+      "visible" : {
+        "blob" : true
+      }
+    },
+    "availableDisplayTypes" : [ "blob" ]
+  },
+  "owner" : {
+    "id" : "wvd3-542u",
+    "displayName" : "Christopher Ard",
+    "screenName" : "Christopher Ard"
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "wvd3-542u",
+    "displayName" : "Christopher Ard",
+    "screenName" : "Christopher Ard"
+  },
+  "tags" : [ "precinct", "council district", "council district a" ],
+  "flags" : [ "default" ]
+}, {
+  "id" : "d2is-2r79",
+  "name" : "Accela Legacy Hearings",
+  "averageRating" : 0,
+  "category" : "Administrative Data",
+  "createdAt" : 1383228169,
+  "description" : "A number of historical records did not successfully migrate during the City's transition to LAMA, a new data management system for land use regulation, in 2012. \r\nThis dataset gives information on hearings from cases held before that transition. This is not an exhaustive list of all cases, and it contains some records that did migrate successfully, causing duplicates between this dataset and the dataset \"CE All Hearings.\" That data can be found at: https://data.nola.gov/dataset/CE-All-Hearings/44ct-56tr.",
+  "displayType" : "table",
+  "downloadCount" : 81,
+  "indexUpdatedAt" : 1383236656,
+  "newBackend" : false,
+  "numberOfComments" : 0,
+  "oid" : 6187733,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1383228643,
+  "publicationGroup" : 1307369,
+  "publicationStage" : "published",
+  "rowClass" : "",
+  "rowsUpdatedAt" : 1383228309,
+  "rowsUpdatedBy" : "guap-8ddq",
+  "signed" : false,
+  "tableId" : 1307369,
+  "totalTimesRated" : 0,
+  "viewCount" : 95,
+  "viewLastModified" : 1383229051,
+  "viewType" : "tabular",
+  "grants" : [ {
+    "inherited" : false,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "custom_fields" : {
+      "Source Information" : {
+        "Source Department" : "City of New Orleans - Code Enforcement",
+        "Program" : ""
+      }
+    },
+    "renderTypeConfig" : {
+      "visible" : {
+        "table" : true
+      }
+    },
+    "availableDisplayTypes" : [ "table", "fatrow", "page" ],
+    "rdfSubject" : "0",
+    "rowIdentifier" : "0",
+    "rdfClass" : ""
+  },
+  "owner" : {
+    "id" : "guap-8ddq",
+    "displayName" : "Doug Paulson, GISP",
+    "screenName" : "Doug Paulson, GISP"
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "guap-8ddq",
+    "displayName" : "Doug Paulson, GISP",
+    "screenName" : "Doug Paulson, GISP"
+  },
+  "tags" : [ "hearings. code enforcement" ],
+  "flags" : [ "default" ]
+}, {
+  "id" : "e962-egyh",
+  "name" : "NOLA Parcels",
+  "averageRating" : 0,
+  "blobFilename" : "NOLA_Parcels_20131011.zip",
+  "blobFileSize" : 16823782,
+  "blobId" : "toSAwpu9WRq0GZ6U1oF-2Zy2ZaWzTIuhlNtMs6Ay8HQ",
+  "blobMimeType" : "application/zip; charset=binary",
+  "category" : "Geographic Reference",
+  "createdAt" : 1381758318,
+  "description" : "City of New Orleans ownership parcels.  ESRI shapefile may be downloaded by selecting 'Export', then 'Download as: Shapefile'.  Free GIS software for viewing geometry may be downloaded from ESRI (http://www.esri.com/software/arcgis/arcreader/).  For KMZ format, please download .kmz attached.",
+  "displayType" : "map",
+  "downloadCount" : 0,
+  "indexUpdatedAt" : 1387560791,
+  "newBackend" : false,
+  "numberOfComments" : 2,
+  "oid" : 5913499,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1387560086,
+  "publicationGroup" : 1249851,
+  "publicationStage" : "published",
+  "signed" : false,
+  "tableId" : 1249851,
+  "totalTimesRated" : 0,
+  "viewCount" : 362,
+  "viewLastModified" : 1387560572,
+  "viewType" : "geo",
+  "childViews" : [ "qxrm-xegm" ],
+  "grants" : [ {
+    "inherited" : false,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "custom_fields" : {
+      "Source Information" : {
+        "Source Department" : "City of New Orleans – Office of Information Technology & Innovation, Enterprise Information Team",
+        "Program" : "GIS"
+      }
+    },
+    "renderTypeConfig" : {
+      "visible" : {
+        "map" : true
+      }
+    },
+    "availableDisplayTypes" : [ "map", "table", "fatrow", "page" ],
+    "geo" : {
+      "owsUrl" : "/api/geospatial/e962-egyh",
+      "bbox" : "-90.13799470166649,29.8679302165926,-89.6546806944812,30.16811947332714",
+      "layers" : "geo_e962-egyh-1",
+      "featureIdAttribute" : "_SocrataID",
+      "bboxCrs" : "EPSG:4326",
+      "namespace" : "geo_e962-egyh"
+    },
+    "attachments" : [ {
+      "assetId" : "_hxQTt7H9a7jyJ8xa_2pjvX07j1pCm9blSO9wrv15-E",
+      "name" : "NOLA_Parcels_20131220.kmz",
+      "filename" : "NOLA_Parcels_20131220.kmz"
+    } ]
+  },
+  "owner" : {
+    "id" : "guap-8ddq",
+    "displayName" : "Doug Paulson, GISP",
+    "screenName" : "Doug Paulson, GISP"
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "guap-8ddq",
+    "displayName" : "Doug Paulson, GISP",
+    "screenName" : "Doug Paulson, GISP"
+  },
+  "tags" : [ "new orleans", "parcel", "ownership" ],
+  "flags" : [ "default" ]
+}, {
+  "id" : "347f-j9w7",
+  "name" : "NORA Uncommitted Property Inventory",
+  "averageRating" : 0,
+  "category" : "Administrative Data",
+  "createdAt" : 1382649131,
+  "description" : "This is a listing of all former Road Home properties in NORA's inventory that are not under contract.  All properties were transferred to NORA from the Louisiana Land Trust.",
+  "displayType" : "map",
+  "downloadCount" : 56,
+  "indexUpdatedAt" : 1386558404,
+  "moderationStatus" : true,
+  "newBackend" : false,
+  "numberOfComments" : 0,
+  "oid" : 6074553,
+  "publicationAppendEnabled" : true,
+  "publicationDate" : 1380920728,
+  "publicationGroup" : 729191,
+  "publicationStage" : "published",
+  "rowsUpdatedAt" : 1380899943,
+  "rowsUpdatedBy" : "c4j8-jv6s",
+  "signed" : false,
+  "tableId" : 1216219,
+  "totalTimesRated" : 0,
+  "viewCount" : 287,
+  "viewLastModified" : 1382649153,
+  "viewType" : "tabular",
+  "grants" : [ {
+    "inherited" : true,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "custom_fields" : {
+      "Source Information" : {
+        "Source Department" : "",
+        "Program" : ""
+      }
+    },
+    "renderTypeConfig" : {
+      "visible" : {
+        "map" : true,
+        "table" : true
+      },
+      "active" : {
+        "table" : {
+          "id" : "self"
+        }
+      }
+    },
+    "availableDisplayTypes" : [ "map", "table", "fatrow", "page" ]
+  },
+  "owner" : {
+    "id" : "p5hd-q4ij",
+    "displayName" : "David Lessinger",
+    "profileImageUrlLarge" : "/images/profile/9653/3103/Image_David_Lessinger_large.jpg",
+    "profileImageUrlMedium" : "/images/profile/9653/3103/Image_David_Lessinger_thumb.jpg",
+    "profileImageUrlSmall" : "/images/profile/9653/3103/Image_David_Lessinger_tiny.jpg",
+    "screenName" : "David Lessinger"
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "c4j8-jv6s",
+    "displayName" : "ssmadden",
+    "profileImageUrlLarge" : "/images/profile/8664/3644/Tulips_large.jpg",
+    "profileImageUrlMedium" : "/images/profile/8664/3644/Tulips_thumb.jpg",
+    "profileImageUrlSmall" : "/images/profile/8664/3644/Tulips_tiny.jpg",
+    "screenName" : "ssmadden"
+  }
+}, {
+  "id" : "ttii-9vqm",
+  "name" : "Future Land Use",
+  "averageRating" : 0,
+  "blobFilename" : "future_land_use.zip",
+  "blobFileSize" : 1348222,
+  "blobId" : "QtfAK2h3JrQTG4vGF6vYtXI9OlqClEMJs_579NUBinw",
+  "blobMimeType" : "application/zip; charset=binary",
+  "category" : "Administrative Data",
+  "createdAt" : 1380296354,
+  "description" : "For complete details, please visit the City Planning Commission website at:\n\nhttp://www.nola.gov/city-planning/master-plan/",
+  "displayType" : "blob",
+  "downloadCount" : 58,
+  "indexUpdatedAt" : 1380734920,
+  "newBackend" : false,
+  "numberOfComments" : 0,
+  "oid" : 5637558,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1380296354,
+  "publicationGroup" : 1191774,
+  "publicationStage" : "published",
+  "signed" : false,
+  "tableId" : 1191774,
+  "totalTimesRated" : 0,
+  "viewCount" : 155,
+  "viewLastModified" : 1380730993,
+  "viewType" : "blobby",
+  "grants" : [ {
+    "inherited" : false,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "custom_fields" : {
+      "Source Information" : {
+        "Source Department" : "City Planning Commission",
+        "Program" : ""
+      }
+    },
+    "renderTypeConfig" : {
+      "visible" : {
+        "blob" : true
+      }
+    },
+    "availableDisplayTypes" : [ "blob" ]
+  },
+  "owner" : {
+    "id" : "etmh-sfwk",
+    "displayName" : "Greg Hymel",
+    "screenName" : "Greg Hymel"
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "etmh-sfwk",
+    "displayName" : "Greg Hymel",
+    "screenName" : "Greg Hymel"
+  },
+  "flags" : [ "default" ]
+}, {
+  "id" : "wxvb-ttka",
+  "name" : "Draft Zoning",
+  "averageRating" : 0,
+  "blobFilename" : "draft_zoning.zip",
+  "blobFileSize" : 1348717,
+  "blobId" : "m99XS5r-JQIrFMK8OFhPmTBfCRPcj3gXd7m5PVsLa50",
+  "blobMimeType" : "application/zip; charset=binary",
+  "category" : "Administrative Data",
+  "createdAt" : 1380296071,
+  "description" : "For full details please visit the City Planning Commission website or direct link to:\n\nhttp://www.nola.gov/city-planning/draft-comprehensive-zoning-ordinances-(czo)/full-czo-text/",
+  "displayType" : "blob",
+  "downloadCount" : 92,
+  "indexUpdatedAt" : 1380303010,
+  "newBackend" : false,
+  "numberOfComments" : 0,
+  "oid" : 5637352,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1380296071,
+  "publicationGroup" : 1191759,
+  "publicationStage" : "published",
+  "signed" : false,
+  "tableId" : 1191759,
+  "totalTimesRated" : 0,
+  "viewCount" : 252,
+  "viewLastModified" : 1380296230,
+  "viewType" : "blobby",
+  "grants" : [ {
+    "inherited" : false,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "custom_fields" : {
+      "Source Information" : {
+        "Source Department" : "City Planning Commission",
+        "Program" : ""
+      }
+    },
+    "renderTypeConfig" : {
+      "visible" : {
+        "blob" : true
+      }
+    },
+    "availableDisplayTypes" : [ "blob" ]
+  },
+  "owner" : {
+    "id" : "etmh-sfwk",
+    "displayName" : "Greg Hymel",
+    "screenName" : "Greg Hymel"
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "etmh-sfwk",
+    "displayName" : "Greg Hymel",
+    "screenName" : "Greg Hymel"
+  },
+  "flags" : [ "default" ]
+}, {
+  "id" : "yanw-8k4k",
+  "name" : "Schools K-12",
+  "averageRating" : 0,
+  "blobFilename" : "SchoolData20130321_Public.zip",
+  "blobFileSize" : 13944,
+  "blobId" : "MYH7faldW-qCGQdqUvCyuabuhmQDohGQ5Lm2mHT1evQ",
+  "blobMimeType" : "application/zip; charset=binary",
+  "category" : "City Assets",
+  "createdAt" : 1367006652,
+  "description" : "Private and public schools located within the City of New Orleans. This information is initially composed by the Louisiana Department of Education. Then this data is verified by the New Orleans Office of Homeland Security and Emergency Preparedness.",
+  "displayType" : "map",
+  "downloadCount" : 0,
+  "indexUpdatedAt" : 1367243259,
+  "newBackend" : false,
+  "numberOfComments" : 0,
+  "oid" : 3360002,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1367242571,
+  "publicationGroup" : 820951,
+  "publicationStage" : "published",
+  "signed" : false,
+  "tableId" : 820951,
+  "totalTimesRated" : 0,
+  "viewCount" : 152,
+  "viewLastModified" : 1367242687,
+  "viewType" : "geo",
+  "childViews" : [ "5evi-6a7q" ],
+  "grants" : [ {
+    "inherited" : false,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "custom_fields" : {
+      "Source Information" : {
+        "Source Department" : "NOHSEP",
+        "Program" : ""
+      }
+    },
+    "renderTypeConfig" : {
+      "visible" : {
+        "map" : true
+      }
+    },
+    "availableDisplayTypes" : [ "map", "table", "fatrow", "page" ],
+    "geo" : {
+      "owsUrl" : "/api/geospatial/yanw-8k4k",
+      "bbox" : "-90.13480835313898,29.904892535677256,-89.92471515226596,30.059365628631976",
+      "layers" : "geo_yanw-8k4k-1",
+      "featureIdAttribute" : "_SocrataID",
+      "bboxCrs" : "EPSG:4326",
+      "namespace" : "geo_yanw-8k4k"
+    }
+  },
+  "owner" : {
+    "id" : "25it-ektq",
+    "displayName" : "greece",
+    "screenName" : "greece"
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "25it-ektq",
+    "displayName" : "greece",
+    "screenName" : "greece"
+  },
+  "tags" : [ "school" ],
+  "flags" : [ "default" ]
+}, {
+  "id" : "kex2-vq3e",
+  "name" : "New Orleans Market Value Analysis - Final Report 3.25.2013",
+  "averageRating" : 0,
+  "blobFilename" : "NewOrleansMVA_FinalReport_3.25.2013.pdf",
+  "blobFileSize" : 2208361,
+  "blobId" : "hOFpIj6dI5ij1eEVp40lzUfrnn_sGWCM8s03n04tlVc",
+  "blobMimeType" : "application/pdf; charset=binary",
+  "category" : "Geographic Reference",
+  "createdAt" : 1365547368,
+  "description" : "The Market Value Analysis (MVA) is a tool designed to assist the private market and government officials to identify and comprehend the various elements of local real estate markets. It is based fundamentally on local administrative data sources. By using an MVA, public sector officials and private market actors can more precisely craft intervention strategies in weak markets and support sustainable growth in stronger market segments.",
+  "displayType" : "blob",
+  "downloadCount" : 495,
+  "indexUpdatedAt" : 1365548648,
+  "newBackend" : false,
+  "numberOfComments" : 0,
+  "oid" : 3134884,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1365547368,
+  "publicationGroup" : 785987,
+  "publicationStage" : "published",
+  "signed" : false,
+  "tableId" : 785987,
+  "totalTimesRated" : 0,
+  "viewCount" : 917,
+  "viewLastModified" : 1365547729,
+  "viewType" : "blobby",
+  "grants" : [ {
+    "inherited" : false,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "custom_fields" : {
+      "Source Information" : {
+        "Source Department" : "NORA, Office of Community Development",
+        "Program" : ""
+      }
+    },
+    "renderTypeConfig" : {
+      "visible" : {
+        "blob" : true
+      }
+    },
+    "availableDisplayTypes" : [ "blob" ]
+  },
+  "owner" : {
+    "id" : "p5hd-q4ij",
+    "displayName" : "David Lessinger",
+    "profileImageUrlLarge" : "/images/profile/9653/3103/Image_David_Lessinger_large.jpg",
+    "profileImageUrlMedium" : "/images/profile/9653/3103/Image_David_Lessinger_thumb.jpg",
+    "profileImageUrlSmall" : "/images/profile/9653/3103/Image_David_Lessinger_tiny.jpg",
+    "screenName" : "David Lessinger"
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "p5hd-q4ij",
+    "displayName" : "David Lessinger",
+    "profileImageUrlLarge" : "/images/profile/9653/3103/Image_David_Lessinger_large.jpg",
+    "profileImageUrlMedium" : "/images/profile/9653/3103/Image_David_Lessinger_thumb.jpg",
+    "profileImageUrlSmall" : "/images/profile/9653/3103/Image_David_Lessinger_tiny.jpg",
+    "screenName" : "David Lessinger"
+  },
+  "tags" : [ "real estate", "markets", "mva", "nora", "community development" ],
+  "flags" : [ "default" ]
+}, {
+  "id" : "aned-jbk9",
+  "name" : "Post-Katrina Damage Assessment",
+  "averageRating" : 0,
+  "category" : "Administrative Data",
+  "createdAt" : 1365004992,
+  "description" : "Post-Katrina damage assessment conducted by City inspectors, published by address with breakdown by category. These data formerly supported the \"Damage Assessment Wizard\" web tool. Also see attachment 'DA_Categories' for insight as to how damage was assessed.",
+  "displayType" : "table",
+  "downloadCount" : 108,
+  "indexUpdatedAt" : 1378119776,
+  "newBackend" : false,
+  "numberOfComments" : 0,
+  "oid" : 3057751,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1365011897,
+  "publicationGroup" : 772938,
+  "publicationStage" : "published",
+  "rowsUpdatedAt" : 1365011808,
+  "rowsUpdatedBy" : "guap-8ddq",
+  "signed" : false,
+  "tableId" : 773072,
+  "totalTimesRated" : 0,
+  "viewCount" : 573,
+  "viewLastModified" : 1365011897,
+  "viewType" : "tabular",
+  "grants" : [ {
+    "inherited" : false,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "custom_fields" : {
+      "Source Information" : {
+        "Source Department" : "City of New Orleans, Department of Safety and Permits",
+        "Program" : ""
+      }
+    },
+    "renderTypeConfig" : {
+      "visible" : {
+        "table" : true
+      }
+    },
+    "availableDisplayTypes" : [ "table", "fatrow", "page" ],
+    "attachments" : [ {
+      "blobId" : "DE25369B-C07F-47BA-A5F1-ED5FFD51073F",
+      "name" : "DA_Categories.xlsx",
+      "filename" : "DA_Categories.xlsx"
+    } ]
+  },
+  "owner" : {
+    "id" : "guap-8ddq",
+    "displayName" : "Doug Paulson, GISP",
+    "screenName" : "Doug Paulson, GISP"
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "guap-8ddq",
+    "displayName" : "Doug Paulson, GISP",
+    "screenName" : "Doug Paulson, GISP"
+  },
+  "tags" : [ "new orleans", "damage", "katrina" ],
+  "flags" : [ "default" ]
+}, {
+  "id" : "suyx-59fs",
+  "name" : "NOLA Council Districts 20120517",
+  "averageRating" : 0,
+  "blobFilename" : "NOLA_Council_Districts_20120517.zip",
+  "blobFileSize" : 99380,
+  "blobId" : "Ff07tQu1AFYvbT2kHr9FwZb8ICgash3KXRJEYLa2V8w",
+  "blobMimeType" : "application/zip; charset=binary",
+  "createdAt" : 1375895777,
+  "displayType" : "map",
+  "downloadCount" : 0,
+  "indexUpdatedAt" : 1383079473,
+  "newBackend" : false,
+  "numberOfComments" : 0,
+  "oid" : 4808178,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1375895781,
+  "publicationGroup" : 1024606,
+  "publicationStage" : "published",
+  "signed" : false,
+  "tableId" : 1024606,
+  "totalTimesRated" : 0,
+  "viewCount" : 71,
+  "viewLastModified" : 1383078506,
+  "viewType" : "geo",
+  "childViews" : [ "q23e-8egj" ],
+  "grants" : [ {
+    "inherited" : false,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "custom_fields" : {
+      "Source Information" : {
+        "Source Department" : "",
+        "Program" : ""
+      }
+    },
+    "renderTypeConfig" : {
+      "visible" : {
+        "map" : true
+      }
+    },
+    "availableDisplayTypes" : [ "map", "table", "fatrow", "page" ],
+    "geo" : {
+      "owsUrl" : "/api/geospatial/suyx-59fs",
+      "bbox" : "-90.14102061642858,29.86209143880364,-89.62737653026167,30.178969174094767",
+      "layers" : "geo_suyx-59fs-1",
+      "featureIdAttribute" : "_SocrataID",
+      "bboxCrs" : "EPSG:4326",
+      "namespace" : "geo_suyx-59fs"
+    }
+  },
+  "owner" : {
+    "id" : "zs8p-j3v5",
+    "displayName" : "Darrell Cabales",
+    "profileImageUrlLarge" : "/images/profile/7678/5871/Darrell-03-2012_large.jpg",
+    "profileImageUrlMedium" : "/images/profile/7678/5871/Darrell-03-2012_thumb.jpg",
+    "profileImageUrlSmall" : "/images/profile/7678/5871/Darrell-03-2012_tiny.jpg",
+    "screenName" : "Darrell Cabales",
+    "rights" : [ "create_datasets", "edit_others_datasets", "edit_sdp", "edit_site_theme", "moderate_comments", "manage_users", "chown_datasets", "edit_nominations", "approve_nominations", "feature_items", "federations", "manage_stories", "manage_approval", "change_configurations", "view_domain", "view_others_datasets", "edit_pages", "create_pages", "view_goals", "view_dashboards", "edit_goals", "edit_dashboards", "create_dashboards" ],
+    "flags" : [ "admin" ]
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "zs8p-j3v5",
+    "displayName" : "Darrell Cabales",
+    "profileImageUrlLarge" : "/images/profile/7678/5871/Darrell-03-2012_large.jpg",
+    "profileImageUrlMedium" : "/images/profile/7678/5871/Darrell-03-2012_thumb.jpg",
+    "profileImageUrlSmall" : "/images/profile/7678/5871/Darrell-03-2012_tiny.jpg",
+    "screenName" : "Darrell Cabales",
+    "rights" : [ "create_datasets", "edit_others_datasets", "edit_sdp", "edit_site_theme", "moderate_comments", "manage_users", "chown_datasets", "edit_nominations", "approve_nominations", "feature_items", "federations", "manage_stories", "manage_approval", "change_configurations", "view_domain", "view_others_datasets", "edit_pages", "create_pages", "view_goals", "view_dashboards", "edit_goals", "edit_dashboards", "create_dashboards" ],
+    "flags" : [ "admin" ]
+  },
+  "flags" : [ "default" ]
+}, {
+  "id" : "t3vb-bbwe",
+  "name" : "Building Outlines",
+  "averageRating" : 0,
+  "blobFilename" : "BuildingOutlines2013.zip",
+  "blobFileSize" : 20912147,
+  "blobId" : "2EKZNcgbEN4sbJGzYmUNBzY4w1waffZBD29t1GCzrec",
+  "blobMimeType" : "application/zip; charset=binary",
+  "category" : "Geographic Reference",
+  "createdAt" : 1378996566,
+  "description" : "This layer of the City’s buildings is based on aerial imagery captured by Pictometry in January 2013.  The outlines were captured using a semi-automated method with post-process editing.  Some in-house edits were performed to reflect local knowledge of the landscape.",
+  "displayType" : "blob",
+  "downloadCount" : 163,
+  "indexUpdatedAt" : 1379104907,
+  "newBackend" : false,
+  "numberOfComments" : 0,
+  "oid" : 5380370,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1378996566,
+  "publicationGroup" : 1140743,
+  "publicationStage" : "published",
+  "signed" : false,
+  "tableId" : 1140743,
+  "totalTimesRated" : 0,
+  "viewCount" : 313,
+  "viewLastModified" : 1379103988,
+  "viewType" : "blobby",
+  "grants" : [ {
+    "inherited" : false,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "custom_fields" : {
+      "Source Information" : {
+        "Source Department" : "ITI-GIS",
+        "Program" : ""
+      }
+    },
+    "renderTypeConfig" : {
+      "visible" : {
+        "blob" : true
+      }
+    },
+    "availableDisplayTypes" : [ "blob" ]
+  },
+  "owner" : {
+    "id" : "etmh-sfwk",
+    "displayName" : "Greg Hymel",
+    "screenName" : "Greg Hymel"
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "etmh-sfwk",
+    "displayName" : "Greg Hymel",
+    "screenName" : "Greg Hymel"
+  },
+  "tags" : [ "buildings", "structures" ],
+  "flags" : [ "default" ]
+}, {
+  "id" : "ukvx-5dku",
+  "name" : "NOLA Neighborhood Statistical Areas",
+  "averageRating" : 0,
+  "blobFilename" : "Neighborhood_Statistical_Areas.zip",
+  "blobFileSize" : 166784,
+  "blobId" : "rOwhwVWY3nnhqPtVidjLK0YzVtiwY6rElemFxyPi9fQ",
+  "blobMimeType" : "application/zip; charset=binary",
+  "category" : "Geographic Reference",
+  "createdAt" : 1379088976,
+  "description" : "Census Tracts are small, relatively permanent statistical subdivisions of a county or statistically equivalent entity delineated by local participants as part of the U.S. Census Bureau's Participant Statistical Areas Program. The primary purpose of Census Tracts is to provide a stable set of geographic units for the presentation of decennial census data. In 1980 the New Orleans City Planning Commission, for planning and decision-making purposes, divided the city into Census Tract based 'neighborhoods'. Additional neighborhoods were created after the 1990 and 2000 Censuses. Following Hurricane Katrina the Greater New Orleans Community Data Center (GNOCDC) settled on these boundaries to facilitate the use of local data in decision-making. These neighborhoods underwent further change during the 2010 Census due to modifications (consolidation and/or splitting) of Census Tracts, the resulting boundaries were renamed as 'Neighborhood Statistical Areas' to reflect their actual function.",
+  "displayType" : "map",
+  "downloadCount" : 0,
+  "indexUpdatedAt" : 1386976471,
+  "newBackend" : false,
+  "numberOfComments" : 0,
+  "oid" : 5397752,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1379088992,
+  "publicationGroup" : 1144309,
+  "publicationStage" : "published",
+  "signed" : false,
+  "tableId" : 1144309,
+  "totalTimesRated" : 0,
+  "viewCount" : 248,
+  "viewLastModified" : 1386968285,
+  "viewType" : "geo",
+  "childViews" : [ "xi62-vaie" ],
+  "grants" : [ {
+    "inherited" : false,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "custom_fields" : {
+      "Source Information" : {
+        "Source Department" : "City of New Orleans – Office of Information Technology & Innovation, Enterprise Information Team",
+        "Program" : "GIS"
+      }
+    },
+    "renderTypeConfig" : {
+      "visible" : {
+        "map" : true
+      }
+    },
+    "availableDisplayTypes" : [ "map", "table", "fatrow", "page" ],
+    "geo" : {
+      "owsUrl" : "/api/geospatial/ukvx-5dku",
+      "bbox" : "-90.14098407628695,29.8622422321387,-89.6273758526496,30.178968857622635",
+      "layers" : "geo_ukvx-5dku-1",
+      "featureIdAttribute" : "_SocrataID",
+      "bboxCrs" : "EPSG:4326",
+      "namespace" : "geo_ukvx-5dku"
+    }
+  },
+  "owner" : {
+    "id" : "guap-8ddq",
+    "displayName" : "Doug Paulson, GISP",
+    "screenName" : "Doug Paulson, GISP"
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "guap-8ddq",
+    "displayName" : "Doug Paulson, GISP",
+    "screenName" : "Doug Paulson, GISP"
+  },
+  "tags" : [ "new orleans", "neighborhood" ],
+  "flags" : [ "default" ]
+}, {
+  "id" : "4d8g-jra3",
+  "name" : "Test Map",
+  "averageRating" : 0,
+  "category" : "Geographic Reference",
+  "createdAt" : 1386716700,
+  "description" : "Trade Names and Addresses of facilities, within the City of New Orleans, offering short term rental. Facilities include Hotels, Motels, Bed & Breakfasts and Rooming & Boarding Houses.  Update: Quarterly",
+  "displayType" : "map",
+  "downloadCount" : 3,
+  "indexUpdatedAt" : 1386736700,
+  "moderationStatus" : true,
+  "newBackend" : false,
+  "numberOfComments" : 0,
+  "oid" : 6759624,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1370291911,
+  "publicationGroup" : 564493,
+  "publicationStage" : "published",
+  "rowClass" : "",
+  "rowsUpdatedAt" : 1370291870,
+  "rowsUpdatedBy" : "guap-8ddq",
+  "signed" : false,
+  "tableId" : 896880,
+  "totalTimesRated" : 0,
+  "viewCount" : 22,
+  "viewLastModified" : 1386716708,
+  "viewType" : "tabular",
+  "grants" : [ {
+    "inherited" : true,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "custom_fields" : {
+      "Source Information" : {
+        "Source Department" : "City of New Orleans, Bureau of Revenue",
+        "Program" : ""
+      }
+    },
+    "renderTypeConfig" : {
+      "visible" : {
+        "map" : true
+      },
+      "active" : {
+        "table" : {
+          "id" : "self"
+        }
+      }
+    },
+    "availableDisplayTypes" : [ "map", "table", "fatrow", "page" ],
+    "rdfSubject" : "0",
+    "rowIdentifier" : "0",
+    "rdfClass" : ""
+  },
+  "owner" : {
+    "id" : "4qwc-qq8v",
+    "displayName" : "kfontes",
+    "profileImageUrlLarge" : "/images/profile/1281/4580/Screenshot_1_10_13_11_23_AM_large.png",
+    "profileImageUrlMedium" : "/images/profile/1281/4580/Screenshot_1_10_13_11_23_AM_thumb.png",
+    "profileImageUrlSmall" : "/images/profile/1281/4580/Screenshot_1_10_13_11_23_AM_tiny.png",
+    "screenName" : "kfontes",
+    "rights" : [ "create_datasets", "edit_others_datasets", "edit_sdp", "edit_site_theme", "moderate_comments", "manage_users", "chown_datasets", "edit_nominations", "approve_nominations", "feature_items", "federations", "manage_stories", "manage_approval", "change_configurations", "view_domain", "view_others_datasets", "edit_pages", "create_pages", "view_goals", "view_dashboards", "edit_goals", "edit_dashboards", "create_dashboards" ],
+    "flags" : [ "admin" ]
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "guap-8ddq",
+    "displayName" : "Doug Paulson, GISP",
+    "screenName" : "Doug Paulson, GISP"
+  },
+  "tags" : [ "superbowl", "city of new orleans", "rental property", "short term" ]
+} ]

@@ -1,0 +1,887 @@
+[ {
+  "id" : "7v22-4z3a",
+  "name" : "Check Register",
+  "averageRating" : 0,
+  "createdAt" : 1364327873,
+  "description" : "Checks written to pay for products and services received by the City.",
+  "displayType" : "table",
+  "downloadCount" : 153,
+  "indexUpdatedAt" : 1386086856,
+  "newBackend" : false,
+  "numberOfComments" : 0,
+  "oid" : 6672721,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1386025871,
+  "publicationGroup" : 757501,
+  "publicationStage" : "published",
+  "rowsUpdatedAt" : 1386025848,
+  "rowsUpdatedBy" : "e5ji-piyw",
+  "signed" : false,
+  "tableId" : 1384290,
+  "totalTimesRated" : 0,
+  "viewCount" : 3941,
+  "viewLastModified" : 1386025871,
+  "viewType" : "tabular",
+  "grants" : [ {
+    "inherited" : true,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "renderTypeConfig" : {
+      "visible" : {
+        "table" : true
+      }
+    },
+    "availableDisplayTypes" : [ "table", "fatrow", "page" ],
+    "rdfSubject" : "0"
+  },
+  "owner" : {
+    "id" : "e5ji-piyw",
+    "displayName" : "KC",
+    "screenName" : "KC"
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "e5ji-piyw",
+    "displayName" : "KC",
+    "screenName" : "KC"
+  },
+  "flags" : [ "default" ]
+}, {
+  "id" : "vqdz-eefx",
+  "name" : "Purchasing Card Transactions",
+  "averageRating" : 0,
+  "createdAt" : 1363800321,
+  "displayType" : "table",
+  "downloadCount" : 175,
+  "indexUpdatedAt" : 1386086951,
+  "newBackend" : false,
+  "numberOfComments" : 0,
+  "oid" : 6672728,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1386026011,
+  "publicationGroup" : 745433,
+  "publicationStage" : "published",
+  "rowsUpdatedAt" : 1386025996,
+  "rowsUpdatedBy" : "e5ji-piyw",
+  "signed" : false,
+  "tableId" : 1384292,
+  "totalTimesRated" : 0,
+  "viewCount" : 3076,
+  "viewLastModified" : 1386026011,
+  "viewType" : "tabular",
+  "grants" : [ {
+    "inherited" : false,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "renderTypeConfig" : {
+      "visible" : {
+        "table" : true
+      }
+    },
+    "availableDisplayTypes" : [ "table", "fatrow", "page" ]
+  },
+  "owner" : {
+    "id" : "e5ji-piyw",
+    "displayName" : "KC",
+    "screenName" : "KC"
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "e5ji-piyw",
+    "displayName" : "KC",
+    "screenName" : "KC"
+  },
+  "flags" : [ "default" ]
+}, {
+  "id" : "4xwk-j2qj",
+  "name" : "Check Register Grouped by Payee",
+  "averageRating" : 0,
+  "createdAt" : 1364329518,
+  "displayType" : "table",
+  "downloadCount" : 142,
+  "indexUpdatedAt" : 1386086921,
+  "newBackend" : false,
+  "numberOfComments" : 0,
+  "oid" : 6672727,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1386025871,
+  "publicationGroup" : 757501,
+  "publicationStage" : "published",
+  "rowsUpdatedAt" : 1386025848,
+  "rowsUpdatedBy" : "e5ji-piyw",
+  "signed" : false,
+  "tableId" : 1384290,
+  "totalTimesRated" : 0,
+  "viewCount" : 1086,
+  "viewLastModified" : 1364329518,
+  "viewType" : "tabular",
+  "grants" : [ {
+    "inherited" : true,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "renderTypeConfig" : {
+      "visible" : {
+        "table" : true
+      }
+    },
+    "availableDisplayTypes" : [ "table", "fatrow", "page" ]
+  },
+  "owner" : {
+    "id" : "e5ji-piyw",
+    "displayName" : "KC",
+    "screenName" : "KC"
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "e5ji-piyw",
+    "displayName" : "KC",
+    "screenName" : "KC"
+  }
+}, {
+  "id" : "7zus-64fj",
+  "name" : "Redmond Facilities",
+  "averageRating" : 0,
+  "createdAt" : 1363813012,
+  "displayType" : "table",
+  "downloadCount" : 138,
+  "indexUpdatedAt" : 1364325288,
+  "newBackend" : false,
+  "numberOfComments" : 0,
+  "oid" : 2895278,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1363813143,
+  "publicationGroup" : 745745,
+  "publicationStage" : "published",
+  "rowsUpdatedAt" : 1363813063,
+  "rowsUpdatedBy" : "e5ji-piyw",
+  "signed" : false,
+  "tableId" : 745745,
+  "totalTimesRated" : 0,
+  "viewCount" : 123,
+  "viewLastModified" : 1363813143,
+  "viewType" : "tabular",
+  "grants" : [ {
+    "inherited" : true,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "renderTypeConfig" : {
+      "visible" : {
+        "table" : true
+      }
+    },
+    "availableDisplayTypes" : [ "table", "fatrow", "page" ]
+  },
+  "owner" : {
+    "id" : "e5ji-piyw",
+    "displayName" : "KC",
+    "screenName" : "KC"
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "e5ji-piyw",
+    "displayName" : "KC",
+    "screenName" : "KC"
+  },
+  "flags" : [ "default" ]
+}, {
+  "id" : "h54f-2ybz",
+  "name" : "Historic Redmond",
+  "averageRating" : 0,
+  "createdAt" : 1363720413,
+  "displayType" : "table",
+  "downloadCount" : 65,
+  "indexUpdatedAt" : 1365114766,
+  "newBackend" : false,
+  "numberOfComments" : 0,
+  "oid" : 2881647,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1363720489,
+  "publicationGroup" : 743325,
+  "publicationStage" : "published",
+  "rowClass" : "",
+  "rowsUpdatedAt" : 1363720419,
+  "rowsUpdatedBy" : "e5ji-piyw",
+  "signed" : false,
+  "tableId" : 743325,
+  "totalTimesRated" : 0,
+  "viewCount" : 100,
+  "viewLastModified" : 1365113053,
+  "viewType" : "tabular",
+  "grants" : [ {
+    "inherited" : true,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "renderTypeConfig" : {
+      "visible" : {
+        "table" : true
+      }
+    },
+    "availableDisplayTypes" : [ "table", "fatrow", "page" ],
+    "rdfSubject" : "0",
+    "rowIdentifier" : "0",
+    "rdfClass" : ""
+  },
+  "owner" : {
+    "id" : "e5ji-piyw",
+    "displayName" : "KC",
+    "screenName" : "KC"
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "e5ji-piyw",
+    "displayName" : "KC",
+    "screenName" : "KC"
+  },
+  "flags" : [ "default" ]
+}, {
+  "id" : "t4s2-2j9i",
+  "name" : "Redmond Neighborhood Boundaries",
+  "averageRating" : 0,
+  "blobFilename" : "Neighborhoods.zip",
+  "blobFileSize" : 293988,
+  "blobId" : "w8fzRtqiI77DVnlYLYEXqh6Ui3JOGKI5AYlgKKBzd7o",
+  "blobMimeType" : "application/zip; charset=binary",
+  "createdAt" : 1360359534,
+  "displayType" : "map",
+  "downloadCount" : 0,
+  "indexUpdatedAt" : 1379629700,
+  "newBackend" : false,
+  "numberOfComments" : 0,
+  "oid" : 2472231,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1379625430,
+  "publicationGroup" : 666163,
+  "publicationStage" : "published",
+  "signed" : false,
+  "tableId" : 666163,
+  "totalTimesRated" : 0,
+  "viewCount" : 109,
+  "viewLastModified" : 1379625430,
+  "viewType" : "geo",
+  "childViews" : [ "bpsg-iuqe" ],
+  "grants" : [ {
+    "inherited" : false,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "renderTypeConfig" : {
+      "visible" : {
+        "map" : true
+      }
+    },
+    "availableDisplayTypes" : [ "map", "table", "fatrow", "page" ],
+    "geo" : {
+      "layers" : "geo_t4s2-2j9i-1",
+      "bbox" : "-122.16596904087812,47.62637587265997,-122.07793234479799,47.73305981568064",
+      "bboxCrs" : "EPSG:4326",
+      "featureIdAttribute" : "_SocrataID",
+      "owsUrl" : "/api/geospatial/t4s2-2j9i",
+      "namespace" : "geo_t4s2-2j9i"
+    }
+  },
+  "owner" : {
+    "id" : "zs8p-j3v5",
+    "displayName" : "Darrell Cabales",
+    "profileImageUrlLarge" : "/images/profile/7678/5871/Darrell-03-2012_large.jpg",
+    "profileImageUrlMedium" : "/images/profile/7678/5871/Darrell-03-2012_thumb.jpg",
+    "profileImageUrlSmall" : "/images/profile/7678/5871/Darrell-03-2012_tiny.jpg",
+    "screenName" : "Darrell Cabales",
+    "rights" : [ "create_datasets", "edit_others_datasets", "edit_sdp", "edit_site_theme", "moderate_comments", "manage_users", "chown_datasets", "edit_nominations", "approve_nominations", "feature_items", "federations", "manage_stories", "manage_approval", "change_configurations", "view_domain", "view_others_datasets", "edit_pages", "create_pages", "view_goals", "view_dashboards", "edit_goals", "edit_dashboards", "create_dashboards" ],
+    "flags" : [ "admin" ]
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "zs8p-j3v5",
+    "displayName" : "Darrell Cabales",
+    "profileImageUrlLarge" : "/images/profile/7678/5871/Darrell-03-2012_large.jpg",
+    "profileImageUrlMedium" : "/images/profile/7678/5871/Darrell-03-2012_thumb.jpg",
+    "profileImageUrlSmall" : "/images/profile/7678/5871/Darrell-03-2012_tiny.jpg",
+    "screenName" : "Darrell Cabales",
+    "rights" : [ "create_datasets", "edit_others_datasets", "edit_sdp", "edit_site_theme", "moderate_comments", "manage_users", "chown_datasets", "edit_nominations", "approve_nominations", "feature_items", "federations", "manage_stories", "manage_approval", "change_configurations", "view_domain", "view_others_datasets", "edit_pages", "create_pages", "view_goals", "view_dashboards", "edit_goals", "edit_dashboards", "create_dashboards" ],
+    "flags" : [ "admin" ]
+  },
+  "flags" : [ "default" ]
+}, {
+  "id" : "tugv-zk5z",
+  "name" : "Redmond Facilities Map",
+  "averageRating" : 0,
+  "createdAt" : 1364325220,
+  "displayType" : "map",
+  "downloadCount" : 71,
+  "indexUpdatedAt" : 1364326521,
+  "newBackend" : false,
+  "numberOfComments" : 0,
+  "oid" : 2963804,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1363813143,
+  "publicationGroup" : 745745,
+  "publicationStage" : "published",
+  "rowsUpdatedAt" : 1363813063,
+  "rowsUpdatedBy" : "e5ji-piyw",
+  "signed" : false,
+  "tableId" : 745745,
+  "totalTimesRated" : 0,
+  "viewCount" : 2220,
+  "viewLastModified" : 1364326062,
+  "viewType" : "tabular",
+  "grants" : [ {
+    "inherited" : true,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "renderTypeConfig" : {
+      "visible" : {
+        "map" : true
+      }
+    },
+    "availableDisplayTypes" : [ "map", "table", "fatrow", "page" ],
+    "conditionalFormatting" : [ {
+      "icon" : "/api/assets/72C5BCFD-A01E-4165-A60D-B492C32E702C",
+      "condition" : {
+        "_key" : "(8790999|CONTAINS|Administration)",
+        "value" : "Administration",
+        "tableColumnId" : 8790999,
+        "operator" : "CONTAINS"
+      }
+    }, {
+      "icon" : "/api/assets/6F217ACC-F78F-492F-8139-9D6825FA5E08",
+      "condition" : {
+        "_key" : "(8790999|CONTAINS|Police)",
+        "value" : "Police",
+        "tableColumnId" : 8790999,
+        "operator" : "CONTAINS"
+      }
+    }, {
+      "icon" : "/api/assets/F72F9E41-B55B-42C4-A1B9-FF185BD6DE41",
+      "condition" : {
+        "_key" : "(8790999|CONTAINS|Fire)",
+        "value" : "Fire",
+        "tableColumnId" : 8790999,
+        "operator" : "CONTAINS"
+      }
+    }, {
+      "icon" : "/api/assets/53F530F1-7D9E-497D-801B-12D335695040",
+      "condition" : {
+        "_key" : "(8790999|CONTAINS|Maintenance)",
+        "value" : "Maintenance",
+        "tableColumnId" : 8790999,
+        "operator" : "CONTAINS"
+      }
+    }, {
+      "icon" : "/api/assets/F322765D-2852-408C-A607-FF9C2F0F1339",
+      "condition" : {
+        "_key" : "(8790999|CONTAINS|Community Center)",
+        "value" : "Community Center",
+        "tableColumnId" : 8790999,
+        "operator" : "CONTAINS"
+      }
+    } ]
+  },
+  "owner" : {
+    "id" : "e5ji-piyw",
+    "displayName" : "KC",
+    "screenName" : "KC"
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "e5ji-piyw",
+    "displayName" : "KC",
+    "screenName" : "KC"
+  }
+}, {
+  "id" : "fhxi-6qwp",
+  "name" : "City Limits",
+  "averageRating" : 0,
+  "blobFilename" : "CityLimit.zip",
+  "blobFileSize" : 127474,
+  "blobId" : "WCxQcGNgL_QhFXXKh3FRTnks2xluIFYJ02U5NvYL0Is",
+  "blobMimeType" : "application/zip; charset=binary",
+  "createdAt" : 1360963652,
+  "displayType" : "map",
+  "downloadCount" : 0,
+  "indexUpdatedAt" : 1379629694,
+  "newBackend" : false,
+  "numberOfComments" : 0,
+  "oid" : 2534803,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1379625354,
+  "publicationGroup" : 680080,
+  "publicationStage" : "published",
+  "signed" : false,
+  "tableId" : 680080,
+  "totalTimesRated" : 0,
+  "viewCount" : 122,
+  "viewLastModified" : 1379625354,
+  "viewType" : "geo",
+  "childViews" : [ "i9r2-76ca" ],
+  "grants" : [ {
+    "inherited" : false,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "renderTypeConfig" : {
+      "visible" : {
+        "map" : true
+      }
+    },
+    "availableDisplayTypes" : [ "map", "table", "fatrow", "page" ],
+    "geo" : {
+      "layers" : "geo_fhxi-6qwp-1",
+      "bbox" : "-122.16554550428086,47.62637593535879,-122.03256543686852,47.717252541750696",
+      "bboxCrs" : "EPSG:4326",
+      "featureIdAttribute" : "_SocrataID",
+      "owsUrl" : "/api/geospatial/fhxi-6qwp",
+      "namespace" : "geo_fhxi-6qwp"
+    }
+  },
+  "owner" : {
+    "id" : "e5ji-piyw",
+    "displayName" : "KC",
+    "screenName" : "KC"
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "e5ji-piyw",
+    "displayName" : "KC",
+    "screenName" : "KC"
+  },
+  "flags" : [ "default" ]
+}, {
+  "id" : "7wz2-cdjk",
+  "name" : "Issued Permits Filtered by Valuation",
+  "averageRating" : 0,
+  "createdAt" : 1383956450,
+  "description" : "Contains a snapshot of issued permit data, updated monthly.",
+  "displayType" : "table",
+  "downloadCount" : 14,
+  "indexUpdatedAt" : 1386410504,
+  "newBackend" : false,
+  "numberOfComments" : 0,
+  "oid" : 6716619,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1386364575,
+  "publicationGroup" : 1336712,
+  "publicationStage" : "published",
+  "rowsUpdatedAt" : 1386364522,
+  "rowsUpdatedBy" : "e5ji-piyw",
+  "signed" : false,
+  "tableId" : 1389373,
+  "totalTimesRated" : 0,
+  "viewCount" : 70,
+  "viewLastModified" : 1383956451,
+  "viewType" : "tabular",
+  "grants" : [ {
+    "inherited" : true,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "renderTypeConfig" : {
+      "visible" : {
+        "table" : true
+      }
+    },
+    "availableDisplayTypes" : [ "table", "fatrow", "page" ],
+    "rdfSubject" : "0"
+  },
+  "owner" : {
+    "id" : "e5ji-piyw",
+    "displayName" : "KC",
+    "screenName" : "KC"
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "e5ji-piyw",
+    "displayName" : "KC",
+    "screenName" : "KC"
+  }
+}, {
+  "id" : "bs2q-ismz",
+  "name" : "Issued Bldg and Electrical Permits",
+  "averageRating" : 0,
+  "createdAt" : 1383954886,
+  "description" : "Contains a snapshot of issued permit data, updated monthly.",
+  "displayType" : "table",
+  "downloadCount" : 40,
+  "indexUpdatedAt" : 1386410495,
+  "newBackend" : false,
+  "numberOfComments" : 0,
+  "oid" : 6716617,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1386364575,
+  "publicationGroup" : 1336712,
+  "publicationStage" : "published",
+  "rowsUpdatedAt" : 1386364522,
+  "rowsUpdatedBy" : "e5ji-piyw",
+  "signed" : false,
+  "tableId" : 1389373,
+  "totalTimesRated" : 0,
+  "viewCount" : 85,
+  "viewLastModified" : 1383954912,
+  "viewType" : "tabular",
+  "grants" : [ {
+    "inherited" : true,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "renderTypeConfig" : {
+      "visible" : {
+        "table" : true
+      }
+    },
+    "availableDisplayTypes" : [ "table", "fatrow", "page" ],
+    "rdfSubject" : "0"
+  },
+  "owner" : {
+    "id" : "e5ji-piyw",
+    "displayName" : "KC",
+    "screenName" : "KC"
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "e5ji-piyw",
+    "displayName" : "KC",
+    "screenName" : "KC"
+  }
+}, {
+  "id" : "cp7w-w9h6",
+  "name" : "Issued_Permits_CDR",
+  "averageRating" : 0,
+  "createdAt" : 1385154936,
+  "description" : "Contains a snapshot of issued permit data, updated monthly.",
+  "displayType" : "table",
+  "downloadCount" : 9,
+  "indexUpdatedAt" : 1386405374,
+  "newBackend" : false,
+  "numberOfComments" : 0,
+  "oid" : 6716620,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1386364575,
+  "publicationGroup" : 1336712,
+  "publicationStage" : "published",
+  "rowsUpdatedAt" : 1386364522,
+  "rowsUpdatedBy" : "e5ji-piyw",
+  "signed" : false,
+  "tableId" : 1389373,
+  "totalTimesRated" : 0,
+  "viewCount" : 40,
+  "viewLastModified" : 1385155167,
+  "viewType" : "tabular",
+  "disabledFeatureFlags" : [ "allow_comments" ],
+  "grants" : [ {
+    "inherited" : true,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "renderTypeConfig" : {
+      "visible" : {
+        "table" : true
+      }
+    },
+    "availableDisplayTypes" : [ "table", "fatrow", "page" ],
+    "rdfSubject" : "0"
+  },
+  "owner" : {
+    "id" : "fbnd-rpzy",
+    "displayName" : "CDR",
+    "screenName" : "CDR"
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "e5ji-piyw",
+    "displayName" : "KC",
+    "screenName" : "KC"
+  }
+}, {
+  "id" : "wzgk-dadm",
+  "name" : "Issued Permits",
+  "averageRating" : 0,
+  "createdAt" : 1383940127,
+  "description" : "Contains a snapshot of issued permit data, updated monthly.",
+  "displayType" : "table",
+  "downloadCount" : 55,
+  "indexUpdatedAt" : 1386405367,
+  "newBackend" : false,
+  "numberOfComments" : 0,
+  "oid" : 6716591,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1386364575,
+  "publicationGroup" : 1336712,
+  "publicationStage" : "published",
+  "rowsUpdatedAt" : 1386364522,
+  "rowsUpdatedBy" : "e5ji-piyw",
+  "signed" : false,
+  "tableId" : 1389373,
+  "totalTimesRated" : 0,
+  "viewCount" : 178,
+  "viewLastModified" : 1386364575,
+  "viewType" : "tabular",
+  "grants" : [ {
+    "inherited" : true,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "renderTypeConfig" : {
+      "visible" : {
+        "table" : true
+      }
+    },
+    "availableDisplayTypes" : [ "table", "fatrow", "page" ],
+    "rdfSubject" : "0",
+    "filterCondition" : {
+      "value" : "AND",
+      "children" : [ {
+        "value" : "OR",
+        "type" : "operator",
+        "metadata" : {
+          "customValues" : [ [ 75000 ] ],
+          "tableColumnId" : {
+            "1336712" : 16101620
+          },
+          "operator" : "GREATER_THAN_OR_EQUALS"
+        }
+      } ],
+      "type" : "operator",
+      "metadata" : {
+        "unifiedVersion" : 2,
+        "advanced" : false
+      }
+    }
+  },
+  "owner" : {
+    "id" : "e5ji-piyw",
+    "displayName" : "KC",
+    "screenName" : "KC"
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "e5ji-piyw",
+    "displayName" : "KC",
+    "screenName" : "KC"
+  },
+  "flags" : [ "default" ]
+}, {
+  "id" : "xxwc-wtzp",
+  "name" : "New Residential Permits Map",
+  "averageRating" : 0,
+  "createdAt" : 1384473936,
+  "description" : "Contains a snapshot of issued permit data, updated monthly.",
+  "displayType" : "map",
+  "downloadCount" : 4,
+  "indexUpdatedAt" : 1386405374,
+  "newBackend" : false,
+  "numberOfComments" : 0,
+  "oid" : 6716618,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1386364575,
+  "publicationGroup" : 1336712,
+  "publicationStage" : "published",
+  "rowsUpdatedAt" : 1386364522,
+  "rowsUpdatedBy" : "e5ji-piyw",
+  "signed" : false,
+  "tableId" : 1389373,
+  "totalTimesRated" : 0,
+  "viewCount" : 35,
+  "viewLastModified" : 1384473938,
+  "viewType" : "tabular",
+  "grants" : [ {
+    "inherited" : true,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "renderTypeConfig" : {
+      "visible" : {
+        "map" : true
+      }
+    },
+    "availableDisplayTypes" : [ "map", "table", "fatrow", "page" ],
+    "rdfSubject" : "0"
+  },
+  "owner" : {
+    "id" : "gukc-9f75",
+    "displayName" : "Corey",
+    "screenName" : "Corey"
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "e5ji-piyw",
+    "displayName" : "KC",
+    "screenName" : "KC"
+  }
+}, {
+  "id" : "3imt-pe6h",
+  "name" : "Bar Chart showing check payments by payee",
+  "averageRating" : 0,
+  "createdAt" : 1383691756,
+  "displayType" : "chart",
+  "downloadCount" : 69,
+  "indexUpdatedAt" : 1386086935,
+  "newBackend" : false,
+  "numberOfComments" : 0,
+  "oid" : 6672725,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1386025871,
+  "publicationGroup" : 757501,
+  "publicationStage" : "published",
+  "rowsUpdatedAt" : 1386025848,
+  "rowsUpdatedBy" : "e5ji-piyw",
+  "signed" : false,
+  "tableId" : 1384290,
+  "totalTimesRated" : 0,
+  "viewCount" : 212,
+  "viewLastModified" : 1383691756,
+  "viewType" : "tabular",
+  "grants" : [ {
+    "inherited" : true,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "renderTypeConfig" : {
+      "visible" : {
+        "chart" : true,
+        "table" : true
+      }
+    },
+    "availableDisplayTypes" : [ "chart", "table", "fatrow", "page" ]
+  },
+  "owner" : {
+    "id" : "g2fi-2e5g",
+    "displayName" : "Athlan Lathan",
+    "profileImageUrlLarge" : "/images/profile/0151/0758/photo_large.jpg",
+    "profileImageUrlMedium" : "/images/profile/0151/0758/photo_thumb.jpg",
+    "profileImageUrlSmall" : "/images/profile/0151/0758/photo_tiny.jpg",
+    "screenName" : "Athlan Lathan"
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "e5ji-piyw",
+    "displayName" : "KC",
+    "screenName" : "KC"
+  }
+}, {
+  "id" : "7vm8-w63z",
+  "name" : "Pie Chart Checks Grouped by Payee",
+  "averageRating" : 0,
+  "createdAt" : 1383691901,
+  "displayType" : "chart",
+  "downloadCount" : 35,
+  "indexUpdatedAt" : 1386086921,
+  "newBackend" : false,
+  "numberOfComments" : 0,
+  "oid" : 6672726,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1386025871,
+  "publicationGroup" : 757501,
+  "publicationStage" : "published",
+  "rowsUpdatedAt" : 1386025848,
+  "rowsUpdatedBy" : "e5ji-piyw",
+  "signed" : false,
+  "tableId" : 1384290,
+  "totalTimesRated" : 0,
+  "viewCount" : 124,
+  "viewLastModified" : 1383953520,
+  "viewType" : "tabular",
+  "grants" : [ {
+    "inherited" : true,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "renderTypeConfig" : {
+      "visible" : {
+        "chart" : true,
+        "table" : true
+      }
+    },
+    "availableDisplayTypes" : [ "chart", "table", "fatrow", "page" ],
+    "rdfSubject" : "0"
+  },
+  "owner" : {
+    "id" : "g2fi-2e5g",
+    "displayName" : "Athlan Lathan",
+    "profileImageUrlLarge" : "/images/profile/0151/0758/photo_large.jpg",
+    "profileImageUrlMedium" : "/images/profile/0151/0758/photo_thumb.jpg",
+    "profileImageUrlSmall" : "/images/profile/0151/0758/photo_tiny.jpg",
+    "screenName" : "Athlan Lathan"
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "e5ji-piyw",
+    "displayName" : "KC",
+    "screenName" : "KC"
+  }
+}, {
+  "id" : "9nf4-5b5t",
+  "name" : "Historic Redmond Map",
+  "averageRating" : 0,
+  "createdAt" : 1365113810,
+  "displayType" : "map",
+  "downloadCount" : 65,
+  "indexUpdatedAt" : 1365115120,
+  "newBackend" : false,
+  "numberOfComments" : 0,
+  "oid" : 3072159,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1363720489,
+  "publicationGroup" : 743325,
+  "publicationStage" : "published",
+  "rowClass" : "",
+  "rowsUpdatedAt" : 1363720419,
+  "rowsUpdatedBy" : "e5ji-piyw",
+  "signed" : false,
+  "tableId" : 743325,
+  "totalTimesRated" : 0,
+  "viewCount" : 89,
+  "viewLastModified" : 1365114429,
+  "viewType" : "tabular",
+  "grants" : [ {
+    "inherited" : true,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "renderTypeConfig" : {
+      "visible" : {
+        "map" : true
+      },
+      "active" : {
+        "table" : {
+          "id" : "self"
+        }
+      }
+    },
+    "availableDisplayTypes" : [ "map", "table", "fatrow", "page" ],
+    "rdfSubject" : "0",
+    "rowIdentifier" : "0",
+    "rdfClass" : ""
+  },
+  "owner" : {
+    "id" : "e5ji-piyw",
+    "displayName" : "KC",
+    "screenName" : "KC"
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "e5ji-piyw",
+    "displayName" : "KC",
+    "screenName" : "KC"
+  }
+} ]

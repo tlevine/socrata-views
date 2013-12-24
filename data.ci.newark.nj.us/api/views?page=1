@@ -1,0 +1,1953 @@
+[ {
+  "id" : "chsq-tnp5",
+  "name" : "Green Street Park 4311 Requests Point Map",
+  "averageRating" : 0,
+  "createdAt" : 1376334106,
+  "displayType" : "map",
+  "downloadCount" : 0,
+  "indexUpdatedAt" : 1385144097,
+  "newBackend" : false,
+  "numberOfComments" : 0,
+  "oid" : 6272620,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1383672637,
+  "publicationGroup" : 1041484,
+  "publicationStage" : "published",
+  "rowsUpdatedAt" : 1383675078,
+  "rowsUpdatedBy" : "y27a-mqyp",
+  "signed" : false,
+  "state" : "normal",
+  "tableId" : 1325250,
+  "totalTimesRated" : 0,
+  "viewCount" : 15,
+  "viewLastModified" : 1376334106,
+  "viewType" : "tabular",
+  "grants" : [ {
+    "inherited" : true,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "renderTypeConfig" : {
+      "visible" : {
+        "map" : true,
+        "table" : true
+      },
+      "active" : {
+        "table" : {
+          "id" : "self"
+        }
+      }
+    },
+    "availableDisplayTypes" : [ "map", "table", "fatrow", "page" ]
+  },
+  "owner" : {
+    "id" : "kcv4-dvvx",
+    "displayName" : "Jason Hare",
+    "profileImageUrlLarge" : "/images/profile/6716/6318/1f71373_large.jpg",
+    "profileImageUrlMedium" : "/images/profile/6716/6318/1f71373_thumb.jpg",
+    "profileImageUrlSmall" : "/images/profile/6716/6318/1f71373_tiny.jpg",
+    "screenName" : "Jason Hare"
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "kcv4-dvvx",
+    "displayName" : "Jason Hare",
+    "profileImageUrlLarge" : "/images/profile/6716/6318/1f71373_large.jpg",
+    "profileImageUrlMedium" : "/images/profile/6716/6318/1f71373_thumb.jpg",
+    "profileImageUrlSmall" : "/images/profile/6716/6318/1f71373_tiny.jpg",
+    "screenName" : "Jason Hare"
+  }
+}, {
+  "id" : "idzq-wv6p",
+  "name" : "ewan simpson",
+  "averageRating" : 0,
+  "createdAt" : 1385141888,
+  "displayType" : "map",
+  "downloadCount" : 2,
+  "indexUpdatedAt" : 1385143994,
+  "newBackend" : false,
+  "numberOfComments" : 0,
+  "oid" : 6537052,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1383672637,
+  "publicationGroup" : 1041484,
+  "publicationStage" : "published",
+  "rowsUpdatedAt" : 1383675078,
+  "rowsUpdatedBy" : "y27a-mqyp",
+  "signed" : false,
+  "state" : "normal",
+  "tableId" : 1325250,
+  "totalTimesRated" : 0,
+  "viewCount" : 12,
+  "viewLastModified" : 1385141889,
+  "viewType" : "tabular",
+  "grants" : [ {
+    "inherited" : true,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "renderTypeConfig" : {
+      "visible" : {
+        "map" : true
+      },
+      "active" : {
+        "table" : {
+          "id" : "self"
+        }
+      }
+    },
+    "availableDisplayTypes" : [ "map", "table", "fatrow", "page" ],
+    "thumbnail" : {
+      "page" : {
+        "created" : true,
+        "filename" : "page.png-612.326.509.177.png",
+        "selection" : {
+          "height" : 326,
+          "width" : 612,
+          "y1" : 177,
+          "y2" : 503,
+          "x2" : 1121,
+          "x1" : 509
+        }
+      }
+    }
+  },
+  "owner" : {
+    "id" : "9efs-c2kp",
+    "displayName" : "Ewan Simpson",
+    "screenName" : "Ewan Simpson"
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "kcv4-dvvx",
+    "displayName" : "Jason Hare",
+    "profileImageUrlLarge" : "/images/profile/6716/6318/1f71373_large.jpg",
+    "profileImageUrlMedium" : "/images/profile/6716/6318/1f71373_thumb.jpg",
+    "profileImageUrlSmall" : "/images/profile/6716/6318/1f71373_tiny.jpg",
+    "screenName" : "Jason Hare"
+  }
+}, {
+  "id" : "s2iu-3dxg",
+  "name" : "4311 Requests Mapped",
+  "averageRating" : 0,
+  "createdAt" : 1376333927,
+  "displayType" : "map",
+  "downloadCount" : 11,
+  "indexUpdatedAt" : 1385144153,
+  "newBackend" : false,
+  "numberOfComments" : 0,
+  "oid" : 6272621,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1383672637,
+  "publicationGroup" : 1041484,
+  "publicationStage" : "published",
+  "rowsUpdatedAt" : 1383675078,
+  "rowsUpdatedBy" : "y27a-mqyp",
+  "signed" : false,
+  "state" : "normal",
+  "tableId" : 1325250,
+  "totalTimesRated" : 0,
+  "viewCount" : 138,
+  "viewLastModified" : 1383675214,
+  "viewType" : "tabular",
+  "grants" : [ {
+    "inherited" : true,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "renderTypeConfig" : {
+      "visible" : {
+        "map" : true
+      },
+      "active" : {
+        "table" : {
+          "id" : "self"
+        }
+      }
+    },
+    "availableDisplayTypes" : [ "map", "table", "fatrow", "page" ],
+    "thumbnail" : {
+      "page" : {
+        "created" : true,
+        "filename" : "page.png-612.326.509.177.png",
+        "selection" : {
+          "height" : 326,
+          "width" : 612,
+          "y1" : 177,
+          "y2" : 503,
+          "x2" : 1121,
+          "x1" : 509
+        }
+      }
+    }
+  },
+  "owner" : {
+    "id" : "kcv4-dvvx",
+    "displayName" : "Jason Hare",
+    "profileImageUrlLarge" : "/images/profile/6716/6318/1f71373_large.jpg",
+    "profileImageUrlMedium" : "/images/profile/6716/6318/1f71373_thumb.jpg",
+    "profileImageUrlSmall" : "/images/profile/6716/6318/1f71373_tiny.jpg",
+    "screenName" : "Jason Hare"
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "kcv4-dvvx",
+    "displayName" : "Jason Hare",
+    "profileImageUrlLarge" : "/images/profile/6716/6318/1f71373_large.jpg",
+    "profileImageUrlMedium" : "/images/profile/6716/6318/1f71373_thumb.jpg",
+    "profileImageUrlSmall" : "/images/profile/6716/6318/1f71373_tiny.jpg",
+    "screenName" : "Jason Hare"
+  }
+}, {
+  "id" : "x6tb-gyvt",
+  "name" : "4311 Requests",
+  "averageRating" : 0,
+  "createdAt" : 1376333822,
+  "displayType" : "table",
+  "downloadCount" : 2,
+  "indexUpdatedAt" : 1385144096,
+  "newBackend" : false,
+  "numberOfComments" : 0,
+  "oid" : 6272502,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1383672637,
+  "publicationGroup" : 1041484,
+  "publicationStage" : "published",
+  "resourceName" : "upsert",
+  "rowClass" : "",
+  "rowIdentifierColumnId" : 112643907,
+  "rowsUpdatedAt" : 1383675078,
+  "rowsUpdatedBy" : "y27a-mqyp",
+  "signed" : false,
+  "state" : "normal",
+  "tableId" : 1325250,
+  "totalTimesRated" : 0,
+  "viewCount" : 125,
+  "viewLastModified" : 1383673894,
+  "viewType" : "tabular",
+  "grants" : [ {
+    "inherited" : true,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "renderTypeConfig" : {
+      "visible" : {
+        "table" : true
+      }
+    },
+    "availableDisplayTypes" : [ "table", "fatrow", "page" ],
+    "rdfSubject" : "0",
+    "rowIdentifier" : "requests_id",
+    "rdfClass" : ""
+  },
+  "owner" : {
+    "id" : "kcv4-dvvx",
+    "displayName" : "Jason Hare",
+    "profileImageUrlLarge" : "/images/profile/6716/6318/1f71373_large.jpg",
+    "profileImageUrlMedium" : "/images/profile/6716/6318/1f71373_thumb.jpg",
+    "profileImageUrlSmall" : "/images/profile/6716/6318/1f71373_tiny.jpg",
+    "screenName" : "Jason Hare"
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "kcv4-dvvx",
+    "displayName" : "Jason Hare",
+    "profileImageUrlLarge" : "/images/profile/6716/6318/1f71373_large.jpg",
+    "profileImageUrlMedium" : "/images/profile/6716/6318/1f71373_thumb.jpg",
+    "profileImageUrlSmall" : "/images/profile/6716/6318/1f71373_tiny.jpg",
+    "screenName" : "Jason Hare"
+  },
+  "flags" : [ "default" ]
+}, {
+  "id" : "wynn-becd",
+  "name" : "Field Inquiries by Precinct - July 2013",
+  "averageRating" : 0,
+  "createdAt" : 1377116785,
+  "displayType" : "map",
+  "downloadCount" : 7,
+  "indexUpdatedAt" : 1380730233,
+  "newBackend" : false,
+  "numberOfComments" : 0,
+  "oid" : 5036403,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1377115559,
+  "publicationGroup" : 1071361,
+  "publicationStage" : "published",
+  "rowsUpdatedAt" : 1377115445,
+  "rowsUpdatedBy" : "xpic-k57b",
+  "signed" : false,
+  "tableId" : 1071361,
+  "totalTimesRated" : 0,
+  "viewCount" : 169,
+  "viewLastModified" : 1378835974,
+  "viewType" : "tabular",
+  "grants" : [ {
+    "inherited" : false,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "renderTypeConfig" : {
+      "visible" : {
+        "map" : true
+      },
+      "active" : {
+        "page" : {
+          "id" : "self"
+        },
+        "table" : {
+          "id" : "self"
+        }
+      }
+    },
+    "availableDisplayTypes" : [ "map", "table", "fatrow", "page" ],
+    "thumbnail" : {
+      "page" : {
+        "created" : true,
+        "filename" : "page.png-498.266.401.206.png",
+        "selection" : {
+          "height" : 266,
+          "width" : 498,
+          "y1" : 206,
+          "y2" : 472,
+          "x2" : 899,
+          "x1" : 401
+        }
+      }
+    }
+  },
+  "owner" : {
+    "id" : "xpic-k57b",
+    "displayName" : "Chris Whong",
+    "screenName" : "Chris Whong",
+    "rights" : [ "create_datasets", "edit_others_datasets", "edit_sdp", "edit_site_theme", "moderate_comments", "manage_users", "chown_datasets", "edit_nominations", "approve_nominations", "feature_items", "federations", "manage_stories", "manage_approval", "change_configurations", "view_domain", "view_others_datasets", "edit_pages", "create_pages", "view_goals", "view_dashboards", "edit_goals", "edit_dashboards", "create_dashboards" ],
+    "flags" : [ "admin" ]
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "xpic-k57b",
+    "displayName" : "Chris Whong",
+    "screenName" : "Chris Whong",
+    "rights" : [ "create_datasets", "edit_others_datasets", "edit_sdp", "edit_site_theme", "moderate_comments", "manage_users", "chown_datasets", "edit_nominations", "approve_nominations", "feature_items", "federations", "manage_stories", "manage_approval", "change_configurations", "view_domain", "view_others_datasets", "edit_pages", "create_pages", "view_goals", "view_dashboards", "edit_goals", "edit_dashboards", "create_dashboards" ],
+    "flags" : [ "admin" ]
+  }
+}, {
+  "id" : "25dv-n2zn",
+  "name" : "Essex County Voting Districts",
+  "averageRating" : 0,
+  "blobFilename" : "tl_rd13_34013_vtd10.zip",
+  "blobFileSize" : 307402,
+  "blobId" : "xlnAISlZwMEDvLn0zH7Rgp2hOmpOmMyIKnEs6jJFt5E",
+  "blobMimeType" : "application/zip; charset=binary",
+  "category" : "Government",
+  "createdAt" : 1367115345,
+  "displayType" : "map",
+  "downloadCount" : 0,
+  "indexUpdatedAt" : 1381265220,
+  "newBackend" : false,
+  "numberOfComments" : 0,
+  "oid" : 3376319,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1367115349,
+  "publicationGroup" : 823293,
+  "publicationStage" : "published",
+  "signed" : false,
+  "tableId" : 823293,
+  "totalTimesRated" : 0,
+  "viewCount" : 20,
+  "viewLastModified" : 1367115554,
+  "viewType" : "geo",
+  "childViews" : [ "5tq4-9fjs" ],
+  "grants" : [ {
+    "inherited" : false,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "renderTypeConfig" : {
+      "visible" : {
+        "map" : true
+      }
+    },
+    "availableDisplayTypes" : [ "map", "table", "fatrow", "page" ],
+    "thumbnail" : {
+      "page" : {
+        "created" : true,
+        "selection" : {
+          "height" : 257,
+          "width" : 481,
+          "y1" : 352,
+          "y2" : 609,
+          "x2" : 995,
+          "x1" : 514
+        },
+        "filename" : "page.png-481.257.514.352.png"
+      }
+    },
+    "geo" : {
+      "owsUrl" : "/api/geospatial/25dv-n2zn",
+      "bbox" : "-74.377517,40.673902999067266,-74.112787,40.908889999066155",
+      "layers" : "geo_25dv-n2zn-1",
+      "featureIdAttribute" : "_SocrataID",
+      "bboxCrs" : "EPSG:4326",
+      "namespace" : "geo_25dv-n2zn"
+    }
+  },
+  "owner" : {
+    "id" : "b5e4-d7x8",
+    "displayName" : "Jordan Gilbertson",
+    "profileImageUrlLarge" : "/images/profile/2744/6264/12337f7_large.jpg",
+    "profileImageUrlMedium" : "/images/profile/2744/6264/12337f7_thumb.jpg",
+    "profileImageUrlSmall" : "/images/profile/2744/6264/12337f7_tiny.jpg",
+    "screenName" : "Jordan Gilbertson",
+    "rights" : [ "create_datasets", "edit_others_datasets", "edit_sdp", "edit_site_theme", "moderate_comments", "manage_users", "chown_datasets", "edit_nominations", "approve_nominations", "feature_items", "federations", "manage_stories", "manage_approval", "change_configurations", "view_domain", "view_others_datasets", "edit_pages", "create_pages", "view_goals", "view_dashboards", "edit_goals", "edit_dashboards", "create_dashboards" ],
+    "flags" : [ "admin" ]
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "b5e4-d7x8",
+    "displayName" : "Jordan Gilbertson",
+    "profileImageUrlLarge" : "/images/profile/2744/6264/12337f7_large.jpg",
+    "profileImageUrlMedium" : "/images/profile/2744/6264/12337f7_thumb.jpg",
+    "profileImageUrlSmall" : "/images/profile/2744/6264/12337f7_tiny.jpg",
+    "screenName" : "Jordan Gilbertson",
+    "rights" : [ "create_datasets", "edit_others_datasets", "edit_sdp", "edit_site_theme", "moderate_comments", "manage_users", "chown_datasets", "edit_nominations", "approve_nominations", "feature_items", "federations", "manage_stories", "manage_approval", "change_configurations", "view_domain", "view_others_datasets", "edit_pages", "create_pages", "view_goals", "view_dashboards", "edit_goals", "edit_dashboards", "create_dashboards" ],
+    "flags" : [ "admin" ]
+  },
+  "tags" : [ "essex", "voting", "gis" ],
+  "flags" : [ "default" ]
+}, {
+  "id" : "qfw4-vjjx",
+  "name" : "Crime, Historical",
+  "averageRating" : 0,
+  "category" : "Public Safety",
+  "createdAt" : 1367114988,
+  "description" : "Crime incidents in Newark committed between 2000-2010.",
+  "displayType" : "table",
+  "downloadCount" : 4,
+  "indexUpdatedAt" : 1380847870,
+  "newBackend" : false,
+  "numberOfComments" : 0,
+  "oid" : 3376293,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1367115036,
+  "publicationGroup" : 823286,
+  "publicationStage" : "published",
+  "rowClass" : "http://www.w3.org/ns/dcat#Dataset",
+  "rowsUpdatedAt" : 1367114995,
+  "rowsUpdatedBy" : "b5e4-d7x8",
+  "signed" : false,
+  "tableId" : 823286,
+  "totalTimesRated" : 0,
+  "viewCount" : 48,
+  "viewLastModified" : 1376328081,
+  "viewType" : "tabular",
+  "grants" : [ {
+    "inherited" : true,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "renderTypeConfig" : {
+      "visible" : {
+        "table" : true
+      }
+    },
+    "availableDisplayTypes" : [ "table", "fatrow", "page" ],
+    "thumbnail" : {
+      "page" : {
+        "created" : true,
+        "filename" : "page.png-465.248.33.0.png",
+        "selection" : {
+          "height" : 248,
+          "width" : 465,
+          "y1" : 0,
+          "y2" : 248,
+          "x2" : 498,
+          "x1" : 33
+        }
+      }
+    },
+    "rdfSubject" : "violent_crime_rate",
+    "rowIdentifier" : "0",
+    "rdfClass" : "http://www.w3.org/ns/dcat#Dataset"
+  },
+  "owner" : {
+    "id" : "b5e4-d7x8",
+    "displayName" : "Jordan Gilbertson",
+    "profileImageUrlLarge" : "/images/profile/2744/6264/12337f7_large.jpg",
+    "profileImageUrlMedium" : "/images/profile/2744/6264/12337f7_thumb.jpg",
+    "profileImageUrlSmall" : "/images/profile/2744/6264/12337f7_tiny.jpg",
+    "screenName" : "Jordan Gilbertson",
+    "rights" : [ "create_datasets", "edit_others_datasets", "edit_sdp", "edit_site_theme", "moderate_comments", "manage_users", "chown_datasets", "edit_nominations", "approve_nominations", "feature_items", "federations", "manage_stories", "manage_approval", "change_configurations", "view_domain", "view_others_datasets", "edit_pages", "create_pages", "view_goals", "view_dashboards", "edit_goals", "edit_dashboards", "create_dashboards" ],
+    "flags" : [ "admin" ]
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "b5e4-d7x8",
+    "displayName" : "Jordan Gilbertson",
+    "profileImageUrlLarge" : "/images/profile/2744/6264/12337f7_large.jpg",
+    "profileImageUrlMedium" : "/images/profile/2744/6264/12337f7_thumb.jpg",
+    "profileImageUrlSmall" : "/images/profile/2744/6264/12337f7_tiny.jpg",
+    "screenName" : "Jordan Gilbertson",
+    "rights" : [ "create_datasets", "edit_others_datasets", "edit_sdp", "edit_site_theme", "moderate_comments", "manage_users", "chown_datasets", "edit_nominations", "approve_nominations", "feature_items", "federations", "manage_stories", "manage_approval", "change_configurations", "view_domain", "view_others_datasets", "edit_pages", "create_pages", "view_goals", "view_dashboards", "edit_goals", "edit_dashboards", "create_dashboards" ],
+    "flags" : [ "admin" ]
+  },
+  "tags" : [ "police", "crime", "historical" ],
+  "flags" : [ "default" ]
+}, {
+  "id" : "rgmn-8j2p",
+  "name" : "Violent & Property Crime Over Time",
+  "averageRating" : 0,
+  "category" : "Government",
+  "createdAt" : 1367115139,
+  "displayType" : "chart",
+  "downloadCount" : 1,
+  "indexUpdatedAt" : 1380742497,
+  "newBackend" : false,
+  "numberOfComments" : 0,
+  "oid" : 3376301,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1367115036,
+  "publicationGroup" : 823286,
+  "publicationStage" : "published",
+  "rowsUpdatedAt" : 1367114995,
+  "rowsUpdatedBy" : "b5e4-d7x8",
+  "signed" : false,
+  "tableId" : 823286,
+  "totalTimesRated" : 0,
+  "viewCount" : 44,
+  "viewLastModified" : 1367115608,
+  "viewType" : "tabular",
+  "grants" : [ {
+    "inherited" : true,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "renderTypeConfig" : {
+      "visible" : {
+        "chart" : true
+      }
+    },
+    "availableDisplayTypes" : [ "chart", "table", "fatrow", "page" ],
+    "thumbnail" : {
+      "page" : {
+        "created" : true,
+        "selection" : {
+          "height" : 661,
+          "width" : 1238,
+          "y1" : 5,
+          "y2" : 666,
+          "x2" : 1358,
+          "x1" : 120
+        },
+        "filename" : "page.png-1238.661.120.5.png"
+      }
+    }
+  },
+  "owner" : {
+    "id" : "b5e4-d7x8",
+    "displayName" : "Jordan Gilbertson",
+    "profileImageUrlLarge" : "/images/profile/2744/6264/12337f7_large.jpg",
+    "profileImageUrlMedium" : "/images/profile/2744/6264/12337f7_thumb.jpg",
+    "profileImageUrlSmall" : "/images/profile/2744/6264/12337f7_tiny.jpg",
+    "screenName" : "Jordan Gilbertson",
+    "rights" : [ "create_datasets", "edit_others_datasets", "edit_sdp", "edit_site_theme", "moderate_comments", "manage_users", "chown_datasets", "edit_nominations", "approve_nominations", "feature_items", "federations", "manage_stories", "manage_approval", "change_configurations", "view_domain", "view_others_datasets", "edit_pages", "create_pages", "view_goals", "view_dashboards", "edit_goals", "edit_dashboards", "create_dashboards" ],
+    "flags" : [ "admin" ]
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "b5e4-d7x8",
+    "displayName" : "Jordan Gilbertson",
+    "profileImageUrlLarge" : "/images/profile/2744/6264/12337f7_large.jpg",
+    "profileImageUrlMedium" : "/images/profile/2744/6264/12337f7_thumb.jpg",
+    "profileImageUrlSmall" : "/images/profile/2744/6264/12337f7_tiny.jpg",
+    "screenName" : "Jordan Gilbertson",
+    "rights" : [ "create_datasets", "edit_others_datasets", "edit_sdp", "edit_site_theme", "moderate_comments", "manage_users", "chown_datasets", "edit_nominations", "approve_nominations", "feature_items", "federations", "manage_stories", "manage_approval", "change_configurations", "view_domain", "view_others_datasets", "edit_pages", "create_pages", "view_goals", "view_dashboards", "edit_goals", "edit_dashboards", "create_dashboards" ],
+    "flags" : [ "admin" ]
+  },
+  "tags" : [ "crime", "stats" ]
+}, {
+  "id" : "xqm9-k4qw",
+  "name" : "Field Inquiries August 2013",
+  "averageRating" : 0,
+  "category" : "Government",
+  "createdAt" : 1376509071,
+  "description" : "This is a dataset of FIs form August 2013",
+  "displayType" : "table",
+  "downloadCount" : 0,
+  "indexUpdatedAt" : 1381268123,
+  "newBackend" : false,
+  "numberOfComments" : 0,
+  "oid" : 4923851,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1376509257,
+  "publicationGroup" : 1048594,
+  "publicationStage" : "published",
+  "rowsUpdatedAt" : 1376509097,
+  "rowsUpdatedBy" : "xpic-k57b",
+  "signed" : false,
+  "tableId" : 1048594,
+  "totalTimesRated" : 0,
+  "viewCount" : 19,
+  "viewLastModified" : 1376509257,
+  "viewType" : "tabular",
+  "grants" : [ {
+    "inherited" : false,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "renderTypeConfig" : {
+      "visible" : {
+        "table" : true
+      }
+    },
+    "availableDisplayTypes" : [ "table", "fatrow", "page" ]
+  },
+  "owner" : {
+    "id" : "xpic-k57b",
+    "displayName" : "Chris Whong",
+    "screenName" : "Chris Whong",
+    "rights" : [ "create_datasets", "edit_others_datasets", "edit_sdp", "edit_site_theme", "moderate_comments", "manage_users", "chown_datasets", "edit_nominations", "approve_nominations", "feature_items", "federations", "manage_stories", "manage_approval", "change_configurations", "view_domain", "view_others_datasets", "edit_pages", "create_pages", "view_goals", "view_dashboards", "edit_goals", "edit_dashboards", "create_dashboards" ],
+    "flags" : [ "admin" ]
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "xpic-k57b",
+    "displayName" : "Chris Whong",
+    "screenName" : "Chris Whong",
+    "rights" : [ "create_datasets", "edit_others_datasets", "edit_sdp", "edit_site_theme", "moderate_comments", "manage_users", "chown_datasets", "edit_nominations", "approve_nominations", "feature_items", "federations", "manage_stories", "manage_approval", "change_configurations", "view_domain", "view_others_datasets", "edit_pages", "create_pages", "view_goals", "view_dashboards", "edit_goals", "edit_dashboards", "create_dashboards" ],
+    "flags" : [ "admin" ]
+  },
+  "tags" : [ "fi", "inquiry" ],
+  "flags" : [ "default" ]
+}, {
+  "id" : "i5tt-i4mn",
+  "name" : "NewarkSectors",
+  "averageRating" : 0,
+  "blobFilename" : "newarkprecincts.zip",
+  "blobFileSize" : 14846,
+  "blobId" : "z9ta07U9-fRa7Qqdf4efWCiiUOGpN6RvEJ_h5dURTPM",
+  "blobMimeType" : "application/zip; charset=binary",
+  "createdAt" : 1377116848,
+  "displayType" : "map",
+  "downloadCount" : 0,
+  "indexUpdatedAt" : 1377192674,
+  "newBackend" : false,
+  "numberOfComments" : 0,
+  "oid" : 5036475,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1377116853,
+  "publicationGroup" : 1071425,
+  "publicationStage" : "published",
+  "signed" : false,
+  "tableId" : 1071425,
+  "totalTimesRated" : 0,
+  "viewCount" : 21,
+  "viewLastModified" : 1377116969,
+  "viewType" : "geo",
+  "childViews" : [ "bygr-v2q3" ],
+  "grants" : [ {
+    "inherited" : false,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "renderTypeConfig" : {
+      "visible" : {
+        "map" : true
+      }
+    },
+    "availableDisplayTypes" : [ "map", "table", "fatrow", "page" ],
+    "geo" : {
+      "owsUrl" : "/api/geospatial/i5tt-i4mn",
+      "bbox" : "-74.25140734,40.67548272,-74.11456557,40.78825312",
+      "layers" : "geo_i5tt-i4mn-1",
+      "featureIdAttribute" : "_SocrataID",
+      "bboxCrs" : "EPSG:4326",
+      "namespace" : "geo_i5tt-i4mn"
+    }
+  },
+  "owner" : {
+    "id" : "xpic-k57b",
+    "displayName" : "Chris Whong",
+    "screenName" : "Chris Whong",
+    "rights" : [ "create_datasets", "edit_others_datasets", "edit_sdp", "edit_site_theme", "moderate_comments", "manage_users", "chown_datasets", "edit_nominations", "approve_nominations", "feature_items", "federations", "manage_stories", "manage_approval", "change_configurations", "view_domain", "view_others_datasets", "edit_pages", "create_pages", "view_goals", "view_dashboards", "edit_goals", "edit_dashboards", "create_dashboards" ],
+    "flags" : [ "admin" ]
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "xpic-k57b",
+    "displayName" : "Chris Whong",
+    "screenName" : "Chris Whong",
+    "rights" : [ "create_datasets", "edit_others_datasets", "edit_sdp", "edit_site_theme", "moderate_comments", "manage_users", "chown_datasets", "edit_nominations", "approve_nominations", "feature_items", "federations", "manage_stories", "manage_approval", "change_configurations", "view_domain", "view_others_datasets", "edit_pages", "create_pages", "view_goals", "view_dashboards", "edit_goals", "edit_dashboards", "create_dashboards" ],
+    "flags" : [ "admin" ]
+  },
+  "flags" : [ "default" ]
+}, {
+  "id" : "5khb-g9ns",
+  "name" : "ARC",
+  "averageRating" : 0,
+  "createdAt" : 1377872193,
+  "description" : "This is information from Animal and Rodent control. This data will be updated monthly with new information.",
+  "displayType" : "table",
+  "downloadCount" : 0,
+  "indexUpdatedAt" : 1380783329,
+  "newBackend" : false,
+  "numberOfComments" : 0,
+  "oid" : 5179426,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1377872984,
+  "publicationGroup" : 1098741,
+  "publicationStage" : "published",
+  "rowsUpdatedAt" : 1377872834,
+  "rowsUpdatedBy" : "94vg-zftn",
+  "signed" : false,
+  "tableId" : 1098741,
+  "totalTimesRated" : 0,
+  "viewCount" : 11,
+  "viewLastModified" : 1377872984,
+  "viewType" : "tabular",
+  "grants" : [ {
+    "inherited" : true,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "renderTypeConfig" : {
+      "visible" : {
+        "table" : true
+      }
+    },
+    "availableDisplayTypes" : [ "table", "fatrow", "page" ]
+  },
+  "owner" : {
+    "id" : "94vg-zftn",
+    "displayName" : "Jack Fader",
+    "screenName" : "Jack Fader"
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "94vg-zftn",
+    "displayName" : "Jack Fader",
+    "screenName" : "Jack Fader"
+  },
+  "tags" : [ "animal", "animal control", "rodents", "rats", "rat" ],
+  "flags" : [ "default" ]
+}, {
+  "id" : "tcek-i9gg",
+  "name" : "ARC",
+  "averageRating" : 0,
+  "createdAt" : 1377877220,
+  "description" : "This is information from Animal and Rodent control. This data will be updated monthly with new information.",
+  "displayType" : "map",
+  "downloadCount" : 0,
+  "indexUpdatedAt" : 1380704920,
+  "newBackend" : false,
+  "numberOfComments" : 0,
+  "oid" : 5180500,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1377872984,
+  "publicationGroup" : 1098741,
+  "publicationStage" : "published",
+  "rowsUpdatedAt" : 1377872834,
+  "rowsUpdatedBy" : "94vg-zftn",
+  "signed" : false,
+  "tableId" : 1098741,
+  "totalTimesRated" : 0,
+  "viewCount" : 11,
+  "viewLastModified" : 1377878031,
+  "viewType" : "tabular",
+  "grants" : [ {
+    "inherited" : true,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "renderTypeConfig" : {
+      "visible" : {
+        "map" : true,
+        "table" : true
+      },
+      "active" : {
+        "table" : {
+          "id" : "self"
+        }
+      }
+    },
+    "availableDisplayTypes" : [ "map", "table", "fatrow", "page" ]
+  },
+  "owner" : {
+    "id" : "94vg-zftn",
+    "displayName" : "Jack Fader",
+    "screenName" : "Jack Fader"
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "94vg-zftn",
+    "displayName" : "Jack Fader",
+    "screenName" : "Jack Fader"
+  },
+  "tags" : [ "animal", "animal control", "rodents", "rats", "rat" ]
+}, {
+  "id" : "hs8d-cfuj",
+  "name" : "SHCI Lower Broadway NSA",
+  "averageRating" : 0,
+  "blobFilename" : "SHCI Lower Broadway NSA.zip",
+  "blobFileSize" : 4469,
+  "blobId" : "HghhxRqSbUguenNz4B4irii7EEbF0WXHzHVC-ZsblT8",
+  "blobMimeType" : "application/zip; charset=binary",
+  "category" : "SHCI",
+  "createdAt" : 1378920358,
+  "displayType" : "map",
+  "downloadCount" : 0,
+  "indexUpdatedAt" : 1378921630,
+  "newBackend" : false,
+  "numberOfComments" : 0,
+  "oid" : 5365519,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1378920361,
+  "publicationGroup" : 1137471,
+  "publicationStage" : "published",
+  "signed" : false,
+  "tableId" : 1137471,
+  "totalTimesRated" : 0,
+  "viewCount" : 5,
+  "viewLastModified" : 1378920372,
+  "viewType" : "geo",
+  "childViews" : [ "gzqi-nzju" ],
+  "grants" : [ {
+    "inherited" : false,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "renderTypeConfig" : {
+      "visible" : {
+        "map" : true
+      }
+    },
+    "availableDisplayTypes" : [ "map", "table", "fatrow", "page" ],
+    "geo" : {
+      "owsUrl" : "/api/geospatial/hs8d-cfuj",
+      "bbox" : "-74.17840900000002,40.749702999066926,-74.1627399632481,40.762637999066854",
+      "layers" : "geo_hs8d-cfuj-1",
+      "featureIdAttribute" : "_SocrataID",
+      "bboxCrs" : "EPSG:4326",
+      "namespace" : "geo_hs8d-cfuj"
+    }
+  },
+  "owner" : {
+    "id" : "kcv4-dvvx",
+    "displayName" : "Jason Hare",
+    "profileImageUrlLarge" : "/images/profile/6716/6318/1f71373_large.jpg",
+    "profileImageUrlMedium" : "/images/profile/6716/6318/1f71373_thumb.jpg",
+    "profileImageUrlSmall" : "/images/profile/6716/6318/1f71373_tiny.jpg",
+    "screenName" : "Jason Hare"
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "kcv4-dvvx",
+    "displayName" : "Jason Hare",
+    "profileImageUrlLarge" : "/images/profile/6716/6318/1f71373_large.jpg",
+    "profileImageUrlMedium" : "/images/profile/6716/6318/1f71373_thumb.jpg",
+    "profileImageUrlSmall" : "/images/profile/6716/6318/1f71373_tiny.jpg",
+    "screenName" : "Jason Hare"
+  },
+  "flags" : [ "default" ]
+}, {
+  "id" : "izcc-wrw2",
+  "name" : "Health Inspection Data",
+  "averageRating" : 0,
+  "category" : "Government",
+  "createdAt" : 1377881069,
+  "description" : "Health inspection information about restaurants in the city, this information and database will be updated monthly.",
+  "displayType" : "map",
+  "downloadCount" : 3,
+  "indexUpdatedAt" : 1377882511,
+  "newBackend" : false,
+  "numberOfComments" : 0,
+  "oid" : 5181444,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1377879851,
+  "publicationGroup" : 1098953,
+  "publicationStage" : "published",
+  "rowsUpdatedAt" : 1377879729,
+  "rowsUpdatedBy" : "94vg-zftn",
+  "signed" : false,
+  "tableId" : 1098953,
+  "totalTimesRated" : 0,
+  "viewCount" : 16,
+  "viewLastModified" : 1377882221,
+  "viewType" : "tabular",
+  "grants" : [ {
+    "inherited" : true,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "renderTypeConfig" : {
+      "visible" : {
+        "map" : true,
+        "table" : true
+      },
+      "active" : {
+        "table" : {
+          "id" : "self"
+        }
+      }
+    },
+    "availableDisplayTypes" : [ "map", "table", "fatrow", "page" ]
+  },
+  "owner" : {
+    "id" : "94vg-zftn",
+    "displayName" : "Jack Fader",
+    "screenName" : "Jack Fader"
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "94vg-zftn",
+    "displayName" : "Jack Fader",
+    "screenName" : "Jack Fader"
+  }
+}, {
+  "id" : "yrw2-k4q5",
+  "name" : "Health Inspection Data",
+  "averageRating" : 0,
+  "category" : "Government",
+  "createdAt" : 1377879624,
+  "description" : "Health inspection information about restaurants in the city, this information and database will be updated monthly.",
+  "displayType" : "table",
+  "downloadCount" : 0,
+  "indexUpdatedAt" : 1377881442,
+  "newBackend" : false,
+  "numberOfComments" : 0,
+  "oid" : 5180725,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1377879851,
+  "publicationGroup" : 1098953,
+  "publicationStage" : "published",
+  "rowsUpdatedAt" : 1377879729,
+  "rowsUpdatedBy" : "94vg-zftn",
+  "signed" : false,
+  "tableId" : 1098953,
+  "totalTimesRated" : 0,
+  "viewCount" : 5,
+  "viewLastModified" : 1377879851,
+  "viewType" : "tabular",
+  "grants" : [ {
+    "inherited" : true,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "renderTypeConfig" : {
+      "visible" : {
+        "table" : true
+      }
+    },
+    "availableDisplayTypes" : [ "table", "fatrow", "page" ]
+  },
+  "owner" : {
+    "id" : "94vg-zftn",
+    "displayName" : "Jack Fader",
+    "screenName" : "Jack Fader"
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "94vg-zftn",
+    "displayName" : "Jack Fader",
+    "screenName" : "Jack Fader"
+  },
+  "flags" : [ "default" ]
+}, {
+  "id" : "gcis-i9uk",
+  "name" : "Newark Census Tracts",
+  "averageRating" : 0,
+  "blobFilename" : "Newark Census Tracts.zip",
+  "blobFileSize" : 74246,
+  "blobId" : "CtrTUI1N_t4gTtsfeSmZW61kigin3rjuAyd30YXCAjs",
+  "blobMimeType" : "application/zip; charset=binary",
+  "category" : "SHCI",
+  "createdAt" : 1378919684,
+  "displayType" : "map",
+  "downloadCount" : 0,
+  "indexUpdatedAt" : 1378921558,
+  "newBackend" : false,
+  "numberOfComments" : 0,
+  "oid" : 5365315,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1378919690,
+  "publicationGroup" : 1137430,
+  "publicationStage" : "published",
+  "signed" : false,
+  "tableId" : 1137430,
+  "totalTimesRated" : 0,
+  "viewCount" : 9,
+  "viewLastModified" : 1378919717,
+  "viewType" : "geo",
+  "childViews" : [ "ik3h-ykre" ],
+  "grants" : [ {
+    "inherited" : false,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "renderTypeConfig" : {
+      "visible" : {
+        "map" : true
+      }
+    },
+    "availableDisplayTypes" : [ "map", "table", "fatrow", "page" ],
+    "geo" : {
+      "owsUrl" : "/api/geospatial/gcis-i9uk",
+      "bbox" : "-74.25136100000005,40.68002828253896,-74.11828650909962,40.78824399906672",
+      "layers" : "geo_gcis-i9uk-1",
+      "featureIdAttribute" : "_SocrataID",
+      "bboxCrs" : "EPSG:4326",
+      "namespace" : "geo_gcis-i9uk"
+    }
+  },
+  "owner" : {
+    "id" : "kcv4-dvvx",
+    "displayName" : "Jason Hare",
+    "profileImageUrlLarge" : "/images/profile/6716/6318/1f71373_large.jpg",
+    "profileImageUrlMedium" : "/images/profile/6716/6318/1f71373_thumb.jpg",
+    "profileImageUrlSmall" : "/images/profile/6716/6318/1f71373_tiny.jpg",
+    "screenName" : "Jason Hare"
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "kcv4-dvvx",
+    "displayName" : "Jason Hare",
+    "profileImageUrlLarge" : "/images/profile/6716/6318/1f71373_large.jpg",
+    "profileImageUrlMedium" : "/images/profile/6716/6318/1f71373_thumb.jpg",
+    "profileImageUrlSmall" : "/images/profile/6716/6318/1f71373_tiny.jpg",
+    "screenName" : "Jason Hare"
+  },
+  "flags" : [ "default" ]
+}, {
+  "id" : "rnm7-vy7d",
+  "name" : "Demographic Aggregates",
+  "averageRating" : 0,
+  "category" : "SHCI",
+  "createdAt" : 1378920870,
+  "displayType" : "table",
+  "downloadCount" : 0,
+  "indexUpdatedAt" : 1378922869,
+  "newBackend" : false,
+  "numberOfComments" : 0,
+  "oid" : 5365595,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1378920911,
+  "publicationGroup" : 1137529,
+  "publicationStage" : "published",
+  "rowsUpdatedAt" : 1378920883,
+  "rowsUpdatedBy" : "kcv4-dvvx",
+  "signed" : false,
+  "tableId" : 1137529,
+  "totalTimesRated" : 0,
+  "viewCount" : 10,
+  "viewLastModified" : 1378920911,
+  "viewType" : "tabular",
+  "grants" : [ {
+    "inherited" : false,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "renderTypeConfig" : {
+      "visible" : {
+        "table" : true
+      }
+    },
+    "availableDisplayTypes" : [ "table", "fatrow", "page" ]
+  },
+  "owner" : {
+    "id" : "kcv4-dvvx",
+    "displayName" : "Jason Hare",
+    "profileImageUrlLarge" : "/images/profile/6716/6318/1f71373_large.jpg",
+    "profileImageUrlMedium" : "/images/profile/6716/6318/1f71373_thumb.jpg",
+    "profileImageUrlSmall" : "/images/profile/6716/6318/1f71373_tiny.jpg",
+    "screenName" : "Jason Hare"
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "kcv4-dvvx",
+    "displayName" : "Jason Hare",
+    "profileImageUrlLarge" : "/images/profile/6716/6318/1f71373_large.jpg",
+    "profileImageUrlMedium" : "/images/profile/6716/6318/1f71373_thumb.jpg",
+    "profileImageUrlSmall" : "/images/profile/6716/6318/1f71373_tiny.jpg",
+    "screenName" : "Jason Hare"
+  },
+  "flags" : [ "default" ]
+}, {
+  "id" : "x4fn-pvuk",
+  "name" : "Demographic Rates",
+  "averageRating" : 0,
+  "category" : "SHCI",
+  "createdAt" : 1378920999,
+  "displayType" : "table",
+  "downloadCount" : 1,
+  "indexUpdatedAt" : 1378922900,
+  "newBackend" : false,
+  "numberOfComments" : 0,
+  "oid" : 5365614,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1378921045,
+  "publicationGroup" : 1137536,
+  "publicationStage" : "published",
+  "rowsUpdatedAt" : 1378921013,
+  "rowsUpdatedBy" : "kcv4-dvvx",
+  "signed" : false,
+  "tableId" : 1137536,
+  "totalTimesRated" : 0,
+  "viewCount" : 13,
+  "viewLastModified" : 1378921045,
+  "viewType" : "tabular",
+  "grants" : [ {
+    "inherited" : false,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "renderTypeConfig" : {
+      "visible" : {
+        "table" : true
+      }
+    },
+    "availableDisplayTypes" : [ "table", "fatrow", "page" ]
+  },
+  "owner" : {
+    "id" : "kcv4-dvvx",
+    "displayName" : "Jason Hare",
+    "profileImageUrlLarge" : "/images/profile/6716/6318/1f71373_large.jpg",
+    "profileImageUrlMedium" : "/images/profile/6716/6318/1f71373_thumb.jpg",
+    "profileImageUrlSmall" : "/images/profile/6716/6318/1f71373_tiny.jpg",
+    "screenName" : "Jason Hare"
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "kcv4-dvvx",
+    "displayName" : "Jason Hare",
+    "profileImageUrlLarge" : "/images/profile/6716/6318/1f71373_large.jpg",
+    "profileImageUrlMedium" : "/images/profile/6716/6318/1f71373_thumb.jpg",
+    "profileImageUrlSmall" : "/images/profile/6716/6318/1f71373_tiny.jpg",
+    "screenName" : "Jason Hare"
+  },
+  "flags" : [ "default" ]
+}, {
+  "id" : "vtp5-dmh4",
+  "name" : "Housing Aggregates",
+  "averageRating" : 0,
+  "category" : "SHCI",
+  "createdAt" : 1378921113,
+  "displayType" : "table",
+  "downloadCount" : 0,
+  "indexUpdatedAt" : 1378922900,
+  "newBackend" : false,
+  "numberOfComments" : 0,
+  "oid" : 5365624,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1378921157,
+  "publicationGroup" : 1137545,
+  "publicationStage" : "published",
+  "rowsUpdatedAt" : 1378921123,
+  "rowsUpdatedBy" : "kcv4-dvvx",
+  "signed" : false,
+  "tableId" : 1137545,
+  "totalTimesRated" : 0,
+  "viewCount" : 18,
+  "viewLastModified" : 1378921157,
+  "viewType" : "tabular",
+  "grants" : [ {
+    "inherited" : false,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "renderTypeConfig" : {
+      "visible" : {
+        "table" : true
+      }
+    },
+    "availableDisplayTypes" : [ "table", "fatrow", "page" ]
+  },
+  "owner" : {
+    "id" : "kcv4-dvvx",
+    "displayName" : "Jason Hare",
+    "profileImageUrlLarge" : "/images/profile/6716/6318/1f71373_large.jpg",
+    "profileImageUrlMedium" : "/images/profile/6716/6318/1f71373_thumb.jpg",
+    "profileImageUrlSmall" : "/images/profile/6716/6318/1f71373_tiny.jpg",
+    "screenName" : "Jason Hare"
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "kcv4-dvvx",
+    "displayName" : "Jason Hare",
+    "profileImageUrlLarge" : "/images/profile/6716/6318/1f71373_large.jpg",
+    "profileImageUrlMedium" : "/images/profile/6716/6318/1f71373_thumb.jpg",
+    "profileImageUrlSmall" : "/images/profile/6716/6318/1f71373_tiny.jpg",
+    "screenName" : "Jason Hare"
+  },
+  "flags" : [ "default" ]
+}, {
+  "id" : "25kr-4jph",
+  "name" : "Newark Wards",
+  "averageRating" : 0,
+  "blobFilename" : "Newark_Wards.zip",
+  "blobFileSize" : 478839,
+  "blobId" : "kHvpAhEpV8WMXKogSVVEolRDOgWL3iSE-Im2p7QCqWY",
+  "blobMimeType" : "application/zip; charset=binary",
+  "createdAt" : 1376460666,
+  "displayType" : "map",
+  "downloadCount" : 0,
+  "indexUpdatedAt" : 1377715610,
+  "newBackend" : false,
+  "numberOfComments" : 0,
+  "oid" : 4912603,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1377712833,
+  "publicationGroup" : 1046489,
+  "publicationStage" : "published",
+  "signed" : false,
+  "tableId" : 1046489,
+  "totalTimesRated" : 0,
+  "viewCount" : 29,
+  "viewLastModified" : 1377712833,
+  "viewType" : "geo",
+  "childViews" : [ "sapa-icmq" ],
+  "grants" : [ {
+    "inherited" : true,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "renderTypeConfig" : {
+      "visible" : {
+        "map" : true
+      },
+      "active" : {
+        "fatrow" : {
+          "id" : "sapa-icmq"
+        },
+        "table" : {
+          "id" : "sapa-icmq"
+        }
+      }
+    },
+    "availableDisplayTypes" : [ "map", "table", "fatrow", "page" ],
+    "geo" : {
+      "layers" : "geo_25kr-4jph-1",
+      "bbox" : "-74.6244799969677,39.916722102040715,-73.99284000419193,41.00616938878685",
+      "bboxCrs" : "EPSG:4326",
+      "featureIdAttribute" : "_SocrataID",
+      "owsUrl" : "/api/geospatial/25kr-4jph",
+      "namespace" : "geo_25kr-4jph"
+    }
+  },
+  "owner" : {
+    "id" : "xpic-k57b",
+    "displayName" : "Chris Whong",
+    "screenName" : "Chris Whong",
+    "rights" : [ "create_datasets", "edit_others_datasets", "edit_sdp", "edit_site_theme", "moderate_comments", "manage_users", "chown_datasets", "edit_nominations", "approve_nominations", "feature_items", "federations", "manage_stories", "manage_approval", "change_configurations", "view_domain", "view_others_datasets", "edit_pages", "create_pages", "view_goals", "view_dashboards", "edit_goals", "edit_dashboards", "create_dashboards" ],
+    "flags" : [ "admin" ]
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "xpic-k57b",
+    "displayName" : "Chris Whong",
+    "screenName" : "Chris Whong",
+    "rights" : [ "create_datasets", "edit_others_datasets", "edit_sdp", "edit_site_theme", "moderate_comments", "manage_users", "chown_datasets", "edit_nominations", "approve_nominations", "feature_items", "federations", "manage_stories", "manage_approval", "change_configurations", "view_domain", "view_others_datasets", "edit_pages", "create_pages", "view_goals", "view_dashboards", "edit_goals", "edit_dashboards", "create_dashboards" ],
+    "flags" : [ "admin" ]
+  },
+  "flags" : [ "default" ]
+}, {
+  "id" : "g5q6-qat8",
+  "name" : "NJ Transit Bus Routes",
+  "averageRating" : 0,
+  "blobFilename" : "Newark_Wards.zip",
+  "blobFileSize" : 478839,
+  "blobId" : "kHvpAhEpV8WMXKogSVVEolRDOgWL3iSE-Im2p7QCqWY",
+  "createdAt" : 1377714407,
+  "displayType" : "map",
+  "downloadCount" : 0,
+  "indexUpdatedAt" : 1377715653,
+  "newBackend" : false,
+  "numberOfComments" : 0,
+  "oid" : 5151344,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1377712833,
+  "publicationGroup" : 1046489,
+  "publicationStage" : "published",
+  "signed" : false,
+  "tableId" : 1046489,
+  "totalTimesRated" : 0,
+  "viewCount" : 11,
+  "viewLastModified" : 1377714407,
+  "viewType" : "geo",
+  "childViews" : [ "sapa-icmq" ],
+  "grants" : [ {
+    "inherited" : true,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "renderTypeConfig" : {
+      "visible" : {
+        "map" : true
+      },
+      "active" : {
+        "fatrow" : {
+          "id" : "sapa-icmq"
+        },
+        "table" : {
+          "id" : "sapa-icmq"
+        }
+      }
+    },
+    "availableDisplayTypes" : [ "map", "table", "fatrow", "page" ],
+    "geo" : {
+      "owsUrl" : "/api/geospatial/25kr-4jph",
+      "bbox" : "-74.6244799969677,39.916722102040715,-73.99284000419193,41.00616938878685",
+      "layers" : "geo_25kr-4jph-1",
+      "featureIdAttribute" : "_SocrataID",
+      "bboxCrs" : "EPSG:4326",
+      "namespace" : "geo_25kr-4jph"
+    }
+  },
+  "owner" : {
+    "id" : "af8f-3qme",
+    "displayName" : "nwkgisoem",
+    "screenName" : "nwkgisoem"
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "xpic-k57b",
+    "displayName" : "Chris Whong",
+    "screenName" : "Chris Whong",
+    "rights" : [ "create_datasets", "edit_others_datasets", "edit_sdp", "edit_site_theme", "moderate_comments", "manage_users", "chown_datasets", "edit_nominations", "approve_nominations", "feature_items", "federations", "manage_stories", "manage_approval", "change_configurations", "view_domain", "view_others_datasets", "edit_pages", "create_pages", "view_goals", "view_dashboards", "edit_goals", "edit_dashboards", "create_dashboards" ],
+    "flags" : [ "admin" ]
+  }
+}, {
+  "id" : "r9wp-762f",
+  "name" : "NPS Schools",
+  "averageRating" : 0,
+  "blobFilename" : "NPS Schools.zip",
+  "blobFileSize" : 16858,
+  "blobId" : "CzeKscPcE55ev6UAKu0iHYz8IGYeNf3bb8kUg-I1FYQ",
+  "blobMimeType" : "application/zip; charset=binary",
+  "category" : "SHCI",
+  "createdAt" : 1378919860,
+  "displayType" : "map",
+  "downloadCount" : 0,
+  "indexUpdatedAt" : 1386399060,
+  "newBackend" : false,
+  "numberOfComments" : 0,
+  "oid" : 5365457,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1378919865,
+  "publicationGroup" : 1137439,
+  "publicationStage" : "published",
+  "signed" : false,
+  "tableId" : 1137439,
+  "totalTimesRated" : 0,
+  "viewCount" : 8,
+  "viewLastModified" : 1386360912,
+  "viewType" : "geo",
+  "childViews" : [ "gm6u-3cm6", "gchh-ek9f" ],
+  "grants" : [ {
+    "inherited" : false,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "renderTypeConfig" : {
+      "visible" : {
+        "map" : true
+      }
+    },
+    "availableDisplayTypes" : [ "map", "table", "fatrow", "page" ],
+    "geo" : {
+      "owsUrl" : "/api/geospatial/r9wp-762f",
+      "bbox" : "-74.24399798032238,40.708219696148625,-74.14062760298134,40.783754075856095",
+      "layers" : "geo_r9wp-762f-1,geo_r9wp-762f-2",
+      "featureIdAttribute" : "_SocrataID",
+      "bboxCrs" : "EPSG:4326",
+      "namespace" : "geo_r9wp-762f"
+    }
+  },
+  "owner" : {
+    "id" : "kcv4-dvvx",
+    "displayName" : "Jason Hare",
+    "profileImageUrlLarge" : "/images/profile/6716/6318/1f71373_large.jpg",
+    "profileImageUrlMedium" : "/images/profile/6716/6318/1f71373_thumb.jpg",
+    "profileImageUrlSmall" : "/images/profile/6716/6318/1f71373_tiny.jpg",
+    "screenName" : "Jason Hare"
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "kcv4-dvvx",
+    "displayName" : "Jason Hare",
+    "profileImageUrlLarge" : "/images/profile/6716/6318/1f71373_large.jpg",
+    "profileImageUrlMedium" : "/images/profile/6716/6318/1f71373_thumb.jpg",
+    "profileImageUrlSmall" : "/images/profile/6716/6318/1f71373_tiny.jpg",
+    "screenName" : "Jason Hare"
+  },
+  "flags" : [ "default" ]
+}, {
+  "id" : "85ba-i2a5",
+  "name" : "Official SHCI Boundaries",
+  "averageRating" : 0,
+  "blobFilename" : "Official SHCI Boundaries.zip",
+  "blobFileSize" : 9525,
+  "blobId" : "OorXXqy2Hmoq2UY1TqcP06znv14iTgq3B7LmJCMU1W8",
+  "blobMimeType" : "application/zip; charset=binary",
+  "category" : "SHCI",
+  "createdAt" : 1378919952,
+  "displayType" : "map",
+  "downloadCount" : 0,
+  "indexUpdatedAt" : 1378921572,
+  "newBackend" : false,
+  "numberOfComments" : 0,
+  "oid" : 5365467,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1378919954,
+  "publicationGroup" : 1137447,
+  "publicationStage" : "published",
+  "signed" : false,
+  "tableId" : 1137447,
+  "totalTimesRated" : 0,
+  "viewCount" : 9,
+  "viewLastModified" : 1378919971,
+  "viewType" : "geo",
+  "childViews" : [ "4bh7-mjaz" ],
+  "grants" : [ {
+    "inherited" : false,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "renderTypeConfig" : {
+      "visible" : {
+        "map" : true
+      }
+    },
+    "availableDisplayTypes" : [ "map", "table", "fatrow", "page" ],
+    "geo" : {
+      "owsUrl" : "/api/geospatial/85ba-i2a5",
+      "bbox" : "-74.22418772562514,40.710820697045754,-74.16481590994317,40.76050291539006",
+      "layers" : "geo_85ba-i2a5-1",
+      "featureIdAttribute" : "_SocrataID",
+      "bboxCrs" : "EPSG:4326",
+      "namespace" : "geo_85ba-i2a5"
+    }
+  },
+  "owner" : {
+    "id" : "kcv4-dvvx",
+    "displayName" : "Jason Hare",
+    "profileImageUrlLarge" : "/images/profile/6716/6318/1f71373_large.jpg",
+    "profileImageUrlMedium" : "/images/profile/6716/6318/1f71373_thumb.jpg",
+    "profileImageUrlSmall" : "/images/profile/6716/6318/1f71373_tiny.jpg",
+    "screenName" : "Jason Hare"
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "kcv4-dvvx",
+    "displayName" : "Jason Hare",
+    "profileImageUrlLarge" : "/images/profile/6716/6318/1f71373_large.jpg",
+    "profileImageUrlMedium" : "/images/profile/6716/6318/1f71373_thumb.jpg",
+    "profileImageUrlSmall" : "/images/profile/6716/6318/1f71373_tiny.jpg",
+    "screenName" : "Jason Hare"
+  },
+  "flags" : [ "default" ]
+}, {
+  "id" : "pj94-vfs8",
+  "name" : "SHCI Clinton Hill NSA",
+  "averageRating" : 0,
+  "blobFilename" : "SHCI Clinton Hill NSA.zip",
+  "blobFileSize" : 7694,
+  "blobId" : "PGB7ariuJSxj4M-TsKiaV1aEhNzjvthERxbYfaVPgIg",
+  "blobMimeType" : "application/zip; charset=binary",
+  "category" : "SHCI",
+  "createdAt" : 1378920029,
+  "displayType" : "map",
+  "downloadCount" : 0,
+  "indexUpdatedAt" : 1378921627,
+  "newBackend" : false,
+  "numberOfComments" : 0,
+  "oid" : 5365483,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1378920032,
+  "publicationGroup" : 1137453,
+  "publicationStage" : "published",
+  "signed" : false,
+  "tableId" : 1137453,
+  "totalTimesRated" : 0,
+  "viewCount" : 2,
+  "viewLastModified" : 1378920130,
+  "viewType" : "geo",
+  "childViews" : [ "gikt-8pe7" ],
+  "grants" : [ {
+    "inherited" : false,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "renderTypeConfig" : {
+      "visible" : {
+        "map" : true
+      }
+    },
+    "availableDisplayTypes" : [ "map", "table", "fatrow", "page" ],
+    "geo" : {
+      "owsUrl" : "/api/geospatial/pj94-vfs8",
+      "bbox" : "-74.22417016641798,40.70808299906712,-74.18708199999996,40.73023399906703",
+      "layers" : "geo_pj94-vfs8-1",
+      "featureIdAttribute" : "_SocrataID",
+      "bboxCrs" : "EPSG:4326",
+      "namespace" : "geo_pj94-vfs8"
+    }
+  },
+  "owner" : {
+    "id" : "kcv4-dvvx",
+    "displayName" : "Jason Hare",
+    "profileImageUrlLarge" : "/images/profile/6716/6318/1f71373_large.jpg",
+    "profileImageUrlMedium" : "/images/profile/6716/6318/1f71373_thumb.jpg",
+    "profileImageUrlSmall" : "/images/profile/6716/6318/1f71373_tiny.jpg",
+    "screenName" : "Jason Hare"
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "kcv4-dvvx",
+    "displayName" : "Jason Hare",
+    "profileImageUrlLarge" : "/images/profile/6716/6318/1f71373_large.jpg",
+    "profileImageUrlMedium" : "/images/profile/6716/6318/1f71373_thumb.jpg",
+    "profileImageUrlSmall" : "/images/profile/6716/6318/1f71373_tiny.jpg",
+    "screenName" : "Jason Hare"
+  },
+  "flags" : [ "default" ]
+}, {
+  "id" : "h5uy-sj8z",
+  "name" : "Socioeconomic",
+  "averageRating" : 0,
+  "category" : "SHCI",
+  "createdAt" : 1378921215,
+  "displayType" : "table",
+  "downloadCount" : 1,
+  "indexUpdatedAt" : 1378922979,
+  "newBackend" : false,
+  "numberOfComments" : 0,
+  "oid" : 5365826,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1378921253,
+  "publicationGroup" : 1137552,
+  "publicationStage" : "published",
+  "rowsUpdatedAt" : 1378921228,
+  "rowsUpdatedBy" : "kcv4-dvvx",
+  "signed" : false,
+  "tableId" : 1137552,
+  "totalTimesRated" : 0,
+  "viewCount" : 23,
+  "viewLastModified" : 1378921253,
+  "viewType" : "tabular",
+  "grants" : [ {
+    "inherited" : false,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "renderTypeConfig" : {
+      "visible" : {
+        "table" : true
+      }
+    },
+    "availableDisplayTypes" : [ "table", "fatrow", "page" ]
+  },
+  "owner" : {
+    "id" : "kcv4-dvvx",
+    "displayName" : "Jason Hare",
+    "profileImageUrlLarge" : "/images/profile/6716/6318/1f71373_large.jpg",
+    "profileImageUrlMedium" : "/images/profile/6716/6318/1f71373_thumb.jpg",
+    "profileImageUrlSmall" : "/images/profile/6716/6318/1f71373_tiny.jpg",
+    "screenName" : "Jason Hare"
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "kcv4-dvvx",
+    "displayName" : "Jason Hare",
+    "profileImageUrlLarge" : "/images/profile/6716/6318/1f71373_large.jpg",
+    "profileImageUrlMedium" : "/images/profile/6716/6318/1f71373_thumb.jpg",
+    "profileImageUrlSmall" : "/images/profile/6716/6318/1f71373_tiny.jpg",
+    "screenName" : "Jason Hare"
+  },
+  "flags" : [ "default" ]
+}, {
+  "id" : "8umz-74zz",
+  "name" : "Food Access Data",
+  "averageRating" : 0,
+  "category" : "SHCI",
+  "createdAt" : 1378921508,
+  "description" : "Food Access Metadata \r\n\r\nGrocery Retail Types\r\n\r\nThe Trade Dimensions Retail Site Database provides a store-by-store database for the whole retail industry. Trade Dimensions monitors every store closing, opening, merger, acquisition, and sale in the retail industry.\r\nSupermarket - Conventional\r\nA supermarket is a full-line, self-service grocery store with annual sales volume of $2 million or more. This definition applies to individual stores regardless of total company size or sales, and therefore includes both chain and independent locations. Trade Dimensions utilizes the trade channel definition endorsed by FMI (The Food Marketing Institute) and the leading industry publications. FMI is a nonprofit association of 1,500 food retailers and wholesalers, their subsidiaries and customers. Examples: Kroger, Food Lion, IGA, Cub Foods\r\nSupercenter\r\nA supercenter is a retail unit with a full-line supermarket and a full-line discount merchandiser under one roof. May have separate or combined checkouts. Examples: Wal-Mart Supercenter, Meijer Supermarket\r\nSupermarket - Limited Assortment\r\nA limited assortment supermarket has a limited selection of items in a reduced number of categories. These stores typically offer every day low pricing. Principal differentiation from a conventional supermarket is often in the reduced size and depth of produce and non-food categories such as Health and Beauty Care (HBC), cleaning supplies, paper products and general merchandise. A limited assortment supermarket has few, if any, service departments, and less product variety than a conventional supermarket. Examples: Aldi Food Store, Save-A-Lot\r\nNatural/Gourmet Foods\r\nA natural or gourmet foods supermarket is a self-service grocery store primarily offering natural, organic or gourmet foods. These stores will either focus product offerings around healthy living with fresh produce and natural products, or around gourmet food preparations with upscale oils, spices, cheese, meat and produce. Natural/gourmet foods supermarkets typically have expanded fresh food departments and/or prepared food selections. These supermarkets also typically have a limited selection, if any, of Health and Beauty Care (HBC) and general merchandise. A natural/gourmet foods supermarket does not have over 50 percent of product offerings in one category, as is the case with traditional butcher shops, delis, produce stands or nutritional supplement stores. Note: Ethnic supermarkets are not considered natural/gourmet foods supermarkets. Examples: Trader Joe's, Whole Foods, Dean & DeLuca",
+  "displayType" : "table",
+  "downloadCount" : 3,
+  "indexUpdatedAt" : 1378922980,
+  "newBackend" : false,
+  "numberOfComments" : 0,
+  "oid" : 5365857,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1378921552,
+  "publicationGroup" : 1137568,
+  "publicationStage" : "published",
+  "rowClass" : "",
+  "rowsUpdatedAt" : 1378921526,
+  "rowsUpdatedBy" : "kcv4-dvvx",
+  "signed" : false,
+  "tableId" : 1137568,
+  "totalTimesRated" : 0,
+  "viewCount" : 20,
+  "viewLastModified" : 1378921591,
+  "viewType" : "tabular",
+  "grants" : [ {
+    "inherited" : false,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "renderTypeConfig" : {
+      "visible" : {
+        "table" : true
+      }
+    },
+    "availableDisplayTypes" : [ "table", "fatrow", "page" ],
+    "rdfSubject" : "0",
+    "rowIdentifier" : "0",
+    "rdfClass" : ""
+  },
+  "owner" : {
+    "id" : "kcv4-dvvx",
+    "displayName" : "Jason Hare",
+    "profileImageUrlLarge" : "/images/profile/6716/6318/1f71373_large.jpg",
+    "profileImageUrlMedium" : "/images/profile/6716/6318/1f71373_thumb.jpg",
+    "profileImageUrlSmall" : "/images/profile/6716/6318/1f71373_tiny.jpg",
+    "screenName" : "Jason Hare"
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "kcv4-dvvx",
+    "displayName" : "Jason Hare",
+    "profileImageUrlLarge" : "/images/profile/6716/6318/1f71373_large.jpg",
+    "profileImageUrlMedium" : "/images/profile/6716/6318/1f71373_thumb.jpg",
+    "profileImageUrlSmall" : "/images/profile/6716/6318/1f71373_tiny.jpg",
+    "screenName" : "Jason Hare"
+  },
+  "flags" : [ "default" ]
+}, {
+  "id" : "w4mz-fgje",
+  "name" : "Newark Geospatial Parcels",
+  "averageRating" : 0,
+  "blobFilename" : "parcels_shp_Newark.zip",
+  "blobFileSize" : 5431026,
+  "blobId" : "r4i4yy9dXIavSgI9wIB9d_4VTToKF1nvpT5UxKpmspA",
+  "blobMimeType" : "application/zip; charset=binary",
+  "category" : "Infrastructure",
+  "createdAt" : 1367114347,
+  "displayType" : "map",
+  "downloadCount" : 0,
+  "indexUpdatedAt" : 1381308919,
+  "newBackend" : false,
+  "numberOfComments" : 0,
+  "oid" : 3376244,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1367114423,
+  "publicationGroup" : 823271,
+  "publicationStage" : "published",
+  "signed" : false,
+  "tableId" : 823271,
+  "totalTimesRated" : 0,
+  "viewCount" : 88,
+  "viewLastModified" : 1377792668,
+  "viewType" : "geo",
+  "childViews" : [ "chw2-5eq9" ],
+  "grants" : [ {
+    "inherited" : false,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "renderTypeConfig" : {
+      "visible" : {
+        "map" : true
+      },
+      "active" : {
+        "fatrow" : {
+          "id" : "chw2-5eq9"
+        },
+        "table" : {
+          "id" : "chw2-5eq9"
+        }
+      }
+    },
+    "availableDisplayTypes" : [ "map", "table", "fatrow", "page" ],
+    "geo" : {
+      "owsUrl" : "/api/geospatial/w4mz-fgje",
+      "bbox" : "-74.25149608898113,40.68000892879572,-74.11773090809187,40.78846626591635",
+      "layers" : "geo_w4mz-fgje-1",
+      "featureIdAttribute" : "_SocrataID",
+      "bboxCrs" : "EPSG:4326",
+      "namespace" : "geo_w4mz-fgje"
+    },
+    "thumbnail" : {
+      "page" : {
+        "created" : true,
+        "selection" : {
+          "height" : 421,
+          "width" : 791,
+          "y1" : 170,
+          "y2" : 591,
+          "x2" : 1156,
+          "x1" : 365
+        },
+        "filename" : "page.png-791.421.365.170.png"
+      }
+    }
+  },
+  "owner" : {
+    "id" : "b5e4-d7x8",
+    "displayName" : "Jordan Gilbertson",
+    "profileImageUrlLarge" : "/images/profile/2744/6264/12337f7_large.jpg",
+    "profileImageUrlMedium" : "/images/profile/2744/6264/12337f7_thumb.jpg",
+    "profileImageUrlSmall" : "/images/profile/2744/6264/12337f7_tiny.jpg",
+    "screenName" : "Jordan Gilbertson",
+    "rights" : [ "create_datasets", "edit_others_datasets", "edit_sdp", "edit_site_theme", "moderate_comments", "manage_users", "chown_datasets", "edit_nominations", "approve_nominations", "feature_items", "federations", "manage_stories", "manage_approval", "change_configurations", "view_domain", "view_others_datasets", "edit_pages", "create_pages", "view_goals", "view_dashboards", "edit_goals", "edit_dashboards", "create_dashboards" ],
+    "flags" : [ "admin" ]
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "b5e4-d7x8",
+    "displayName" : "Jordan Gilbertson",
+    "profileImageUrlLarge" : "/images/profile/2744/6264/12337f7_large.jpg",
+    "profileImageUrlMedium" : "/images/profile/2744/6264/12337f7_thumb.jpg",
+    "profileImageUrlSmall" : "/images/profile/2744/6264/12337f7_tiny.jpg",
+    "screenName" : "Jordan Gilbertson",
+    "rights" : [ "create_datasets", "edit_others_datasets", "edit_sdp", "edit_site_theme", "moderate_comments", "manage_users", "chown_datasets", "edit_nominations", "approve_nominations", "feature_items", "federations", "manage_stories", "manage_approval", "change_configurations", "view_domain", "view_others_datasets", "edit_pages", "create_pages", "view_goals", "view_dashboards", "edit_goals", "edit_dashboards", "create_dashboards" ],
+    "flags" : [ "admin" ]
+  },
+  "tags" : [ "gis", "newark", "parcels" ],
+  "flags" : [ "default" ]
+}, {
+  "id" : "kd6n-2ids",
+  "name" : "Catalog",
+  "averageRating" : 0,
+  "createdAt" : 1377812242,
+  "downloadCount" : 0,
+  "indexUpdatedAt" : 1377818763,
+  "newBackend" : false,
+  "numberOfComments" : 0,
+  "oid" : 5169264,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1377812705,
+  "publicationGroup" : 1097199,
+  "publicationStage" : "published",
+  "resourceName" : "datasets",
+  "rowIdentifierColumnId" : 94059275,
+  "rowsUpdatedAt" : 1377812269,
+  "rowsUpdatedBy" : "kcv4-dvvx",
+  "signed" : false,
+  "state" : "normal",
+  "tableId" : 1097199,
+  "totalTimesRated" : 0,
+  "viewCount" : 7,
+  "viewLastModified" : 1377812705,
+  "viewType" : "tabular",
+  "grants" : [ {
+    "inherited" : false,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "rowIdentifier" : 94059275
+  },
+  "owner" : {
+    "id" : "kcv4-dvvx",
+    "displayName" : "Jason Hare",
+    "profileImageUrlLarge" : "/images/profile/6716/6318/1f71373_large.jpg",
+    "profileImageUrlMedium" : "/images/profile/6716/6318/1f71373_thumb.jpg",
+    "profileImageUrlSmall" : "/images/profile/6716/6318/1f71373_tiny.jpg",
+    "screenName" : "Jason Hare"
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "kcv4-dvvx",
+    "displayName" : "Jason Hare",
+    "profileImageUrlLarge" : "/images/profile/6716/6318/1f71373_large.jpg",
+    "profileImageUrlMedium" : "/images/profile/6716/6318/1f71373_thumb.jpg",
+    "profileImageUrlSmall" : "/images/profile/6716/6318/1f71373_tiny.jpg",
+    "screenName" : "Jason Hare"
+  },
+  "flags" : [ "default" ]
+}, {
+  "id" : "d4p8-vqnk",
+  "name" : "Templates",
+  "averageRating" : 0,
+  "createdAt" : 1377812263,
+  "downloadCount" : 0,
+  "indexUpdatedAt" : 1377818110,
+  "newBackend" : false,
+  "numberOfComments" : 0,
+  "oid" : 5169266,
+  "publicationAppendEnabled" : false,
+  "publicationGroup" : 1097201,
+  "publicationStage" : "published",
+  "resourceName" : "templates",
+  "rowIdentifierColumnId" : 94059298,
+  "signed" : false,
+  "state" : "empty",
+  "tableId" : 1097201,
+  "totalTimesRated" : 0,
+  "viewCount" : 5,
+  "viewLastModified" : 1377812269,
+  "viewType" : "tabular",
+  "grants" : [ {
+    "inherited" : false,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "rowIdentifier" : "identifier"
+  },
+  "owner" : {
+    "id" : "kcv4-dvvx",
+    "displayName" : "Jason Hare",
+    "profileImageUrlLarge" : "/images/profile/6716/6318/1f71373_large.jpg",
+    "profileImageUrlMedium" : "/images/profile/6716/6318/1f71373_thumb.jpg",
+    "profileImageUrlSmall" : "/images/profile/6716/6318/1f71373_tiny.jpg",
+    "screenName" : "Jason Hare"
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "kcv4-dvvx",
+    "displayName" : "Jason Hare",
+    "profileImageUrlLarge" : "/images/profile/6716/6318/1f71373_large.jpg",
+    "profileImageUrlMedium" : "/images/profile/6716/6318/1f71373_thumb.jpg",
+    "profileImageUrlSmall" : "/images/profile/6716/6318/1f71373_tiny.jpg",
+    "screenName" : "Jason Hare"
+  },
+  "flags" : [ "default" ]
+}, {
+  "id" : "55wk-duvc",
+  "name" : "Map of Limited Service Stores",
+  "averageRating" : 0,
+  "category" : "SHCI",
+  "createdAt" : 1379596764,
+  "displayType" : "map",
+  "downloadCount" : 0,
+  "indexUpdatedAt" : 1379598116,
+  "newBackend" : false,
+  "numberOfComments" : 0,
+  "oid" : 5498826,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1379596680,
+  "publicationGroup" : 1163397,
+  "publicationStage" : "published",
+  "rowsUpdatedAt" : 1379596621,
+  "rowsUpdatedBy" : "kcv4-dvvx",
+  "signed" : false,
+  "tableId" : 1163397,
+  "totalTimesRated" : 0,
+  "viewCount" : 10,
+  "viewLastModified" : 1379596764,
+  "viewType" : "tabular",
+  "grants" : [ {
+    "inherited" : true,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "renderTypeConfig" : {
+      "visible" : {
+        "map" : true,
+        "table" : true
+      }
+    },
+    "availableDisplayTypes" : [ "map", "table", "fatrow", "page" ]
+  },
+  "owner" : {
+    "id" : "kcv4-dvvx",
+    "displayName" : "Jason Hare",
+    "profileImageUrlLarge" : "/images/profile/6716/6318/1f71373_large.jpg",
+    "profileImageUrlMedium" : "/images/profile/6716/6318/1f71373_thumb.jpg",
+    "profileImageUrlSmall" : "/images/profile/6716/6318/1f71373_tiny.jpg",
+    "screenName" : "Jason Hare"
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "kcv4-dvvx",
+    "displayName" : "Jason Hare",
+    "profileImageUrlLarge" : "/images/profile/6716/6318/1f71373_large.jpg",
+    "profileImageUrlMedium" : "/images/profile/6716/6318/1f71373_thumb.jpg",
+    "profileImageUrlSmall" : "/images/profile/6716/6318/1f71373_tiny.jpg",
+    "screenName" : "Jason Hare"
+  }
+}, {
+  "id" : "d6uz-3smg",
+  "name" : "Limited Service Stores",
+  "averageRating" : 0,
+  "category" : "SHCI",
+  "createdAt" : 1379596609,
+  "displayType" : "table",
+  "downloadCount" : 0,
+  "indexUpdatedAt" : 1379598093,
+  "newBackend" : false,
+  "numberOfComments" : 0,
+  "oid" : 5498805,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1379596680,
+  "publicationGroup" : 1163397,
+  "publicationStage" : "published",
+  "rowsUpdatedAt" : 1379596621,
+  "rowsUpdatedBy" : "kcv4-dvvx",
+  "signed" : false,
+  "tableId" : 1163397,
+  "totalTimesRated" : 0,
+  "viewCount" : 6,
+  "viewLastModified" : 1379596680,
+  "viewType" : "tabular",
+  "grants" : [ {
+    "inherited" : true,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "renderTypeConfig" : {
+      "visible" : {
+        "table" : true
+      }
+    },
+    "availableDisplayTypes" : [ "table", "fatrow", "page" ]
+  },
+  "owner" : {
+    "id" : "kcv4-dvvx",
+    "displayName" : "Jason Hare",
+    "profileImageUrlLarge" : "/images/profile/6716/6318/1f71373_large.jpg",
+    "profileImageUrlMedium" : "/images/profile/6716/6318/1f71373_thumb.jpg",
+    "profileImageUrlSmall" : "/images/profile/6716/6318/1f71373_tiny.jpg",
+    "screenName" : "Jason Hare"
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "kcv4-dvvx",
+    "displayName" : "Jason Hare",
+    "profileImageUrlLarge" : "/images/profile/6716/6318/1f71373_large.jpg",
+    "profileImageUrlMedium" : "/images/profile/6716/6318/1f71373_thumb.jpg",
+    "profileImageUrlSmall" : "/images/profile/6716/6318/1f71373_tiny.jpg",
+    "screenName" : "Jason Hare"
+  },
+  "flags" : [ "default" ]
+} ]

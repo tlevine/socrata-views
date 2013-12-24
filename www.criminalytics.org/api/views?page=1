@@ -1,0 +1,386 @@
+[ {
+  "id" : "7az4-aji6",
+  "name" : "Court data - fine by judge",
+  "averageRating" : 0,
+  "createdAt" : 1381354685,
+  "displayType" : "chart",
+  "downloadCount" : 2,
+  "indexUpdatedAt" : 1381772930,
+  "newBackend" : false,
+  "numberOfComments" : 0,
+  "oid" : 5870748,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1381531503,
+  "publicationGroup" : 1163797,
+  "publicationStage" : "published",
+  "rowsUpdatedAt" : 1381531482,
+  "rowsUpdatedBy" : "vcvp-yass",
+  "signed" : false,
+  "tableId" : 1241470,
+  "totalTimesRated" : 0,
+  "viewCount" : 6,
+  "viewLastModified" : 1381769749,
+  "viewType" : "tabular",
+  "grants" : [ {
+    "inherited" : true,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "renderTypeConfig" : {
+      "visible" : {
+        "chart" : true,
+        "table" : true
+      }
+    },
+    "availableDisplayTypes" : [ "chart", "table", "fatrow", "page" ],
+    "conditionalFormatting" : [ {
+      "condition" : {
+        "_key" : "(14333841|EQUALS|Hawley)",
+        "value" : "Hawley",
+        "tableColumnId" : 14333841,
+        "operator" : "EQUALS"
+      },
+      "color" : "#ea9999",
+      "description" : "Hawley"
+    }, {
+      "condition" : {
+        "_key" : "(14333841|EQUALS|Beiter)",
+        "value" : "Beiter",
+        "tableColumnId" : 14333841,
+        "operator" : "EQUALS"
+      },
+      "color" : "#f9cb9c",
+      "description" : "Beiter"
+    }, {
+      "condition" : {
+        "_key" : "(14333841|EQUALS|Oths)",
+        "value" : "Oths",
+        "tableColumnId" : 14333841,
+        "operator" : "EQUALS"
+      },
+      "color" : "#b6d7a8",
+      "description" : "Oths"
+    }, {
+      "condition" : {
+        "_key" : "(14333841|EQUALS|Watkins)",
+        "value" : "Watkins",
+        "tableColumnId" : 14333841,
+        "operator" : "EQUALS"
+      },
+      "color" : "#9fc5e8",
+      "description" : "Watkins"
+    }, {
+      "condition" : {
+        "_key" : "(14333841|EQUALS|Cawthon)",
+        "value" : "Cawthon",
+        "tableColumnId" : 14333841,
+        "operator" : "EQUALS"
+      },
+      "color" : "#d5a6bd",
+      "description" : "Cawthon"
+    } ]
+  },
+  "owner" : {
+    "id" : "vcvp-yass",
+    "displayName" : "Dylan",
+    "profileImageUrlLarge" : "/images/profile/0463/4668/puddy_large.jpg",
+    "profileImageUrlMedium" : "/images/profile/0463/4668/puddy_thumb.jpg",
+    "profileImageUrlSmall" : "/images/profile/0463/4668/puddy_tiny.jpg",
+    "screenName" : "Dylan",
+    "rights" : [ "create_datasets", "edit_others_datasets", "edit_sdp", "edit_site_theme", "moderate_comments", "manage_users", "chown_datasets", "edit_nominations", "approve_nominations", "feature_items", "federations", "manage_stories", "manage_approval", "change_configurations", "view_domain", "view_others_datasets", "edit_pages", "create_pages", "view_goals", "view_dashboards", "edit_goals", "edit_dashboards", "create_dashboards" ],
+    "flags" : [ "admin" ]
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "vcvp-yass",
+    "displayName" : "Dylan",
+    "profileImageUrlLarge" : "/images/profile/0463/4668/puddy_large.jpg",
+    "profileImageUrlMedium" : "/images/profile/0463/4668/puddy_thumb.jpg",
+    "profileImageUrlSmall" : "/images/profile/0463/4668/puddy_tiny.jpg",
+    "screenName" : "Dylan",
+    "rights" : [ "create_datasets", "edit_others_datasets", "edit_sdp", "edit_site_theme", "moderate_comments", "manage_users", "chown_datasets", "edit_nominations", "approve_nominations", "feature_items", "federations", "manage_stories", "manage_approval", "change_configurations", "view_domain", "view_others_datasets", "edit_pages", "create_pages", "view_goals", "view_dashboards", "edit_goals", "edit_dashboards", "create_dashboards" ],
+    "flags" : [ "admin" ]
+  }
+}, {
+  "id" : "g4rd-457g",
+  "name" : "Court data - fine",
+  "averageRating" : 0,
+  "createdAt" : 1379719073,
+  "displayType" : "table",
+  "downloadCount" : 2,
+  "indexUpdatedAt" : 1381588656,
+  "newBackend" : false,
+  "numberOfComments" : 0,
+  "oid" : 5870749,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1381531503,
+  "publicationGroup" : 1163797,
+  "publicationStage" : "published",
+  "rowsUpdatedAt" : 1381531482,
+  "rowsUpdatedBy" : "vcvp-yass",
+  "signed" : false,
+  "tableId" : 1241470,
+  "totalTimesRated" : 0,
+  "viewCount" : 9,
+  "viewLastModified" : 1379719073,
+  "viewType" : "tabular",
+  "grants" : [ {
+    "inherited" : true,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "renderTypeConfig" : {
+      "visible" : {
+        "table" : true
+      }
+    },
+    "availableDisplayTypes" : [ "table", "fatrow", "page" ]
+  },
+  "owner" : {
+    "id" : "vcvp-yass",
+    "displayName" : "Dylan",
+    "profileImageUrlLarge" : "/images/profile/0463/4668/puddy_large.jpg",
+    "profileImageUrlMedium" : "/images/profile/0463/4668/puddy_thumb.jpg",
+    "profileImageUrlSmall" : "/images/profile/0463/4668/puddy_tiny.jpg",
+    "screenName" : "Dylan",
+    "rights" : [ "create_datasets", "edit_others_datasets", "edit_sdp", "edit_site_theme", "moderate_comments", "manage_users", "chown_datasets", "edit_nominations", "approve_nominations", "feature_items", "federations", "manage_stories", "manage_approval", "change_configurations", "view_domain", "view_others_datasets", "edit_pages", "create_pages", "view_goals", "view_dashboards", "edit_goals", "edit_dashboards", "create_dashboards" ],
+    "flags" : [ "admin" ]
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "vcvp-yass",
+    "displayName" : "Dylan",
+    "profileImageUrlLarge" : "/images/profile/0463/4668/puddy_large.jpg",
+    "profileImageUrlMedium" : "/images/profile/0463/4668/puddy_thumb.jpg",
+    "profileImageUrlSmall" : "/images/profile/0463/4668/puddy_tiny.jpg",
+    "screenName" : "Dylan",
+    "rights" : [ "create_datasets", "edit_others_datasets", "edit_sdp", "edit_site_theme", "moderate_comments", "manage_users", "chown_datasets", "edit_nominations", "approve_nominations", "feature_items", "federations", "manage_stories", "manage_approval", "change_configurations", "view_domain", "view_others_datasets", "edit_pages", "create_pages", "view_goals", "view_dashboards", "edit_goals", "edit_dashboards", "create_dashboards" ],
+    "flags" : [ "admin" ]
+  }
+}, {
+  "id" : "tqh6-cfce",
+  "name" : "Guilty Convictions",
+  "averageRating" : 0,
+  "createdAt" : 1379605521,
+  "displayType" : "table",
+  "downloadCount" : 2,
+  "indexUpdatedAt" : 1381588651,
+  "newBackend" : false,
+  "numberOfComments" : 0,
+  "oid" : 5870750,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1381531503,
+  "publicationGroup" : 1163797,
+  "publicationStage" : "published",
+  "rowsUpdatedAt" : 1381531482,
+  "rowsUpdatedBy" : "vcvp-yass",
+  "signed" : false,
+  "tableId" : 1241470,
+  "totalTimesRated" : 0,
+  "viewCount" : 9,
+  "viewLastModified" : 1379607358,
+  "viewType" : "tabular",
+  "grants" : [ {
+    "inherited" : true,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "renderTypeConfig" : {
+      "visible" : {
+        "table" : true
+      }
+    },
+    "availableDisplayTypes" : [ "table", "fatrow", "page" ]
+  },
+  "owner" : {
+    "id" : "vcvp-yass",
+    "displayName" : "Dylan",
+    "profileImageUrlLarge" : "/images/profile/0463/4668/puddy_large.jpg",
+    "profileImageUrlMedium" : "/images/profile/0463/4668/puddy_thumb.jpg",
+    "profileImageUrlSmall" : "/images/profile/0463/4668/puddy_tiny.jpg",
+    "screenName" : "Dylan",
+    "rights" : [ "create_datasets", "edit_others_datasets", "edit_sdp", "edit_site_theme", "moderate_comments", "manage_users", "chown_datasets", "edit_nominations", "approve_nominations", "feature_items", "federations", "manage_stories", "manage_approval", "change_configurations", "view_domain", "view_others_datasets", "edit_pages", "create_pages", "view_goals", "view_dashboards", "edit_goals", "edit_dashboards", "create_dashboards" ],
+    "flags" : [ "admin" ]
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "vcvp-yass",
+    "displayName" : "Dylan",
+    "profileImageUrlLarge" : "/images/profile/0463/4668/puddy_large.jpg",
+    "profileImageUrlMedium" : "/images/profile/0463/4668/puddy_thumb.jpg",
+    "profileImageUrlSmall" : "/images/profile/0463/4668/puddy_tiny.jpg",
+    "screenName" : "Dylan",
+    "rights" : [ "create_datasets", "edit_others_datasets", "edit_sdp", "edit_site_theme", "moderate_comments", "manage_users", "chown_datasets", "edit_nominations", "approve_nominations", "feature_items", "federations", "manage_stories", "manage_approval", "change_configurations", "view_domain", "view_others_datasets", "edit_pages", "create_pages", "view_goals", "view_dashboards", "edit_goals", "edit_dashboards", "create_dashboards" ],
+    "flags" : [ "admin" ]
+  }
+}, {
+  "id" : "uuix-6eqm",
+  "name" : "Court data - sentences",
+  "averageRating" : 0,
+  "createdAt" : 1379714623,
+  "displayType" : "table",
+  "downloadCount" : 2,
+  "indexUpdatedAt" : 1381588651,
+  "newBackend" : false,
+  "numberOfComments" : 0,
+  "oid" : 5870747,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1381531503,
+  "publicationGroup" : 1163797,
+  "publicationStage" : "published",
+  "rowsUpdatedAt" : 1381531482,
+  "rowsUpdatedBy" : "vcvp-yass",
+  "signed" : false,
+  "tableId" : 1241470,
+  "totalTimesRated" : 0,
+  "viewCount" : 5,
+  "viewLastModified" : 1379714624,
+  "viewType" : "tabular",
+  "grants" : [ {
+    "inherited" : true,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "renderTypeConfig" : {
+      "visible" : {
+        "table" : true
+      }
+    },
+    "availableDisplayTypes" : [ "table", "fatrow", "page" ]
+  },
+  "owner" : {
+    "id" : "vcvp-yass",
+    "displayName" : "Dylan",
+    "profileImageUrlLarge" : "/images/profile/0463/4668/puddy_large.jpg",
+    "profileImageUrlMedium" : "/images/profile/0463/4668/puddy_thumb.jpg",
+    "profileImageUrlSmall" : "/images/profile/0463/4668/puddy_tiny.jpg",
+    "screenName" : "Dylan",
+    "rights" : [ "create_datasets", "edit_others_datasets", "edit_sdp", "edit_site_theme", "moderate_comments", "manage_users", "chown_datasets", "edit_nominations", "approve_nominations", "feature_items", "federations", "manage_stories", "manage_approval", "change_configurations", "view_domain", "view_others_datasets", "edit_pages", "create_pages", "view_goals", "view_dashboards", "edit_goals", "edit_dashboards", "create_dashboards" ],
+    "flags" : [ "admin" ]
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "vcvp-yass",
+    "displayName" : "Dylan",
+    "profileImageUrlLarge" : "/images/profile/0463/4668/puddy_large.jpg",
+    "profileImageUrlMedium" : "/images/profile/0463/4668/puddy_thumb.jpg",
+    "profileImageUrlSmall" : "/images/profile/0463/4668/puddy_tiny.jpg",
+    "screenName" : "Dylan",
+    "rights" : [ "create_datasets", "edit_others_datasets", "edit_sdp", "edit_site_theme", "moderate_comments", "manage_users", "chown_datasets", "edit_nominations", "approve_nominations", "feature_items", "federations", "manage_stories", "manage_approval", "change_configurations", "view_domain", "view_others_datasets", "edit_pages", "create_pages", "view_goals", "view_dashboards", "edit_goals", "edit_dashboards", "create_dashboards" ],
+    "flags" : [ "admin" ]
+  }
+}, {
+  "id" : "yerq-ef4x",
+  "name" : "Court Data (final)",
+  "averageRating" : 0,
+  "createdAt" : 1379605362,
+  "displayType" : "table",
+  "downloadCount" : 3,
+  "indexUpdatedAt" : 1381588648,
+  "newBackend" : false,
+  "numberOfComments" : 0,
+  "oid" : 5870734,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1381531503,
+  "publicationGroup" : 1163797,
+  "publicationStage" : "published",
+  "rowsUpdatedAt" : 1381531482,
+  "rowsUpdatedBy" : "vcvp-yass",
+  "signed" : false,
+  "tableId" : 1241470,
+  "totalTimesRated" : 0,
+  "viewCount" : 58,
+  "viewLastModified" : 1381531503,
+  "viewType" : "tabular",
+  "grants" : [ {
+    "inherited" : true,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "renderTypeConfig" : {
+      "visible" : {
+        "table" : true
+      }
+    },
+    "availableDisplayTypes" : [ "table", "fatrow", "page" ]
+  },
+  "owner" : {
+    "id" : "vcvp-yass",
+    "displayName" : "Dylan",
+    "profileImageUrlLarge" : "/images/profile/0463/4668/puddy_large.jpg",
+    "profileImageUrlMedium" : "/images/profile/0463/4668/puddy_thumb.jpg",
+    "profileImageUrlSmall" : "/images/profile/0463/4668/puddy_tiny.jpg",
+    "screenName" : "Dylan",
+    "rights" : [ "create_datasets", "edit_others_datasets", "edit_sdp", "edit_site_theme", "moderate_comments", "manage_users", "chown_datasets", "edit_nominations", "approve_nominations", "feature_items", "federations", "manage_stories", "manage_approval", "change_configurations", "view_domain", "view_others_datasets", "edit_pages", "create_pages", "view_goals", "view_dashboards", "edit_goals", "edit_dashboards", "create_dashboards" ],
+    "flags" : [ "admin" ]
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "vcvp-yass",
+    "displayName" : "Dylan",
+    "profileImageUrlLarge" : "/images/profile/0463/4668/puddy_large.jpg",
+    "profileImageUrlMedium" : "/images/profile/0463/4668/puddy_thumb.jpg",
+    "profileImageUrlSmall" : "/images/profile/0463/4668/puddy_tiny.jpg",
+    "screenName" : "Dylan",
+    "rights" : [ "create_datasets", "edit_others_datasets", "edit_sdp", "edit_site_theme", "moderate_comments", "manage_users", "chown_datasets", "edit_nominations", "approve_nominations", "feature_items", "federations", "manage_stories", "manage_approval", "change_configurations", "view_domain", "view_others_datasets", "edit_pages", "create_pages", "view_goals", "view_dashboards", "edit_goals", "edit_dashboards", "create_dashboards" ],
+    "flags" : [ "admin" ]
+  },
+  "flags" : [ "default" ]
+}, {
+  "id" : "cgem-h9vd",
+  "name" : "Templates",
+  "averageRating" : 0,
+  "createdAt" : 1376410673,
+  "downloadCount" : 2,
+  "indexUpdatedAt" : 1376411215,
+  "newBackend" : false,
+  "numberOfComments" : 0,
+  "oid" : 4904083,
+  "publicationAppendEnabled" : false,
+  "publicationGroup" : 1044627,
+  "publicationStage" : "published",
+  "resourceName" : "templates",
+  "rowIdentifierColumnId" : 89462153,
+  "signed" : false,
+  "state" : "empty",
+  "tableId" : 1044627,
+  "totalTimesRated" : 0,
+  "viewCount" : 2,
+  "viewLastModified" : 1376410693,
+  "viewType" : "tabular",
+  "grants" : [ {
+    "inherited" : false,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "rowIdentifier" : "identifier"
+  },
+  "owner" : {
+    "id" : "vcvp-yass",
+    "displayName" : "Dylan",
+    "profileImageUrlLarge" : "/images/profile/0463/4668/puddy_large.jpg",
+    "profileImageUrlMedium" : "/images/profile/0463/4668/puddy_thumb.jpg",
+    "profileImageUrlSmall" : "/images/profile/0463/4668/puddy_tiny.jpg",
+    "screenName" : "Dylan",
+    "rights" : [ "create_datasets", "edit_others_datasets", "edit_sdp", "edit_site_theme", "moderate_comments", "manage_users", "chown_datasets", "edit_nominations", "approve_nominations", "feature_items", "federations", "manage_stories", "manage_approval", "change_configurations", "view_domain", "view_others_datasets", "edit_pages", "create_pages", "view_goals", "view_dashboards", "edit_goals", "edit_dashboards", "create_dashboards" ],
+    "flags" : [ "admin" ]
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "vcvp-yass",
+    "displayName" : "Dylan",
+    "profileImageUrlLarge" : "/images/profile/0463/4668/puddy_large.jpg",
+    "profileImageUrlMedium" : "/images/profile/0463/4668/puddy_thumb.jpg",
+    "profileImageUrlSmall" : "/images/profile/0463/4668/puddy_tiny.jpg",
+    "screenName" : "Dylan",
+    "rights" : [ "create_datasets", "edit_others_datasets", "edit_sdp", "edit_site_theme", "moderate_comments", "manage_users", "chown_datasets", "edit_nominations", "approve_nominations", "feature_items", "federations", "manage_stories", "manage_approval", "change_configurations", "view_domain", "view_others_datasets", "edit_pages", "create_pages", "view_goals", "view_dashboards", "edit_goals", "edit_dashboards", "create_dashboards" ],
+    "flags" : [ "admin" ]
+  },
+  "flags" : [ "default" ]
+} ]

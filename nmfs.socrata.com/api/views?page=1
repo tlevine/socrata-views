@@ -1,0 +1,3194 @@
+[ {
+  "id" : "8xv7-hh6w",
+  "name" : "Approved NOAA Aquaculture Draft Policy Comments (2011)",
+  "averageRating" : 0,
+  "category" : "Government",
+  "createdAt" : 1297101187,
+  "description" : "This data set contains the pre-approved comments received by the NOAA Aquaculture Program on NOAA's Draft National AQ Policy",
+  "displayType" : "table",
+  "downloadCount" : 167,
+  "indexUpdatedAt" : 1387738938,
+  "modifyingViewUid" : "3ei4-ucj2",
+  "newBackend" : false,
+  "numberOfComments" : 0,
+  "oid" : 308767,
+  "publicationAppendEnabled" : true,
+  "publicationDate" : 1302998589,
+  "publicationGroup" : 221107,
+  "publicationStage" : "published",
+  "rowsUpdatedAt" : 1387738265,
+  "rowsUpdatedBy" : "42xz-xf5v",
+  "signed" : false,
+  "tableId" : 221107,
+  "totalTimesRated" : 0,
+  "viewCount" : 5848,
+  "viewLastModified" : 1298918867,
+  "viewType" : "tabular",
+  "grants" : [ {
+    "inherited" : false,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "availableDisplayTypes" : [ "table", "fatrow", "page" ],
+    "rdfSubject" : "0",
+    "rowIdentifier" : "0"
+  },
+  "owner" : {
+    "id" : "42xz-xf5v",
+    "displayName" : "Kate Naughten",
+    "profileImageUrlLarge" : "/images/profile/6527/6943/Kate_N_large.jpg",
+    "profileImageUrlMedium" : "/images/profile/6527/6943/Kate_N_thumb.jpg",
+    "profileImageUrlSmall" : "/images/profile/6527/6943/Kate_N_tiny.jpg",
+    "screenName" : "Kate Naughten"
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "42xz-xf5v",
+    "displayName" : "Kate Naughten",
+    "profileImageUrlLarge" : "/images/profile/6527/6943/Kate_N_large.jpg",
+    "profileImageUrlMedium" : "/images/profile/6527/6943/Kate_N_thumb.jpg",
+    "profileImageUrlSmall" : "/images/profile/6527/6943/Kate_N_tiny.jpg",
+    "screenName" : "Kate Naughten"
+  },
+  "tags" : [ "aquaculture", "policy", "noaa", "draft", "for approval" ]
+}, {
+  "id" : "fm4n-exw7",
+  "name" : "Approved Public Comments on the Draft U.S. Department of Commerce Aquaculture Policy (2011)",
+  "averageRating" : 0,
+  "category" : "Government",
+  "createdAt" : 1296587538,
+  "description" : "This data set contains the approved public comments collected by DOC/NOAA on the draft Dept. of Commerce Aquaculture Policy (2011).",
+  "displayType" : "table",
+  "downloadCount" : 164,
+  "indexUpdatedAt" : 1387702083,
+  "newBackend" : false,
+  "numberOfComments" : 0,
+  "oid" : 308483,
+  "publicationAppendEnabled" : true,
+  "publicationDate" : 1302998589,
+  "publicationGroup" : 221504,
+  "publicationStage" : "published",
+  "rowsUpdatedAt" : 1387695864,
+  "signed" : false,
+  "tableId" : 221504,
+  "totalTimesRated" : 0,
+  "viewCount" : 4812,
+  "viewLastModified" : 1298827948,
+  "viewType" : "tabular",
+  "grants" : [ {
+    "inherited" : false,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "availableDisplayTypes" : [ "table", "fatrow", "page" ],
+    "thumbnail" : {
+      "page" : {
+        "created" : true,
+        "filename" : "page.png-216.115.242.0.png",
+        "selection" : {
+          "height" : 115,
+          "width" : 216,
+          "y1" : 0,
+          "y2" : 115,
+          "x2" : 458,
+          "x1" : 242
+        }
+      }
+    },
+    "rdfSubject" : "0",
+    "rowIdentifier" : "0"
+  },
+  "owner" : {
+    "id" : "42xz-xf5v",
+    "displayName" : "Kate Naughten",
+    "profileImageUrlLarge" : "/images/profile/6527/6943/Kate_N_large.jpg",
+    "profileImageUrlMedium" : "/images/profile/6527/6943/Kate_N_thumb.jpg",
+    "profileImageUrlSmall" : "/images/profile/6527/6943/Kate_N_tiny.jpg",
+    "screenName" : "Kate Naughten"
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "42xz-xf5v",
+    "displayName" : "Kate Naughten",
+    "profileImageUrlLarge" : "/images/profile/6527/6943/Kate_N_large.jpg",
+    "profileImageUrlMedium" : "/images/profile/6527/6943/Kate_N_thumb.jpg",
+    "profileImageUrlSmall" : "/images/profile/6527/6943/Kate_N_tiny.jpg",
+    "screenName" : "Kate Naughten"
+  },
+  "tags" : [ "aquaculture", "aqua culture", "noaa", "department of commerce", "policy", "comment", "national", "seafood", "production", "shellfish", "fish farming" ]
+}, {
+  "id" : "ngjw-iiyz",
+  "name" : "Approved New England Fishery Management Review (Phase I)",
+  "averageRating" : 0,
+  "createdAt" : 1303331217,
+  "displayType" : "table",
+  "downloadCount" : 65,
+  "newBackend" : false,
+  "numberOfComments" : 0,
+  "oid" : 315688,
+  "publicationAppendEnabled" : true,
+  "publicationDate" : 1303330257,
+  "publicationGroup" : 226860,
+  "publicationStage" : "published",
+  "rowsUpdatedAt" : 1313894924,
+  "rowsUpdatedBy" : "42xz-xf5v",
+  "signed" : false,
+  "tableId" : 226860,
+  "totalTimesRated" : 0,
+  "viewCount" : 2846,
+  "viewLastModified" : 1303428003,
+  "viewType" : "tabular",
+  "grants" : [ {
+    "inherited" : false,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "availableDisplayTypes" : [ "table", "fatrow", "page" ]
+  },
+  "owner" : {
+    "id" : "42xz-xf5v",
+    "displayName" : "Kate Naughten",
+    "profileImageUrlLarge" : "/images/profile/6527/6943/Kate_N_large.jpg",
+    "profileImageUrlMedium" : "/images/profile/6527/6943/Kate_N_thumb.jpg",
+    "profileImageUrlSmall" : "/images/profile/6527/6943/Kate_N_tiny.jpg",
+    "screenName" : "Kate Naughten"
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "42xz-xf5v",
+    "displayName" : "Kate Naughten",
+    "profileImageUrlLarge" : "/images/profile/6527/6943/Kate_N_large.jpg",
+    "profileImageUrlMedium" : "/images/profile/6527/6943/Kate_N_thumb.jpg",
+    "profileImageUrlSmall" : "/images/profile/6527/6943/Kate_N_tiny.jpg",
+    "screenName" : "Kate Naughten"
+  }
+}, {
+  "id" : "sbmu-jc7x",
+  "name" : "BP Spill Restoration Scoping Comments",
+  "averageRating" : 0,
+  "createdAt" : 1296839902,
+  "displayType" : "fatrow",
+  "downloadCount" : 165,
+  "indexUpdatedAt" : 1373318754,
+  "newBackend" : false,
+  "numberOfComments" : 0,
+  "oid" : 308626,
+  "publicationAppendEnabled" : true,
+  "publicationDate" : 1302998589,
+  "publicationGroup" : 221568,
+  "publicationStage" : "published",
+  "rowsUpdatedAt" : 1313894922,
+  "rowsUpdatedBy" : "xv9p-x46g",
+  "signed" : false,
+  "tableId" : 221568,
+  "totalTimesRated" : 0,
+  "viewCount" : 2767,
+  "viewLastModified" : 1317244947,
+  "viewType" : "tabular",
+  "grants" : [ {
+    "inherited" : false,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "availableDisplayTypes" : [ "table", "fatrow", "page" ],
+    "rdfSubject" : "0",
+    "richRendererConfigs" : {
+      "fatRow" : {
+        "columns" : [ {
+          "styles" : {
+            "width" : "99%"
+          },
+          "rows" : [ {
+            "fields" : [ {
+              "tableColumnId" : 1439018,
+              "type" : "columnData"
+            }, {
+              "text" : ", ",
+              "type" : "label"
+            }, {
+              "tableColumnId" : 1439019,
+              "type" : "columnData"
+            }, {
+              "text" : ":",
+              "type" : "label"
+            } ]
+          }, {
+            "fields" : [ {
+              "tableColumnId" : 1439037,
+              "type" : "columnLabel"
+            }, {
+              "tableColumnId" : 1439037,
+              "type" : "columnData"
+            } ]
+          }, {
+            "fields" : [ {
+              "tableColumnId" : 1439038,
+              "type" : "columnData"
+            } ]
+          } ]
+        } ]
+      }
+    },
+    "rowIdentifier" : "0"
+  },
+  "owner" : {
+    "id" : "xv9p-x46g",
+    "displayName" : "Courtney Groeneveld",
+    "screenName" : "Courtney Groeneveld"
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "xv9p-x46g",
+    "displayName" : "Courtney Groeneveld",
+    "screenName" : "Courtney Groeneveld"
+  }
+}, {
+  "id" : "dgfb-8d6j",
+  "name" : "Approved NFWPCAS comments",
+  "averageRating" : 0,
+  "createdAt" : 1326818590,
+  "displayType" : "table",
+  "downloadCount" : 125,
+  "indexUpdatedAt" : 1379303658,
+  "modifyingViewUid" : "vfe6-fhue",
+  "newBackend" : false,
+  "numberOfComments" : 0,
+  "oid" : 511930,
+  "publicationAppendEnabled" : true,
+  "publicationDate" : 1331019315,
+  "publicationGroup" : 272044,
+  "publicationStage" : "published",
+  "rowsUpdatedAt" : 1379300831,
+  "signed" : false,
+  "tableId" : 292821,
+  "totalTimesRated" : 0,
+  "viewCount" : 2673,
+  "viewLastModified" : 1328567470,
+  "viewType" : "tabular",
+  "grants" : [ {
+    "inherited" : false,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "renderTypeConfig" : {
+      "visible" : {
+        "table" : true
+      }
+    },
+    "availableDisplayTypes" : [ "table", "fatrow", "page" ],
+    "thumbnail" : {
+      "page" : {
+        "created" : true,
+        "selection" : {
+          "height" : 385,
+          "width" : 722,
+          "y1" : 4,
+          "y2" : 389,
+          "x2" : 722,
+          "x1" : 0
+        },
+        "filename" : "page.png-722.385.0.4.png"
+      }
+    }
+  },
+  "owner" : {
+    "id" : "rxrp-uh5x",
+    "displayName" : "Matt Lettrich",
+    "screenName" : "Matt Lettrich"
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "rxrp-uh5x",
+    "displayName" : "Matt Lettrich",
+    "screenName" : "Matt Lettrich"
+  }
+}, {
+  "id" : "79hh-qgjg",
+  "name" : "Approved Public Comments for Aquaculture Listening Sessions (2010)",
+  "averageRating" : 0,
+  "category" : "Government",
+  "createdAt" : 1267607558,
+  "description" : "This data set is now closed. It contains the public comments collected by NOAA in 2010 as part of the NOAA Aquaculture Program's Public Listening Sessions.",
+  "downloadCount" : 781,
+  "indexUpdatedAt" : 1387603232,
+  "newBackend" : false,
+  "numberOfComments" : 0,
+  "oid" : 297604,
+  "publicationAppendEnabled" : true,
+  "publicationDate" : 1302998589,
+  "publicationGroup" : 216084,
+  "publicationStage" : "published",
+  "rowsUpdatedAt" : 1387597937,
+  "signed" : false,
+  "tableId" : 216084,
+  "totalTimesRated" : 0,
+  "viewCount" : 1636,
+  "viewLastModified" : 1297108378,
+  "viewType" : "tabular",
+  "grants" : [ {
+    "inherited" : true,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "rdfSubject" : "0",
+    "rowIdentifier" : "0"
+  },
+  "owner" : {
+    "id" : "42xz-xf5v",
+    "displayName" : "Kate Naughten",
+    "profileImageUrlLarge" : "/images/profile/6527/6943/Kate_N_large.jpg",
+    "profileImageUrlMedium" : "/images/profile/6527/6943/Kate_N_thumb.jpg",
+    "profileImageUrlSmall" : "/images/profile/6527/6943/Kate_N_tiny.jpg",
+    "screenName" : "Kate Naughten"
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "42xz-xf5v",
+    "displayName" : "Kate Naughten",
+    "profileImageUrlLarge" : "/images/profile/6527/6943/Kate_N_large.jpg",
+    "profileImageUrlMedium" : "/images/profile/6527/6943/Kate_N_thumb.jpg",
+    "profileImageUrlSmall" : "/images/profile/6527/6943/Kate_N_tiny.jpg",
+    "screenName" : "Kate Naughten"
+  },
+  "tags" : [ "aquaculture", "noaa", "listening sessions", "public comments", "2010" ]
+}, {
+  "id" : "nq24-8xvq",
+  "name" : "North Atlantic Swordfish Biomass vs Target 1950-2009",
+  "averageRating" : 0,
+  "createdAt" : 1299771308,
+  "displayType" : "chart",
+  "downloadCount" : 28,
+  "newBackend" : false,
+  "numberOfComments" : 0,
+  "oid" : 313908,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1302998589,
+  "publicationGroup" : 226194,
+  "publicationStage" : "published",
+  "rowsUpdatedAt" : 1313894923,
+  "rowsUpdatedBy" : "b9n8-g9sn",
+  "signed" : false,
+  "tableId" : 226194,
+  "totalTimesRated" : 0,
+  "viewCount" : 1655,
+  "viewLastModified" : 1311370228,
+  "viewType" : "tabular",
+  "grants" : [ {
+    "inherited" : true,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "availableDisplayTypes" : [ "chart", "table", "fatrow", "page" ]
+  },
+  "owner" : {
+    "id" : "b9n8-g9sn",
+    "displayName" : "Todd Stavish",
+    "profileImageUrlLarge" : "/images/profile/6203/4159/iphone_225_large.jpeg",
+    "profileImageUrlMedium" : "/images/profile/6203/4159/iphone_225_thumb.jpeg",
+    "profileImageUrlSmall" : "/images/profile/6203/4159/iphone_225_tiny.jpeg",
+    "screenName" : "Todd Stavish"
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "b9n8-g9sn",
+    "displayName" : "Todd Stavish",
+    "profileImageUrlLarge" : "/images/profile/6203/4159/iphone_225_large.jpeg",
+    "profileImageUrlMedium" : "/images/profile/6203/4159/iphone_225_thumb.jpeg",
+    "profileImageUrlSmall" : "/images/profile/6203/4159/iphone_225_tiny.jpeg",
+    "screenName" : "Todd Stavish"
+  }
+}, {
+  "id" : "3afz-wfjq",
+  "name" : "Approved Comments",
+  "averageRating" : 0,
+  "category" : "Fun",
+  "createdAt" : 1269629940,
+  "description" : "Sample to test out Socrata",
+  "downloadCount" : 420,
+  "newBackend" : false,
+  "numberOfComments" : 0,
+  "oid" : 298173,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1302998589,
+  "publicationGroup" : 212934,
+  "publicationStage" : "published",
+  "rowsUpdatedAt" : 1313894919,
+  "rowsUpdatedBy" : "42xz-xf5v",
+  "signed" : false,
+  "tableId" : 212934,
+  "totalTimesRated" : 0,
+  "viewCount" : 929,
+  "viewLastModified" : 1313894918,
+  "viewType" : "tabular",
+  "grants" : [ {
+    "inherited" : false,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "owner" : {
+    "id" : "42xz-xf5v",
+    "displayName" : "Kate Naughten",
+    "profileImageUrlLarge" : "/images/profile/6527/6943/Kate_N_large.jpg",
+    "profileImageUrlMedium" : "/images/profile/6527/6943/Kate_N_thumb.jpg",
+    "profileImageUrlSmall" : "/images/profile/6527/6943/Kate_N_tiny.jpg",
+    "screenName" : "Kate Naughten"
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "42xz-xf5v",
+    "displayName" : "Kate Naughten",
+    "profileImageUrlLarge" : "/images/profile/6527/6943/Kate_N_large.jpg",
+    "profileImageUrlMedium" : "/images/profile/6527/6943/Kate_N_thumb.jpg",
+    "profileImageUrlSmall" : "/images/profile/6527/6943/Kate_N_tiny.jpg",
+    "screenName" : "Kate Naughten"
+  }
+}, {
+  "id" : "rv8w-pj43",
+  "name" : "Approved Public Comments on NOAA-USDA Future of Aquafeeds Report (2011)",
+  "averageRating" : 0,
+  "category" : "Government",
+  "createdAt" : 1289859232,
+  "description" : "This data set includes the public comments collected by NAOA on the NOAA-USDA report, The Future of Aquafeeds. This data set is open.",
+  "displayType" : "table",
+  "downloadCount" : 16,
+  "newBackend" : false,
+  "numberOfComments" : 0,
+  "oid" : 305584,
+  "publicationAppendEnabled" : true,
+  "publicationDate" : 1302998589,
+  "publicationGroup" : 220081,
+  "publicationStage" : "published",
+  "rowsUpdatedAt" : 1313894921,
+  "rowsUpdatedBy" : "42xz-xf5v",
+  "signed" : false,
+  "tableId" : 220081,
+  "totalTimesRated" : 0,
+  "viewCount" : 875,
+  "viewLastModified" : 1300473991,
+  "viewType" : "tabular",
+  "grants" : [ {
+    "inherited" : false,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "availableDisplayTypes" : [ "table", "fatrow", "page" ],
+    "thumbnail" : {
+      "page" : {
+        "created" : true,
+        "filename" : "page.png-537.287.0.0.png",
+        "selection" : {
+          "height" : 287,
+          "width" : 537,
+          "y1" : 0,
+          "y2" : 287,
+          "x2" : 537,
+          "x1" : 0
+        }
+      }
+    },
+    "rdfSubject" : "0",
+    "rowIdentifier" : "0"
+  },
+  "owner" : {
+    "id" : "42xz-xf5v",
+    "displayName" : "Kate Naughten",
+    "profileImageUrlLarge" : "/images/profile/6527/6943/Kate_N_large.jpg",
+    "profileImageUrlMedium" : "/images/profile/6527/6943/Kate_N_thumb.jpg",
+    "profileImageUrlSmall" : "/images/profile/6527/6943/Kate_N_tiny.jpg",
+    "screenName" : "Kate Naughten"
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "42xz-xf5v",
+    "displayName" : "Kate Naughten",
+    "profileImageUrlLarge" : "/images/profile/6527/6943/Kate_N_large.jpg",
+    "profileImageUrlMedium" : "/images/profile/6527/6943/Kate_N_thumb.jpg",
+    "profileImageUrlSmall" : "/images/profile/6527/6943/Kate_N_tiny.jpg",
+    "screenName" : "Kate Naughten"
+  },
+  "tags" : [ "noaa", "usda", "aquaculture", "alternative feeds", "feeds", "the future of aquafeeds", "aquafeeds", "feeding fish", "fish farming aqua culture", "seafood" ]
+}, {
+  "id" : "zg3h-r2t8",
+  "name" : "Pre-Approval for Public Comments: NOAA Aquaculture Listening Sessions (2010)",
+  "averageRating" : 0,
+  "category" : "Government",
+  "createdAt" : 1267607434,
+  "description" : "This data set contained the pre-approved comments collected by NOAA as part of the NOAA Aquaculture Listening Sessions held in 2010. This is now closed.",
+  "downloadCount" : 242,
+  "indexUpdatedAt" : 1387603233,
+  "newBackend" : false,
+  "numberOfComments" : 0,
+  "oid" : 297603,
+  "publicationAppendEnabled" : true,
+  "publicationDate" : 1302998589,
+  "publicationGroup" : 216084,
+  "publicationStage" : "published",
+  "rowsUpdatedAt" : 1387597937,
+  "signed" : false,
+  "tableId" : 216084,
+  "totalTimesRated" : 0,
+  "viewCount" : 248,
+  "viewLastModified" : 1313894920,
+  "viewType" : "tabular",
+  "grants" : [ {
+    "inherited" : true,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "rdfSubject" : "0",
+    "rowIdentifier" : "0"
+  },
+  "owner" : {
+    "id" : "42xz-xf5v",
+    "displayName" : "Kate Naughten",
+    "profileImageUrlLarge" : "/images/profile/6527/6943/Kate_N_large.jpg",
+    "profileImageUrlMedium" : "/images/profile/6527/6943/Kate_N_thumb.jpg",
+    "profileImageUrlSmall" : "/images/profile/6527/6943/Kate_N_tiny.jpg",
+    "screenName" : "Kate Naughten"
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "42xz-xf5v",
+    "displayName" : "Kate Naughten",
+    "profileImageUrlLarge" : "/images/profile/6527/6943/Kate_N_large.jpg",
+    "profileImageUrlMedium" : "/images/profile/6527/6943/Kate_N_thumb.jpg",
+    "profileImageUrlSmall" : "/images/profile/6527/6943/Kate_N_tiny.jpg",
+    "screenName" : "Kate Naughten"
+  },
+  "tags" : [ "aquaculture", "2010. noaa", "listening sessions", "public comments" ],
+  "flags" : [ "default" ]
+}, {
+  "id" : "4pf2-rpnf",
+  "name" : "Test - for for Public Comments",
+  "averageRating" : 0,
+  "category" : "Government",
+  "createdAt" : 1289859303,
+  "description" : "this is a form template",
+  "displayType" : "form",
+  "downloadCount" : 0,
+  "newBackend" : false,
+  "numberOfComments" : 0,
+  "oid" : 305585,
+  "publicationAppendEnabled" : true,
+  "publicationDate" : 1302998589,
+  "publicationGroup" : 220081,
+  "publicationStage" : "published",
+  "rowsUpdatedAt" : 1313894921,
+  "rowsUpdatedBy" : "42xz-xf5v",
+  "signed" : false,
+  "tableId" : 220081,
+  "totalTimesRated" : 0,
+  "viewCount" : 257,
+  "viewLastModified" : 1297004836,
+  "viewType" : "tabular",
+  "grants" : [ {
+    "inherited" : false,
+    "type" : "contributor",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "rdfSubject" : "0",
+    "rowIdentifier" : "0"
+  },
+  "owner" : {
+    "id" : "42xz-xf5v",
+    "displayName" : "Kate Naughten",
+    "profileImageUrlLarge" : "/images/profile/6527/6943/Kate_N_large.jpg",
+    "profileImageUrlMedium" : "/images/profile/6527/6943/Kate_N_thumb.jpg",
+    "profileImageUrlSmall" : "/images/profile/6527/6943/Kate_N_tiny.jpg",
+    "screenName" : "Kate Naughten"
+  },
+  "rights" : [ "add" ],
+  "tableAuthor" : {
+    "id" : "42xz-xf5v",
+    "displayName" : "Kate Naughten",
+    "profileImageUrlLarge" : "/images/profile/6527/6943/Kate_N_large.jpg",
+    "profileImageUrlMedium" : "/images/profile/6527/6943/Kate_N_thumb.jpg",
+    "profileImageUrlSmall" : "/images/profile/6527/6943/Kate_N_tiny.jpg",
+    "screenName" : "Kate Naughten"
+  }
+}, {
+  "id" : "zg3b-ucud",
+  "name" : "U.S. Seafood Imports and Exports, in Value (in thousands dollars) Donut Chart",
+  "averageRating" : 0,
+  "createdAt" : 1287666773,
+  "displayType" : "chart",
+  "downloadCount" : 24,
+  "newBackend" : false,
+  "numberOfComments" : 0,
+  "oid" : 304760,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1302998589,
+  "publicationGroup" : 219709,
+  "publicationStage" : "published",
+  "rowsUpdatedAt" : 1313894920,
+  "rowsUpdatedBy" : "42xz-xf5v",
+  "signed" : false,
+  "tableId" : 219709,
+  "totalTimesRated" : 0,
+  "viewCount" : 236,
+  "viewLastModified" : 1287666813,
+  "viewType" : "tabular",
+  "grants" : [ {
+    "inherited" : true,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "owner" : {
+    "id" : "42xz-xf5v",
+    "displayName" : "Kate Naughten",
+    "profileImageUrlLarge" : "/images/profile/6527/6943/Kate_N_large.jpg",
+    "profileImageUrlMedium" : "/images/profile/6527/6943/Kate_N_thumb.jpg",
+    "profileImageUrlSmall" : "/images/profile/6527/6943/Kate_N_tiny.jpg",
+    "screenName" : "Kate Naughten"
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "42xz-xf5v",
+    "displayName" : "Kate Naughten",
+    "profileImageUrlLarge" : "/images/profile/6527/6943/Kate_N_large.jpg",
+    "profileImageUrlMedium" : "/images/profile/6527/6943/Kate_N_thumb.jpg",
+    "profileImageUrlSmall" : "/images/profile/6527/6943/Kate_N_tiny.jpg",
+    "screenName" : "Kate Naughten"
+  }
+}, {
+  "id" : "z2uh-dsnk",
+  "name" : "Yellowfin Tuna Imports 2010",
+  "averageRating" : 0,
+  "createdAt" : 1290020432,
+  "downloadCount" : 37,
+  "newBackend" : false,
+  "numberOfComments" : 0,
+  "oid" : 305693,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1302998589,
+  "publicationGroup" : 220138,
+  "publicationStage" : "published",
+  "rowsUpdatedAt" : 1313894921,
+  "rowsUpdatedBy" : "xa9s-efj2",
+  "signed" : false,
+  "tableId" : 220138,
+  "totalTimesRated" : 0,
+  "viewCount" : 121,
+  "viewLastModified" : 1313894921,
+  "viewType" : "tabular",
+  "grants" : [ {
+    "inherited" : true,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "owner" : {
+    "id" : "xa9s-efj2",
+    "displayName" : "Katie Semon",
+    "screenName" : "Katie Semon"
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "xa9s-efj2",
+    "displayName" : "Katie Semon",
+    "screenName" : "Katie Semon"
+  },
+  "flags" : [ "default" ]
+}, {
+  "id" : "ncry-xzwf",
+  "name" : "Photo Directory Example",
+  "averageRating" : 0,
+  "createdAt" : 1298485742,
+  "displayType" : "fatrow",
+  "downloadCount" : 28,
+  "indexUpdatedAt" : 1370961370,
+  "newBackend" : false,
+  "numberOfComments" : 0,
+  "oid" : 313374,
+  "publicationAppendEnabled" : true,
+  "publicationDate" : 1302998589,
+  "publicationGroup" : 225873,
+  "publicationStage" : "published",
+  "rowsUpdatedAt" : 1370959585,
+  "rowsUpdatedBy" : "i7d8-sc4w",
+  "signed" : false,
+  "tableId" : 225873,
+  "totalTimesRated" : 0,
+  "viewCount" : 151,
+  "viewLastModified" : 1313894923,
+  "viewType" : "tabular",
+  "grants" : [ {
+    "inherited" : true,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "availableDisplayTypes" : [ "table", "fatrow", "page" ]
+  },
+  "owner" : {
+    "id" : "i7d8-sc4w",
+    "displayName" : "Chris Metcalf",
+    "profileImageUrlLarge" : "/images/profile/3353/3169/project_managing_reasonably_sized_large.jpg",
+    "profileImageUrlMedium" : "/images/profile/3353/3169/project_managing_reasonably_sized_thumb.jpg",
+    "profileImageUrlSmall" : "/images/profile/3353/3169/project_managing_reasonably_sized_tiny.jpg",
+    "screenName" : "Chris Metcalf",
+    "rights" : [ "create_datasets", "edit_others_datasets", "edit_sdp", "edit_site_theme", "moderate_comments", "manage_users", "chown_datasets", "edit_nominations", "approve_nominations", "feature_items", "federations", "manage_stories", "manage_approval", "change_configurations", "view_domain", "view_others_datasets", "edit_pages", "create_pages", "view_goals", "view_dashboards", "edit_goals", "edit_dashboards", "create_dashboards" ],
+    "flags" : [ "admin" ]
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "i7d8-sc4w",
+    "displayName" : "Chris Metcalf",
+    "profileImageUrlLarge" : "/images/profile/3353/3169/project_managing_reasonably_sized_large.jpg",
+    "profileImageUrlMedium" : "/images/profile/3353/3169/project_managing_reasonably_sized_thumb.jpg",
+    "profileImageUrlSmall" : "/images/profile/3353/3169/project_managing_reasonably_sized_tiny.jpg",
+    "screenName" : "Chris Metcalf",
+    "rights" : [ "create_datasets", "edit_others_datasets", "edit_sdp", "edit_site_theme", "moderate_comments", "manage_users", "chown_datasets", "edit_nominations", "approve_nominations", "feature_items", "federations", "manage_stories", "manage_approval", "change_configurations", "view_domain", "view_others_datasets", "edit_pages", "create_pages", "view_goals", "view_dashboards", "edit_goals", "edit_dashboards", "create_dashboards" ],
+    "flags" : [ "admin" ]
+  },
+  "flags" : [ "default" ]
+}, {
+  "id" : "fr9t-u98f",
+  "name" : "Deepwater Horizon Restoration Comment Submission Form",
+  "averageRating" : 0,
+  "createdAt" : 1296835237,
+  "displayType" : "form",
+  "downloadCount" : 0,
+  "indexUpdatedAt" : 1373318753,
+  "newBackend" : false,
+  "numberOfComments" : 0,
+  "oid" : 308623,
+  "publicationAppendEnabled" : true,
+  "publicationDate" : 1302998589,
+  "publicationGroup" : 221568,
+  "publicationStage" : "published",
+  "rowsUpdatedAt" : 1313894922,
+  "rowsUpdatedBy" : "xv9p-x46g",
+  "signed" : false,
+  "tableId" : 221568,
+  "totalTimesRated" : 0,
+  "viewCount" : 137,
+  "viewLastModified" : 1307130614,
+  "viewType" : "tabular",
+  "grants" : [ {
+    "inherited" : false,
+    "type" : "contributor",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "availableDisplayTypes" : [ "form" ]
+  },
+  "owner" : {
+    "id" : "xv9p-x46g",
+    "displayName" : "Courtney Groeneveld",
+    "screenName" : "Courtney Groeneveld"
+  },
+  "rights" : [ "add" ],
+  "tableAuthor" : {
+    "id" : "xv9p-x46g",
+    "displayName" : "Courtney Groeneveld",
+    "screenName" : "Courtney Groeneveld"
+  }
+}, {
+  "id" : "wybq-45dr",
+  "name" : "Test - Aquaculture form",
+  "averageRating" : 0,
+  "createdAt" : 1268937032,
+  "displayType" : "form",
+  "downloadCount" : 47,
+  "indexUpdatedAt" : 1387603645,
+  "newBackend" : false,
+  "numberOfComments" : 0,
+  "oid" : 297903,
+  "publicationAppendEnabled" : true,
+  "publicationDate" : 1302998589,
+  "publicationGroup" : 216084,
+  "publicationStage" : "published",
+  "rowsUpdatedAt" : 1387597937,
+  "signed" : false,
+  "tableId" : 216084,
+  "totalTimesRated" : 0,
+  "viewCount" : 138,
+  "viewLastModified" : 1297003990,
+  "viewType" : "tabular",
+  "grants" : [ {
+    "inherited" : false,
+    "type" : "contributor",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "rdfSubject" : "0",
+    "rowIdentifier" : "0"
+  },
+  "owner" : {
+    "id" : "42xz-xf5v",
+    "displayName" : "Kate Naughten",
+    "profileImageUrlLarge" : "/images/profile/6527/6943/Kate_N_large.jpg",
+    "profileImageUrlMedium" : "/images/profile/6527/6943/Kate_N_thumb.jpg",
+    "profileImageUrlSmall" : "/images/profile/6527/6943/Kate_N_tiny.jpg",
+    "screenName" : "Kate Naughten"
+  },
+  "rights" : [ "read", "add" ],
+  "tableAuthor" : {
+    "id" : "42xz-xf5v",
+    "displayName" : "Kate Naughten",
+    "profileImageUrlLarge" : "/images/profile/6527/6943/Kate_N_large.jpg",
+    "profileImageUrlMedium" : "/images/profile/6527/6943/Kate_N_thumb.jpg",
+    "profileImageUrlSmall" : "/images/profile/6527/6943/Kate_N_tiny.jpg",
+    "screenName" : "Kate Naughten"
+  }
+}, {
+  "id" : "2z3m-r3by",
+  "name" : "Map of Approved Aquaculture 2011 Comments",
+  "averageRating" : 0,
+  "category" : "Government",
+  "createdAt" : 1297101495,
+  "description" : "This data set contains the pre-approved comments received by the NOAA Aquaculture Program on NOAA's Draft National AQ Policy",
+  "displayType" : "map",
+  "downloadCount" : 634,
+  "indexUpdatedAt" : 1387738926,
+  "modifyingViewUid" : "3ei4-ucj2",
+  "newBackend" : false,
+  "numberOfComments" : 0,
+  "oid" : 308768,
+  "publicationAppendEnabled" : true,
+  "publicationDate" : 1302998589,
+  "publicationGroup" : 221107,
+  "publicationStage" : "published",
+  "rowsUpdatedAt" : 1387738265,
+  "rowsUpdatedBy" : "42xz-xf5v",
+  "signed" : false,
+  "tableId" : 221107,
+  "totalTimesRated" : 0,
+  "viewCount" : 117,
+  "viewLastModified" : 1298826511,
+  "viewType" : "tabular",
+  "grants" : [ {
+    "inherited" : false,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "availableDisplayTypes" : [ "map", "table", "fatrow", "page" ],
+    "rdfSubject" : "0",
+    "rowIdentifier" : "0"
+  },
+  "owner" : {
+    "id" : "42xz-xf5v",
+    "displayName" : "Kate Naughten",
+    "profileImageUrlLarge" : "/images/profile/6527/6943/Kate_N_large.jpg",
+    "profileImageUrlMedium" : "/images/profile/6527/6943/Kate_N_thumb.jpg",
+    "profileImageUrlSmall" : "/images/profile/6527/6943/Kate_N_tiny.jpg",
+    "screenName" : "Kate Naughten"
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "42xz-xf5v",
+    "displayName" : "Kate Naughten",
+    "profileImageUrlLarge" : "/images/profile/6527/6943/Kate_N_large.jpg",
+    "profileImageUrlMedium" : "/images/profile/6527/6943/Kate_N_thumb.jpg",
+    "profileImageUrlSmall" : "/images/profile/6527/6943/Kate_N_tiny.jpg",
+    "screenName" : "Kate Naughten"
+  },
+  "tags" : [ "aquaculture", "policy", "noaa", "draft", "for approval" ]
+}, {
+  "id" : "49sy-iumi",
+  "name" : "Map of U.S. Department of Commerce Comments",
+  "averageRating" : 0,
+  "category" : "Government",
+  "createdAt" : 1296587819,
+  "displayType" : "map",
+  "downloadCount" : 23,
+  "indexUpdatedAt" : 1387702072,
+  "newBackend" : false,
+  "numberOfComments" : 0,
+  "oid" : 308485,
+  "publicationAppendEnabled" : true,
+  "publicationDate" : 1302998589,
+  "publicationGroup" : 221504,
+  "publicationStage" : "published",
+  "rowsUpdatedAt" : 1387695864,
+  "signed" : false,
+  "tableId" : 221504,
+  "totalTimesRated" : 0,
+  "viewCount" : 133,
+  "viewLastModified" : 1298827243,
+  "viewType" : "tabular",
+  "grants" : [ {
+    "inherited" : false,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "owner" : {
+    "id" : "42xz-xf5v",
+    "displayName" : "Kate Naughten",
+    "profileImageUrlLarge" : "/images/profile/6527/6943/Kate_N_large.jpg",
+    "profileImageUrlMedium" : "/images/profile/6527/6943/Kate_N_thumb.jpg",
+    "profileImageUrlSmall" : "/images/profile/6527/6943/Kate_N_tiny.jpg",
+    "screenName" : "Kate Naughten"
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "42xz-xf5v",
+    "displayName" : "Kate Naughten",
+    "profileImageUrlLarge" : "/images/profile/6527/6943/Kate_N_large.jpg",
+    "profileImageUrlMedium" : "/images/profile/6527/6943/Kate_N_thumb.jpg",
+    "profileImageUrlSmall" : "/images/profile/6527/6943/Kate_N_tiny.jpg",
+    "screenName" : "Kate Naughten"
+  }
+}, {
+  "id" : "gpbx-iqtj",
+  "name" : "U.S. Seafood Imports and Exports, in Value (in thousands dollars)",
+  "averageRating" : 0,
+  "createdAt" : 1287624230,
+  "downloadCount" : 28,
+  "newBackend" : false,
+  "numberOfComments" : 0,
+  "oid" : 304740,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1302998589,
+  "publicationGroup" : 219709,
+  "publicationStage" : "published",
+  "rowsUpdatedAt" : 1313894920,
+  "rowsUpdatedBy" : "42xz-xf5v",
+  "signed" : false,
+  "tableId" : 219709,
+  "totalTimesRated" : 0,
+  "viewCount" : 106,
+  "viewLastModified" : 1313894920,
+  "viewType" : "tabular",
+  "grants" : [ {
+    "inherited" : true,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "owner" : {
+    "id" : "42xz-xf5v",
+    "displayName" : "Kate Naughten",
+    "profileImageUrlLarge" : "/images/profile/6527/6943/Kate_N_large.jpg",
+    "profileImageUrlMedium" : "/images/profile/6527/6943/Kate_N_thumb.jpg",
+    "profileImageUrlSmall" : "/images/profile/6527/6943/Kate_N_tiny.jpg",
+    "screenName" : "Kate Naughten"
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "42xz-xf5v",
+    "displayName" : "Kate Naughten",
+    "profileImageUrlLarge" : "/images/profile/6527/6943/Kate_N_large.jpg",
+    "profileImageUrlMedium" : "/images/profile/6527/6943/Kate_N_thumb.jpg",
+    "profileImageUrlSmall" : "/images/profile/6527/6943/Kate_N_tiny.jpg",
+    "screenName" : "Kate Naughten"
+  },
+  "flags" : [ "default" ]
+}, {
+  "id" : "z28p-w6su",
+  "name" : "2009 Atlantic Striped Bass Landings",
+  "averageRating" : 0,
+  "createdAt" : 1290023515,
+  "downloadCount" : 36,
+  "newBackend" : false,
+  "numberOfComments" : 0,
+  "oid" : 305708,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1302998589,
+  "publicationGroup" : 220145,
+  "publicationStage" : "published",
+  "rowsUpdatedAt" : 1313894922,
+  "rowsUpdatedBy" : "xa9s-efj2",
+  "signed" : false,
+  "tableId" : 220145,
+  "totalTimesRated" : 0,
+  "viewCount" : 101,
+  "viewLastModified" : 1313894922,
+  "viewType" : "tabular",
+  "grants" : [ {
+    "inherited" : true,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "owner" : {
+    "id" : "xa9s-efj2",
+    "displayName" : "Katie Semon",
+    "screenName" : "Katie Semon"
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "xa9s-efj2",
+    "displayName" : "Katie Semon",
+    "screenName" : "Katie Semon"
+  },
+  "flags" : [ "default" ]
+}, {
+  "id" : "j9ex-mnv5",
+  "name" : "Yellowfin Tuna Imports 2010 Bubble Chart",
+  "averageRating" : 0,
+  "createdAt" : 1290021536,
+  "displayType" : "chart",
+  "downloadCount" : 33,
+  "newBackend" : false,
+  "numberOfComments" : 0,
+  "oid" : 305702,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1302998589,
+  "publicationGroup" : 220138,
+  "publicationStage" : "published",
+  "rowsUpdatedAt" : 1313894921,
+  "rowsUpdatedBy" : "xa9s-efj2",
+  "signed" : false,
+  "tableId" : 220138,
+  "totalTimesRated" : 0,
+  "viewCount" : 76,
+  "viewLastModified" : 1290022224,
+  "viewType" : "tabular",
+  "grants" : [ {
+    "inherited" : true,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "owner" : {
+    "id" : "xa9s-efj2",
+    "displayName" : "Katie Semon",
+    "screenName" : "Katie Semon"
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "xa9s-efj2",
+    "displayName" : "Katie Semon",
+    "screenName" : "Katie Semon"
+  }
+}, {
+  "id" : "myn8-s5jm",
+  "name" : "U.S. Seafood Imports from Major Areas, 2009, by Volume",
+  "averageRating" : 0,
+  "createdAt" : 1287623087,
+  "downloadCount" : 30,
+  "newBackend" : false,
+  "numberOfComments" : 0,
+  "oid" : 304734,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1302998589,
+  "publicationGroup" : 219707,
+  "publicationStage" : "published",
+  "rowsUpdatedAt" : 1313894920,
+  "rowsUpdatedBy" : "42xz-xf5v",
+  "signed" : false,
+  "tableId" : 219707,
+  "totalTimesRated" : 0,
+  "viewCount" : 80,
+  "viewLastModified" : 1313894920,
+  "viewType" : "tabular",
+  "grants" : [ {
+    "inherited" : true,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "rdfSubject" : "0"
+  },
+  "owner" : {
+    "id" : "42xz-xf5v",
+    "displayName" : "Kate Naughten",
+    "profileImageUrlLarge" : "/images/profile/6527/6943/Kate_N_large.jpg",
+    "profileImageUrlMedium" : "/images/profile/6527/6943/Kate_N_thumb.jpg",
+    "profileImageUrlSmall" : "/images/profile/6527/6943/Kate_N_tiny.jpg",
+    "screenName" : "Kate Naughten"
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "42xz-xf5v",
+    "displayName" : "Kate Naughten",
+    "profileImageUrlLarge" : "/images/profile/6527/6943/Kate_N_large.jpg",
+    "profileImageUrlMedium" : "/images/profile/6527/6943/Kate_N_thumb.jpg",
+    "profileImageUrlSmall" : "/images/profile/6527/6943/Kate_N_tiny.jpg",
+    "screenName" : "Kate Naughten"
+  },
+  "flags" : [ "default" ]
+}, {
+  "id" : "v3ct-4wk4",
+  "name" : "Test - U.S. Department of Commerce Comments Form",
+  "averageRating" : 0,
+  "category" : "Government",
+  "createdAt" : 1296587700,
+  "displayType" : "form",
+  "downloadCount" : 0,
+  "indexUpdatedAt" : 1387702080,
+  "newBackend" : false,
+  "numberOfComments" : 0,
+  "oid" : 308484,
+  "publicationAppendEnabled" : true,
+  "publicationDate" : 1302998589,
+  "publicationGroup" : 221504,
+  "publicationStage" : "published",
+  "rowsUpdatedAt" : 1387695864,
+  "signed" : false,
+  "tableId" : 221504,
+  "totalTimesRated" : 0,
+  "viewCount" : 91,
+  "viewLastModified" : 1298926287,
+  "viewType" : "tabular",
+  "grants" : [ {
+    "inherited" : false,
+    "type" : "contributor",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "rdfSubject" : "0",
+    "rowIdentifier" : "0"
+  },
+  "owner" : {
+    "id" : "42xz-xf5v",
+    "displayName" : "Kate Naughten",
+    "profileImageUrlLarge" : "/images/profile/6527/6943/Kate_N_large.jpg",
+    "profileImageUrlMedium" : "/images/profile/6527/6943/Kate_N_thumb.jpg",
+    "profileImageUrlSmall" : "/images/profile/6527/6943/Kate_N_tiny.jpg",
+    "screenName" : "Kate Naughten"
+  },
+  "rights" : [ "add" ],
+  "tableAuthor" : {
+    "id" : "42xz-xf5v",
+    "displayName" : "Kate Naughten",
+    "profileImageUrlLarge" : "/images/profile/6527/6943/Kate_N_large.jpg",
+    "profileImageUrlMedium" : "/images/profile/6527/6943/Kate_N_thumb.jpg",
+    "profileImageUrlSmall" : "/images/profile/6527/6943/Kate_N_tiny.jpg",
+    "screenName" : "Kate Naughten"
+  }
+}, {
+  "id" : "u5id-8nqp",
+  "name" : "2011 Aquaculture Public Comments Form",
+  "averageRating" : 0,
+  "category" : "Government",
+  "createdAt" : 1297102456,
+  "description" : "This data set contains the pre-approved comments received by the NOAA Aquaculture Program on NOAA's Draft National AQ Policy",
+  "displayType" : "form",
+  "downloadCount" : 0,
+  "indexUpdatedAt" : 1387738914,
+  "modifyingViewUid" : "3ei4-ucj2",
+  "newBackend" : false,
+  "numberOfComments" : 0,
+  "oid" : 308769,
+  "publicationAppendEnabled" : true,
+  "publicationDate" : 1302998589,
+  "publicationGroup" : 221107,
+  "publicationStage" : "published",
+  "rowsUpdatedAt" : 1387738265,
+  "rowsUpdatedBy" : "42xz-xf5v",
+  "signed" : false,
+  "tableId" : 221107,
+  "totalTimesRated" : 0,
+  "viewCount" : 74,
+  "viewLastModified" : 1298826511,
+  "viewType" : "tabular",
+  "grants" : [ {
+    "inherited" : false,
+    "type" : "contributor",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "availableDisplayTypes" : [ "form" ],
+    "rdfSubject" : "0",
+    "rowIdentifier" : "0"
+  },
+  "owner" : {
+    "id" : "42xz-xf5v",
+    "displayName" : "Kate Naughten",
+    "profileImageUrlLarge" : "/images/profile/6527/6943/Kate_N_large.jpg",
+    "profileImageUrlMedium" : "/images/profile/6527/6943/Kate_N_thumb.jpg",
+    "profileImageUrlSmall" : "/images/profile/6527/6943/Kate_N_tiny.jpg",
+    "screenName" : "Kate Naughten"
+  },
+  "rights" : [ "add" ],
+  "tableAuthor" : {
+    "id" : "42xz-xf5v",
+    "displayName" : "Kate Naughten",
+    "profileImageUrlLarge" : "/images/profile/6527/6943/Kate_N_large.jpg",
+    "profileImageUrlMedium" : "/images/profile/6527/6943/Kate_N_thumb.jpg",
+    "profileImageUrlSmall" : "/images/profile/6527/6943/Kate_N_tiny.jpg",
+    "screenName" : "Kate Naughten"
+  },
+  "tags" : [ "aquaculture", "policy", "noaa", "draft", "for approval" ]
+}, {
+  "id" : "gsqd-3ptp",
+  "name" : "IWG-OA Public Comment",
+  "averageRating" : 0,
+  "createdAt" : 1338903711,
+  "displayType" : "table",
+  "downloadCount" : 23,
+  "newBackend" : false,
+  "numberOfComments" : 0,
+  "oid" : 808576,
+  "publicationAppendEnabled" : true,
+  "publicationDate" : 1340895026,
+  "publicationGroup" : 354694,
+  "publicationStage" : "published",
+  "rowsUpdatedAt" : 1347324143,
+  "signed" : false,
+  "tableId" : 369865,
+  "totalTimesRated" : 0,
+  "viewCount" : 95,
+  "viewLastModified" : 1340895026,
+  "viewType" : "tabular",
+  "grants" : [ {
+    "inherited" : true,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "renderTypeConfig" : {
+      "visible" : {
+        "table" : true
+      }
+    },
+    "availableDisplayTypes" : [ "table", "fatrow", "page" ]
+  },
+  "owner" : {
+    "id" : "kjps-v8at",
+    "displayName" : "Jennifer Howard",
+    "screenName" : "Jennifer Howard"
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "kjps-v8at",
+    "displayName" : "Jennifer Howard",
+    "screenName" : "Jennifer Howard"
+  },
+  "flags" : [ "default" ]
+}, {
+  "id" : "eras-g7f4",
+  "name" : "Yellowfin Tuna Imports 2010 Dollars, Kilos Donut Chart",
+  "averageRating" : 0,
+  "createdAt" : 1290023786,
+  "displayType" : "chart",
+  "downloadCount" : 38,
+  "newBackend" : false,
+  "numberOfComments" : 0,
+  "oid" : 305712,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1302998589,
+  "publicationGroup" : 220138,
+  "publicationStage" : "published",
+  "rowsUpdatedAt" : 1313894921,
+  "rowsUpdatedBy" : "xa9s-efj2",
+  "signed" : false,
+  "tableId" : 220138,
+  "totalTimesRated" : 0,
+  "viewCount" : 66,
+  "viewLastModified" : 1290023786,
+  "viewType" : "tabular",
+  "grants" : [ {
+    "inherited" : true,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "owner" : {
+    "id" : "xa9s-efj2",
+    "displayName" : "Katie Semon",
+    "screenName" : "Katie Semon"
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "xa9s-efj2",
+    "displayName" : "Katie Semon",
+    "screenName" : "Katie Semon"
+  }
+}, {
+  "id" : "umyw-skfs",
+  "name" : "Yellowfin Tuna Imports 2010 Kilos ESRI Heat Map",
+  "averageRating" : 0,
+  "createdAt" : 1290020949,
+  "displayType" : "map",
+  "downloadCount" : 31,
+  "newBackend" : false,
+  "numberOfComments" : 0,
+  "oid" : 305697,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1302998589,
+  "publicationGroup" : 220138,
+  "publicationStage" : "published",
+  "rowsUpdatedAt" : 1313894921,
+  "rowsUpdatedBy" : "xa9s-efj2",
+  "signed" : false,
+  "tableId" : 220138,
+  "totalTimesRated" : 0,
+  "viewCount" : 60,
+  "viewLastModified" : 1290026003,
+  "viewType" : "tabular",
+  "grants" : [ {
+    "inherited" : true,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "rdfSubject" : "0"
+  },
+  "owner" : {
+    "id" : "xa9s-efj2",
+    "displayName" : "Katie Semon",
+    "screenName" : "Katie Semon"
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "xa9s-efj2",
+    "displayName" : "Katie Semon",
+    "screenName" : "Katie Semon"
+  }
+}, {
+  "id" : "8d6m-j3zd",
+  "name" : "Yellowfin Tuna Imports 2010 Dollars Google Heat Map",
+  "averageRating" : 0,
+  "createdAt" : 1290021236,
+  "displayType" : "map",
+  "downloadCount" : 29,
+  "newBackend" : false,
+  "numberOfComments" : 0,
+  "oid" : 305699,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1302998589,
+  "publicationGroup" : 220138,
+  "publicationStage" : "published",
+  "rowsUpdatedAt" : 1313894921,
+  "rowsUpdatedBy" : "xa9s-efj2",
+  "signed" : false,
+  "tableId" : 220138,
+  "totalTimesRated" : 0,
+  "viewCount" : 55,
+  "viewLastModified" : 1294695488,
+  "viewType" : "tabular",
+  "grants" : [ {
+    "inherited" : true,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "owner" : {
+    "id" : "xa9s-efj2",
+    "displayName" : "Katie Semon",
+    "screenName" : "Katie Semon"
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "xa9s-efj2",
+    "displayName" : "Katie Semon",
+    "screenName" : "Katie Semon"
+  }
+}, {
+  "id" : "vb62-daca",
+  "name" : "Yellowfin Tuna Imports 2010 Kilos Tree Map",
+  "averageRating" : 0,
+  "createdAt" : 1290023623,
+  "displayType" : "chart",
+  "downloadCount" : 32,
+  "newBackend" : false,
+  "numberOfComments" : 0,
+  "oid" : 305709,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1302998589,
+  "publicationGroup" : 220138,
+  "publicationStage" : "published",
+  "rowsUpdatedAt" : 1313894921,
+  "rowsUpdatedBy" : "xa9s-efj2",
+  "signed" : false,
+  "tableId" : 220138,
+  "totalTimesRated" : 0,
+  "viewCount" : 57,
+  "viewLastModified" : 1290023623,
+  "viewType" : "tabular",
+  "grants" : [ {
+    "inherited" : true,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "owner" : {
+    "id" : "xa9s-efj2",
+    "displayName" : "Katie Semon",
+    "screenName" : "Katie Semon"
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "xa9s-efj2",
+    "displayName" : "Katie Semon",
+    "screenName" : "Katie Semon"
+  }
+}, {
+  "id" : "pv29-y2nu",
+  "name" : "Biomass Population Abundance Atlantic Stripped Bass",
+  "averageRating" : 0,
+  "createdAt" : 1287625615,
+  "description" : "Female spawning stock",
+  "downloadCount" : 24,
+  "newBackend" : false,
+  "numberOfComments" : 0,
+  "oid" : 304753,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1302998589,
+  "publicationGroup" : 219720,
+  "publicationStage" : "published",
+  "rowsUpdatedAt" : 1313894921,
+  "rowsUpdatedBy" : "42xz-xf5v",
+  "signed" : false,
+  "tableId" : 219720,
+  "totalTimesRated" : 0,
+  "viewCount" : 67,
+  "viewLastModified" : 1313894921,
+  "viewType" : "tabular",
+  "grants" : [ {
+    "inherited" : true,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "owner" : {
+    "id" : "42xz-xf5v",
+    "displayName" : "Kate Naughten",
+    "profileImageUrlLarge" : "/images/profile/6527/6943/Kate_N_large.jpg",
+    "profileImageUrlMedium" : "/images/profile/6527/6943/Kate_N_thumb.jpg",
+    "profileImageUrlSmall" : "/images/profile/6527/6943/Kate_N_tiny.jpg",
+    "screenName" : "Kate Naughten"
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "42xz-xf5v",
+    "displayName" : "Kate Naughten",
+    "profileImageUrlLarge" : "/images/profile/6527/6943/Kate_N_large.jpg",
+    "profileImageUrlMedium" : "/images/profile/6527/6943/Kate_N_thumb.jpg",
+    "profileImageUrlSmall" : "/images/profile/6527/6943/Kate_N_tiny.jpg",
+    "screenName" : "Kate Naughten"
+  },
+  "flags" : [ "default" ]
+}, {
+  "id" : "2pry-242f",
+  "name" : "Yellowfin Tuna Imports 2010 Kilos Google Heat Map",
+  "averageRating" : 0,
+  "createdAt" : 1290020851,
+  "displayType" : "map",
+  "downloadCount" : 23,
+  "newBackend" : false,
+  "numberOfComments" : 0,
+  "oid" : 305696,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1302998589,
+  "publicationGroup" : 220138,
+  "publicationStage" : "published",
+  "rowsUpdatedAt" : 1313894921,
+  "rowsUpdatedBy" : "xa9s-efj2",
+  "signed" : false,
+  "tableId" : 220138,
+  "totalTimesRated" : 0,
+  "viewCount" : 62,
+  "viewLastModified" : 1290022405,
+  "viewType" : "tabular",
+  "grants" : [ {
+    "inherited" : true,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "rdfSubject" : "0"
+  },
+  "owner" : {
+    "id" : "xa9s-efj2",
+    "displayName" : "Katie Semon",
+    "screenName" : "Katie Semon"
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "xa9s-efj2",
+    "displayName" : "Katie Semon",
+    "screenName" : "Katie Semon"
+  }
+}, {
+  "id" : "rqsz-ptvn",
+  "name" : "West Coast Commercial Albacore Landings By State",
+  "averageRating" : 0,
+  "createdAt" : 1287614751,
+  "downloadCount" : 25,
+  "newBackend" : false,
+  "numberOfComments" : 0,
+  "oid" : 304725,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1302998589,
+  "publicationGroup" : 219702,
+  "publicationStage" : "published",
+  "rowsUpdatedAt" : 1313894920,
+  "rowsUpdatedBy" : "42xz-xf5v",
+  "signed" : false,
+  "tableId" : 219702,
+  "totalTimesRated" : 0,
+  "viewCount" : 77,
+  "viewLastModified" : 1313894920,
+  "viewType" : "tabular",
+  "grants" : [ {
+    "inherited" : true,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "owner" : {
+    "id" : "42xz-xf5v",
+    "displayName" : "Kate Naughten",
+    "profileImageUrlLarge" : "/images/profile/6527/6943/Kate_N_large.jpg",
+    "profileImageUrlMedium" : "/images/profile/6527/6943/Kate_N_thumb.jpg",
+    "profileImageUrlSmall" : "/images/profile/6527/6943/Kate_N_tiny.jpg",
+    "screenName" : "Kate Naughten"
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "42xz-xf5v",
+    "displayName" : "Kate Naughten",
+    "profileImageUrlLarge" : "/images/profile/6527/6943/Kate_N_large.jpg",
+    "profileImageUrlMedium" : "/images/profile/6527/6943/Kate_N_thumb.jpg",
+    "profileImageUrlSmall" : "/images/profile/6527/6943/Kate_N_tiny.jpg",
+    "screenName" : "Kate Naughten"
+  },
+  "flags" : [ "default" ]
+}, {
+  "id" : "dsra-9cve",
+  "name" : "Yellowfin Tuna Imports 2010 Dollars ESRI Heat Map",
+  "averageRating" : 0,
+  "createdAt" : 1290021351,
+  "displayType" : "map",
+  "downloadCount" : 35,
+  "newBackend" : false,
+  "numberOfComments" : 0,
+  "oid" : 305700,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1302998589,
+  "publicationGroup" : 220138,
+  "publicationStage" : "published",
+  "rowsUpdatedAt" : 1313894921,
+  "rowsUpdatedBy" : "xa9s-efj2",
+  "signed" : false,
+  "tableId" : 220138,
+  "totalTimesRated" : 0,
+  "viewCount" : 51,
+  "viewLastModified" : 1290021352,
+  "viewType" : "tabular",
+  "grants" : [ {
+    "inherited" : true,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "owner" : {
+    "id" : "xa9s-efj2",
+    "displayName" : "Katie Semon",
+    "screenName" : "Katie Semon"
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "xa9s-efj2",
+    "displayName" : "Katie Semon",
+    "screenName" : "Katie Semon"
+  }
+}, {
+  "id" : "ct7m-fugr",
+  "name" : "Atlantic Swordfish Landing By State 2009 Chart",
+  "averageRating" : 0,
+  "createdAt" : 1299775968,
+  "displayType" : "chart",
+  "downloadCount" : 4,
+  "newBackend" : false,
+  "numberOfComments" : 0,
+  "oid" : 313915,
+  "publicationAppendEnabled" : true,
+  "publicationDate" : 1302998589,
+  "publicationGroup" : 226198,
+  "publicationStage" : "published",
+  "rowsUpdatedAt" : 1313894923,
+  "rowsUpdatedBy" : "b9n8-g9sn",
+  "signed" : false,
+  "tableId" : 226198,
+  "totalTimesRated" : 0,
+  "viewCount" : 86,
+  "viewLastModified" : 1300200898,
+  "viewType" : "tabular",
+  "grants" : [ {
+    "inherited" : false,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "availableDisplayTypes" : [ "chart", "table", "fatrow", "page" ]
+  },
+  "owner" : {
+    "id" : "b9n8-g9sn",
+    "displayName" : "Todd Stavish",
+    "profileImageUrlLarge" : "/images/profile/6203/4159/iphone_225_large.jpeg",
+    "profileImageUrlMedium" : "/images/profile/6203/4159/iphone_225_thumb.jpeg",
+    "profileImageUrlSmall" : "/images/profile/6203/4159/iphone_225_tiny.jpeg",
+    "screenName" : "Todd Stavish"
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "b9n8-g9sn",
+    "displayName" : "Todd Stavish",
+    "profileImageUrlLarge" : "/images/profile/6203/4159/iphone_225_large.jpeg",
+    "profileImageUrlMedium" : "/images/profile/6203/4159/iphone_225_thumb.jpeg",
+    "profileImageUrlSmall" : "/images/profile/6203/4159/iphone_225_tiny.jpeg",
+    "screenName" : "Todd Stavish"
+  }
+}, {
+  "id" : "tidd-8b5g",
+  "name" : "Atlantic striped bass biomass",
+  "averageRating" : 0,
+  "createdAt" : 1288811260,
+  "description" : "Female spawning stock",
+  "displayType" : "chart",
+  "downloadCount" : 66,
+  "modifyingViewUid" : "pv29-y2nu",
+  "newBackend" : false,
+  "numberOfComments" : 0,
+  "oid" : 305245,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1302998589,
+  "publicationGroup" : 219720,
+  "publicationStage" : "published",
+  "rowsUpdatedAt" : 1313894921,
+  "rowsUpdatedBy" : "42xz-xf5v",
+  "signed" : false,
+  "tableId" : 219720,
+  "totalTimesRated" : 0,
+  "viewCount" : 75,
+  "viewLastModified" : 1288811261,
+  "viewType" : "tabular",
+  "grants" : [ {
+    "inherited" : true,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "owner" : {
+    "id" : "xa9s-efj2",
+    "displayName" : "Katie Semon",
+    "screenName" : "Katie Semon"
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "42xz-xf5v",
+    "displayName" : "Kate Naughten",
+    "profileImageUrlLarge" : "/images/profile/6527/6943/Kate_N_large.jpg",
+    "profileImageUrlMedium" : "/images/profile/6527/6943/Kate_N_thumb.jpg",
+    "profileImageUrlSmall" : "/images/profile/6527/6943/Kate_N_tiny.jpg",
+    "screenName" : "Kate Naughten"
+  }
+}, {
+  "id" : "3ew9-ytfn",
+  "name" : "Yellowfin Tuna Imports 2010 Dollars Tree Map",
+  "averageRating" : 0,
+  "createdAt" : 1290023700,
+  "displayType" : "chart",
+  "downloadCount" : 34,
+  "newBackend" : false,
+  "numberOfComments" : 0,
+  "oid" : 305710,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1302998589,
+  "publicationGroup" : 220138,
+  "publicationStage" : "published",
+  "rowsUpdatedAt" : 1313894921,
+  "rowsUpdatedBy" : "xa9s-efj2",
+  "signed" : false,
+  "tableId" : 220138,
+  "totalTimesRated" : 0,
+  "viewCount" : 46,
+  "viewLastModified" : 1290023700,
+  "viewType" : "tabular",
+  "grants" : [ {
+    "inherited" : true,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "owner" : {
+    "id" : "xa9s-efj2",
+    "displayName" : "Katie Semon",
+    "screenName" : "Katie Semon"
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "xa9s-efj2",
+    "displayName" : "Katie Semon",
+    "screenName" : "Katie Semon"
+  }
+}, {
+  "id" : "3d35-gssv",
+  "name" : "2009 Atlantic Bass Landing ESRI Heatmap",
+  "averageRating" : 0,
+  "createdAt" : 1290536455,
+  "displayType" : "map",
+  "downloadCount" : 39,
+  "newBackend" : false,
+  "numberOfComments" : 0,
+  "oid" : 305891,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1302998589,
+  "publicationGroup" : 220145,
+  "publicationStage" : "published",
+  "rowsUpdatedAt" : 1313894922,
+  "rowsUpdatedBy" : "xa9s-efj2",
+  "signed" : false,
+  "tableId" : 220145,
+  "totalTimesRated" : 0,
+  "viewCount" : 89,
+  "viewLastModified" : 1294697039,
+  "viewType" : "tabular",
+  "grants" : [ {
+    "inherited" : true,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "owner" : {
+    "id" : "xa9s-efj2",
+    "displayName" : "Katie Semon",
+    "screenName" : "Katie Semon"
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "xa9s-efj2",
+    "displayName" : "Katie Semon",
+    "screenName" : "Katie Semon"
+  }
+}, {
+  "id" : "kjmn-br3h",
+  "name" : "California Commercial Albacore Landings By Year Treemap",
+  "averageRating" : 0,
+  "createdAt" : 1287616623,
+  "displayType" : "chart",
+  "downloadCount" : 33,
+  "newBackend" : false,
+  "numberOfComments" : 0,
+  "oid" : 304728,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1302998589,
+  "publicationGroup" : 219702,
+  "publicationStage" : "published",
+  "rowsUpdatedAt" : 1313894920,
+  "rowsUpdatedBy" : "42xz-xf5v",
+  "signed" : false,
+  "tableId" : 219702,
+  "totalTimesRated" : 0,
+  "viewCount" : 87,
+  "viewLastModified" : 1287616689,
+  "viewType" : "tabular",
+  "grants" : [ {
+    "inherited" : true,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "owner" : {
+    "id" : "42xz-xf5v",
+    "displayName" : "Kate Naughten",
+    "profileImageUrlLarge" : "/images/profile/6527/6943/Kate_N_large.jpg",
+    "profileImageUrlMedium" : "/images/profile/6527/6943/Kate_N_thumb.jpg",
+    "profileImageUrlSmall" : "/images/profile/6527/6943/Kate_N_tiny.jpg",
+    "screenName" : "Kate Naughten"
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "42xz-xf5v",
+    "displayName" : "Kate Naughten",
+    "profileImageUrlLarge" : "/images/profile/6527/6943/Kate_N_large.jpg",
+    "profileImageUrlMedium" : "/images/profile/6527/6943/Kate_N_thumb.jpg",
+    "profileImageUrlSmall" : "/images/profile/6527/6943/Kate_N_tiny.jpg",
+    "screenName" : "Kate Naughten"
+  }
+}, {
+  "id" : "ntiq-gbi7",
+  "name" : "North Atlantic Swordfish Biomass And Landings 1950-2009",
+  "averageRating" : 0,
+  "createdAt" : 1299770939,
+  "displayType" : "table",
+  "downloadCount" : 20,
+  "newBackend" : false,
+  "numberOfComments" : 0,
+  "oid" : 313907,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1302998589,
+  "publicationGroup" : 226194,
+  "publicationStage" : "published",
+  "rowsUpdatedAt" : 1313894923,
+  "rowsUpdatedBy" : "b9n8-g9sn",
+  "signed" : false,
+  "tableId" : 226194,
+  "totalTimesRated" : 0,
+  "viewCount" : 69,
+  "viewLastModified" : 1313894923,
+  "viewType" : "tabular",
+  "grants" : [ {
+    "inherited" : true,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "availableDisplayTypes" : [ "table", "fatrow", "page" ]
+  },
+  "owner" : {
+    "id" : "b9n8-g9sn",
+    "displayName" : "Todd Stavish",
+    "profileImageUrlLarge" : "/images/profile/6203/4159/iphone_225_large.jpeg",
+    "profileImageUrlMedium" : "/images/profile/6203/4159/iphone_225_thumb.jpeg",
+    "profileImageUrlSmall" : "/images/profile/6203/4159/iphone_225_tiny.jpeg",
+    "screenName" : "Todd Stavish"
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "b9n8-g9sn",
+    "displayName" : "Todd Stavish",
+    "profileImageUrlLarge" : "/images/profile/6203/4159/iphone_225_large.jpeg",
+    "profileImageUrlMedium" : "/images/profile/6203/4159/iphone_225_thumb.jpeg",
+    "profileImageUrlSmall" : "/images/profile/6203/4159/iphone_225_tiny.jpeg",
+    "screenName" : "Todd Stavish"
+  },
+  "flags" : [ "default" ]
+}, {
+  "id" : "aktw-beqm",
+  "name" : "U.S. Seafood Imports from Major Areas, 2009, by Volume Pie Chart",
+  "averageRating" : 0,
+  "createdAt" : 1287623426,
+  "displayType" : "chart",
+  "downloadCount" : 42,
+  "newBackend" : false,
+  "numberOfComments" : 0,
+  "oid" : 304736,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1302998589,
+  "publicationGroup" : 219707,
+  "publicationStage" : "published",
+  "rowsUpdatedAt" : 1313894920,
+  "rowsUpdatedBy" : "42xz-xf5v",
+  "signed" : false,
+  "tableId" : 219707,
+  "totalTimesRated" : 0,
+  "viewCount" : 73,
+  "viewLastModified" : 1287623459,
+  "viewType" : "tabular",
+  "grants" : [ {
+    "inherited" : true,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "rdfSubject" : "0"
+  },
+  "owner" : {
+    "id" : "42xz-xf5v",
+    "displayName" : "Kate Naughten",
+    "profileImageUrlLarge" : "/images/profile/6527/6943/Kate_N_large.jpg",
+    "profileImageUrlMedium" : "/images/profile/6527/6943/Kate_N_thumb.jpg",
+    "profileImageUrlSmall" : "/images/profile/6527/6943/Kate_N_tiny.jpg",
+    "screenName" : "Kate Naughten"
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "42xz-xf5v",
+    "displayName" : "Kate Naughten",
+    "profileImageUrlLarge" : "/images/profile/6527/6943/Kate_N_large.jpg",
+    "profileImageUrlMedium" : "/images/profile/6527/6943/Kate_N_thumb.jpg",
+    "profileImageUrlSmall" : "/images/profile/6527/6943/Kate_N_tiny.jpg",
+    "screenName" : "Kate Naughten"
+  }
+}, {
+  "id" : "jyr3-phc2",
+  "name" : "Kathleen Semon",
+  "averageRating" : 0,
+  "createdAt" : 1300130215,
+  "displayType" : "form",
+  "downloadCount" : 1,
+  "modifyingViewUid" : "ct7m-fugr",
+  "newBackend" : false,
+  "numberOfComments" : 0,
+  "oid" : 314007,
+  "publicationAppendEnabled" : true,
+  "publicationDate" : 1302998589,
+  "publicationGroup" : 226198,
+  "publicationStage" : "published",
+  "rowsUpdatedAt" : 1313894923,
+  "rowsUpdatedBy" : "b9n8-g9sn",
+  "signed" : false,
+  "tableId" : 226198,
+  "totalTimesRated" : 0,
+  "viewCount" : 62,
+  "viewLastModified" : 1300130215,
+  "viewType" : "tabular",
+  "grants" : [ {
+    "inherited" : false,
+    "type" : "contributor",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "availableDisplayTypes" : [ "form" ]
+  },
+  "owner" : {
+    "id" : "xa9s-efj2",
+    "displayName" : "Katie Semon",
+    "screenName" : "Katie Semon"
+  },
+  "rights" : [ "read", "add" ],
+  "tableAuthor" : {
+    "id" : "b9n8-g9sn",
+    "displayName" : "Todd Stavish",
+    "profileImageUrlLarge" : "/images/profile/6203/4159/iphone_225_large.jpeg",
+    "profileImageUrlMedium" : "/images/profile/6203/4159/iphone_225_thumb.jpeg",
+    "profileImageUrlSmall" : "/images/profile/6203/4159/iphone_225_tiny.jpeg",
+    "screenName" : "Todd Stavish"
+  }
+}, {
+  "id" : "8rfz-v8dm",
+  "name" : "West Coast Commercial Albacore Landings By State (2009)",
+  "averageRating" : 0,
+  "createdAt" : 1287612756,
+  "downloadCount" : 23,
+  "newBackend" : false,
+  "numberOfComments" : 0,
+  "oid" : 304721,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1302998589,
+  "publicationGroup" : 219699,
+  "publicationStage" : "published",
+  "rowsUpdatedAt" : 1313894920,
+  "rowsUpdatedBy" : "42xz-xf5v",
+  "signed" : false,
+  "tableId" : 219699,
+  "totalTimesRated" : 0,
+  "viewCount" : 51,
+  "viewLastModified" : 1313894920,
+  "viewType" : "tabular",
+  "grants" : [ {
+    "inherited" : true,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "owner" : {
+    "id" : "42xz-xf5v",
+    "displayName" : "Kate Naughten",
+    "profileImageUrlLarge" : "/images/profile/6527/6943/Kate_N_large.jpg",
+    "profileImageUrlMedium" : "/images/profile/6527/6943/Kate_N_thumb.jpg",
+    "profileImageUrlSmall" : "/images/profile/6527/6943/Kate_N_tiny.jpg",
+    "screenName" : "Kate Naughten"
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "42xz-xf5v",
+    "displayName" : "Kate Naughten",
+    "profileImageUrlLarge" : "/images/profile/6527/6943/Kate_N_large.jpg",
+    "profileImageUrlMedium" : "/images/profile/6527/6943/Kate_N_thumb.jpg",
+    "profileImageUrlSmall" : "/images/profile/6527/6943/Kate_N_tiny.jpg",
+    "screenName" : "Kate Naughten"
+  },
+  "flags" : [ "default" ]
+}, {
+  "id" : "pwkk-d7ug",
+  "name" : "Top 10 Countries That Export Swordfish To The United States 2010",
+  "averageRating" : 0,
+  "createdAt" : 1299773716,
+  "displayType" : "map",
+  "downloadCount" : 5,
+  "newBackend" : false,
+  "numberOfComments" : 0,
+  "oid" : 313911,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1302998589,
+  "publicationGroup" : 226195,
+  "publicationStage" : "published",
+  "rowsUpdatedAt" : 1313894923,
+  "rowsUpdatedBy" : "b9n8-g9sn",
+  "signed" : false,
+  "tableId" : 226195,
+  "totalTimesRated" : 0,
+  "viewCount" : 69,
+  "viewLastModified" : 1300200944,
+  "viewType" : "tabular",
+  "grants" : [ {
+    "inherited" : false,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "availableDisplayTypes" : [ "map", "table", "fatrow", "page" ]
+  },
+  "owner" : {
+    "id" : "b9n8-g9sn",
+    "displayName" : "Todd Stavish",
+    "profileImageUrlLarge" : "/images/profile/6203/4159/iphone_225_large.jpeg",
+    "profileImageUrlMedium" : "/images/profile/6203/4159/iphone_225_thumb.jpeg",
+    "profileImageUrlSmall" : "/images/profile/6203/4159/iphone_225_tiny.jpeg",
+    "screenName" : "Todd Stavish"
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "b9n8-g9sn",
+    "displayName" : "Todd Stavish",
+    "profileImageUrlLarge" : "/images/profile/6203/4159/iphone_225_large.jpeg",
+    "profileImageUrlMedium" : "/images/profile/6203/4159/iphone_225_thumb.jpeg",
+    "profileImageUrlSmall" : "/images/profile/6203/4159/iphone_225_tiny.jpeg",
+    "screenName" : "Todd Stavish"
+  }
+}, {
+  "id" : "dbz4-fq45",
+  "name" : "West Coast Commercial Albacore Landings By State Heatmap (2009)",
+  "averageRating" : 0,
+  "createdAt" : 1287612959,
+  "displayType" : "map",
+  "downloadCount" : 28,
+  "newBackend" : false,
+  "numberOfComments" : 0,
+  "oid" : 304722,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1302998589,
+  "publicationGroup" : 219699,
+  "publicationStage" : "published",
+  "rowsUpdatedAt" : 1313894920,
+  "rowsUpdatedBy" : "42xz-xf5v",
+  "signed" : false,
+  "tableId" : 219699,
+  "totalTimesRated" : 0,
+  "viewCount" : 71,
+  "viewLastModified" : 1287613015,
+  "viewType" : "tabular",
+  "grants" : [ {
+    "inherited" : true,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "owner" : {
+    "id" : "42xz-xf5v",
+    "displayName" : "Kate Naughten",
+    "profileImageUrlLarge" : "/images/profile/6527/6943/Kate_N_large.jpg",
+    "profileImageUrlMedium" : "/images/profile/6527/6943/Kate_N_thumb.jpg",
+    "profileImageUrlSmall" : "/images/profile/6527/6943/Kate_N_tiny.jpg",
+    "screenName" : "Kate Naughten"
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "42xz-xf5v",
+    "displayName" : "Kate Naughten",
+    "profileImageUrlLarge" : "/images/profile/6527/6943/Kate_N_large.jpg",
+    "profileImageUrlMedium" : "/images/profile/6527/6943/Kate_N_thumb.jpg",
+    "profileImageUrlSmall" : "/images/profile/6527/6943/Kate_N_tiny.jpg",
+    "screenName" : "Kate Naughten"
+  }
+}, {
+  "id" : "tqvq-7uur",
+  "name" : "Biomass Population Abundance Atlantic Stripped Bass Chart",
+  "averageRating" : 0,
+  "createdAt" : 1287626969,
+  "description" : "Female spawning stock",
+  "displayType" : "chart",
+  "downloadCount" : 28,
+  "newBackend" : false,
+  "numberOfComments" : 0,
+  "oid" : 304754,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1302998589,
+  "publicationGroup" : 219720,
+  "publicationStage" : "published",
+  "rowsUpdatedAt" : 1313894921,
+  "rowsUpdatedBy" : "42xz-xf5v",
+  "signed" : false,
+  "tableId" : 219720,
+  "totalTimesRated" : 0,
+  "viewCount" : 52,
+  "viewLastModified" : 1287626970,
+  "viewType" : "tabular",
+  "grants" : [ {
+    "inherited" : true,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "owner" : {
+    "id" : "42xz-xf5v",
+    "displayName" : "Kate Naughten",
+    "profileImageUrlLarge" : "/images/profile/6527/6943/Kate_N_large.jpg",
+    "profileImageUrlMedium" : "/images/profile/6527/6943/Kate_N_thumb.jpg",
+    "profileImageUrlSmall" : "/images/profile/6527/6943/Kate_N_tiny.jpg",
+    "screenName" : "Kate Naughten"
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "42xz-xf5v",
+    "displayName" : "Kate Naughten",
+    "profileImageUrlLarge" : "/images/profile/6527/6943/Kate_N_large.jpg",
+    "profileImageUrlMedium" : "/images/profile/6527/6943/Kate_N_thumb.jpg",
+    "profileImageUrlSmall" : "/images/profile/6527/6943/Kate_N_tiny.jpg",
+    "screenName" : "Kate Naughten"
+  }
+}, {
+  "id" : "ss3t-xn64",
+  "name" : "NFWPCAS public comments",
+  "averageRating" : 0,
+  "createdAt" : 1326255057,
+  "displayType" : "form",
+  "downloadCount" : 0,
+  "indexUpdatedAt" : 1379303658,
+  "newBackend" : false,
+  "numberOfComments" : 0,
+  "oid" : 511931,
+  "publicationAppendEnabled" : true,
+  "publicationDate" : 1331019315,
+  "publicationGroup" : 272044,
+  "publicationStage" : "published",
+  "rowsUpdatedAt" : 1379300831,
+  "signed" : false,
+  "tableId" : 292821,
+  "totalTimesRated" : 0,
+  "viewCount" : 83,
+  "viewLastModified" : 1326817584,
+  "viewType" : "tabular",
+  "grants" : [ {
+    "inherited" : false,
+    "type" : "contributor",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "renderTypeConfig" : {
+      "visible" : {
+        "form" : true
+      }
+    },
+    "availableDisplayTypes" : [ "form" ]
+  },
+  "owner" : {
+    "id" : "r5m2-5pds",
+    "displayName" : "Cam Caldwell",
+    "profileImageUrlLarge" : "/images/profile/1863/8401/camheadshot2_large.jpg",
+    "profileImageUrlMedium" : "/images/profile/1863/8401/camheadshot2_thumb.jpg",
+    "profileImageUrlSmall" : "/images/profile/1863/8401/camheadshot2_tiny.jpg",
+    "screenName" : "Cam Caldwell",
+    "rights" : [ "create_datasets", "edit_others_datasets", "edit_sdp", "edit_site_theme", "moderate_comments", "manage_users", "chown_datasets", "edit_nominations", "approve_nominations", "feature_items", "federations", "manage_stories", "manage_approval", "change_configurations", "view_domain", "view_others_datasets", "edit_pages", "create_pages", "view_goals", "view_dashboards", "edit_goals", "edit_dashboards", "create_dashboards" ],
+    "flags" : [ "admin" ]
+  },
+  "rights" : [ "add" ],
+  "tableAuthor" : {
+    "id" : "rxrp-uh5x",
+    "displayName" : "Matt Lettrich",
+    "screenName" : "Matt Lettrich"
+  }
+}, {
+  "id" : "vfiw-rmae",
+  "name" : "Photo Directory Map",
+  "averageRating" : 0,
+  "createdAt" : 1298494326,
+  "displayType" : "map",
+  "downloadCount" : 18,
+  "indexUpdatedAt" : 1370961370,
+  "newBackend" : false,
+  "numberOfComments" : 0,
+  "oid" : 313382,
+  "publicationAppendEnabled" : true,
+  "publicationDate" : 1302998589,
+  "publicationGroup" : 225873,
+  "publicationStage" : "published",
+  "rowsUpdatedAt" : 1370959585,
+  "rowsUpdatedBy" : "i7d8-sc4w",
+  "signed" : false,
+  "tableId" : 225873,
+  "totalTimesRated" : 0,
+  "viewCount" : 52,
+  "viewLastModified" : 1298494326,
+  "viewType" : "tabular",
+  "grants" : [ {
+    "inherited" : true,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "availableDisplayTypes" : [ "map", "table", "fatrow", "page" ]
+  },
+  "owner" : {
+    "id" : "i7d8-sc4w",
+    "displayName" : "Chris Metcalf",
+    "profileImageUrlLarge" : "/images/profile/3353/3169/project_managing_reasonably_sized_large.jpg",
+    "profileImageUrlMedium" : "/images/profile/3353/3169/project_managing_reasonably_sized_thumb.jpg",
+    "profileImageUrlSmall" : "/images/profile/3353/3169/project_managing_reasonably_sized_tiny.jpg",
+    "screenName" : "Chris Metcalf",
+    "rights" : [ "create_datasets", "edit_others_datasets", "edit_sdp", "edit_site_theme", "moderate_comments", "manage_users", "chown_datasets", "edit_nominations", "approve_nominations", "feature_items", "federations", "manage_stories", "manage_approval", "change_configurations", "view_domain", "view_others_datasets", "edit_pages", "create_pages", "view_goals", "view_dashboards", "edit_goals", "edit_dashboards", "create_dashboards" ],
+    "flags" : [ "admin" ]
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "i7d8-sc4w",
+    "displayName" : "Chris Metcalf",
+    "profileImageUrlLarge" : "/images/profile/3353/3169/project_managing_reasonably_sized_large.jpg",
+    "profileImageUrlMedium" : "/images/profile/3353/3169/project_managing_reasonably_sized_thumb.jpg",
+    "profileImageUrlSmall" : "/images/profile/3353/3169/project_managing_reasonably_sized_tiny.jpg",
+    "screenName" : "Chris Metcalf",
+    "rights" : [ "create_datasets", "edit_others_datasets", "edit_sdp", "edit_site_theme", "moderate_comments", "manage_users", "chown_datasets", "edit_nominations", "approve_nominations", "feature_items", "federations", "manage_stories", "manage_approval", "change_configurations", "view_domain", "view_others_datasets", "edit_pages", "create_pages", "view_goals", "view_dashboards", "edit_goals", "edit_dashboards", "create_dashboards" ],
+    "flags" : [ "admin" ]
+  }
+}, {
+  "id" : "vzhf-2tdt",
+  "name" : "Swordfish Imports To The United States 2010 Top 10",
+  "averageRating" : 0,
+  "createdAt" : 1299774110,
+  "displayType" : "chart",
+  "downloadCount" : 1,
+  "newBackend" : false,
+  "numberOfComments" : 0,
+  "oid" : 313912,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1302998589,
+  "publicationGroup" : 226195,
+  "publicationStage" : "published",
+  "rowsUpdatedAt" : 1313894923,
+  "rowsUpdatedBy" : "b9n8-g9sn",
+  "signed" : false,
+  "tableId" : 226195,
+  "totalTimesRated" : 0,
+  "viewCount" : 62,
+  "viewLastModified" : 1300200922,
+  "viewType" : "tabular",
+  "grants" : [ {
+    "inherited" : false,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "availableDisplayTypes" : [ "chart", "table", "fatrow", "page" ]
+  },
+  "owner" : {
+    "id" : "b9n8-g9sn",
+    "displayName" : "Todd Stavish",
+    "profileImageUrlLarge" : "/images/profile/6203/4159/iphone_225_large.jpeg",
+    "profileImageUrlMedium" : "/images/profile/6203/4159/iphone_225_thumb.jpeg",
+    "profileImageUrlSmall" : "/images/profile/6203/4159/iphone_225_tiny.jpeg",
+    "screenName" : "Todd Stavish"
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "b9n8-g9sn",
+    "displayName" : "Todd Stavish",
+    "profileImageUrlLarge" : "/images/profile/6203/4159/iphone_225_large.jpeg",
+    "profileImageUrlMedium" : "/images/profile/6203/4159/iphone_225_thumb.jpeg",
+    "profileImageUrlSmall" : "/images/profile/6203/4159/iphone_225_tiny.jpeg",
+    "screenName" : "Todd Stavish"
+  }
+}, {
+  "id" : "a6jr-uzdv",
+  "name" : "Atl. Striped Bass Biomass_edit",
+  "averageRating" : 0,
+  "createdAt" : 1288811615,
+  "description" : "Female spawning stock",
+  "downloadCount" : 32,
+  "modifyingViewUid" : "pv29-y2nu",
+  "newBackend" : false,
+  "numberOfComments" : 0,
+  "oid" : 305246,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1302998589,
+  "publicationGroup" : 219720,
+  "publicationStage" : "published",
+  "rowsUpdatedAt" : 1313894921,
+  "rowsUpdatedBy" : "42xz-xf5v",
+  "signed" : false,
+  "tableId" : 219720,
+  "totalTimesRated" : 0,
+  "viewCount" : 46,
+  "viewLastModified" : 1288811664,
+  "viewType" : "tabular",
+  "grants" : [ {
+    "inherited" : true,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "owner" : {
+    "id" : "xa9s-efj2",
+    "displayName" : "Katie Semon",
+    "screenName" : "Katie Semon"
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "42xz-xf5v",
+    "displayName" : "Kate Naughten",
+    "profileImageUrlLarge" : "/images/profile/6527/6943/Kate_N_large.jpg",
+    "profileImageUrlMedium" : "/images/profile/6527/6943/Kate_N_thumb.jpg",
+    "profileImageUrlSmall" : "/images/profile/6527/6943/Kate_N_tiny.jpg",
+    "screenName" : "Kate Naughten"
+  }
+}, {
+  "id" : "yyte-mac3",
+  "name" : "Oyster Comments",
+  "averageRating" : 0,
+  "category" : "Government",
+  "createdAt" : 1328562837,
+  "description" : "This data set contains the pre-approved comments received by the NOAA Aquaculture Program on NOAA's Draft National AQ Policy",
+  "displayType" : "table",
+  "downloadCount" : 23,
+  "indexUpdatedAt" : 1387738926,
+  "modifyingViewUid" : "8xv7-hh6w",
+  "newBackend" : false,
+  "numberOfComments" : 0,
+  "oid" : 466850,
+  "publicationAppendEnabled" : true,
+  "publicationDate" : 1302998589,
+  "publicationGroup" : 221107,
+  "publicationStage" : "published",
+  "rowsUpdatedAt" : 1387738265,
+  "rowsUpdatedBy" : "42xz-xf5v",
+  "signed" : false,
+  "tableId" : 221107,
+  "totalTimesRated" : 0,
+  "viewCount" : 20,
+  "viewLastModified" : 1328562837,
+  "viewType" : "tabular",
+  "grants" : [ {
+    "inherited" : true,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "renderTypeConfig" : {
+      "visible" : {
+        "table" : true
+      }
+    },
+    "availableDisplayTypes" : [ "table", "fatrow", "page" ],
+    "rdfSubject" : "0",
+    "rowIdentifier" : "0"
+  },
+  "owner" : {
+    "id" : "r5m2-5pds",
+    "displayName" : "Cam Caldwell",
+    "profileImageUrlLarge" : "/images/profile/1863/8401/camheadshot2_large.jpg",
+    "profileImageUrlMedium" : "/images/profile/1863/8401/camheadshot2_thumb.jpg",
+    "profileImageUrlSmall" : "/images/profile/1863/8401/camheadshot2_tiny.jpg",
+    "screenName" : "Cam Caldwell",
+    "rights" : [ "create_datasets", "edit_others_datasets", "edit_sdp", "edit_site_theme", "moderate_comments", "manage_users", "chown_datasets", "edit_nominations", "approve_nominations", "feature_items", "federations", "manage_stories", "manage_approval", "change_configurations", "view_domain", "view_others_datasets", "edit_pages", "create_pages", "view_goals", "view_dashboards", "edit_goals", "edit_dashboards", "create_dashboards" ],
+    "flags" : [ "admin" ]
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "42xz-xf5v",
+    "displayName" : "Kate Naughten",
+    "profileImageUrlLarge" : "/images/profile/6527/6943/Kate_N_large.jpg",
+    "profileImageUrlMedium" : "/images/profile/6527/6943/Kate_N_thumb.jpg",
+    "profileImageUrlSmall" : "/images/profile/6527/6943/Kate_N_tiny.jpg",
+    "screenName" : "Kate Naughten"
+  },
+  "tags" : [ "aquaculture", "policy", "noaa", "draft", "for approval" ]
+}, {
+  "id" : "eyih-mpz7",
+  "name" : "New England Fishery Management Review (Phase I) Submission Form",
+  "averageRating" : 0,
+  "createdAt" : 1303331109,
+  "displayType" : "form",
+  "downloadCount" : 0,
+  "newBackend" : false,
+  "numberOfComments" : 0,
+  "oid" : 315687,
+  "publicationAppendEnabled" : true,
+  "publicationDate" : 1303330257,
+  "publicationGroup" : 226860,
+  "publicationStage" : "published",
+  "rowsUpdatedAt" : 1313894924,
+  "rowsUpdatedBy" : "42xz-xf5v",
+  "signed" : false,
+  "tableId" : 226860,
+  "totalTimesRated" : 0,
+  "viewCount" : 69,
+  "viewLastModified" : 1303409731,
+  "viewType" : "tabular",
+  "grants" : [ {
+    "inherited" : false,
+    "type" : "contributor",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "availableDisplayTypes" : [ "form" ]
+  },
+  "owner" : {
+    "id" : "42xz-xf5v",
+    "displayName" : "Kate Naughten",
+    "profileImageUrlLarge" : "/images/profile/6527/6943/Kate_N_large.jpg",
+    "profileImageUrlMedium" : "/images/profile/6527/6943/Kate_N_thumb.jpg",
+    "profileImageUrlSmall" : "/images/profile/6527/6943/Kate_N_tiny.jpg",
+    "screenName" : "Kate Naughten"
+  },
+  "rights" : [ "add" ],
+  "tableAuthor" : {
+    "id" : "42xz-xf5v",
+    "displayName" : "Kate Naughten",
+    "profileImageUrlLarge" : "/images/profile/6527/6943/Kate_N_large.jpg",
+    "profileImageUrlMedium" : "/images/profile/6527/6943/Kate_N_thumb.jpg",
+    "profileImageUrlSmall" : "/images/profile/6527/6943/Kate_N_tiny.jpg",
+    "screenName" : "Kate Naughten"
+  }
+}, {
+  "id" : "fbtr-8rgb",
+  "name" : "2009 Atlantic Cod Landings",
+  "averageRating" : 0,
+  "category" : "Government",
+  "createdAt" : 1294694461,
+  "downloadCount" : 17,
+  "newBackend" : false,
+  "numberOfComments" : 0,
+  "oid" : 307382,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1302998589,
+  "publicationGroup" : 220964,
+  "publicationStage" : "published",
+  "rowsUpdatedAt" : 1313894922,
+  "rowsUpdatedBy" : "xa9s-efj2",
+  "signed" : false,
+  "tableId" : 220964,
+  "totalTimesRated" : 0,
+  "viewCount" : 47,
+  "viewLastModified" : 1313894922,
+  "viewType" : "tabular",
+  "grants" : [ {
+    "inherited" : true,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "owner" : {
+    "id" : "xa9s-efj2",
+    "displayName" : "Katie Semon",
+    "screenName" : "Katie Semon"
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "xa9s-efj2",
+    "displayName" : "Katie Semon",
+    "screenName" : "Katie Semon"
+  },
+  "flags" : [ "default" ]
+}, {
+  "id" : "3535-hwnc",
+  "name" : "West Coast Commercial Albacore Landings By State Timeline",
+  "averageRating" : 0,
+  "createdAt" : 1287615549,
+  "displayType" : "chart",
+  "downloadCount" : 26,
+  "newBackend" : false,
+  "numberOfComments" : 0,
+  "oid" : 304726,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1302998589,
+  "publicationGroup" : 219702,
+  "publicationStage" : "published",
+  "rowsUpdatedAt" : 1313894920,
+  "rowsUpdatedBy" : "42xz-xf5v",
+  "signed" : false,
+  "tableId" : 219702,
+  "totalTimesRated" : 0,
+  "viewCount" : 61,
+  "viewLastModified" : 1287616571,
+  "viewType" : "tabular",
+  "grants" : [ {
+    "inherited" : true,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "owner" : {
+    "id" : "42xz-xf5v",
+    "displayName" : "Kate Naughten",
+    "profileImageUrlLarge" : "/images/profile/6527/6943/Kate_N_large.jpg",
+    "profileImageUrlMedium" : "/images/profile/6527/6943/Kate_N_thumb.jpg",
+    "profileImageUrlSmall" : "/images/profile/6527/6943/Kate_N_tiny.jpg",
+    "screenName" : "Kate Naughten"
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "42xz-xf5v",
+    "displayName" : "Kate Naughten",
+    "profileImageUrlLarge" : "/images/profile/6527/6943/Kate_N_large.jpg",
+    "profileImageUrlMedium" : "/images/profile/6527/6943/Kate_N_thumb.jpg",
+    "profileImageUrlSmall" : "/images/profile/6527/6943/Kate_N_tiny.jpg",
+    "screenName" : "Kate Naughten"
+  }
+}, {
+  "id" : "e3jm-4j4a",
+  "name" : "Asia Imports",
+  "averageRating" : 0,
+  "createdAt" : 1287673407,
+  "downloadCount" : 28,
+  "newBackend" : false,
+  "numberOfComments" : 0,
+  "oid" : 304766,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1302998589,
+  "publicationGroup" : 219707,
+  "publicationStage" : "published",
+  "rowsUpdatedAt" : 1313894920,
+  "rowsUpdatedBy" : "42xz-xf5v",
+  "signed" : false,
+  "tableId" : 219707,
+  "totalTimesRated" : 0,
+  "viewCount" : 49,
+  "viewLastModified" : 1287673408,
+  "viewType" : "tabular",
+  "grants" : [ {
+    "inherited" : true,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "rdfSubject" : "0"
+  },
+  "owner" : {
+    "id" : "42xz-xf5v",
+    "displayName" : "Kate Naughten",
+    "profileImageUrlLarge" : "/images/profile/6527/6943/Kate_N_large.jpg",
+    "profileImageUrlMedium" : "/images/profile/6527/6943/Kate_N_thumb.jpg",
+    "profileImageUrlSmall" : "/images/profile/6527/6943/Kate_N_tiny.jpg",
+    "screenName" : "Kate Naughten"
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "42xz-xf5v",
+    "displayName" : "Kate Naughten",
+    "profileImageUrlLarge" : "/images/profile/6527/6943/Kate_N_large.jpg",
+    "profileImageUrlMedium" : "/images/profile/6527/6943/Kate_N_thumb.jpg",
+    "profileImageUrlSmall" : "/images/profile/6527/6943/Kate_N_tiny.jpg",
+    "screenName" : "Kate Naughten"
+  }
+}, {
+  "id" : "6je6-y2cb",
+  "name" : "Test Form",
+  "averageRating" : 0,
+  "category" : "Government",
+  "createdAt" : 1328562542,
+  "description" : "This data set contains the pre-approved comments received by the NOAA Aquaculture Program on NOAA's Draft National AQ Policy",
+  "displayType" : "form",
+  "downloadCount" : 1,
+  "indexUpdatedAt" : 1387738942,
+  "modifyingViewUid" : "8xv7-hh6w",
+  "newBackend" : false,
+  "numberOfComments" : 0,
+  "oid" : 466847,
+  "publicationAppendEnabled" : true,
+  "publicationDate" : 1302998589,
+  "publicationGroup" : 221107,
+  "publicationStage" : "published",
+  "rowsUpdatedAt" : 1387738265,
+  "rowsUpdatedBy" : "42xz-xf5v",
+  "signed" : false,
+  "tableId" : 221107,
+  "totalTimesRated" : 0,
+  "viewCount" : 22,
+  "viewLastModified" : 1328562542,
+  "viewType" : "tabular",
+  "grants" : [ {
+    "inherited" : false,
+    "type" : "contributor",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "renderTypeConfig" : {
+      "visible" : {
+        "form" : true
+      }
+    },
+    "availableDisplayTypes" : [ "form" ],
+    "rdfSubject" : "0",
+    "rowIdentifier" : "0"
+  },
+  "owner" : {
+    "id" : "r5m2-5pds",
+    "displayName" : "Cam Caldwell",
+    "profileImageUrlLarge" : "/images/profile/1863/8401/camheadshot2_large.jpg",
+    "profileImageUrlMedium" : "/images/profile/1863/8401/camheadshot2_thumb.jpg",
+    "profileImageUrlSmall" : "/images/profile/1863/8401/camheadshot2_tiny.jpg",
+    "screenName" : "Cam Caldwell",
+    "rights" : [ "create_datasets", "edit_others_datasets", "edit_sdp", "edit_site_theme", "moderate_comments", "manage_users", "chown_datasets", "edit_nominations", "approve_nominations", "feature_items", "federations", "manage_stories", "manage_approval", "change_configurations", "view_domain", "view_others_datasets", "edit_pages", "create_pages", "view_goals", "view_dashboards", "edit_goals", "edit_dashboards", "create_dashboards" ],
+    "flags" : [ "admin" ]
+  },
+  "rights" : [ "read", "add" ],
+  "tableAuthor" : {
+    "id" : "42xz-xf5v",
+    "displayName" : "Kate Naughten",
+    "profileImageUrlLarge" : "/images/profile/6527/6943/Kate_N_large.jpg",
+    "profileImageUrlMedium" : "/images/profile/6527/6943/Kate_N_thumb.jpg",
+    "profileImageUrlSmall" : "/images/profile/6527/6943/Kate_N_tiny.jpg",
+    "screenName" : "Kate Naughten"
+  },
+  "tags" : [ "aquaculture", "policy", "noaa", "draft", "for approval" ]
+}, {
+  "id" : "8bp2-3ckv",
+  "name" : "IWG-OA Strategy Comments 1-20",
+  "averageRating" : 0,
+  "createdAt" : 1339079241,
+  "displayType" : "form",
+  "downloadCount" : 1,
+  "newBackend" : false,
+  "numberOfComments" : 0,
+  "oid" : 808578,
+  "publicationAppendEnabled" : true,
+  "publicationDate" : 1340895026,
+  "publicationGroup" : 354694,
+  "publicationStage" : "published",
+  "rowsUpdatedAt" : 1347324143,
+  "signed" : false,
+  "tableId" : 369865,
+  "totalTimesRated" : 0,
+  "viewCount" : 57,
+  "viewLastModified" : 1339180687,
+  "viewType" : "tabular",
+  "grants" : [ {
+    "inherited" : false,
+    "type" : "contributor",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "renderTypeConfig" : {
+      "visible" : {
+        "form" : true
+      }
+    },
+    "availableDisplayTypes" : [ "form" ]
+  },
+  "owner" : {
+    "id" : "kjps-v8at",
+    "displayName" : "Jennifer Howard",
+    "screenName" : "Jennifer Howard"
+  },
+  "rights" : [ "read", "add" ],
+  "tableAuthor" : {
+    "id" : "kjps-v8at",
+    "displayName" : "Jennifer Howard",
+    "screenName" : "Jennifer Howard"
+  }
+}, {
+  "id" : "bk5p-gm39",
+  "name" : "NFWPCAS Form",
+  "averageRating" : 0,
+  "createdAt" : 1326390065,
+  "displayType" : "form",
+  "downloadCount" : 0,
+  "indexUpdatedAt" : 1379303827,
+  "newBackend" : false,
+  "numberOfComments" : 0,
+  "oid" : 511929,
+  "publicationAppendEnabled" : true,
+  "publicationDate" : 1331019315,
+  "publicationGroup" : 272044,
+  "publicationStage" : "published",
+  "rowsUpdatedAt" : 1379300831,
+  "signed" : false,
+  "tableId" : 292821,
+  "totalTimesRated" : 0,
+  "viewCount" : 51,
+  "viewLastModified" : 1328541945,
+  "viewType" : "tabular",
+  "grants" : [ {
+    "inherited" : false,
+    "type" : "contributor",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "renderTypeConfig" : {
+      "visible" : {
+        "form" : true
+      }
+    },
+    "availableDisplayTypes" : [ "form" ]
+  },
+  "owner" : {
+    "id" : "r5m2-5pds",
+    "displayName" : "Cam Caldwell",
+    "profileImageUrlLarge" : "/images/profile/1863/8401/camheadshot2_large.jpg",
+    "profileImageUrlMedium" : "/images/profile/1863/8401/camheadshot2_thumb.jpg",
+    "profileImageUrlSmall" : "/images/profile/1863/8401/camheadshot2_tiny.jpg",
+    "screenName" : "Cam Caldwell",
+    "rights" : [ "create_datasets", "edit_others_datasets", "edit_sdp", "edit_site_theme", "moderate_comments", "manage_users", "chown_datasets", "edit_nominations", "approve_nominations", "feature_items", "federations", "manage_stories", "manage_approval", "change_configurations", "view_domain", "view_others_datasets", "edit_pages", "create_pages", "view_goals", "view_dashboards", "edit_goals", "edit_dashboards", "create_dashboards" ],
+    "flags" : [ "admin" ]
+  },
+  "rights" : [ "add" ],
+  "tableAuthor" : {
+    "id" : "rxrp-uh5x",
+    "displayName" : "Matt Lettrich",
+    "screenName" : "Matt Lettrich"
+  }
+}, {
+  "id" : "dt58-7hm6",
+  "name" : "Photo Directory Submission Form",
+  "averageRating" : 0,
+  "createdAt" : 1298486155,
+  "displayType" : "form",
+  "downloadCount" : 25,
+  "indexUpdatedAt" : 1370961358,
+  "newBackend" : false,
+  "numberOfComments" : 0,
+  "oid" : 313375,
+  "publicationAppendEnabled" : true,
+  "publicationDate" : 1302998589,
+  "publicationGroup" : 225873,
+  "publicationStage" : "published",
+  "rowsUpdatedAt" : 1370959585,
+  "rowsUpdatedBy" : "i7d8-sc4w",
+  "signed" : false,
+  "tableId" : 225873,
+  "totalTimesRated" : 0,
+  "viewCount" : 42,
+  "viewLastModified" : 1298486155,
+  "viewType" : "tabular",
+  "grants" : [ {
+    "inherited" : false,
+    "type" : "contributor",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "availableDisplayTypes" : [ "form" ]
+  },
+  "owner" : {
+    "id" : "i7d8-sc4w",
+    "displayName" : "Chris Metcalf",
+    "profileImageUrlLarge" : "/images/profile/3353/3169/project_managing_reasonably_sized_large.jpg",
+    "profileImageUrlMedium" : "/images/profile/3353/3169/project_managing_reasonably_sized_thumb.jpg",
+    "profileImageUrlSmall" : "/images/profile/3353/3169/project_managing_reasonably_sized_tiny.jpg",
+    "screenName" : "Chris Metcalf",
+    "rights" : [ "create_datasets", "edit_others_datasets", "edit_sdp", "edit_site_theme", "moderate_comments", "manage_users", "chown_datasets", "edit_nominations", "approve_nominations", "feature_items", "federations", "manage_stories", "manage_approval", "change_configurations", "view_domain", "view_others_datasets", "edit_pages", "create_pages", "view_goals", "view_dashboards", "edit_goals", "edit_dashboards", "create_dashboards" ],
+    "flags" : [ "admin" ]
+  },
+  "rights" : [ "read", "add" ],
+  "tableAuthor" : {
+    "id" : "i7d8-sc4w",
+    "displayName" : "Chris Metcalf",
+    "profileImageUrlLarge" : "/images/profile/3353/3169/project_managing_reasonably_sized_large.jpg",
+    "profileImageUrlMedium" : "/images/profile/3353/3169/project_managing_reasonably_sized_thumb.jpg",
+    "profileImageUrlSmall" : "/images/profile/3353/3169/project_managing_reasonably_sized_tiny.jpg",
+    "screenName" : "Chris Metcalf",
+    "rights" : [ "create_datasets", "edit_others_datasets", "edit_sdp", "edit_site_theme", "moderate_comments", "manage_users", "chown_datasets", "edit_nominations", "approve_nominations", "feature_items", "federations", "manage_stories", "manage_approval", "change_configurations", "view_domain", "view_others_datasets", "edit_pages", "create_pages", "view_goals", "view_dashboards", "edit_goals", "edit_dashboards", "create_dashboards" ],
+    "flags" : [ "admin" ]
+  }
+}, {
+  "id" : "snwy-jufw",
+  "name" : "Test",
+  "averageRating" : 0,
+  "category" : "Government",
+  "createdAt" : 1328561970,
+  "description" : "This data set contains the pre-approved comments received by the NOAA Aquaculture Program on NOAA's Draft National AQ Policy",
+  "displayType" : "form",
+  "downloadCount" : 0,
+  "indexUpdatedAt" : 1387738937,
+  "modifyingViewUid" : "3ei4-ucj2",
+  "newBackend" : false,
+  "numberOfComments" : 0,
+  "oid" : 466806,
+  "publicationAppendEnabled" : true,
+  "publicationDate" : 1302998589,
+  "publicationGroup" : 221107,
+  "publicationStage" : "published",
+  "rowsUpdatedAt" : 1387738265,
+  "rowsUpdatedBy" : "42xz-xf5v",
+  "signed" : false,
+  "tableId" : 221107,
+  "totalTimesRated" : 0,
+  "viewCount" : 19,
+  "viewLastModified" : 1328561970,
+  "viewType" : "tabular",
+  "grants" : [ {
+    "inherited" : false,
+    "type" : "contributor",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "renderTypeConfig" : {
+      "visible" : {
+        "form" : true
+      }
+    },
+    "availableDisplayTypes" : [ "form" ],
+    "rdfSubject" : "0",
+    "rowIdentifier" : "0"
+  },
+  "owner" : {
+    "id" : "r5m2-5pds",
+    "displayName" : "Cam Caldwell",
+    "profileImageUrlLarge" : "/images/profile/1863/8401/camheadshot2_large.jpg",
+    "profileImageUrlMedium" : "/images/profile/1863/8401/camheadshot2_thumb.jpg",
+    "profileImageUrlSmall" : "/images/profile/1863/8401/camheadshot2_tiny.jpg",
+    "screenName" : "Cam Caldwell",
+    "rights" : [ "create_datasets", "edit_others_datasets", "edit_sdp", "edit_site_theme", "moderate_comments", "manage_users", "chown_datasets", "edit_nominations", "approve_nominations", "feature_items", "federations", "manage_stories", "manage_approval", "change_configurations", "view_domain", "view_others_datasets", "edit_pages", "create_pages", "view_goals", "view_dashboards", "edit_goals", "edit_dashboards", "create_dashboards" ],
+    "flags" : [ "admin" ]
+  },
+  "rights" : [ "add" ],
+  "tableAuthor" : {
+    "id" : "42xz-xf5v",
+    "displayName" : "Kate Naughten",
+    "profileImageUrlLarge" : "/images/profile/6527/6943/Kate_N_large.jpg",
+    "profileImageUrlMedium" : "/images/profile/6527/6943/Kate_N_thumb.jpg",
+    "profileImageUrlSmall" : "/images/profile/6527/6943/Kate_N_tiny.jpg",
+    "screenName" : "Kate Naughten"
+  },
+  "tags" : [ "aquaculture", "policy", "noaa", "draft", "for approval" ]
+}, {
+  "id" : "75ex-jqey",
+  "name" : "New view",
+  "averageRating" : 0,
+  "createdAt" : 1289849164,
+  "displayType" : "map",
+  "downloadCount" : 30,
+  "modifyingViewUid" : "8rfz-v8dm",
+  "newBackend" : false,
+  "numberOfComments" : 0,
+  "oid" : 305576,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1302998589,
+  "publicationGroup" : 219699,
+  "publicationStage" : "published",
+  "rowsUpdatedAt" : 1313894920,
+  "rowsUpdatedBy" : "42xz-xf5v",
+  "signed" : false,
+  "tableId" : 219699,
+  "totalTimesRated" : 0,
+  "viewCount" : 57,
+  "viewLastModified" : 1289922139,
+  "viewType" : "tabular",
+  "grants" : [ {
+    "inherited" : true,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "owner" : {
+    "id" : "xa9s-efj2",
+    "displayName" : "Katie Semon",
+    "screenName" : "Katie Semon"
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "42xz-xf5v",
+    "displayName" : "Kate Naughten",
+    "profileImageUrlLarge" : "/images/profile/6527/6943/Kate_N_large.jpg",
+    "profileImageUrlMedium" : "/images/profile/6527/6943/Kate_N_thumb.jpg",
+    "profileImageUrlSmall" : "/images/profile/6527/6943/Kate_N_tiny.jpg",
+    "screenName" : "Kate Naughten"
+  }
+}, {
+  "id" : "ry69-y3n9",
+  "name" : "NFWPCAS comment entry",
+  "averageRating" : 0,
+  "createdAt" : 1326818107,
+  "displayType" : "form",
+  "downloadCount" : 0,
+  "indexUpdatedAt" : 1379303624,
+  "modifyingViewUid" : "vfe6-fhue",
+  "newBackend" : false,
+  "numberOfComments" : 0,
+  "oid" : 511932,
+  "publicationAppendEnabled" : true,
+  "publicationDate" : 1331019315,
+  "publicationGroup" : 272044,
+  "publicationStage" : "published",
+  "rowsUpdatedAt" : 1379300831,
+  "signed" : false,
+  "tableId" : 292821,
+  "totalTimesRated" : 0,
+  "viewCount" : 50,
+  "viewLastModified" : 1328542008,
+  "viewType" : "tabular",
+  "grants" : [ {
+    "inherited" : false,
+    "type" : "contributor",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "renderTypeConfig" : {
+      "visible" : {
+        "form" : true
+      }
+    },
+    "availableDisplayTypes" : [ "form" ]
+  },
+  "owner" : {
+    "id" : "rxrp-uh5x",
+    "displayName" : "Matt Lettrich",
+    "screenName" : "Matt Lettrich"
+  },
+  "rights" : [ "add" ],
+  "tableAuthor" : {
+    "id" : "rxrp-uh5x",
+    "displayName" : "Matt Lettrich",
+    "screenName" : "Matt Lettrich"
+  }
+}, {
+  "id" : "siec-fntn",
+  "name" : "2009 Imports",
+  "averageRating" : 0,
+  "createdAt" : 1289942216,
+  "displayType" : "chart",
+  "downloadCount" : 25,
+  "modifyingViewUid" : "myn8-s5jm",
+  "newBackend" : false,
+  "numberOfComments" : 0,
+  "oid" : 305639,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1302998589,
+  "publicationGroup" : 219707,
+  "publicationStage" : "published",
+  "rowsUpdatedAt" : 1313894920,
+  "rowsUpdatedBy" : "42xz-xf5v",
+  "signed" : false,
+  "tableId" : 219707,
+  "totalTimesRated" : 0,
+  "viewCount" : 29,
+  "viewLastModified" : 1289942216,
+  "viewType" : "tabular",
+  "grants" : [ {
+    "inherited" : true,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "rdfSubject" : "0"
+  },
+  "owner" : {
+    "id" : "xa9s-efj2",
+    "displayName" : "Katie Semon",
+    "screenName" : "Katie Semon"
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "42xz-xf5v",
+    "displayName" : "Kate Naughten",
+    "profileImageUrlLarge" : "/images/profile/6527/6943/Kate_N_large.jpg",
+    "profileImageUrlMedium" : "/images/profile/6527/6943/Kate_N_thumb.jpg",
+    "profileImageUrlSmall" : "/images/profile/6527/6943/Kate_N_tiny.jpg",
+    "screenName" : "Kate Naughten"
+  }
+}, {
+  "id" : "mpj3-7nzp",
+  "name" : "California Something or Other",
+  "averageRating" : 0,
+  "createdAt" : 1287674928,
+  "downloadCount" : 33,
+  "newBackend" : false,
+  "numberOfComments" : 0,
+  "oid" : 304767,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1302998589,
+  "publicationGroup" : 219722,
+  "publicationStage" : "published",
+  "rowsUpdatedAt" : 1313894921,
+  "rowsUpdatedBy" : "42xz-xf5v",
+  "signed" : false,
+  "tableId" : 219722,
+  "totalTimesRated" : 0,
+  "viewCount" : 44,
+  "viewLastModified" : 1313894921,
+  "viewType" : "tabular",
+  "grants" : [ {
+    "inherited" : false,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "owner" : {
+    "id" : "42xz-xf5v",
+    "displayName" : "Kate Naughten",
+    "profileImageUrlLarge" : "/images/profile/6527/6943/Kate_N_large.jpg",
+    "profileImageUrlMedium" : "/images/profile/6527/6943/Kate_N_thumb.jpg",
+    "profileImageUrlSmall" : "/images/profile/6527/6943/Kate_N_tiny.jpg",
+    "screenName" : "Kate Naughten"
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "42xz-xf5v",
+    "displayName" : "Kate Naughten",
+    "profileImageUrlLarge" : "/images/profile/6527/6943/Kate_N_large.jpg",
+    "profileImageUrlMedium" : "/images/profile/6527/6943/Kate_N_thumb.jpg",
+    "profileImageUrlSmall" : "/images/profile/6527/6943/Kate_N_tiny.jpg",
+    "screenName" : "Kate Naughten"
+  },
+  "flags" : [ "default" ]
+}, {
+  "id" : "rf3c-zn56",
+  "name" : "2009 Striped Bass Landings",
+  "averageRating" : 0,
+  "createdAt" : 1290023766,
+  "displayType" : "map",
+  "downloadCount" : 29,
+  "newBackend" : false,
+  "numberOfComments" : 0,
+  "oid" : 305711,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1302998589,
+  "publicationGroup" : 220145,
+  "publicationStage" : "published",
+  "rowsUpdatedAt" : 1313894922,
+  "rowsUpdatedBy" : "xa9s-efj2",
+  "signed" : false,
+  "tableId" : 220145,
+  "totalTimesRated" : 0,
+  "viewCount" : 41,
+  "viewLastModified" : 1290536272,
+  "viewType" : "tabular",
+  "grants" : [ {
+    "inherited" : true,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "owner" : {
+    "id" : "xa9s-efj2",
+    "displayName" : "Katie Semon",
+    "screenName" : "Katie Semon"
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "xa9s-efj2",
+    "displayName" : "Katie Semon",
+    "screenName" : "Katie Semon"
+  }
+}, {
+  "id" : "3v83-kzkn",
+  "name" : "Form1",
+  "averageRating" : 0,
+  "createdAt" : 1338833637,
+  "displayType" : "form",
+  "downloadCount" : 0,
+  "newBackend" : false,
+  "numberOfComments" : 0,
+  "oid" : 738587,
+  "publicationAppendEnabled" : true,
+  "publicationDate" : 1338834287,
+  "publicationGroup" : 354189,
+  "publicationStage" : "published",
+  "rowsUpdatedAt" : 1338834366,
+  "rowsUpdatedBy" : "rxrp-uh5x",
+  "signed" : false,
+  "tableId" : 354198,
+  "totalTimesRated" : 0,
+  "viewCount" : 25,
+  "viewLastModified" : 1338833637,
+  "viewType" : "tabular",
+  "grants" : [ {
+    "inherited" : false,
+    "type" : "contributor",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "renderTypeConfig" : {
+      "visible" : {
+        "form" : true
+      }
+    },
+    "availableDisplayTypes" : [ "form" ]
+  },
+  "owner" : {
+    "id" : "rxrp-uh5x",
+    "displayName" : "Matt Lettrich",
+    "screenName" : "Matt Lettrich"
+  },
+  "rights" : [ "add" ],
+  "tableAuthor" : {
+    "id" : "rxrp-uh5x",
+    "displayName" : "Matt Lettrich",
+    "screenName" : "Matt Lettrich"
+  }
+}, {
+  "id" : "yagy-vrjn",
+  "name" : "WW_test1",
+  "averageRating" : 0,
+  "createdAt" : 1290023935,
+  "displayType" : "map",
+  "downloadCount" : 27,
+  "newBackend" : false,
+  "numberOfComments" : 0,
+  "oid" : 305713,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1302998589,
+  "publicationGroup" : 220145,
+  "publicationStage" : "published",
+  "rowsUpdatedAt" : 1313894922,
+  "rowsUpdatedBy" : "xa9s-efj2",
+  "signed" : false,
+  "tableId" : 220145,
+  "totalTimesRated" : 0,
+  "viewCount" : 35,
+  "viewLastModified" : 1290536272,
+  "viewType" : "tabular",
+  "grants" : [ {
+    "inherited" : true,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "owner" : {
+    "id" : "xa9s-efj2",
+    "displayName" : "Katie Semon",
+    "screenName" : "Katie Semon"
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "xa9s-efj2",
+    "displayName" : "Katie Semon",
+    "screenName" : "Katie Semon"
+  }
+}, {
+  "id" : "r6eb-dcdq",
+  "name" : "U.S. Seafood Imports and Exports, in Value (in thousands dollars) Area Chart",
+  "averageRating" : 0,
+  "createdAt" : 1287624470,
+  "displayType" : "chart",
+  "downloadCount" : 26,
+  "newBackend" : false,
+  "numberOfComments" : 0,
+  "oid" : 304742,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1302998589,
+  "publicationGroup" : 219709,
+  "publicationStage" : "published",
+  "rowsUpdatedAt" : 1313894920,
+  "rowsUpdatedBy" : "42xz-xf5v",
+  "signed" : false,
+  "tableId" : 219709,
+  "totalTimesRated" : 0,
+  "viewCount" : 31,
+  "viewLastModified" : 1287624660,
+  "viewType" : "tabular",
+  "grants" : [ {
+    "inherited" : true,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "owner" : {
+    "id" : "42xz-xf5v",
+    "displayName" : "Kate Naughten",
+    "profileImageUrlLarge" : "/images/profile/6527/6943/Kate_N_large.jpg",
+    "profileImageUrlMedium" : "/images/profile/6527/6943/Kate_N_thumb.jpg",
+    "profileImageUrlSmall" : "/images/profile/6527/6943/Kate_N_tiny.jpg",
+    "screenName" : "Kate Naughten"
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "42xz-xf5v",
+    "displayName" : "Kate Naughten",
+    "profileImageUrlLarge" : "/images/profile/6527/6943/Kate_N_large.jpg",
+    "profileImageUrlMedium" : "/images/profile/6527/6943/Kate_N_thumb.jpg",
+    "profileImageUrlSmall" : "/images/profile/6527/6943/Kate_N_tiny.jpg",
+    "screenName" : "Kate Naughten"
+  }
+}, {
+  "id" : "d4zr-4gi6",
+  "name" : "Cod Map",
+  "averageRating" : 0,
+  "category" : "Government",
+  "createdAt" : 1294697688,
+  "displayType" : "map",
+  "downloadCount" : 16,
+  "newBackend" : false,
+  "numberOfComments" : 0,
+  "oid" : 307386,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1302998589,
+  "publicationGroup" : 220964,
+  "publicationStage" : "published",
+  "rowsUpdatedAt" : 1313894922,
+  "rowsUpdatedBy" : "xa9s-efj2",
+  "signed" : false,
+  "tableId" : 220964,
+  "totalTimesRated" : 0,
+  "viewCount" : 34,
+  "viewLastModified" : 1294697731,
+  "viewType" : "tabular",
+  "grants" : [ {
+    "inherited" : true,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "owner" : {
+    "id" : "xa9s-efj2",
+    "displayName" : "Katie Semon",
+    "screenName" : "Katie Semon"
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "xa9s-efj2",
+    "displayName" : "Katie Semon",
+    "screenName" : "Katie Semon"
+  }
+} ]

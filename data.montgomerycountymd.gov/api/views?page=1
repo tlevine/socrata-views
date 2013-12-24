@@ -1,0 +1,5685 @@
+[ {
+  "id" : "jydr-f7vx",
+  "name" : "Employee Salaries",
+  "averageRating" : 0,
+  "category" : "Government",
+  "createdAt" : 1352830749,
+  "description" : "Salary information for all active, permanent employees of Montgomery County, MD as of January 15, 2013.  This data will be updated annually.",
+  "displayType" : "table",
+  "downloadCount" : 3126,
+  "indexUpdatedAt" : 1383401008,
+  "newBackend" : false,
+  "numberOfComments" : 0,
+  "oid" : 2351119,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1359248117,
+  "publicationGroup" : 497717,
+  "publicationStage" : "published",
+  "rowClass" : "",
+  "rowsUpdatedAt" : 1359248052,
+  "rowsUpdatedBy" : "yr5d-z7h2",
+  "signed" : false,
+  "tableId" : 638442,
+  "totalTimesRated" : 0,
+  "viewCount" : 33883,
+  "viewLastModified" : 1379073970,
+  "viewType" : "tabular",
+  "disabledFeatureFlags" : [ "allow_comments" ],
+  "grants" : [ {
+    "inherited" : true,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "renderTypeConfig" : {
+      "visible" : {
+        "table" : true
+      }
+    },
+    "availableDisplayTypes" : [ "table", "fatrow", "page" ],
+    "thumbnail" : {
+      "page" : {
+        "created" : true,
+        "filename" : "page.png-1418.757.0.0.png",
+        "selection" : {
+          "height" : 757,
+          "width" : 1418,
+          "y1" : 0,
+          "y2" : 757,
+          "x2" : 1418,
+          "x1" : 0
+        }
+      }
+    },
+    "rdfSubject" : "0",
+    "rowIdentifier" : "0",
+    "rdfClass" : ""
+  },
+  "owner" : {
+    "id" : "yr5d-z7h2",
+    "displayName" : "Montgomery County, MD",
+    "screenName" : "Montgomery County, MD"
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "yr5d-z7h2",
+    "displayName" : "Montgomery County, MD",
+    "screenName" : "Montgomery County, MD"
+  },
+  "tags" : [ "salary employee government" ],
+  "flags" : [ "default" ]
+}, {
+  "id" : "5pue-gfbe",
+  "name" : "Food Inspection",
+  "averageRating" : 0,
+  "category" : "Community",
+  "createdAt" : 1346262260,
+  "description" : "The Licensure & Regulatory Services Program inspects all licensed retail food establishments in Montgomery County for a variety of reasons (e.g. obtaining a permit, regular check-ups, or in response to complaints.) Included in this overall surveillance are two types of inspections that are conducted on a routine basis. The first type, a comprehensive inspection, is a thorough inspection that evaluates the sanitation, maintenance, and food service operations for the facility. This inspection includes many of the items found in the monitoring inspection, such as critical temperatures and food handling procedures. The second type, a monitoring inspection, involves checking the food service operation for critical food temperatures, equipment temperatures, and general food handling / cleanliness practices. While monitoring inspections are not as detailed as environmental inspections, they help ensure that the facility is operating safely throughout the year.\r\n\r\nThe frequency of inspections is based on the food-borne illness risks associated with the food being processed at a facility. Based on the risk each facility is designated as high, medium, or low priority. High priority risk facilities prepare food products a day or more in advance or utilize any combination of two or more processes such as a cooking, cooling, reheating and hot holding food over four hours. Moderate priority risk facilities prepare and cook food products which are served immediately or within four hours. A low priority risk facility serve prepackage foods that are not potentially hazardous.\r\n\r\nFor high risk facilities, a monitoring inspection is conducted at least twice a year, and moderate risk facilities are inspected at least once a year. High and moderate risk facilities also receive at least one comprehensive inspection every year. Low risk priority facilities typically receive one comprehensive inspection every two years.\r\n\r\n(C) Denotes a Critical Violation. A Critical Violation means a food safety requirement that requires immediate correction. Failure for immediate correction results in cessation of some or all food operations or closure of the facility until violation is able to be corrected.\r\n\r\nUpdate Frequency:  Daily",
+  "displayType" : "table",
+  "downloadCount" : 346,
+  "indexUpdatedAt" : 1387694383,
+  "newBackend" : false,
+  "numberOfComments" : 0,
+  "oid" : 6290078,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1383754913,
+  "publicationGroup" : 414372,
+  "publicationStage" : "published",
+  "rowsUpdatedAt" : 1387691504,
+  "rowsUpdatedBy" : "ajn4-zy65",
+  "signed" : false,
+  "state" : "normal",
+  "tableId" : 1328830,
+  "totalTimesRated" : 0,
+  "viewCount" : 10155,
+  "viewLastModified" : 1383803668,
+  "viewType" : "tabular",
+  "disabledFeatureFlags" : [ "allow_comments" ],
+  "grants" : [ {
+    "inherited" : true,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "renderTypeConfig" : {
+      "visible" : {
+        "table" : true
+      }
+    },
+    "availableDisplayTypes" : [ "table", "fatrow", "page" ],
+    "thumbnail" : {
+      "page" : {
+        "created" : true,
+        "filename" : "page.png-1022.545.13.4.png",
+        "selection" : {
+          "height" : 545,
+          "width" : 1022,
+          "y1" : 4,
+          "y2" : 549,
+          "x2" : 1035,
+          "x1" : 13
+        }
+      }
+    },
+    "rdfSubject" : "0",
+    "filterCondition" : {
+      "value" : "AND",
+      "type" : "operator",
+      "metadata" : {
+        "unifiedVersion" : 2,
+        "advanced" : true
+      }
+    }
+  },
+  "owner" : {
+    "id" : "ajn4-zy65",
+    "displayName" : "MCG ESB Service",
+    "screenName" : "MCG ESB Service"
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "ajn4-zy65",
+    "displayName" : "MCG ESB Service",
+    "screenName" : "MCG ESB Service"
+  },
+  "tags" : [ "food", "inspection", "violations", "closures" ],
+  "flags" : [ "default" ]
+}, {
+  "id" : "cw2m-r2zp",
+  "name" : "Completed MC311 Service Requests by Topic (since 07/01/2012)",
+  "averageRating" : 0,
+  "category" : "Community",
+  "createdAt" : 1352397244,
+  "description" : "Pie chart display of all closed MC311 Service Requests received (via email or phone) since July 1, 2012 - grouped by their Solution Topic.",
+  "displayType" : "chart",
+  "downloadCount" : 140,
+  "indexUpdatedAt" : 1387694715,
+  "moderationStatus" : true,
+  "modifyingViewUid" : "xtyh-brr2",
+  "newBackend" : false,
+  "numberOfComments" : 0,
+  "oid" : 6051659,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1382535773,
+  "publicationGroup" : 407468,
+  "publicationStage" : "published",
+  "rowsUpdatedAt" : 1387693053,
+  "rowsUpdatedBy" : "ajn4-zy65",
+  "signed" : false,
+  "state" : "normal",
+  "tableId" : 1277582,
+  "totalTimesRated" : 0,
+  "viewCount" : 5089,
+  "viewLastModified" : 1357214981,
+  "viewType" : "tabular",
+  "grants" : [ {
+    "inherited" : true,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "renderTypeConfig" : {
+      "visible" : {
+        "chart" : true,
+        "table" : true
+      }
+    },
+    "availableDisplayTypes" : [ "chart", "table", "fatrow", "page" ],
+    "thumbnail" : {
+      "page" : {
+        "created" : true,
+        "filename" : "page.png-910.485.299.18.png",
+        "selection" : {
+          "height" : 485,
+          "width" : 910,
+          "y1" : 18,
+          "y2" : 503,
+          "x2" : 1209,
+          "x1" : 299
+        }
+      }
+    },
+    "rdfSubject" : "0"
+  },
+  "owner" : {
+    "id" : "yr5d-z7h2",
+    "displayName" : "Montgomery County, MD",
+    "screenName" : "Montgomery County, MD"
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "ajn4-zy65",
+    "displayName" : "MCG ESB Service",
+    "screenName" : "MCG ESB Service"
+  },
+  "tags" : [ "mc311", "services" ]
+}, {
+  "id" : "vis9-s3xr",
+  "name" : "Inspection Results (Past 24 Months)",
+  "averageRating" : 0,
+  "category" : "Community",
+  "createdAt" : 1358433480,
+  "description" : "The Licensure & Regulatory Services Program inspects all licensed retail food establishments in Montgomery County for a variety of reasons (e.g. obtaining a permit, regular check-ups, or in response to complaints.) Included in this overall surveillance are two types of inspections that are conducted on a routine basis. The first type, a comprehensive inspection, is a thorough inspection that evaluates the sanitation, maintenance, and food service operations for the facility. This inspection includes many of the items found in the monitoring inspection, such as critical temperatures and food handling procedures. The second type, a monitoring inspection, involves checking the food service operation for critical food temperatures, equipment temperatures, and general food handling / cleanliness practices. While monitoring inspections are not as detailed as environmental inspections, they help ensure that the facility is operating safely throughout the year.\r\n\r\nThe frequency of inspections is based on the food-borne illness risks associated with the food being processed at a facility. Based on the risk each facility is designated as high, medium, or low priority. High priority risk facilities prepare food products a day or more in advance or utilize any combination of two or more processes such as a cooking, cooling, reheating and hot holding food over four hours. Moderate priority risk facilities prepare and cook food products which are served immediately or within four hours. A low priority risk facility serve prepackage foods that are not potentially hazardous.\r\n\r\nFor high risk facilities, a monitoring inspection is conducted at least twice a year, and moderate risk facilities are inspected at least once a year. High and moderate risk facilities also receive at least one comprehensive inspection every year. Low risk priority facilities typically receive one comprehensive inspection every two years.\r\n\r\nUpdate Frequency:  Daily",
+  "displayType" : "chart",
+  "downloadCount" : 14,
+  "indexUpdatedAt" : 1387693941,
+  "moderationStatus" : true,
+  "modifyingViewUid" : "5pue-gfbe",
+  "newBackend" : false,
+  "numberOfComments" : 0,
+  "oid" : 6290160,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1383754913,
+  "publicationGroup" : 414372,
+  "publicationStage" : "published",
+  "rowsUpdatedAt" : 1387691504,
+  "rowsUpdatedBy" : "ajn4-zy65",
+  "signed" : false,
+  "state" : "normal",
+  "tableId" : 1328830,
+  "totalTimesRated" : 0,
+  "viewCount" : 1457,
+  "viewLastModified" : 1380215884,
+  "viewType" : "tabular",
+  "disabledFeatureFlags" : [ "allow_comments" ],
+  "grants" : [ {
+    "inherited" : true,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "renderTypeConfig" : {
+      "visible" : {
+        "chart" : true,
+        "table" : true
+      }
+    },
+    "availableDisplayTypes" : [ "chart", "table", "fatrow", "page" ],
+    "rdfSubject" : "0"
+  },
+  "owner" : {
+    "id" : "fnci-gphj",
+    "displayName" : "Victoria Lewis",
+    "screenName" : "Victoria Lewis"
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "ajn4-zy65",
+    "displayName" : "MCG ESB Service",
+    "screenName" : "MCG ESB Service"
+  },
+  "tags" : [ "food", "inspection", "violations", "closures" ]
+}, {
+  "id" : "cfea-9c8z",
+  "name" : "2012 Election Polling Places Map",
+  "averageRating" : 0,
+  "category" : "Community",
+  "createdAt" : 1331668577,
+  "description" : "Location of all 2012 Election Polling Places (not including Early Voting Centers).",
+  "displayType" : "map",
+  "downloadCount" : 150,
+  "moderationStatus" : true,
+  "newBackend" : false,
+  "numberOfComments" : 0,
+  "oid" : 1087186,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1347902809,
+  "publicationGroup" : 296829,
+  "publicationStage" : "published",
+  "rowsUpdatedAt" : 1347902730,
+  "rowsUpdatedBy" : "yr5d-z7h2",
+  "signed" : false,
+  "tableId" : 428460,
+  "totalTimesRated" : 0,
+  "viewCount" : 1416,
+  "viewLastModified" : 1354666751,
+  "viewType" : "tabular",
+  "grants" : [ {
+    "inherited" : true,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "renderTypeConfig" : {
+      "visible" : {
+        "map" : true,
+        "table" : true
+      }
+    },
+    "availableDisplayTypes" : [ "map", "table", "fatrow", "page" ],
+    "thumbnail" : {
+      "page" : {
+        "created" : true
+      }
+    },
+    "rdfSubject" : "0",
+    "query" : {
+      "cfea-9c8z" : {
+        "filterCondition" : {
+          "value" : "AND",
+          "children" : [ {
+            "value" : "OR",
+            "children" : [ {
+              "value" : "NOT_CONTAINS",
+              "children" : [ {
+                "columnId" : 18050614,
+                "type" : "column"
+              }, {
+                "value" : "EV",
+                "type" : "literal"
+              } ],
+              "type" : "operator",
+              "metadata" : {
+                "freeform" : true
+              }
+            } ],
+            "type" : "operator",
+            "metadata" : {
+              "tableColumnId" : {
+                "296829" : 2258816
+              },
+              "operator" : "NOT_CONTAINS"
+            }
+          } ],
+          "type" : "operator",
+          "metadata" : {
+            "unifiedVersion" : 2
+          }
+        }
+      }
+    }
+  },
+  "owner" : {
+    "id" : "yr5d-z7h2",
+    "displayName" : "Montgomery County, MD",
+    "screenName" : "Montgomery County, MD"
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "yr5d-z7h2",
+    "displayName" : "Montgomery County, MD",
+    "screenName" : "Montgomery County, MD"
+  },
+  "tags" : [ "election", "polling place", "vote" ]
+}, {
+  "id" : "znzx-6qts",
+  "name" : "2012 Election - Early Voting Centers Map",
+  "averageRating" : 0,
+  "category" : "Community",
+  "createdAt" : 1331668745,
+  "description" : "Location of all 2012 Election Polling Places, including the Early Voting Centers.",
+  "displayType" : "map",
+  "downloadCount" : 91,
+  "moderationStatus" : true,
+  "newBackend" : false,
+  "numberOfComments" : 0,
+  "oid" : 1087187,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1347902809,
+  "publicationGroup" : 296829,
+  "publicationStage" : "published",
+  "rowsUpdatedAt" : 1347902730,
+  "rowsUpdatedBy" : "yr5d-z7h2",
+  "signed" : false,
+  "tableId" : 428460,
+  "totalTimesRated" : 0,
+  "viewCount" : 1273,
+  "viewLastModified" : 1354666761,
+  "viewType" : "tabular",
+  "grants" : [ {
+    "inherited" : true,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "renderTypeConfig" : {
+      "visible" : {
+        "map" : true,
+        "table" : true
+      }
+    },
+    "availableDisplayTypes" : [ "map", "table", "fatrow", "page" ],
+    "thumbnail" : {
+      "page" : {
+        "created" : true
+      }
+    },
+    "query" : {
+      "znzx-6qts" : {
+        "filterCondition" : {
+          "value" : "AND",
+          "children" : [ {
+            "value" : "OR",
+            "children" : [ {
+              "value" : "CONTAINS",
+              "children" : [ {
+                "columnId" : 18050617,
+                "type" : "column"
+              }, {
+                "value" : "EV",
+                "type" : "literal"
+              } ],
+              "type" : "operator",
+              "metadata" : {
+                "freeform" : true
+              }
+            } ],
+            "type" : "operator",
+            "metadata" : {
+              "tableColumnId" : {
+                "296829" : 2258816
+              },
+              "operator" : "CONTAINS"
+            }
+          } ],
+          "type" : "operator",
+          "metadata" : {
+            "unifiedVersion" : 2
+          }
+        }
+      }
+    }
+  },
+  "owner" : {
+    "id" : "yr5d-z7h2",
+    "displayName" : "Montgomery County, MD",
+    "screenName" : "Montgomery County, MD"
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "yr5d-z7h2",
+    "displayName" : "Montgomery County, MD",
+    "screenName" : "Montgomery County, MD"
+  },
+  "tags" : [ "election", "polling place", "vote" ]
+}, {
+  "id" : "m88u-pqki",
+  "name" : "Residential Permit",
+  "averageRating" : 0,
+  "createdAt" : 1343823471,
+  "description" : "Data for all Residential Building Permits issued since 2000, including status and work performed.\r\n\r\nUpdate Frequency:  Daily",
+  "displayType" : "table",
+  "downloadCount" : 408,
+  "indexUpdatedAt" : 1387529303,
+  "newBackend" : false,
+  "numberOfComments" : 0,
+  "oid" : 6379572,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1384235150,
+  "publicationGroup" : 393492,
+  "publicationStage" : "published",
+  "rowIdentifierColumnId" : 114400032,
+  "rowsUpdatedAt" : 1387518512,
+  "rowsUpdatedBy" : "ajn4-zy65",
+  "signed" : false,
+  "state" : "normal",
+  "tableId" : 1347508,
+  "totalTimesRated" : 0,
+  "viewCount" : 1339,
+  "viewLastModified" : 1384406711,
+  "viewType" : "tabular",
+  "grants" : [ {
+    "inherited" : true,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "renderTypeConfig" : {
+      "visible" : {
+        "table" : true
+      }
+    },
+    "availableDisplayTypes" : [ "table", "fatrow", "page" ],
+    "thumbnail" : {
+      "page" : {
+        "created" : true,
+        "filename" : "page.png-1092.582.7.100.png",
+        "selection" : {
+          "height" : 582,
+          "width" : 1092,
+          "y1" : 100,
+          "y2" : 682,
+          "x2" : 1099,
+          "x1" : 7
+        }
+      }
+    },
+    "rdfSubject" : "0",
+    "rowIdentifier" : 114400032
+  },
+  "owner" : {
+    "id" : "ajn4-zy65",
+    "displayName" : "MCG ESB Service",
+    "screenName" : "MCG ESB Service"
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "ajn4-zy65",
+    "displayName" : "MCG ESB Service",
+    "screenName" : "MCG ESB Service"
+  },
+  "flags" : [ "default" ]
+}, {
+  "id" : "j7rm-vyfs",
+  "name" : "Public Elementary Schools",
+  "averageRating" : 0,
+  "category" : "Education",
+  "createdAt" : 1330548070,
+  "description" : "Address and Locations of all Public Schools in Montgomery County, MD.",
+  "displayType" : "table",
+  "downloadCount" : 68,
+  "indexUpdatedAt" : 1384456801,
+  "moderationStatus" : true,
+  "newBackend" : false,
+  "numberOfComments" : 0,
+  "oid" : 1074948,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1347566411,
+  "publicationGroup" : 290865,
+  "publicationStage" : "published",
+  "rowsUpdatedAt" : 1347566075,
+  "rowsUpdatedBy" : "yr5d-z7h2",
+  "signed" : false,
+  "tableId" : 425578,
+  "totalTimesRated" : 0,
+  "viewCount" : 1542,
+  "viewLastModified" : 1330548070,
+  "viewType" : "tabular",
+  "grants" : [ {
+    "inherited" : true,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "renderTypeConfig" : {
+      "visible" : {
+        "table" : true
+      }
+    },
+    "availableDisplayTypes" : [ "table", "fatrow", "page" ]
+  },
+  "owner" : {
+    "id" : "yr5d-z7h2",
+    "displayName" : "Montgomery County, MD",
+    "screenName" : "Montgomery County, MD"
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "yr5d-z7h2",
+    "displayName" : "Montgomery County, MD",
+    "screenName" : "Montgomery County, MD"
+  },
+  "tags" : [ "schools" ]
+}, {
+  "id" : "r89j-py2p",
+  "name" : "Fiscal Year 2013 Budget",
+  "averageRating" : 0,
+  "category" : "Financial",
+  "createdAt" : 1347379120,
+  "description" : "This dataset includes the Fiscal Year* 2013 Council-approved operating budget for Montgomery County.  The dataset does not include revenues and agency budget information; each agency, such as Montgomery County Public Schools, maintain their individual budget information.   The data can be sorted, filtered, and exported by the following elements:  Function (grouping, such as “Public Safety”), Department, Program, Cost Center (activity within a program), Fund Type , Fund Subtype, Fund Name, Subfund Name, Personnel & Operating Expenses, Object Name, and Account Name.\r\n\r\n\r\n*The 12-month period to which the annual operating and capital budgets and their respective appropriations apply.  The Montgomery County fiscal year starts on July 1st and ends on June 30th.\r\n\r\nUpdate Frequency:  Annually",
+  "displayType" : "table",
+  "downloadCount" : 466,
+  "indexUpdatedAt" : 1378417683,
+  "newBackend" : false,
+  "numberOfComments" : 0,
+  "oid" : 1133605,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1349445437,
+  "publicationGroup" : 423613,
+  "publicationStage" : "published",
+  "rowClass" : "",
+  "rowsUpdatedAt" : 1348759189,
+  "rowsUpdatedBy" : "fnci-gphj",
+  "signed" : false,
+  "tableId" : 437083,
+  "totalTimesRated" : 0,
+  "viewCount" : 1358,
+  "viewLastModified" : 1378401811,
+  "viewType" : "tabular",
+  "disabledFeatureFlags" : [ "allow_comments" ],
+  "grants" : [ {
+    "inherited" : true,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "renderTypeConfig" : {
+      "visible" : {
+        "table" : true
+      }
+    },
+    "availableDisplayTypes" : [ "table", "fatrow", "page" ],
+    "thumbnail" : {
+      "page" : {
+        "created" : true,
+        "filename" : "page.png-1194.637.18.16.png",
+        "selection" : {
+          "height" : 637,
+          "width" : 1194,
+          "y1" : 16,
+          "y2" : 653,
+          "x2" : 1212,
+          "x1" : 18
+        }
+      }
+    },
+    "rdfSubject" : "0",
+    "rowIdentifier" : "0",
+    "rdfClass" : ""
+  },
+  "owner" : {
+    "id" : "fnci-gphj",
+    "displayName" : "Victoria Lewis",
+    "screenName" : "Victoria Lewis"
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "fnci-gphj",
+    "displayName" : "Victoria Lewis",
+    "screenName" : "Victoria Lewis"
+  },
+  "tags" : [ "budget", "operating budget", "county budget", "fiscal year" ],
+  "flags" : [ "default" ]
+}, {
+  "id" : "r2zs-gkex",
+  "name" : "All Public Schools Map w Icons",
+  "averageRating" : 0,
+  "category" : "Education",
+  "createdAt" : 1330651943,
+  "description" : "Address and Locations of all Public Schools in Montgomery County, MD.",
+  "displayType" : "map",
+  "downloadCount" : 105,
+  "indexUpdatedAt" : 1384456627,
+  "moderationStatus" : true,
+  "newBackend" : false,
+  "numberOfComments" : 0,
+  "oid" : 1074946,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1347566411,
+  "publicationGroup" : 290865,
+  "publicationStage" : "published",
+  "rowsUpdatedAt" : 1347566075,
+  "rowsUpdatedBy" : "yr5d-z7h2",
+  "signed" : false,
+  "tableId" : 425578,
+  "totalTimesRated" : 0,
+  "viewCount" : 1033,
+  "viewLastModified" : 1330652003,
+  "viewType" : "tabular",
+  "grants" : [ {
+    "inherited" : true,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "renderTypeConfig" : {
+      "visible" : {
+        "map" : true
+      }
+    },
+    "availableDisplayTypes" : [ "map", "table", "fatrow", "page" ],
+    "thumbnail" : {
+      "page" : {
+        "created" : true,
+        "selection" : {
+          "height" : 349,
+          "width" : 652,
+          "y1" : 182,
+          "y2" : 531,
+          "x2" : 1077,
+          "x1" : 425
+        },
+        "filename" : "page.png-652.349.425.182.png"
+      }
+    },
+    "conditionalFormatting" : [ {
+      "icon" : "/api/assets/FC4341B8-064D-4801-B2B2-5C29D9610245",
+      "condition" : true
+    } ]
+  },
+  "owner" : {
+    "id" : "r5m2-5pds",
+    "displayName" : "Cam Caldwell",
+    "profileImageUrlLarge" : "/images/profile/1863/8401/camheadshot2_large.jpg",
+    "profileImageUrlMedium" : "/images/profile/1863/8401/camheadshot2_thumb.jpg",
+    "profileImageUrlSmall" : "/images/profile/1863/8401/camheadshot2_tiny.jpg",
+    "screenName" : "Cam Caldwell",
+    "rights" : [ "create_datasets", "edit_others_datasets", "edit_sdp", "edit_site_theme", "moderate_comments", "manage_users", "chown_datasets", "edit_nominations", "approve_nominations", "feature_items", "federations", "manage_stories", "manage_approval", "change_configurations", "view_domain", "view_others_datasets", "edit_pages", "create_pages", "view_goals", "view_dashboards", "edit_goals", "edit_dashboards", "create_dashboards" ],
+    "flags" : [ "admin" ]
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "yr5d-z7h2",
+    "displayName" : "Montgomery County, MD",
+    "screenName" : "Montgomery County, MD"
+  },
+  "tags" : [ "schools" ]
+}, {
+  "id" : "7ycz-azby",
+  "name" : "Public High Schools Map",
+  "averageRating" : 0,
+  "category" : "Education",
+  "createdAt" : 1330548490,
+  "description" : "Address and Locations of all Public Schools in Montgomery County, MD.",
+  "displayType" : "map",
+  "downloadCount" : 129,
+  "indexUpdatedAt" : 1384456151,
+  "moderationStatus" : true,
+  "newBackend" : false,
+  "numberOfComments" : 0,
+  "oid" : 1074947,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1347566411,
+  "publicationGroup" : 290865,
+  "publicationStage" : "published",
+  "rowsUpdatedAt" : 1347566075,
+  "rowsUpdatedBy" : "yr5d-z7h2",
+  "signed" : false,
+  "tableId" : 425578,
+  "totalTimesRated" : 0,
+  "viewCount" : 788,
+  "viewLastModified" : 1355184473,
+  "viewType" : "tabular",
+  "grants" : [ {
+    "inherited" : true,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "renderTypeConfig" : {
+      "visible" : {
+        "map" : true,
+        "table" : true
+      }
+    },
+    "availableDisplayTypes" : [ "map", "table", "fatrow", "page" ],
+    "thumbnail" : {
+      "page" : {
+        "created" : true,
+        "filename" : "page.png-452.241.26.527.png",
+        "selection" : {
+          "height" : 241,
+          "width" : 452,
+          "y1" : 527,
+          "y2" : 768,
+          "x2" : 478,
+          "x1" : 26
+        }
+      }
+    },
+    "query" : {
+      "7ycz-azby" : {
+        "filterCondition" : {
+          "value" : "AND",
+          "children" : [ {
+            "value" : "OR",
+            "children" : [ {
+              "value" : "EQUALS",
+              "children" : [ {
+                "columnId" : 17783920,
+                "type" : "column"
+              }, {
+                "value" : "HIGH SCHOOLS",
+                "type" : "literal"
+              } ],
+              "type" : "operator",
+              "metadata" : {
+                "freeform" : true
+              }
+            } ],
+            "type" : "operator",
+            "metadata" : {
+              "tableColumnId" : {
+                "290865" : 2175449
+              },
+              "operator" : "EQUALS"
+            }
+          } ],
+          "type" : "operator",
+          "metadata" : {
+            "unifiedVersion" : 2
+          }
+        }
+      }
+    }
+  },
+  "owner" : {
+    "id" : "yr5d-z7h2",
+    "displayName" : "Montgomery County, MD",
+    "screenName" : "Montgomery County, MD"
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "yr5d-z7h2",
+    "displayName" : "Montgomery County, MD",
+    "screenName" : "Montgomery County, MD"
+  },
+  "tags" : [ "schools" ]
+}, {
+  "id" : "xtyh-brr2",
+  "name" : "MC311 Service Requests",
+  "averageRating" : 0,
+  "category" : "Community",
+  "createdAt" : 1345464879,
+  "description" : "Information on all MC311 Service Requests received (via email or phone) since July 1, 2012.  This data is updated daily.",
+  "displayType" : "table",
+  "downloadCount" : 68,
+  "indexUpdatedAt" : 1387694761,
+  "newBackend" : false,
+  "numberOfComments" : 0,
+  "oid" : 6044030,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1382535773,
+  "publicationGroup" : 407468,
+  "publicationStage" : "published",
+  "rowIdentifierColumnId" : 109026739,
+  "rowsUpdatedAt" : 1387693053,
+  "rowsUpdatedBy" : "ajn4-zy65",
+  "signed" : false,
+  "state" : "normal",
+  "tableId" : 1277582,
+  "totalTimesRated" : 0,
+  "viewCount" : 748,
+  "viewLastModified" : 1382591811,
+  "viewType" : "tabular",
+  "grants" : [ {
+    "inherited" : true,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "renderTypeConfig" : {
+      "visible" : {
+        "table" : true
+      }
+    },
+    "availableDisplayTypes" : [ "table", "fatrow", "page" ],
+    "rdfSubject" : "0",
+    "rowIdentifier" : 109026739
+  },
+  "owner" : {
+    "id" : "ajn4-zy65",
+    "displayName" : "MCG ESB Service",
+    "screenName" : "MCG ESB Service"
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "ajn4-zy65",
+    "displayName" : "MCG ESB Service",
+    "screenName" : "MCG ESB Service"
+  },
+  "tags" : [ "mc311", "services" ],
+  "flags" : [ "default" ]
+}, {
+  "id" : "772q-4wm8",
+  "name" : "Public Schools",
+  "averageRating" : 0,
+  "category" : "Education",
+  "createdAt" : 1330542829,
+  "description" : "Address and Locations of all Public Schools in Montgomery County, MD.",
+  "displayType" : "table",
+  "downloadCount" : 112,
+  "indexUpdatedAt" : 1384456799,
+  "newBackend" : false,
+  "numberOfComments" : 0,
+  "oid" : 1074939,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1347566411,
+  "publicationGroup" : 290865,
+  "publicationStage" : "published",
+  "rowsUpdatedAt" : 1347566075,
+  "rowsUpdatedBy" : "yr5d-z7h2",
+  "signed" : false,
+  "tableId" : 425578,
+  "totalTimesRated" : 0,
+  "viewCount" : 646,
+  "viewLastModified" : 1347566411,
+  "viewType" : "tabular",
+  "grants" : [ {
+    "inherited" : true,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "renderTypeConfig" : {
+      "visible" : {
+        "table" : true
+      }
+    },
+    "availableDisplayTypes" : [ "table", "fatrow", "page" ],
+    "thumbnail" : {
+      "page" : {
+        "created" : true,
+        "selection" : {
+          "height" : 409,
+          "width" : 766,
+          "y1" : 0,
+          "y2" : 409,
+          "x2" : 766,
+          "x1" : 0
+        },
+        "filename" : "page.png-766.409.0.0.png"
+      }
+    }
+  },
+  "owner" : {
+    "id" : "yr5d-z7h2",
+    "displayName" : "Montgomery County, MD",
+    "screenName" : "Montgomery County, MD"
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "yr5d-z7h2",
+    "displayName" : "Montgomery County, MD",
+    "screenName" : "Montgomery County, MD"
+  },
+  "tags" : [ "schools" ],
+  "flags" : [ "default" ]
+}, {
+  "id" : "3b5m-syzr",
+  "name" : "2012 Election Polling Places",
+  "averageRating" : 0,
+  "category" : "Community",
+  "createdAt" : 1331667716,
+  "description" : "Location of all 2012 Election Polling Places, including the Early Voting Centers.",
+  "displayType" : "table",
+  "downloadCount" : 60,
+  "newBackend" : false,
+  "numberOfComments" : 0,
+  "oid" : 1087184,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1347902809,
+  "publicationGroup" : 296829,
+  "publicationStage" : "published",
+  "rowsUpdatedAt" : 1347902730,
+  "rowsUpdatedBy" : "yr5d-z7h2",
+  "signed" : false,
+  "tableId" : 428460,
+  "totalTimesRated" : 0,
+  "viewCount" : 554,
+  "viewLastModified" : 1347902809,
+  "viewType" : "tabular",
+  "grants" : [ {
+    "inherited" : true,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "renderTypeConfig" : {
+      "visible" : {
+        "table" : true
+      }
+    },
+    "availableDisplayTypes" : [ "table", "fatrow", "page" ]
+  },
+  "owner" : {
+    "id" : "yr5d-z7h2",
+    "displayName" : "Montgomery County, MD",
+    "screenName" : "Montgomery County, MD"
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "yr5d-z7h2",
+    "displayName" : "Montgomery County, MD",
+    "screenName" : "Montgomery County, MD"
+  },
+  "tags" : [ "election", "polling place", "vote" ],
+  "flags" : [ "default" ]
+}, {
+  "id" : "qtub-p7bm",
+  "name" : "Hospitals Map",
+  "averageRating" : 0,
+  "category" : "Community",
+  "createdAt" : 1330464611,
+  "description" : "Address and Locations for Hospitals in Montgomery County, MD and the immediate vicinity.",
+  "displayType" : "map",
+  "downloadCount" : 53,
+  "indexUpdatedAt" : 1366135664,
+  "moderationStatus" : true,
+  "newBackend" : false,
+  "numberOfComments" : 0,
+  "oid" : 1077880,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1347650857,
+  "publicationGroup" : 290511,
+  "publicationStage" : "published",
+  "rowsUpdatedAt" : 1347650513,
+  "rowsUpdatedBy" : "yr5d-z7h2",
+  "signed" : false,
+  "tableId" : 426417,
+  "totalTimesRated" : 0,
+  "viewCount" : 966,
+  "viewLastModified" : 1330464910,
+  "viewType" : "tabular",
+  "grants" : [ {
+    "inherited" : true,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "renderTypeConfig" : {
+      "visible" : {
+        "map" : true,
+        "table" : true
+      }
+    },
+    "availableDisplayTypes" : [ "map", "table", "fatrow", "page" ]
+  },
+  "owner" : {
+    "id" : "yr5d-z7h2",
+    "displayName" : "Montgomery County, MD",
+    "screenName" : "Montgomery County, MD"
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "yr5d-z7h2",
+    "displayName" : "Montgomery County, MD",
+    "screenName" : "Montgomery County, MD"
+  },
+  "tags" : [ "hospital", "health" ]
+}, {
+  "id" : "v2ei-xfce",
+  "name" : "Cable Complaints",
+  "averageRating" : 0,
+  "category" : "Community",
+  "createdAt" : 1331326040,
+  "description" : "All cable complaints filed with the Montgomery County Cable Office since January 2010.  This data will be updated on a quarterly basis.",
+  "displayType" : "table",
+  "downloadCount" : 104,
+  "indexUpdatedAt" : 1379628424,
+  "newBackend" : false,
+  "numberOfComments" : 0,
+  "oid" : 5502034,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1379614487,
+  "publicationGroup" : 294745,
+  "publicationStage" : "published",
+  "rowsUpdatedAt" : 1379614394,
+  "rowsUpdatedBy" : "yr5d-z7h2",
+  "signed" : false,
+  "tableId" : 1164194,
+  "totalTimesRated" : 0,
+  "viewCount" : 460,
+  "viewLastModified" : 1379614487,
+  "viewType" : "tabular",
+  "grants" : [ {
+    "inherited" : true,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "renderTypeConfig" : {
+      "visible" : {
+        "table" : true
+      }
+    },
+    "availableDisplayTypes" : [ "table", "fatrow", "page" ],
+    "rdfSubject" : "0"
+  },
+  "owner" : {
+    "id" : "yr5d-z7h2",
+    "displayName" : "Montgomery County, MD",
+    "screenName" : "Montgomery County, MD"
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "yr5d-z7h2",
+    "displayName" : "Montgomery County, MD",
+    "screenName" : "Montgomery County, MD"
+  },
+  "tags" : [ "cable", "complaints" ],
+  "flags" : [ "default" ]
+}, {
+  "id" : "vmu2-pnrc",
+  "name" : "Contracts",
+  "averageRating" : 0,
+  "category" : "Financial",
+  "createdAt" : 1349356558,
+  "description" : "The following dataset is a listing of all active County contracts.  This list is updated daily.\r\n\r\nUpdate Frequency:  Daily",
+  "displayType" : "table",
+  "downloadCount" : 1226,
+  "indexUpdatedAt" : 1387693915,
+  "newBackend" : false,
+  "numberOfComments" : 0,
+  "oid" : 6293779,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1383774786,
+  "publicationGroup" : 443169,
+  "publicationStage" : "published",
+  "rowsUpdatedAt" : 1387690532,
+  "rowsUpdatedBy" : "ajn4-zy65",
+  "signed" : false,
+  "state" : "normal",
+  "tableId" : 1329693,
+  "totalTimesRated" : 0,
+  "viewCount" : 779,
+  "viewLastModified" : 1383802714,
+  "viewType" : "tabular",
+  "disabledFeatureFlags" : [ "allow_comments" ],
+  "grants" : [ {
+    "inherited" : true,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "renderTypeConfig" : {
+      "visible" : {
+        "table" : true
+      }
+    },
+    "availableDisplayTypes" : [ "table", "fatrow", "page" ],
+    "thumbnail" : {
+      "page" : {
+        "created" : true,
+        "filename" : "page.png-1148.613.4.5.png",
+        "selection" : {
+          "height" : 613,
+          "width" : 1148,
+          "y1" : 5,
+          "y2" : 618,
+          "x2" : 1152,
+          "x1" : 4
+        }
+      }
+    },
+    "rdfSubject" : "0"
+  },
+  "owner" : {
+    "id" : "ajn4-zy65",
+    "displayName" : "MCG ESB Service",
+    "screenName" : "MCG ESB Service"
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "ajn4-zy65",
+    "displayName" : "MCG ESB Service",
+    "screenName" : "MCG ESB Service"
+  },
+  "tags" : [ "contracts", "procurement" ],
+  "flags" : [ "default" ]
+}, {
+  "id" : "ie8m-t54q",
+  "name" : "Health & Human Services (HHS) Facilities",
+  "averageRating" : 0,
+  "category" : "Community",
+  "createdAt" : 1330462609,
+  "description" : "Address and locations for Health & Human Services (HHS) Facilities in Montgomery County, MD.",
+  "displayType" : "table",
+  "downloadCount" : 174,
+  "newBackend" : false,
+  "numberOfComments" : 0,
+  "oid" : 1087170,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1347902416,
+  "publicationGroup" : 290497,
+  "publicationStage" : "published",
+  "rowsUpdatedAt" : 1347902170,
+  "rowsUpdatedBy" : "yr5d-z7h2",
+  "signed" : false,
+  "tableId" : 428452,
+  "totalTimesRated" : 0,
+  "viewCount" : 440,
+  "viewLastModified" : 1347902416,
+  "viewType" : "tabular",
+  "grants" : [ {
+    "inherited" : true,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "renderTypeConfig" : {
+      "visible" : {
+        "table" : true
+      }
+    },
+    "availableDisplayTypes" : [ "table", "fatrow", "page" ],
+    "thumbnail" : {
+      "page" : {
+        "created" : true,
+        "filename" : "page.png-551.294.5.0.png",
+        "selection" : {
+          "height" : 294,
+          "width" : 551,
+          "y1" : 0,
+          "y2" : 294,
+          "x2" : 556,
+          "x1" : 5
+        }
+      }
+    }
+  },
+  "owner" : {
+    "id" : "yr5d-z7h2",
+    "displayName" : "Montgomery County, MD",
+    "screenName" : "Montgomery County, MD"
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "yr5d-z7h2",
+    "displayName" : "Montgomery County, MD",
+    "screenName" : "Montgomery County, MD"
+  },
+  "tags" : [ "health", "services" ],
+  "flags" : [ "default" ]
+}, {
+  "id" : "bfcv-pyzh",
+  "name" : "Public High Schools",
+  "averageRating" : 0,
+  "category" : "Education",
+  "createdAt" : 1330549393,
+  "description" : "Address and Locations of all Public Schools in Montgomery County, MD.",
+  "displayType" : "table",
+  "downloadCount" : 77,
+  "indexUpdatedAt" : 1384456799,
+  "moderationStatus" : true,
+  "newBackend" : false,
+  "numberOfComments" : 0,
+  "oid" : 1074944,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1347566411,
+  "publicationGroup" : 290865,
+  "publicationStage" : "published",
+  "rowsUpdatedAt" : 1347566075,
+  "rowsUpdatedBy" : "yr5d-z7h2",
+  "signed" : false,
+  "tableId" : 425578,
+  "totalTimesRated" : 0,
+  "viewCount" : 556,
+  "viewLastModified" : 1330549393,
+  "viewType" : "tabular",
+  "grants" : [ {
+    "inherited" : true,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "renderTypeConfig" : {
+      "visible" : {
+        "table" : true
+      }
+    },
+    "availableDisplayTypes" : [ "table", "fatrow", "page" ]
+  },
+  "owner" : {
+    "id" : "yr5d-z7h2",
+    "displayName" : "Montgomery County, MD",
+    "screenName" : "Montgomery County, MD"
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "yr5d-z7h2",
+    "displayName" : "Montgomery County, MD",
+    "screenName" : "Montgomery County, MD"
+  },
+  "tags" : [ "schools" ]
+}, {
+  "id" : "im5j-ntz6",
+  "name" : "Public Elementary Schools Map",
+  "averageRating" : 0,
+  "category" : "Education",
+  "createdAt" : 1330550328,
+  "description" : "Address and Locations of all Public Schools in Montgomery County, MD.",
+  "displayType" : "map",
+  "downloadCount" : 50,
+  "indexUpdatedAt" : 1384456630,
+  "moderationStatus" : true,
+  "newBackend" : false,
+  "numberOfComments" : 0,
+  "oid" : 1074942,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1347566411,
+  "publicationGroup" : 290865,
+  "publicationStage" : "published",
+  "rowsUpdatedAt" : 1347566075,
+  "rowsUpdatedBy" : "yr5d-z7h2",
+  "signed" : false,
+  "tableId" : 425578,
+  "totalTimesRated" : 0,
+  "viewCount" : 457,
+  "viewLastModified" : 1354666774,
+  "viewType" : "tabular",
+  "grants" : [ {
+    "inherited" : true,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "renderTypeConfig" : {
+      "visible" : {
+        "map" : true,
+        "table" : true
+      }
+    },
+    "availableDisplayTypes" : [ "map", "table", "fatrow", "page" ],
+    "query" : {
+      "im5j-ntz6" : {
+        "filterCondition" : {
+          "value" : "AND",
+          "children" : [ {
+            "value" : "OR",
+            "children" : [ {
+              "value" : "EQUALS",
+              "children" : [ {
+                "columnId" : 17783870,
+                "type" : "column"
+              }, {
+                "value" : "ELEMENTARY SCHOOLS",
+                "type" : "literal"
+              } ],
+              "type" : "operator",
+              "metadata" : {
+                "freeform" : true
+              }
+            } ],
+            "type" : "operator",
+            "metadata" : {
+              "tableColumnId" : {
+                "290865" : 2175449
+              },
+              "operator" : "EQUALS"
+            }
+          } ],
+          "type" : "operator",
+          "metadata" : {
+            "unifiedVersion" : 2
+          }
+        }
+      }
+    }
+  },
+  "owner" : {
+    "id" : "yr5d-z7h2",
+    "displayName" : "Montgomery County, MD",
+    "screenName" : "Montgomery County, MD"
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "yr5d-z7h2",
+    "displayName" : "Montgomery County, MD",
+    "screenName" : "Montgomery County, MD"
+  },
+  "tags" : [ "schools" ]
+}, {
+  "id" : "zf4x-g6z6",
+  "name" : "2011 Cable Complaints - By Type of Complaint",
+  "averageRating" : 0,
+  "category" : "Community",
+  "createdAt" : 1331669834,
+  "description" : "Bar chart display of all cable complaints filed with the Montgomery County Cable Office in calendar year 2011, by type of complaint.",
+  "displayType" : "chart",
+  "downloadCount" : 28,
+  "indexUpdatedAt" : 1379628423,
+  "moderationStatus" : true,
+  "newBackend" : false,
+  "numberOfComments" : 0,
+  "oid" : 5502070,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1379614487,
+  "publicationGroup" : 294745,
+  "publicationStage" : "published",
+  "rowsUpdatedAt" : 1379614394,
+  "rowsUpdatedBy" : "yr5d-z7h2",
+  "signed" : false,
+  "tableId" : 1164194,
+  "totalTimesRated" : 0,
+  "viewCount" : 278,
+  "viewLastModified" : 1352835367,
+  "viewType" : "tabular",
+  "grants" : [ {
+    "inherited" : true,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "renderTypeConfig" : {
+      "visible" : {
+        "chart" : true,
+        "table" : true
+      }
+    },
+    "availableDisplayTypes" : [ "chart", "table", "fatrow", "page" ],
+    "thumbnail" : {
+      "page" : {
+        "created" : true
+      }
+    },
+    "rdfSubject" : "0"
+  },
+  "owner" : {
+    "id" : "yr5d-z7h2",
+    "displayName" : "Montgomery County, MD",
+    "screenName" : "Montgomery County, MD"
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "yr5d-z7h2",
+    "displayName" : "Montgomery County, MD",
+    "screenName" : "Montgomery County, MD"
+  },
+  "tags" : [ "cable", "complaints" ]
+}, {
+  "id" : "nnis-wsk7",
+  "name" : "Fire Stations Map",
+  "averageRating" : 0,
+  "category" : "Public Safety",
+  "createdAt" : 1330462417,
+  "description" : "Address and Locations for all Fire Stations in Montgomery County, MD.",
+  "displayType" : "map",
+  "downloadCount" : 37,
+  "moderationStatus" : true,
+  "newBackend" : false,
+  "numberOfComments" : 0,
+  "oid" : 1087137,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1347902080,
+  "publicationGroup" : 290490,
+  "publicationStage" : "published",
+  "rowsUpdatedAt" : 1347901748,
+  "rowsUpdatedBy" : "yr5d-z7h2",
+  "signed" : false,
+  "tableId" : 428443,
+  "totalTimesRated" : 0,
+  "viewCount" : 507,
+  "viewLastModified" : 1330652576,
+  "viewType" : "tabular",
+  "grants" : [ {
+    "inherited" : true,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "renderTypeConfig" : {
+      "visible" : {
+        "map" : true,
+        "table" : true
+      }
+    },
+    "availableDisplayTypes" : [ "map", "table", "fatrow", "page" ],
+    "thumbnail" : {
+      "page" : {
+        "created" : true
+      }
+    }
+  },
+  "owner" : {
+    "id" : "yr5d-z7h2",
+    "displayName" : "Montgomery County, MD",
+    "screenName" : "Montgomery County, MD"
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "yr5d-z7h2",
+    "displayName" : "Montgomery County, MD",
+    "screenName" : "Montgomery County, MD"
+  },
+  "tags" : [ "fire" ]
+}, {
+  "id" : "sqip-urmr",
+  "name" : "Post Offices",
+  "averageRating" : 0,
+  "category" : "Community",
+  "createdAt" : 1330463476,
+  "description" : "Address and Locations for Post Offices in Montgomery County, MD.",
+  "displayType" : "table",
+  "downloadCount" : 73,
+  "newBackend" : false,
+  "numberOfComments" : 0,
+  "oid" : 1074864,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1347565669,
+  "publicationGroup" : 290504,
+  "publicationStage" : "published",
+  "rowsUpdatedAt" : 1347565273,
+  "rowsUpdatedBy" : "yr5d-z7h2",
+  "signed" : false,
+  "tableId" : 425569,
+  "totalTimesRated" : 0,
+  "viewCount" : 388,
+  "viewLastModified" : 1347565669,
+  "viewType" : "tabular",
+  "grants" : [ {
+    "inherited" : true,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "renderTypeConfig" : {
+      "visible" : {
+        "table" : true
+      }
+    },
+    "availableDisplayTypes" : [ "table", "fatrow", "page" ]
+  },
+  "owner" : {
+    "id" : "yr5d-z7h2",
+    "displayName" : "Montgomery County, MD",
+    "screenName" : "Montgomery County, MD"
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "yr5d-z7h2",
+    "displayName" : "Montgomery County, MD",
+    "screenName" : "Montgomery County, MD"
+  },
+  "tags" : [ "mail", "post office", "usps" ],
+  "flags" : [ "default" ]
+}, {
+  "id" : "i26v-w6bd",
+  "name" : "Commercial Permits",
+  "averageRating" : 0,
+  "category" : "Property",
+  "createdAt" : 1343823595,
+  "description" : "Data for all Commercial Building Permits issued since 2000, including status and work performed.\r\n\r\nUpdate Frequency:  Daily",
+  "displayType" : "table",
+  "downloadCount" : 187,
+  "indexUpdatedAt" : 1387531487,
+  "newBackend" : false,
+  "numberOfComments" : 0,
+  "oid" : 6280770,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1383718002,
+  "publicationGroup" : 393495,
+  "publicationStage" : "published",
+  "rowIdentifierColumnId" : 112760270,
+  "rowsUpdatedAt" : 1387520228,
+  "rowsUpdatedBy" : "ajn4-zy65",
+  "signed" : false,
+  "state" : "normal",
+  "tableId" : 1327181,
+  "totalTimesRated" : 0,
+  "viewCount" : 463,
+  "viewLastModified" : 1383804587,
+  "viewType" : "tabular",
+  "grants" : [ {
+    "inherited" : true,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "renderTypeConfig" : {
+      "visible" : {
+        "table" : true
+      }
+    },
+    "availableDisplayTypes" : [ "table", "fatrow", "page" ],
+    "rdfSubject" : "0",
+    "filterCondition" : {
+      "value" : "AND",
+      "children" : [ {
+        "value" : "OR",
+        "type" : "operator",
+        "metadata" : {
+          "tableColumnId" : {
+            "393495" : 3659662
+          },
+          "operator" : "EQUALS"
+        }
+      }, {
+        "value" : "OR",
+        "type" : "operator",
+        "metadata" : {
+          "tableColumnId" : {
+            "393495" : 3659663
+          },
+          "operator" : "EQUALS"
+        }
+      }, {
+        "value" : "OR",
+        "type" : "operator",
+        "metadata" : {
+          "tableColumnId" : {
+            "393495" : 3659675
+          },
+          "operator" : "EQUALS"
+        }
+      }, {
+        "value" : "OR",
+        "type" : "operator",
+        "metadata" : {
+          "tableColumnId" : {
+            "393495" : 3659665
+          },
+          "operator" : "EQUALS"
+        }
+      }, {
+        "value" : "OR",
+        "type" : "operator",
+        "metadata" : {
+          "tableColumnId" : {
+            "393495" : 3659670
+          },
+          "operator" : "EQUALS"
+        }
+      }, {
+        "value" : "OR",
+        "type" : "operator",
+        "metadata" : {
+          "tableColumnId" : {
+            "393495" : 3659671
+          },
+          "operator" : "EQUALS"
+        }
+      }, {
+        "value" : "OR",
+        "type" : "operator",
+        "metadata" : {
+          "tableColumnId" : {
+            "393495" : 3659672
+          },
+          "operator" : "EQUALS"
+        }
+      } ],
+      "type" : "operator",
+      "metadata" : {
+        "unifiedVersion" : 2,
+        "advanced" : true
+      }
+    },
+    "rowIdentifier" : 112760270
+  },
+  "owner" : {
+    "id" : "ajn4-zy65",
+    "displayName" : "MCG ESB Service",
+    "screenName" : "MCG ESB Service"
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "ajn4-zy65",
+    "displayName" : "MCG ESB Service",
+    "screenName" : "MCG ESB Service"
+  },
+  "flags" : [ "default" ]
+}, {
+  "id" : "es5m-4wf9",
+  "name" : "Real Property Tax Rates",
+  "averageRating" : 0,
+  "category" : "Financial",
+  "createdAt" : 1349285197,
+  "description" : "The Levy Year 2012 real property tax rate dataset reflects all the rates per $100 set each year by the County Council.  These rates are applied to the assessed value of the real property to derive the applicable ad valorem tax.  The fully phased-in assessed value equals the full cash value of the property. The real property tax is levied annually on all taxable land and improvements.  The tax rate schedule is updated annually. A detailed tax rate schedule for all tax classes is available by clicking on “Tax Rates” under the link for “County Taxes” when visiting the County website at www.montgomerycountymd.gov/finance or by calling 311 (240-777-0311).\r\n\r\nUpdate Frequency:  Annually",
+  "displayType" : "table",
+  "downloadCount" : 10,
+  "newBackend" : false,
+  "numberOfComments" : 0,
+  "oid" : 1785997,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1353685509,
+  "publicationGroup" : 442271,
+  "publicationStage" : "published",
+  "rowClass" : "",
+  "rowsUpdatedAt" : 1353685342,
+  "rowsUpdatedBy" : "fnci-gphj",
+  "signed" : false,
+  "tableId" : 515301,
+  "totalTimesRated" : 0,
+  "viewCount" : 467,
+  "viewLastModified" : 1354280476,
+  "viewType" : "tabular",
+  "disabledFeatureFlags" : [ "allow_comments" ],
+  "grants" : [ {
+    "inherited" : false,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "renderTypeConfig" : {
+      "visible" : {
+        "table" : true
+      }
+    },
+    "availableDisplayTypes" : [ "table", "fatrow", "page" ],
+    "rdfSubject" : "0",
+    "rowIdentifier" : "0",
+    "rdfClass" : ""
+  },
+  "owner" : {
+    "id" : "fnci-gphj",
+    "displayName" : "Victoria Lewis",
+    "screenName" : "Victoria Lewis"
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "fnci-gphj",
+    "displayName" : "Victoria Lewis",
+    "screenName" : "Victoria Lewis"
+  },
+  "tags" : [ "real", "property", "tax", "rates" ],
+  "flags" : [ "default" ]
+}, {
+  "id" : "rs8b-4mys",
+  "name" : "Public Middle Schools",
+  "averageRating" : 0,
+  "category" : "Education",
+  "createdAt" : 1330547905,
+  "description" : "Address and Locations of all Public Schools in Montgomery County, MD.",
+  "displayType" : "table",
+  "downloadCount" : 70,
+  "indexUpdatedAt" : 1384456800,
+  "moderationStatus" : true,
+  "newBackend" : false,
+  "numberOfComments" : 0,
+  "oid" : 1074950,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1347566411,
+  "publicationGroup" : 290865,
+  "publicationStage" : "published",
+  "rowsUpdatedAt" : 1347566075,
+  "rowsUpdatedBy" : "yr5d-z7h2",
+  "signed" : false,
+  "tableId" : 425578,
+  "totalTimesRated" : 0,
+  "viewCount" : 174,
+  "viewLastModified" : 1330547905,
+  "viewType" : "tabular",
+  "grants" : [ {
+    "inherited" : true,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "renderTypeConfig" : {
+      "visible" : {
+        "table" : true
+      }
+    },
+    "availableDisplayTypes" : [ "table", "fatrow", "page" ]
+  },
+  "owner" : {
+    "id" : "yr5d-z7h2",
+    "displayName" : "Montgomery County, MD",
+    "screenName" : "Montgomery County, MD"
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "yr5d-z7h2",
+    "displayName" : "Montgomery County, MD",
+    "screenName" : "Montgomery County, MD"
+  },
+  "tags" : [ "schools" ]
+}, {
+  "id" : "3u8i-ynts",
+  "name" : "Budget by Department",
+  "averageRating" : 0,
+  "category" : "Financial",
+  "createdAt" : 1348168060,
+  "description" : "This dataset includes the Fiscal Year* 2013 Council-approved operating budget for Montgomery County.  The dataset does not include revenues and agency budget information; each agency, such as Montgomery County Public Schools, maintain their individual budget information.   The data can be sorted, filtered, and exported by the following elements:  Function (grouping, such as “Public Safety”), Department, Program, Cost Center (activity within a program), Fund Type , Fund Subtype, Fund Name, Subfund Name, Personnel & Operating Expenses, Object Name, and Account Name.\r\n\r\n\r\n*The 12-month period to which the annual operating and capital budgets and their respective appropriations apply.  The Montgomery County fiscal year starts on July 1st and ends on June 30th.",
+  "displayType" : "chart",
+  "downloadCount" : 7,
+  "indexUpdatedAt" : 1378417682,
+  "moderationStatus" : true,
+  "newBackend" : false,
+  "numberOfComments" : 0,
+  "oid" : 1202014,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1349445437,
+  "publicationGroup" : 423613,
+  "publicationStage" : "published",
+  "rowsUpdatedAt" : 1348759189,
+  "rowsUpdatedBy" : "fnci-gphj",
+  "signed" : false,
+  "tableId" : 437083,
+  "totalTimesRated" : 0,
+  "viewCount" : 202,
+  "viewLastModified" : 1349705581,
+  "viewType" : "tabular",
+  "disabledFeatureFlags" : [ "allow_comments" ],
+  "grants" : [ {
+    "inherited" : true,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "renderTypeConfig" : {
+      "visible" : {
+        "chart" : true,
+        "table" : true
+      }
+    },
+    "availableDisplayTypes" : [ "chart", "table", "fatrow", "page" ],
+    "rdfSubject" : "0"
+  },
+  "owner" : {
+    "id" : "fnci-gphj",
+    "displayName" : "Victoria Lewis",
+    "screenName" : "Victoria Lewis"
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "fnci-gphj",
+    "displayName" : "Victoria Lewis",
+    "screenName" : "Victoria Lewis"
+  },
+  "tags" : [ "budget", "operating budget", "county budget", "fiscal year" ]
+}, {
+  "id" : "x6xu-nsdy",
+  "name" : "Open MC311 Service Request Summary Chart",
+  "averageRating" : 0,
+  "category" : "Community",
+  "createdAt" : 1348166594,
+  "description" : "Information on all MC311 Service Requests received (via email or phone) since July 1, 2012.  This data is updated daily.",
+  "displayType" : "chart",
+  "downloadCount" : 15,
+  "indexUpdatedAt" : 1387694645,
+  "moderationStatus" : true,
+  "modifyingViewUid" : "xtyh-brr2",
+  "newBackend" : false,
+  "numberOfComments" : 0,
+  "oid" : 6051660,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1382535773,
+  "publicationGroup" : 407468,
+  "publicationStage" : "published",
+  "rowsUpdatedAt" : 1387693053,
+  "rowsUpdatedBy" : "ajn4-zy65",
+  "signed" : false,
+  "state" : "normal",
+  "tableId" : 1277582,
+  "totalTimesRated" : 0,
+  "viewCount" : 138,
+  "viewLastModified" : 1348166706,
+  "viewType" : "tabular",
+  "grants" : [ {
+    "inherited" : true,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "renderTypeConfig" : {
+      "visible" : {
+        "chart" : true,
+        "table" : true
+      }
+    },
+    "availableDisplayTypes" : [ "chart", "table", "fatrow", "page" ],
+    "rdfSubject" : "0"
+  },
+  "owner" : {
+    "id" : "yr5d-z7h2",
+    "displayName" : "Montgomery County, MD",
+    "screenName" : "Montgomery County, MD"
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "ajn4-zy65",
+    "displayName" : "MCG ESB Service",
+    "screenName" : "MCG ESB Service"
+  },
+  "tags" : [ "mc311", "services" ]
+}, {
+  "id" : "kr65-hnvk",
+  "name" : "Budget by Function",
+  "averageRating" : 0,
+  "category" : "Financial",
+  "createdAt" : 1348167402,
+  "description" : "This dataset includes the Fiscal Year* 2013 Council-approved operating budget for Montgomery County.  The dataset does not include revenues and agency budget information; each agency, such as Montgomery County Public Schools, maintain their individual budget information.   The data can be sorted, filtered, and exported by the following elements:  Function (grouping, such as “Public Safety”), Department, Program, Cost Center (activity within a program), Fund Type , Fund Subtype, Fund Name, Subfund Name, Personnel & Operating Expenses, Object Name, and Account Name.\r\n\r\n\r\n*The 12-month period to which the annual operating and capital budgets and their respective appropriations apply.  The Montgomery County fiscal year starts on July 1st and ends on June 30th.",
+  "displayType" : "chart",
+  "downloadCount" : 14,
+  "indexUpdatedAt" : 1378417682,
+  "moderationStatus" : true,
+  "newBackend" : false,
+  "numberOfComments" : 0,
+  "oid" : 1202015,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1349445437,
+  "publicationGroup" : 423613,
+  "publicationStage" : "published",
+  "rowsUpdatedAt" : 1348759189,
+  "rowsUpdatedBy" : "fnci-gphj",
+  "signed" : false,
+  "tableId" : 437083,
+  "totalTimesRated" : 0,
+  "viewCount" : 157,
+  "viewLastModified" : 1348586820,
+  "viewType" : "tabular",
+  "disabledFeatureFlags" : [ "allow_comments" ],
+  "grants" : [ {
+    "inherited" : true,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "renderTypeConfig" : {
+      "visible" : {
+        "chart" : true,
+        "table" : true
+      }
+    },
+    "availableDisplayTypes" : [ "chart", "table", "fatrow", "page" ],
+    "rdfSubject" : "0"
+  },
+  "owner" : {
+    "id" : "fnci-gphj",
+    "displayName" : "Victoria Lewis",
+    "screenName" : "Victoria Lewis"
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "fnci-gphj",
+    "displayName" : "Victoria Lewis",
+    "screenName" : "Victoria Lewis"
+  },
+  "tags" : [ "budget", "operating budget", "county budget", "fiscal year" ]
+}, {
+  "id" : "s6aq-s5u8",
+  "name" : "Open MC311 Service Requests (In Progress)",
+  "averageRating" : 0,
+  "category" : "Community",
+  "createdAt" : 1347916808,
+  "description" : "Information on all MC311 Service Requests received (via email or phone) since July 1, 2012.  This data is updated daily.",
+  "displayType" : "table",
+  "downloadCount" : 8,
+  "indexUpdatedAt" : 1387694701,
+  "moderationStatus" : true,
+  "modifyingViewUid" : "xtyh-brr2",
+  "newBackend" : false,
+  "numberOfComments" : 0,
+  "oid" : 6051664,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1382535773,
+  "publicationGroup" : 407468,
+  "publicationStage" : "published",
+  "rowsUpdatedAt" : 1387693053,
+  "rowsUpdatedBy" : "ajn4-zy65",
+  "signed" : false,
+  "state" : "normal",
+  "tableId" : 1277582,
+  "totalTimesRated" : 0,
+  "viewCount" : 122,
+  "viewLastModified" : 1348774184,
+  "viewType" : "tabular",
+  "grants" : [ {
+    "inherited" : true,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "renderTypeConfig" : {
+      "visible" : {
+        "table" : true
+      }
+    },
+    "availableDisplayTypes" : [ "table", "fatrow", "page" ],
+    "rdfSubject" : "0"
+  },
+  "owner" : {
+    "id" : "yr5d-z7h2",
+    "displayName" : "Montgomery County, MD",
+    "screenName" : "Montgomery County, MD"
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "ajn4-zy65",
+    "displayName" : "MCG ESB Service",
+    "screenName" : "MCG ESB Service"
+  },
+  "tags" : [ "mc311", "services" ]
+}, {
+  "id" : "kref-jimz",
+  "name" : "All Public Schools Map",
+  "averageRating" : 0,
+  "category" : "Education",
+  "createdAt" : 1330551291,
+  "description" : "Address and Locations of all Public Schools in Montgomery County, MD.",
+  "displayType" : "map",
+  "downloadCount" : 18,
+  "indexUpdatedAt" : 1384456799,
+  "moderationStatus" : true,
+  "newBackend" : false,
+  "numberOfComments" : 0,
+  "oid" : 1074945,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1347566411,
+  "publicationGroup" : 290865,
+  "publicationStage" : "published",
+  "rowsUpdatedAt" : 1347566075,
+  "rowsUpdatedBy" : "yr5d-z7h2",
+  "signed" : false,
+  "tableId" : 425578,
+  "totalTimesRated" : 0,
+  "viewCount" : 95,
+  "viewLastModified" : 1330551292,
+  "viewType" : "tabular",
+  "grants" : [ {
+    "inherited" : true,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "renderTypeConfig" : {
+      "visible" : {
+        "map" : true,
+        "table" : true
+      }
+    },
+    "availableDisplayTypes" : [ "map", "table", "fatrow", "page" ]
+  },
+  "owner" : {
+    "id" : "yr5d-z7h2",
+    "displayName" : "Montgomery County, MD",
+    "screenName" : "Montgomery County, MD"
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "yr5d-z7h2",
+    "displayName" : "Montgomery County, MD",
+    "screenName" : "Montgomery County, MD"
+  },
+  "tags" : [ "schools" ]
+}, {
+  "id" : "4ec5-xmec",
+  "name" : "FIN",
+  "averageRating" : 0,
+  "category" : "Financial",
+  "createdAt" : 1361974516,
+  "description" : "Salary information for all active, permanent employees of Montgomery County, MD as of January 15, 2013.  This data will be updated annually.",
+  "displayType" : "table",
+  "downloadCount" : 16,
+  "indexUpdatedAt" : 1383401007,
+  "moderationStatus" : true,
+  "newBackend" : false,
+  "numberOfComments" : 0,
+  "oid" : 2653369,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1359248117,
+  "publicationGroup" : 497717,
+  "publicationStage" : "published",
+  "rowsUpdatedAt" : 1359248052,
+  "rowsUpdatedBy" : "yr5d-z7h2",
+  "signed" : false,
+  "tableId" : 638442,
+  "totalTimesRated" : 0,
+  "viewCount" : 311,
+  "viewLastModified" : 1361974517,
+  "viewType" : "tabular",
+  "disabledFeatureFlags" : [ "allow_comments" ],
+  "grants" : [ {
+    "inherited" : true,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "renderTypeConfig" : {
+      "visible" : {
+        "table" : true
+      }
+    },
+    "availableDisplayTypes" : [ "table", "fatrow", "page" ],
+    "thumbnail" : {
+      "page" : {
+        "created" : true,
+        "filename" : "page.png-1418.757.0.0.png",
+        "selection" : {
+          "height" : 757,
+          "width" : 1418,
+          "y1" : 0,
+          "y2" : 757,
+          "x2" : 1418,
+          "x1" : 0
+        }
+      }
+    },
+    "rdfSubject" : "0"
+  },
+  "owner" : {
+    "id" : "q7s8-v4np",
+    "displayName" : "leeky",
+    "screenName" : "leeky"
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "yr5d-z7h2",
+    "displayName" : "Montgomery County, MD",
+    "screenName" : "Montgomery County, MD"
+  },
+  "tags" : [ "salary employee government" ]
+}, {
+  "id" : "4aqy-jzf3",
+  "name" : "Open MC311 Service Requests Summary",
+  "averageRating" : 0,
+  "category" : "Community",
+  "createdAt" : 1348166203,
+  "description" : "Information on all MC311 Service Requests received (via email or phone) since July 1, 2012.  This data is updated daily.",
+  "displayType" : "table",
+  "downloadCount" : 18,
+  "indexUpdatedAt" : 1387694645,
+  "moderationStatus" : true,
+  "modifyingViewUid" : "xtyh-brr2",
+  "newBackend" : false,
+  "numberOfComments" : 0,
+  "oid" : 6051663,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1382535773,
+  "publicationGroup" : 407468,
+  "publicationStage" : "published",
+  "rowsUpdatedAt" : 1387693053,
+  "rowsUpdatedBy" : "ajn4-zy65",
+  "signed" : false,
+  "state" : "normal",
+  "tableId" : 1277582,
+  "totalTimesRated" : 0,
+  "viewCount" : 98,
+  "viewLastModified" : 1348166203,
+  "viewType" : "tabular",
+  "grants" : [ {
+    "inherited" : true,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "renderTypeConfig" : {
+      "visible" : {
+        "table" : true
+      }
+    },
+    "availableDisplayTypes" : [ "table", "fatrow", "page" ],
+    "rdfSubject" : "0"
+  },
+  "owner" : {
+    "id" : "yr5d-z7h2",
+    "displayName" : "Montgomery County, MD",
+    "screenName" : "Montgomery County, MD"
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "ajn4-zy65",
+    "displayName" : "MCG ESB Service",
+    "screenName" : "MCG ESB Service"
+  },
+  "tags" : [ "mc311", "services" ]
+}, {
+  "id" : "u3bw-vn6r",
+  "name" : "All Public Schools Map",
+  "averageRating" : 0,
+  "category" : "Education",
+  "createdAt" : 1330651800,
+  "description" : "Address and Locations of all Public Schools in Montgomery County, MD.",
+  "displayType" : "map",
+  "downloadCount" : 10,
+  "indexUpdatedAt" : 1384456626,
+  "moderationStatus" : true,
+  "newBackend" : false,
+  "numberOfComments" : 0,
+  "oid" : 1074943,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1347566411,
+  "publicationGroup" : 290865,
+  "publicationStage" : "published",
+  "rowsUpdatedAt" : 1347566075,
+  "rowsUpdatedBy" : "yr5d-z7h2",
+  "signed" : false,
+  "tableId" : 425578,
+  "totalTimesRated" : 0,
+  "viewCount" : 92,
+  "viewLastModified" : 1330651800,
+  "viewType" : "tabular",
+  "grants" : [ {
+    "inherited" : true,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "renderTypeConfig" : {
+      "visible" : {
+        "map" : true
+      }
+    },
+    "availableDisplayTypes" : [ "map", "table", "fatrow", "page" ],
+    "conditionalFormatting" : [ {
+      "icon" : "/api/assets/FC4341B8-064D-4801-B2B2-5C29D9610245",
+      "condition" : true
+    } ]
+  },
+  "owner" : {
+    "id" : "r5m2-5pds",
+    "displayName" : "Cam Caldwell",
+    "profileImageUrlLarge" : "/images/profile/1863/8401/camheadshot2_large.jpg",
+    "profileImageUrlMedium" : "/images/profile/1863/8401/camheadshot2_thumb.jpg",
+    "profileImageUrlSmall" : "/images/profile/1863/8401/camheadshot2_tiny.jpg",
+    "screenName" : "Cam Caldwell",
+    "rights" : [ "create_datasets", "edit_others_datasets", "edit_sdp", "edit_site_theme", "moderate_comments", "manage_users", "chown_datasets", "edit_nominations", "approve_nominations", "feature_items", "federations", "manage_stories", "manage_approval", "change_configurations", "view_domain", "view_others_datasets", "edit_pages", "create_pages", "view_goals", "view_dashboards", "edit_goals", "edit_dashboards", "create_dashboards" ],
+    "flags" : [ "admin" ]
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "yr5d-z7h2",
+    "displayName" : "Montgomery County, MD",
+    "screenName" : "Montgomery County, MD"
+  },
+  "tags" : [ "schools" ]
+}, {
+  "id" : "h27h-wz83",
+  "name" : "Public Middle Schools Map",
+  "averageRating" : 0,
+  "category" : "Education",
+  "createdAt" : 1330549845,
+  "description" : "Address and Locations of all Public Schools in Montgomery County, MD.",
+  "displayType" : "map",
+  "downloadCount" : 49,
+  "indexUpdatedAt" : 1384456800,
+  "moderationStatus" : true,
+  "newBackend" : false,
+  "numberOfComments" : 0,
+  "oid" : 1074949,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1347566411,
+  "publicationGroup" : 290865,
+  "publicationStage" : "published",
+  "rowsUpdatedAt" : 1347566075,
+  "rowsUpdatedBy" : "yr5d-z7h2",
+  "signed" : false,
+  "tableId" : 425578,
+  "totalTimesRated" : 0,
+  "viewCount" : 84,
+  "viewLastModified" : 1354666782,
+  "viewType" : "tabular",
+  "grants" : [ {
+    "inherited" : true,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "renderTypeConfig" : {
+      "visible" : {
+        "map" : true,
+        "table" : true
+      }
+    },
+    "availableDisplayTypes" : [ "map", "table", "fatrow", "page" ],
+    "query" : {
+      "h27h-wz83" : {
+        "filterCondition" : {
+          "value" : "AND",
+          "children" : [ {
+            "value" : "OR",
+            "children" : [ {
+              "value" : "EQUALS",
+              "children" : [ {
+                "columnId" : 17783940,
+                "type" : "column"
+              }, {
+                "value" : "MIDDLE SCHOOLS",
+                "type" : "literal"
+              } ],
+              "type" : "operator",
+              "metadata" : {
+                "freeform" : true
+              }
+            } ],
+            "type" : "operator",
+            "metadata" : {
+              "tableColumnId" : {
+                "290865" : 2175449
+              },
+              "operator" : "EQUALS"
+            }
+          } ],
+          "type" : "operator",
+          "metadata" : {
+            "unifiedVersion" : 2
+          }
+        }
+      }
+    }
+  },
+  "owner" : {
+    "id" : "yr5d-z7h2",
+    "displayName" : "Montgomery County, MD",
+    "screenName" : "Montgomery County, MD"
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "yr5d-z7h2",
+    "displayName" : "Montgomery County, MD",
+    "screenName" : "Montgomery County, MD"
+  },
+  "tags" : [ "schools" ]
+}, {
+  "id" : "3xqt-9yuu",
+  "name" : "2011 Cable Complaints Rollup by Service Provider",
+  "averageRating" : 0,
+  "category" : "Community",
+  "createdAt" : 1331661051,
+  "description" : "Rollup of all cable complaints filed with the Montgomery County Cable Office in calendar year 2011.",
+  "displayType" : "table",
+  "downloadCount" : 11,
+  "indexUpdatedAt" : 1379628423,
+  "moderationStatus" : true,
+  "newBackend" : false,
+  "numberOfComments" : 0,
+  "oid" : 5502067,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1379614487,
+  "publicationGroup" : 294745,
+  "publicationStage" : "published",
+  "rowsUpdatedAt" : 1379614394,
+  "rowsUpdatedBy" : "yr5d-z7h2",
+  "signed" : false,
+  "tableId" : 1164194,
+  "totalTimesRated" : 0,
+  "viewCount" : 89,
+  "viewLastModified" : 1331661558,
+  "viewType" : "tabular",
+  "grants" : [ {
+    "inherited" : true,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "renderTypeConfig" : {
+      "visible" : {
+        "table" : true
+      }
+    },
+    "availableDisplayTypes" : [ "table", "fatrow", "page" ],
+    "rdfSubject" : "0"
+  },
+  "owner" : {
+    "id" : "yr5d-z7h2",
+    "displayName" : "Montgomery County, MD",
+    "screenName" : "Montgomery County, MD"
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "yr5d-z7h2",
+    "displayName" : "Montgomery County, MD",
+    "screenName" : "Montgomery County, MD"
+  },
+  "tags" : [ "cable", "complaints" ]
+}, {
+  "id" : "i872-fvgz",
+  "name" : "2011 Cable Complaints by Service Provider",
+  "averageRating" : 0,
+  "category" : "Community",
+  "createdAt" : 1331661814,
+  "description" : "Pie chart display of all cable complaints filed with the Montgomery County Cable Office in calendar year 2011, by service provider.",
+  "displayType" : "chart",
+  "downloadCount" : 15,
+  "indexUpdatedAt" : 1379628424,
+  "moderationStatus" : true,
+  "newBackend" : false,
+  "numberOfComments" : 0,
+  "oid" : 5502066,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1379614487,
+  "publicationGroup" : 294745,
+  "publicationStage" : "published",
+  "rowsUpdatedAt" : 1379614394,
+  "rowsUpdatedBy" : "yr5d-z7h2",
+  "signed" : false,
+  "tableId" : 1164194,
+  "totalTimesRated" : 0,
+  "viewCount" : 85,
+  "viewLastModified" : 1331662034,
+  "viewType" : "tabular",
+  "grants" : [ {
+    "inherited" : true,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "renderTypeConfig" : {
+      "visible" : {
+        "chart" : true,
+        "table" : true
+      }
+    },
+    "availableDisplayTypes" : [ "chart", "table", "fatrow", "page" ],
+    "rdfSubject" : "0"
+  },
+  "owner" : {
+    "id" : "yr5d-z7h2",
+    "displayName" : "Montgomery County, MD",
+    "screenName" : "Montgomery County, MD"
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "yr5d-z7h2",
+    "displayName" : "Montgomery County, MD",
+    "screenName" : "Montgomery County, MD"
+  },
+  "tags" : [ "cable", "complaints" ]
+}, {
+  "id" : "gwiy-tbx5",
+  "name" : "Closed MC311 Service Request Count (since 07/01/2012)",
+  "averageRating" : 0,
+  "category" : "Community",
+  "createdAt" : 1348167280,
+  "description" : "Information on all MC311 Service Requests received (via email or phone) since July 1, 2012.  This data is updated daily.",
+  "displayType" : "table",
+  "downloadCount" : 55,
+  "indexUpdatedAt" : 1387694647,
+  "moderationStatus" : true,
+  "modifyingViewUid" : "xtyh-brr2",
+  "newBackend" : false,
+  "numberOfComments" : 0,
+  "oid" : 6051661,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1382535773,
+  "publicationGroup" : 407468,
+  "publicationStage" : "published",
+  "rowsUpdatedAt" : 1387693053,
+  "rowsUpdatedBy" : "ajn4-zy65",
+  "signed" : false,
+  "state" : "normal",
+  "tableId" : 1277582,
+  "totalTimesRated" : 0,
+  "viewCount" : 112,
+  "viewLastModified" : 1348167280,
+  "viewType" : "tabular",
+  "grants" : [ {
+    "inherited" : true,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "renderTypeConfig" : {
+      "visible" : {
+        "table" : true
+      }
+    },
+    "availableDisplayTypes" : [ "table", "fatrow", "page" ],
+    "rdfSubject" : "0"
+  },
+  "owner" : {
+    "id" : "yr5d-z7h2",
+    "displayName" : "Montgomery County, MD",
+    "screenName" : "Montgomery County, MD"
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "ajn4-zy65",
+    "displayName" : "MCG ESB Service",
+    "screenName" : "MCG ESB Service"
+  },
+  "tags" : [ "mc311", "services" ]
+}, {
+  "id" : "677d-kzp6",
+  "name" : "Hospitals",
+  "averageRating" : 0,
+  "category" : "Community",
+  "createdAt" : 1330464168,
+  "description" : "Address and Locations for Hospitals in Montgomery County, MD and the immediate vicinity.",
+  "displayType" : "table",
+  "downloadCount" : 29,
+  "indexUpdatedAt" : 1366135661,
+  "newBackend" : false,
+  "numberOfComments" : 0,
+  "oid" : 1077874,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1347650857,
+  "publicationGroup" : 290511,
+  "publicationStage" : "published",
+  "rowsUpdatedAt" : 1347650513,
+  "rowsUpdatedBy" : "yr5d-z7h2",
+  "signed" : false,
+  "tableId" : 426417,
+  "totalTimesRated" : 0,
+  "viewCount" : 139,
+  "viewLastModified" : 1347650857,
+  "viewType" : "tabular",
+  "grants" : [ {
+    "inherited" : true,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "renderTypeConfig" : {
+      "visible" : {
+        "table" : true
+      }
+    },
+    "availableDisplayTypes" : [ "table", "fatrow", "page" ]
+  },
+  "owner" : {
+    "id" : "yr5d-z7h2",
+    "displayName" : "Montgomery County, MD",
+    "screenName" : "Montgomery County, MD"
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "yr5d-z7h2",
+    "displayName" : "Montgomery County, MD",
+    "screenName" : "Montgomery County, MD"
+  },
+  "tags" : [ "hospital", "health" ],
+  "flags" : [ "default" ]
+}, {
+  "id" : "kxu3-tuea",
+  "name" : "2011 Cable Complaints by City",
+  "averageRating" : 0,
+  "category" : "Community",
+  "createdAt" : 1331669164,
+  "description" : "Pie chart display of all cable complaints filed with the Montgomery County Cable Office in calendar year 2011 by city.",
+  "displayType" : "chart",
+  "downloadCount" : 14,
+  "indexUpdatedAt" : 1379628424,
+  "moderationStatus" : true,
+  "newBackend" : false,
+  "numberOfComments" : 0,
+  "oid" : 5502068,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1379614487,
+  "publicationGroup" : 294745,
+  "publicationStage" : "published",
+  "rowsUpdatedAt" : 1379614394,
+  "rowsUpdatedBy" : "yr5d-z7h2",
+  "signed" : false,
+  "tableId" : 1164194,
+  "totalTimesRated" : 0,
+  "viewCount" : 74,
+  "viewLastModified" : 1331669226,
+  "viewType" : "tabular",
+  "grants" : [ {
+    "inherited" : true,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "renderTypeConfig" : {
+      "visible" : {
+        "chart" : true,
+        "table" : true
+      }
+    },
+    "availableDisplayTypes" : [ "chart", "table", "fatrow", "page" ],
+    "rdfSubject" : "0"
+  },
+  "owner" : {
+    "id" : "yr5d-z7h2",
+    "displayName" : "Montgomery County, MD",
+    "screenName" : "Montgomery County, MD"
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "yr5d-z7h2",
+    "displayName" : "Montgomery County, MD",
+    "screenName" : "Montgomery County, MD"
+  },
+  "tags" : [ "cable", "complaints" ]
+}, {
+  "id" : "apsf-4yms",
+  "name" : "Fire Stations",
+  "averageRating" : 0,
+  "category" : "Public Safety",
+  "createdAt" : 1330462047,
+  "description" : "Address and Locations for all Fire Stations in Montgomery County, MD.",
+  "displayType" : "table",
+  "downloadCount" : 24,
+  "newBackend" : false,
+  "numberOfComments" : 0,
+  "oid" : 1087131,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1347902080,
+  "publicationGroup" : 290490,
+  "publicationStage" : "published",
+  "rowsUpdatedAt" : 1347901748,
+  "rowsUpdatedBy" : "yr5d-z7h2",
+  "signed" : false,
+  "tableId" : 428443,
+  "totalTimesRated" : 0,
+  "viewCount" : 164,
+  "viewLastModified" : 1347902080,
+  "viewType" : "tabular",
+  "grants" : [ {
+    "inherited" : true,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "renderTypeConfig" : {
+      "visible" : {
+        "table" : true
+      }
+    },
+    "availableDisplayTypes" : [ "table", "fatrow", "page" ],
+    "thumbnail" : {
+      "page" : {
+        "created" : true,
+        "filename" : "page.png-437.234.11.5.png",
+        "selection" : {
+          "height" : 234,
+          "width" : 437,
+          "y1" : 5,
+          "y2" : 239,
+          "x2" : 448,
+          "x1" : 11
+        }
+      }
+    }
+  },
+  "owner" : {
+    "id" : "yr5d-z7h2",
+    "displayName" : "Montgomery County, MD",
+    "screenName" : "Montgomery County, MD"
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "yr5d-z7h2",
+    "displayName" : "Montgomery County, MD",
+    "screenName" : "Montgomery County, MD"
+  },
+  "tags" : [ "fire" ],
+  "flags" : [ "default" ]
+}, {
+  "id" : "w58d-93fc",
+  "name" : "Public Schools Icons no Satellite view",
+  "averageRating" : 0,
+  "category" : "Education",
+  "createdAt" : 1355326885,
+  "description" : "Address and Locations of all Public Schools in Montgomery County, MD.",
+  "displayType" : "map",
+  "downloadCount" : 8,
+  "indexUpdatedAt" : 1384456029,
+  "moderationStatus" : true,
+  "newBackend" : false,
+  "numberOfComments" : 0,
+  "oid" : 2006482,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1347566411,
+  "publicationGroup" : 290865,
+  "publicationStage" : "published",
+  "rowsUpdatedAt" : 1347566075,
+  "rowsUpdatedBy" : "yr5d-z7h2",
+  "signed" : false,
+  "tableId" : 425578,
+  "totalTimesRated" : 0,
+  "viewCount" : 67,
+  "viewLastModified" : 1355326886,
+  "viewType" : "tabular",
+  "grants" : [ {
+    "inherited" : true,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "renderTypeConfig" : {
+      "visible" : {
+        "map" : true
+      }
+    },
+    "availableDisplayTypes" : [ "map", "table", "fatrow", "page" ],
+    "thumbnail" : {
+      "page" : {
+        "created" : true,
+        "filename" : "page.png-652.349.425.182.png",
+        "selection" : {
+          "height" : 349,
+          "width" : 652,
+          "y1" : 182,
+          "y2" : 531,
+          "x2" : 1077,
+          "x1" : 425
+        }
+      }
+    },
+    "conditionalFormatting" : [ {
+      "icon" : "/api/assets/FC4341B8-064D-4801-B2B2-5C29D9610245",
+      "condition" : true
+    } ]
+  },
+  "owner" : {
+    "id" : "tm4c-rqum",
+    "displayName" : "Lilia Gutnik",
+    "profileImageUrlLarge" : "/images/profile/1897/6931/IMG_0090_large.JPG",
+    "profileImageUrlMedium" : "/images/profile/1897/6931/IMG_0090_thumb.JPG",
+    "profileImageUrlSmall" : "/images/profile/1897/6931/IMG_0090_tiny.JPG",
+    "screenName" : "Lilia Gutnik",
+    "rights" : [ "create_datasets", "edit_others_datasets", "edit_sdp", "edit_site_theme", "moderate_comments", "manage_users", "chown_datasets", "edit_nominations", "approve_nominations", "feature_items", "federations", "manage_stories", "manage_approval", "change_configurations", "view_domain", "view_others_datasets", "edit_pages", "create_pages", "view_goals", "view_dashboards", "edit_goals", "edit_dashboards", "create_dashboards" ],
+    "flags" : [ "admin" ]
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "yr5d-z7h2",
+    "displayName" : "Montgomery County, MD",
+    "screenName" : "Montgomery County, MD"
+  },
+  "tags" : [ "schools" ]
+}, {
+  "id" : "yqs9-g2vr",
+  "name" : "Completed MC311 Service Requests by Department (since 07/01/2012)",
+  "averageRating" : 0,
+  "category" : "Community",
+  "createdAt" : 1354309518,
+  "description" : "Pie chart display of all closed MC311 Service Requests received (via email or phone) since July 1, 2012 - grouped by the assigned department.",
+  "displayType" : "chart",
+  "downloadCount" : 9,
+  "indexUpdatedAt" : 1387694647,
+  "moderationStatus" : true,
+  "newBackend" : false,
+  "numberOfComments" : 0,
+  "oid" : 6051657,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1382535773,
+  "publicationGroup" : 407468,
+  "publicationStage" : "published",
+  "rowsUpdatedAt" : 1387693053,
+  "rowsUpdatedBy" : "ajn4-zy65",
+  "signed" : false,
+  "state" : "normal",
+  "tableId" : 1277582,
+  "totalTimesRated" : 0,
+  "viewCount" : 48,
+  "viewLastModified" : 1357215064,
+  "viewType" : "tabular",
+  "grants" : [ {
+    "inherited" : true,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "renderTypeConfig" : {
+      "visible" : {
+        "chart" : true,
+        "table" : true
+      }
+    },
+    "availableDisplayTypes" : [ "chart", "table", "fatrow", "page" ],
+    "rdfSubject" : "0"
+  },
+  "owner" : {
+    "id" : "yr5d-z7h2",
+    "displayName" : "Montgomery County, MD",
+    "screenName" : "Montgomery County, MD"
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "ajn4-zy65",
+    "displayName" : "MCG ESB Service",
+    "screenName" : "MCG ESB Service"
+  },
+  "tags" : [ "mc311", "services" ]
+}, {
+  "id" : "ar4t-tnkq",
+  "name" : "Libraries",
+  "averageRating" : 0,
+  "category" : "Community",
+  "createdAt" : 1339443463,
+  "description" : "Locations of all Montgomery County, MD Public Libraries.",
+  "displayType" : "table",
+  "downloadCount" : 24,
+  "newBackend" : false,
+  "numberOfComments" : 0,
+  "oid" : 1077859,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1347650282,
+  "publicationGroup" : 358466,
+  "publicationStage" : "published",
+  "rowClass" : "",
+  "rowsUpdatedAt" : 1347649876,
+  "rowsUpdatedBy" : "yr5d-z7h2",
+  "signed" : false,
+  "tableId" : 426410,
+  "totalTimesRated" : 0,
+  "viewCount" : 103,
+  "viewLastModified" : 1347650441,
+  "viewType" : "tabular",
+  "grants" : [ {
+    "inherited" : true,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "renderTypeConfig" : {
+      "visible" : {
+        "table" : true
+      }
+    },
+    "availableDisplayTypes" : [ "table", "fatrow", "page" ],
+    "rdfSubject" : "0",
+    "rowIdentifier" : "0",
+    "rdfClass" : ""
+  },
+  "owner" : {
+    "id" : "yr5d-z7h2",
+    "displayName" : "Montgomery County, MD",
+    "screenName" : "Montgomery County, MD"
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "yr5d-z7h2",
+    "displayName" : "Montgomery County, MD",
+    "screenName" : "Montgomery County, MD"
+  },
+  "tags" : [ "library" ],
+  "flags" : [ "default" ]
+}, {
+  "id" : "qahs-fevu",
+  "name" : "Parking Garage Space Availability",
+  "averageRating" : 0,
+  "category" : "Transportation",
+  "createdAt" : 1375883230,
+  "description" : "This dataset includes parking spaces availability for Montgomery County Public Parking Facilities. This dataset only includes facilities that are equipped with vehicle counting systems.\r\n\r\nUpdate frequency:  Every few minutes",
+  "displayType" : "table",
+  "downloadCount" : 49878,
+  "indexUpdatedAt" : 1387747009,
+  "newBackend" : false,
+  "numberOfComments" : 0,
+  "oid" : 6405902,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1384367723,
+  "publicationGroup" : 1024293,
+  "publicationStage" : "published",
+  "rowIdentifierColumnId" : 114820831,
+  "rowsUpdatedAt" : 1387753091,
+  "rowsUpdatedBy" : "ajn4-zy65",
+  "signed" : false,
+  "state" : "normal",
+  "tableId" : 1352626,
+  "totalTimesRated" : 0,
+  "viewCount" : 2258,
+  "viewLastModified" : 1384367881,
+  "viewType" : "tabular",
+  "disabledFeatureFlags" : [ "allow_comments" ],
+  "grants" : [ {
+    "inherited" : false,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "renderTypeConfig" : {
+      "visible" : {
+        "table" : true
+      }
+    },
+    "availableDisplayTypes" : [ "table", "fatrow", "page" ],
+    "rdfSubject" : "0",
+    "rowIdentifier" : 114820831
+  },
+  "owner" : {
+    "id" : "ajn4-zy65",
+    "displayName" : "MCG ESB Service",
+    "screenName" : "MCG ESB Service"
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "ajn4-zy65",
+    "displayName" : "MCG ESB Service",
+    "screenName" : "MCG ESB Service"
+  },
+  "tags" : [ "parking", "garage", "space available", "cehicle counting", "public facility" ],
+  "flags" : [ "default" ]
+}, {
+  "id" : "nwmb-7vpu",
+  "name" : "2012 Cable Complaints by Service Provider",
+  "averageRating" : 0,
+  "category" : "Community",
+  "createdAt" : 1354307681,
+  "description" : "Pie chart display of all cable complaints filed with the Montgomery County Cable Office in calendar year 2012, by service provider.",
+  "displayType" : "chart",
+  "downloadCount" : 5,
+  "indexUpdatedAt" : 1379628424,
+  "moderationStatus" : true,
+  "newBackend" : false,
+  "numberOfComments" : 0,
+  "oid" : 5502064,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1379614487,
+  "publicationGroup" : 294745,
+  "publicationStage" : "published",
+  "rowsUpdatedAt" : 1379614394,
+  "rowsUpdatedBy" : "yr5d-z7h2",
+  "signed" : false,
+  "tableId" : 1164194,
+  "totalTimesRated" : 0,
+  "viewCount" : 68,
+  "viewLastModified" : 1354307929,
+  "viewType" : "tabular",
+  "grants" : [ {
+    "inherited" : true,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "renderTypeConfig" : {
+      "visible" : {
+        "chart" : true,
+        "table" : true
+      }
+    },
+    "availableDisplayTypes" : [ "chart", "table", "fatrow", "page" ],
+    "rdfSubject" : "0"
+  },
+  "owner" : {
+    "id" : "yr5d-z7h2",
+    "displayName" : "Montgomery County, MD",
+    "screenName" : "Montgomery County, MD"
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "yr5d-z7h2",
+    "displayName" : "Montgomery County, MD",
+    "screenName" : "Montgomery County, MD"
+  },
+  "tags" : [ "cable", "complaints" ]
+}, {
+  "id" : "yi53-eg4q",
+  "name" : "Post Offices Map",
+  "averageRating" : 0,
+  "category" : "Community",
+  "createdAt" : 1330463946,
+  "description" : "Address and Locations for Post Offices in Montgomery County, MD.",
+  "displayType" : "map",
+  "downloadCount" : 33,
+  "moderationStatus" : true,
+  "newBackend" : false,
+  "numberOfComments" : 0,
+  "oid" : 1074930,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1347565669,
+  "publicationGroup" : 290504,
+  "publicationStage" : "published",
+  "rowsUpdatedAt" : 1347565273,
+  "rowsUpdatedBy" : "yr5d-z7h2",
+  "signed" : false,
+  "tableId" : 425569,
+  "totalTimesRated" : 0,
+  "viewCount" : 766,
+  "viewLastModified" : 1330463947,
+  "viewType" : "tabular",
+  "grants" : [ {
+    "inherited" : true,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "renderTypeConfig" : {
+      "visible" : {
+        "map" : true,
+        "table" : true
+      }
+    },
+    "availableDisplayTypes" : [ "map", "table", "fatrow", "page" ]
+  },
+  "owner" : {
+    "id" : "yr5d-z7h2",
+    "displayName" : "Montgomery County, MD",
+    "screenName" : "Montgomery County, MD"
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "yr5d-z7h2",
+    "displayName" : "Montgomery County, MD",
+    "screenName" : "Montgomery County, MD"
+  },
+  "tags" : [ "mail", "post office", "usps" ]
+}, {
+  "id" : "knri-3xh7",
+  "name" : "Health & Human Services (HHS) Facilities Map",
+  "averageRating" : 0,
+  "category" : "Community",
+  "createdAt" : 1330463076,
+  "description" : "Address and locations for Health & Human Services (HHS) Facilities in Montgomery County, MD.",
+  "displayType" : "map",
+  "downloadCount" : 46,
+  "moderationStatus" : true,
+  "newBackend" : false,
+  "numberOfComments" : 0,
+  "oid" : 1087174,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1347902416,
+  "publicationGroup" : 290497,
+  "publicationStage" : "published",
+  "rowsUpdatedAt" : 1347902170,
+  "rowsUpdatedBy" : "yr5d-z7h2",
+  "signed" : false,
+  "tableId" : 428452,
+  "totalTimesRated" : 0,
+  "viewCount" : 86,
+  "viewLastModified" : 1330463257,
+  "viewType" : "tabular",
+  "grants" : [ {
+    "inherited" : true,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "renderTypeConfig" : {
+      "visible" : {
+        "map" : true,
+        "table" : true
+      }
+    },
+    "availableDisplayTypes" : [ "map", "table", "fatrow", "page" ],
+    "rdfSubject" : "0"
+  },
+  "owner" : {
+    "id" : "yr5d-z7h2",
+    "displayName" : "Montgomery County, MD",
+    "screenName" : "Montgomery County, MD"
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "yr5d-z7h2",
+    "displayName" : "Montgomery County, MD",
+    "screenName" : "Montgomery County, MD"
+  },
+  "tags" : [ "health", "services" ]
+}, {
+  "id" : "46p5-g5na",
+  "name" : "FoodInspection-API",
+  "averageRating" : 0,
+  "category" : "Community",
+  "createdAt" : 1346262260,
+  "description" : "The Licensure & Regulatory Services Program inspects all licensed retail food establishments in Montgomery County for a variety of reasons (e.g. obtaining a permit, regular check-ups, or in response to complaints.) Included in this overall surveillance are two types of inspections that are conducted on a routine basis. The first type, a comprehensive inspection, is a thorough inspection that evaluates the sanitation, maintenance, and food service operations for the facility. This inspection includes many of the items found in the monitoring inspection, such as critical temperatures and food handling procedures. The second type, a monitoring inspection, involves checking the food service operation for critical food temperatures, equipment temperatures, and general food handling / cleanliness practices. While monitoring inspections are not as detailed as environmental inspections, they help ensure that the facility is operating safely throughout the year.\n\nThe frequency of inspections is based on the food-borne illness risks associated with the food being processed at a facility. Based on the risk each facility is designated as high, medium, or low priority. High priority risk facilities prepare food products a day or more in advance or utilize any combination of two or more processes such as a cooking, cooling, reheating and hot holding food over four hours. Moderate priority risk facilities prepare and cook food products which are served immediately or within four hours. A low priority risk facility serve prepackage foods that are not potentially hazardous.\n\nFor high risk facilities, a monitoring inspection is conducted at least twice a year, and moderate risk facilities are inspected at least once a year. High and moderate risk facilities also receive at least one comprehensive inspection every year. Low risk priority facilities typically receive one comprehensive inspection every two years.\n\n(C) Denotes a Critical Violation. A Critical Violation means a food safety requirement that requires immediate correction. Failure for immediate correction results in cessation of some or all food operations or closure of the facility until violation is able to be corrected.\n\nUpdate Frequency:  Daily",
+  "displayType" : "api",
+  "downloadCount" : 13,
+  "indexUpdatedAt" : 1387694366,
+  "moderationStatus" : true,
+  "newBackend" : false,
+  "numberOfComments" : 0,
+  "oid" : 6290189,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1383754913,
+  "publicationGroup" : 414372,
+  "publicationStage" : "published",
+  "resourceName" : "food-inspection",
+  "rowsUpdatedAt" : 1387691504,
+  "rowsUpdatedBy" : "ajn4-zy65",
+  "signed" : false,
+  "state" : "normal",
+  "tableId" : 1328830,
+  "totalTimesRated" : 0,
+  "viewCount" : 49,
+  "viewLastModified" : 1369756254,
+  "viewType" : "tabular",
+  "disabledFeatureFlags" : [ "allow_comments" ],
+  "grants" : [ {
+    "inherited" : true,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "renderTypeConfig" : {
+      "visible" : {
+        "api" : true
+      }
+    },
+    "availableDisplayTypes" : [ "api" ],
+    "thumbnail" : {
+      "page" : {
+        "created" : true,
+        "filename" : "page.png-1022.545.13.4.png",
+        "selection" : {
+          "height" : 545,
+          "width" : 1022,
+          "y1" : 4,
+          "y2" : 549,
+          "x2" : 1035,
+          "x1" : 13
+        }
+      }
+    },
+    "rdfSubject" : "0",
+    "filterCondition" : {
+      "value" : "AND",
+      "type" : "operator",
+      "metadata" : {
+        "unifiedVersion" : 2,
+        "advanced" : true
+      }
+    }
+  },
+  "owner" : {
+    "id" : "ajn4-zy65",
+    "displayName" : "MCG ESB Service",
+    "screenName" : "MCG ESB Service"
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "ajn4-zy65",
+    "displayName" : "MCG ESB Service",
+    "screenName" : "MCG ESB Service"
+  },
+  "tags" : [ "food", "inspection", "violations", "closures" ]
+}, {
+  "id" : "qgb4-jpr6",
+  "name" : "Fiscal Year 2013 Budget - Internal Service Funds",
+  "averageRating" : 0,
+  "category" : "Financial",
+  "createdAt" : 1351004851,
+  "description" : "This dataset includes the Internal Service Fund data included in the annual operating budget.  Internal Service Funds (ISF) are proprietary funds used to record activity (primarily goods and services) provided by one department to other departments of the County government on a cost-reimbursable basis.  The County uses this type of fund to account for Motor Pool, Central Duplicating, Liability and Property Coverage Self-Insurance, and Employee Health Benefits Self-Insurance.\r\n\r\nUpdate Frequency:  Annual",
+  "displayType" : "table",
+  "downloadCount" : 7,
+  "indexUpdatedAt" : 1378748524,
+  "newBackend" : false,
+  "numberOfComments" : 0,
+  "oid" : 1407613,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1351099830,
+  "publicationGroup" : 460286,
+  "publicationStage" : "published",
+  "rowClass" : "",
+  "rowsUpdatedAt" : 1351099810,
+  "rowsUpdatedBy" : "fnci-gphj",
+  "signed" : false,
+  "tableId" : 461695,
+  "totalTimesRated" : 0,
+  "viewCount" : 141,
+  "viewLastModified" : 1378733078,
+  "viewType" : "tabular",
+  "disabledFeatureFlags" : [ "allow_comments" ],
+  "grants" : [ {
+    "inherited" : false,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "renderTypeConfig" : {
+      "visible" : {
+        "table" : true
+      }
+    },
+    "availableDisplayTypes" : [ "table", "fatrow", "page" ],
+    "rdfSubject" : "0",
+    "rowIdentifier" : "0",
+    "rdfClass" : ""
+  },
+  "owner" : {
+    "id" : "fnci-gphj",
+    "displayName" : "Victoria Lewis",
+    "screenName" : "Victoria Lewis"
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "fnci-gphj",
+    "displayName" : "Victoria Lewis",
+    "screenName" : "Victoria Lewis"
+  },
+  "tags" : [ "budget", "internal", "service", "funds", "internal service funds" ],
+  "flags" : [ "default" ]
+}, {
+  "id" : "j2i5-vax9",
+  "name" : "Transmission Facilities Application Status & Location",
+  "averageRating" : 0,
+  "category" : "Community",
+  "createdAt" : 1344458372,
+  "description" : "Information on all transmission facility applications (new tower or attachments) filed with the Montgomery County Cable Office for telecommunications and radio & TV transmission sites, including the location of the tower and the disposition of the application.  This dataset will be updated on a quarterly basis.",
+  "displayType" : "table",
+  "downloadCount" : 24,
+  "indexUpdatedAt" : 1359066899,
+  "newBackend" : false,
+  "numberOfComments" : 0,
+  "oid" : 2331558,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1359066878,
+  "publicationGroup" : 399075,
+  "publicationStage" : "published",
+  "rowsUpdatedAt" : 1359066611,
+  "rowsUpdatedBy" : "yr5d-z7h2",
+  "signed" : false,
+  "tableId" : 634247,
+  "totalTimesRated" : 0,
+  "viewCount" : 137,
+  "viewLastModified" : 1359066878,
+  "viewType" : "tabular",
+  "grants" : [ {
+    "inherited" : false,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "renderTypeConfig" : {
+      "visible" : {
+        "table" : true
+      }
+    },
+    "availableDisplayTypes" : [ "table", "fatrow", "page" ]
+  },
+  "owner" : {
+    "id" : "yr5d-z7h2",
+    "displayName" : "Montgomery County, MD",
+    "screenName" : "Montgomery County, MD"
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "yr5d-z7h2",
+    "displayName" : "Montgomery County, MD",
+    "screenName" : "Montgomery County, MD"
+  },
+  "tags" : [ "cable", "application", "location" ],
+  "flags" : [ "default" ]
+}, {
+  "id" : "v9jv-7r4v",
+  "name" : "2012 Cable Complaints - By Type of Complaint",
+  "averageRating" : 0,
+  "category" : "Community",
+  "createdAt" : 1354308604,
+  "description" : "Bar chart display of all cable complaints filed with the Montgomery County Cable Office in calendar year 2012, by type of complaint.",
+  "displayType" : "chart",
+  "downloadCount" : 7,
+  "indexUpdatedAt" : 1379628423,
+  "moderationStatus" : true,
+  "newBackend" : false,
+  "numberOfComments" : 0,
+  "oid" : 5502069,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1379614487,
+  "publicationGroup" : 294745,
+  "publicationStage" : "published",
+  "rowsUpdatedAt" : 1379614394,
+  "rowsUpdatedBy" : "yr5d-z7h2",
+  "signed" : false,
+  "tableId" : 1164194,
+  "totalTimesRated" : 0,
+  "viewCount" : 56,
+  "viewLastModified" : 1354308653,
+  "viewType" : "tabular",
+  "grants" : [ {
+    "inherited" : true,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "renderTypeConfig" : {
+      "visible" : {
+        "chart" : true,
+        "table" : true
+      }
+    },
+    "availableDisplayTypes" : [ "chart", "table", "fatrow", "page" ],
+    "rdfSubject" : "0"
+  },
+  "owner" : {
+    "id" : "yr5d-z7h2",
+    "displayName" : "Montgomery County, MD",
+    "screenName" : "Montgomery County, MD"
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "yr5d-z7h2",
+    "displayName" : "Montgomery County, MD",
+    "screenName" : "Montgomery County, MD"
+  },
+  "tags" : [ "cable", "complaints" ]
+}, {
+  "id" : "3zw5-2zdd",
+  "name" : "2012 Cable Complaints by City",
+  "averageRating" : 0,
+  "category" : "Community",
+  "createdAt" : 1354308075,
+  "description" : "Pie chart display of all cable complaints filed with the Montgomery County Cable Office in calendar year 2012 by city.",
+  "displayType" : "chart",
+  "downloadCount" : 6,
+  "indexUpdatedAt" : 1379628423,
+  "moderationStatus" : true,
+  "newBackend" : false,
+  "numberOfComments" : 0,
+  "oid" : 5502065,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1379614487,
+  "publicationGroup" : 294745,
+  "publicationStage" : "published",
+  "rowsUpdatedAt" : 1379614394,
+  "rowsUpdatedBy" : "yr5d-z7h2",
+  "signed" : false,
+  "tableId" : 1164194,
+  "totalTimesRated" : 0,
+  "viewCount" : 53,
+  "viewLastModified" : 1354308119,
+  "viewType" : "tabular",
+  "grants" : [ {
+    "inherited" : true,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "renderTypeConfig" : {
+      "visible" : {
+        "chart" : true,
+        "table" : true
+      }
+    },
+    "availableDisplayTypes" : [ "chart", "table", "fatrow", "page" ],
+    "rdfSubject" : "0"
+  },
+  "owner" : {
+    "id" : "yr5d-z7h2",
+    "displayName" : "Montgomery County, MD",
+    "screenName" : "Montgomery County, MD"
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "yr5d-z7h2",
+    "displayName" : "Montgomery County, MD",
+    "screenName" : "Montgomery County, MD"
+  },
+  "tags" : [ "cable", "complaints" ]
+}, {
+  "id" : "8k7h-yir3",
+  "name" : "Library Map",
+  "averageRating" : 0,
+  "category" : "Community",
+  "createdAt" : 1339443733,
+  "description" : "Locations of all Montgomery County, MD Libraries.",
+  "displayType" : "map",
+  "downloadCount" : 161,
+  "moderationStatus" : true,
+  "newBackend" : false,
+  "numberOfComments" : 0,
+  "oid" : 1077863,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1347650282,
+  "publicationGroup" : 358466,
+  "publicationStage" : "published",
+  "rowsUpdatedAt" : 1347649876,
+  "rowsUpdatedBy" : "yr5d-z7h2",
+  "signed" : false,
+  "tableId" : 426410,
+  "totalTimesRated" : 0,
+  "viewCount" : 82,
+  "viewLastModified" : 1339443733,
+  "viewType" : "tabular",
+  "grants" : [ {
+    "inherited" : true,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "renderTypeConfig" : {
+      "visible" : {
+        "map" : true,
+        "table" : true
+      }
+    },
+    "availableDisplayTypes" : [ "map", "table", "fatrow", "page" ]
+  },
+  "owner" : {
+    "id" : "yr5d-z7h2",
+    "displayName" : "Montgomery County, MD",
+    "screenName" : "Montgomery County, MD"
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "yr5d-z7h2",
+    "displayName" : "Montgomery County, MD",
+    "screenName" : "Montgomery County, MD"
+  },
+  "tags" : [ "library" ]
+}, {
+  "id" : "xfxj-qszi",
+  "name" : "ResidentialPermit-API",
+  "averageRating" : 0,
+  "category" : "Property",
+  "createdAt" : 1343823471,
+  "description" : "Data for all Residential Building Permits issued since 2000, including status and work performed.\n\nUpdate Frequency:  Daily",
+  "displayType" : "api",
+  "downloadCount" : 66,
+  "indexUpdatedAt" : 1387529317,
+  "moderationStatus" : true,
+  "newBackend" : false,
+  "numberOfComments" : 0,
+  "oid" : 6379849,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1384235150,
+  "publicationGroup" : 393492,
+  "publicationStage" : "published",
+  "resourceName" : "residential-permit",
+  "rowsUpdatedAt" : 1387518512,
+  "rowsUpdatedBy" : "ajn4-zy65",
+  "signed" : false,
+  "state" : "normal",
+  "tableId" : 1347508,
+  "totalTimesRated" : 0,
+  "viewCount" : 39,
+  "viewLastModified" : 1369766337,
+  "viewType" : "tabular",
+  "grants" : [ {
+    "inherited" : true,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "renderTypeConfig" : {
+      "visible" : {
+        "api" : true
+      }
+    },
+    "availableDisplayTypes" : [ "api" ],
+    "thumbnail" : {
+      "page" : {
+        "created" : true,
+        "filename" : "page.png-1092.582.7.100.png",
+        "selection" : {
+          "height" : 582,
+          "width" : 1092,
+          "y1" : 100,
+          "y2" : 682,
+          "x2" : 1099,
+          "x1" : 7
+        }
+      }
+    },
+    "rdfSubject" : "0"
+  },
+  "owner" : {
+    "id" : "ajn4-zy65",
+    "displayName" : "MCG ESB Service",
+    "screenName" : "MCG ESB Service"
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "ajn4-zy65",
+    "displayName" : "MCG ESB Service",
+    "screenName" : "MCG ESB Service"
+  }
+}, {
+  "id" : "tzyi-s757",
+  "name" : "Cable Inspections",
+  "averageRating" : 0,
+  "category" : "Community",
+  "createdAt" : 1344457874,
+  "description" : "Information on Cable Inspections performed by the Montgomery County Cable Office since September 1, 2010.  This dataset will be updated on a quarterly basis.",
+  "displayType" : "table",
+  "downloadCount" : 34,
+  "indexUpdatedAt" : 1380667724,
+  "newBackend" : false,
+  "numberOfComments" : 0,
+  "oid" : 5704121,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1380649534,
+  "publicationGroup" : 399068,
+  "publicationStage" : "published",
+  "rowsUpdatedAt" : 1380649504,
+  "rowsUpdatedBy" : "yr5d-z7h2",
+  "signed" : false,
+  "tableId" : 1205848,
+  "totalTimesRated" : 0,
+  "viewCount" : 97,
+  "viewLastModified" : 1380649534,
+  "viewType" : "tabular",
+  "grants" : [ {
+    "inherited" : false,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "renderTypeConfig" : {
+      "visible" : {
+        "table" : true
+      }
+    },
+    "availableDisplayTypes" : [ "table", "fatrow", "page" ]
+  },
+  "owner" : {
+    "id" : "yr5d-z7h2",
+    "displayName" : "Montgomery County, MD",
+    "screenName" : "Montgomery County, MD"
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "yr5d-z7h2",
+    "displayName" : "Montgomery County, MD",
+    "screenName" : "Montgomery County, MD"
+  },
+  "tags" : [ "cable", "inspections" ],
+  "flags" : [ "default" ]
+}, {
+  "id" : "jrcn-in39",
+  "name" : "MC311ServiceRequests-API",
+  "averageRating" : 0,
+  "category" : "Community",
+  "createdAt" : 1345464879,
+  "description" : "Information on all MC311 Service Requests received (via email or phone) since July 1, 2012.  This data is updated daily.",
+  "displayType" : "api",
+  "downloadCount" : 8,
+  "indexUpdatedAt" : 1387694781,
+  "moderationStatus" : true,
+  "newBackend" : false,
+  "numberOfComments" : 0,
+  "oid" : 6051665,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1382535773,
+  "publicationGroup" : 407468,
+  "publicationStage" : "published",
+  "resourceName" : "mc311-service-requests",
+  "rowsUpdatedAt" : 1387693053,
+  "rowsUpdatedBy" : "ajn4-zy65",
+  "signed" : false,
+  "state" : "normal",
+  "tableId" : 1277582,
+  "totalTimesRated" : 0,
+  "viewCount" : 59,
+  "viewLastModified" : 1369755672,
+  "viewType" : "tabular",
+  "grants" : [ {
+    "inherited" : true,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "renderTypeConfig" : {
+      "visible" : {
+        "api" : true
+      }
+    },
+    "availableDisplayTypes" : [ "api" ],
+    "rdfSubject" : "0"
+  },
+  "owner" : {
+    "id" : "ajn4-zy65",
+    "displayName" : "MCG ESB Service",
+    "screenName" : "MCG ESB Service"
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "ajn4-zy65",
+    "displayName" : "MCG ESB Service",
+    "screenName" : "MCG ESB Service"
+  },
+  "tags" : [ "mc311", "services" ]
+}, {
+  "id" : "d4ve-piw2",
+  "name" : "Commercial Permits Issued in 2013",
+  "averageRating" : 0,
+  "category" : "Property",
+  "createdAt" : 1366910956,
+  "description" : "Data for all Commercial Building Permits issued since 2000, including status and work performed.\r\n\r\nUpdate Frequency:  Daily",
+  "displayType" : "map",
+  "downloadCount" : 133,
+  "indexUpdatedAt" : 1387531639,
+  "moderationStatus" : true,
+  "newBackend" : false,
+  "numberOfComments" : 0,
+  "oid" : 6280795,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1383718002,
+  "publicationGroup" : 393495,
+  "publicationStage" : "published",
+  "rowsUpdatedAt" : 1387520228,
+  "rowsUpdatedBy" : "ajn4-zy65",
+  "signed" : false,
+  "state" : "normal",
+  "tableId" : 1327181,
+  "totalTimesRated" : 0,
+  "viewCount" : 155,
+  "viewLastModified" : 1366910957,
+  "viewType" : "tabular",
+  "grants" : [ {
+    "inherited" : true,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "renderTypeConfig" : {
+      "visible" : {
+        "map" : true,
+        "table" : true
+      }
+    },
+    "availableDisplayTypes" : [ "map", "table", "fatrow", "page" ],
+    "rdfSubject" : "0"
+  },
+  "owner" : {
+    "id" : "fnci-gphj",
+    "displayName" : "Victoria Lewis",
+    "screenName" : "Victoria Lewis"
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "ajn4-zy65",
+    "displayName" : "MCG ESB Service",
+    "screenName" : "MCG ESB Service"
+  }
+}, {
+  "id" : "pfrp-4sbe",
+  "name" : "Open Permits",
+  "averageRating" : 0,
+  "category" : "Property",
+  "createdAt" : 1366911140,
+  "description" : "Data for all Commercial Building Permits issued since 2000, including status and work performed.\r\n\r\nUpdate Frequency:  Daily",
+  "displayType" : "map",
+  "downloadCount" : 89,
+  "indexUpdatedAt" : 1387531637,
+  "moderationStatus" : true,
+  "newBackend" : false,
+  "numberOfComments" : 0,
+  "oid" : 6280796,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1383718002,
+  "publicationGroup" : 393495,
+  "publicationStage" : "published",
+  "rowsUpdatedAt" : 1387520228,
+  "rowsUpdatedBy" : "ajn4-zy65",
+  "signed" : false,
+  "state" : "normal",
+  "tableId" : 1327181,
+  "totalTimesRated" : 0,
+  "viewCount" : 82,
+  "viewLastModified" : 1366911140,
+  "viewType" : "tabular",
+  "grants" : [ {
+    "inherited" : true,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "renderTypeConfig" : {
+      "visible" : {
+        "map" : true,
+        "table" : true
+      }
+    },
+    "availableDisplayTypes" : [ "map", "table", "fatrow", "page" ],
+    "rdfSubject" : "0"
+  },
+  "owner" : {
+    "id" : "fnci-gphj",
+    "displayName" : "Victoria Lewis",
+    "screenName" : "Victoria Lewis"
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "ajn4-zy65",
+    "displayName" : "MCG ESB Service",
+    "screenName" : "MCG ESB Service"
+  }
+}, {
+  "id" : "ih88-a6aa",
+  "name" : "Mechanical Permits",
+  "averageRating" : 0,
+  "category" : "Community",
+  "createdAt" : 1371002544,
+  "description" : "Data for all Mechanical Permit applications, including status and work performed.  Update Frequency:  Daily",
+  "displayType" : "table",
+  "downloadCount" : 68,
+  "indexUpdatedAt" : 1387532548,
+  "newBackend" : false,
+  "numberOfComments" : 0,
+  "oid" : 6380486,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1384241895,
+  "publicationGroup" : 913542,
+  "publicationStage" : "published",
+  "rowClass" : "",
+  "rowIdentifierColumnId" : 114411245,
+  "rowsUpdatedAt" : 1387528502,
+  "rowsUpdatedBy" : "ajn4-zy65",
+  "signed" : false,
+  "state" : "normal",
+  "tableId" : 1347740,
+  "totalTimesRated" : 0,
+  "viewCount" : 145,
+  "viewLastModified" : 1384413748,
+  "viewType" : "tabular",
+  "disabledFeatureFlags" : [ "allow_comments" ],
+  "grants" : [ {
+    "inherited" : false,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "renderTypeConfig" : {
+      "visible" : {
+        "table" : true
+      }
+    },
+    "availableDisplayTypes" : [ "table", "fatrow", "page" ],
+    "rdfSubject" : "0",
+    "rowIdentifier" : "permitno",
+    "rdfClass" : ""
+  },
+  "owner" : {
+    "id" : "ajn4-zy65",
+    "displayName" : "MCG ESB Service",
+    "screenName" : "MCG ESB Service"
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "ajn4-zy65",
+    "displayName" : "MCG ESB Service",
+    "screenName" : "MCG ESB Service"
+  },
+  "tags" : [ "mechanical", "permit", "residential" ],
+  "flags" : [ "default" ]
+}, {
+  "id" : "mytb-swri",
+  "name" : "Contracts-API",
+  "averageRating" : 0,
+  "category" : "Financial",
+  "createdAt" : 1349356558,
+  "description" : "The following dataset is a listing of all active County contracts.  This list is updated daily.\n\nUpdate Frequency:  Daily",
+  "displayType" : "api",
+  "downloadCount" : 78,
+  "indexUpdatedAt" : 1387693914,
+  "moderationStatus" : true,
+  "newBackend" : false,
+  "numberOfComments" : 0,
+  "oid" : 6294189,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1383774786,
+  "publicationGroup" : 443169,
+  "publicationStage" : "published",
+  "resourceName" : "contracts",
+  "rowsUpdatedAt" : 1387690532,
+  "rowsUpdatedBy" : "ajn4-zy65",
+  "signed" : false,
+  "state" : "normal",
+  "tableId" : 1329693,
+  "totalTimesRated" : 0,
+  "viewCount" : 6,
+  "viewLastModified" : 1369838909,
+  "viewType" : "tabular",
+  "disabledFeatureFlags" : [ "allow_comments" ],
+  "grants" : [ {
+    "inherited" : true,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "renderTypeConfig" : {
+      "visible" : {
+        "api" : true
+      }
+    },
+    "availableDisplayTypes" : [ "api" ],
+    "thumbnail" : {
+      "page" : {
+        "created" : true,
+        "filename" : "page.png-1148.613.4.5.png",
+        "selection" : {
+          "height" : 613,
+          "width" : 1148,
+          "y1" : 5,
+          "y2" : 618,
+          "x2" : 1152,
+          "x1" : 4
+        }
+      }
+    },
+    "rdfSubject" : "0"
+  },
+  "owner" : {
+    "id" : "ajn4-zy65",
+    "displayName" : "MCG ESB Service",
+    "screenName" : "MCG ESB Service"
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "ajn4-zy65",
+    "displayName" : "MCG ESB Service",
+    "screenName" : "MCG ESB Service"
+  },
+  "tags" : [ "contracts", "procurement" ]
+}, {
+  "id" : "98z8-bqz4",
+  "name" : "CommercialPermits-API",
+  "averageRating" : 0,
+  "category" : "Property",
+  "createdAt" : 1343823595,
+  "description" : "Data for all Commercial Building Permits issued since 2000, including status and work performed.\n\nUpdate Frequency:  Daily",
+  "displayType" : "api",
+  "downloadCount" : 34,
+  "indexUpdatedAt" : 1387531647,
+  "moderationStatus" : true,
+  "newBackend" : false,
+  "numberOfComments" : 0,
+  "oid" : 6280797,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1383718002,
+  "publicationGroup" : 393495,
+  "publicationStage" : "published",
+  "resourceName" : "commercial-permits",
+  "rowsUpdatedAt" : 1387520228,
+  "rowsUpdatedBy" : "ajn4-zy65",
+  "signed" : false,
+  "state" : "normal",
+  "tableId" : 1327181,
+  "totalTimesRated" : 0,
+  "viewCount" : 36,
+  "viewLastModified" : 1369760522,
+  "viewType" : "tabular",
+  "grants" : [ {
+    "inherited" : true,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "renderTypeConfig" : {
+      "visible" : {
+        "api" : true
+      }
+    },
+    "availableDisplayTypes" : [ "api" ],
+    "rdfSubject" : "0",
+    "filterCondition" : {
+      "value" : "AND",
+      "children" : [ {
+        "value" : "OR",
+        "type" : "operator",
+        "metadata" : {
+          "tableColumnId" : {
+            "393495" : 3659662
+          },
+          "operator" : "EQUALS"
+        }
+      }, {
+        "value" : "OR",
+        "type" : "operator",
+        "metadata" : {
+          "tableColumnId" : {
+            "393495" : 3659663
+          },
+          "operator" : "EQUALS"
+        }
+      }, {
+        "value" : "OR",
+        "type" : "operator",
+        "metadata" : {
+          "tableColumnId" : {
+            "393495" : 3659675
+          },
+          "operator" : "EQUALS"
+        }
+      }, {
+        "value" : "OR",
+        "type" : "operator",
+        "metadata" : {
+          "tableColumnId" : {
+            "393495" : 3659665
+          },
+          "operator" : "EQUALS"
+        }
+      }, {
+        "value" : "OR",
+        "type" : "operator",
+        "metadata" : {
+          "tableColumnId" : {
+            "393495" : 3659670
+          },
+          "operator" : "EQUALS"
+        }
+      }, {
+        "value" : "OR",
+        "type" : "operator",
+        "metadata" : {
+          "tableColumnId" : {
+            "393495" : 3659671
+          },
+          "operator" : "EQUALS"
+        }
+      }, {
+        "value" : "OR",
+        "type" : "operator",
+        "metadata" : {
+          "tableColumnId" : {
+            "393495" : 3659672
+          },
+          "operator" : "EQUALS"
+        }
+      } ],
+      "type" : "operator",
+      "metadata" : {
+        "unifiedVersion" : 2,
+        "advanced" : true
+      }
+    }
+  },
+  "owner" : {
+    "id" : "ajn4-zy65",
+    "displayName" : "MCG ESB Service",
+    "screenName" : "MCG ESB Service"
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "ajn4-zy65",
+    "displayName" : "MCG ESB Service",
+    "screenName" : "MCG ESB Service"
+  }
+}, {
+  "id" : "8ani-excz",
+  "name" : "FY13Budget-API",
+  "averageRating" : 0,
+  "createdAt" : 1342547024,
+  "description" : "",
+  "displayType" : "api",
+  "downloadCount" : 1,
+  "indexUpdatedAt" : 1369891049,
+  "moderationStatus" : true,
+  "newBackend" : false,
+  "numberOfComments" : 0,
+  "oid" : 3812639,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1346859354,
+  "publicationGroup" : 382666,
+  "publicationStage" : "published",
+  "resourceName" : "fy13-budget",
+  "rowsUpdatedAt" : 1346859226,
+  "rowsUpdatedBy" : "fnci-gphj",
+  "signed" : false,
+  "tableId" : 382666,
+  "totalTimesRated" : 0,
+  "viewCount" : 0,
+  "viewLastModified" : 1369855339,
+  "viewType" : "tabular",
+  "disabledFeatureFlags" : [ "allow_comments" ],
+  "grants" : [ {
+    "inherited" : false,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "renderTypeConfig" : {
+      "visible" : {
+        "api" : true
+      }
+    },
+    "availableDisplayTypes" : [ "api" ]
+  },
+  "owner" : {
+    "id" : "ajn4-zy65",
+    "displayName" : "MCG ESB Service",
+    "screenName" : "MCG ESB Service"
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "ajn4-zy65",
+    "displayName" : "MCG ESB Service",
+    "screenName" : "MCG ESB Service"
+  }
+}, {
+  "id" : "b6ht-fw3x",
+  "name" : "Demolition Permits",
+  "averageRating" : 0,
+  "category" : "Community",
+  "createdAt" : 1370971729,
+  "description" : "Data for all Demolition Permit applications, including status and work performed.\r\n\r\nUpdate Frequency:  Daily",
+  "displayType" : "table",
+  "downloadCount" : 102,
+  "indexUpdatedAt" : 1387531906,
+  "newBackend" : false,
+  "numberOfComments" : 0,
+  "oid" : 6396832,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1384324373,
+  "publicationGroup" : 912812,
+  "publicationStage" : "published",
+  "rowIdentifierColumnId" : 114683735,
+  "rowsUpdatedAt" : 1387521095,
+  "rowsUpdatedBy" : "ajn4-zy65",
+  "signed" : false,
+  "state" : "normal",
+  "tableId" : 1350841,
+  "totalTimesRated" : 0,
+  "viewCount" : 148,
+  "viewLastModified" : 1384410677,
+  "viewType" : "tabular",
+  "disabledFeatureFlags" : [ "allow_comments" ],
+  "grants" : [ {
+    "inherited" : false,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "renderTypeConfig" : {
+      "visible" : {
+        "table" : true
+      }
+    },
+    "availableDisplayTypes" : [ "table", "fatrow", "page" ],
+    "rdfSubject" : "0",
+    "rowIdentifier" : 114683735
+  },
+  "owner" : {
+    "id" : "ajn4-zy65",
+    "displayName" : "MCG ESB Service",
+    "screenName" : "MCG ESB Service"
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "ajn4-zy65",
+    "displayName" : "MCG ESB Service",
+    "screenName" : "MCG ESB Service"
+  },
+  "tags" : [ "permits", "demolition", "residential" ],
+  "flags" : [ "default" ]
+}, {
+  "id" : "2b9e-mbxk",
+  "name" : "Public Right Of Way Permits",
+  "averageRating" : 0,
+  "category" : "Community",
+  "createdAt" : 1371001252,
+  "description" : "Data for all Public Right of Way Permit applications, including status and work performed.  Update Frequency:  Daily",
+  "displayType" : "table",
+  "downloadCount" : 52,
+  "indexUpdatedAt" : 1387532593,
+  "newBackend" : false,
+  "numberOfComments" : 0,
+  "oid" : 6380586,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1384242147,
+  "publicationGroup" : 913515,
+  "publicationStage" : "published",
+  "rowClass" : "",
+  "rowIdentifierColumnId" : 114412366,
+  "rowsUpdatedAt" : 1387529161,
+  "rowsUpdatedBy" : "ajn4-zy65",
+  "signed" : false,
+  "state" : "normal",
+  "tableId" : 1347787,
+  "totalTimesRated" : 0,
+  "viewCount" : 168,
+  "viewLastModified" : 1384414828,
+  "viewType" : "tabular",
+  "disabledFeatureFlags" : [ "allow_comments" ],
+  "grants" : [ {
+    "inherited" : false,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "renderTypeConfig" : {
+      "visible" : {
+        "table" : true
+      }
+    },
+    "availableDisplayTypes" : [ "table", "fatrow", "page" ],
+    "rdfSubject" : "0",
+    "rowIdentifier" : "permitno",
+    "rdfClass" : ""
+  },
+  "owner" : {
+    "id" : "ajn4-zy65",
+    "displayName" : "MCG ESB Service",
+    "screenName" : "MCG ESB Service"
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "ajn4-zy65",
+    "displayName" : "MCG ESB Service",
+    "screenName" : "MCG ESB Service"
+  },
+  "tags" : [ "permit", "right of way", "residential" ],
+  "flags" : [ "default" ]
+}, {
+  "id" : "ydri-y5u9",
+  "name" : "Electrical Business Licenses",
+  "averageRating" : 0,
+  "category" : "Community",
+  "createdAt" : 1370999202,
+  "description" : "Data for all Electrical Business License Permit applications.  Update Frequency:  Daily",
+  "displayType" : "table",
+  "downloadCount" : 182,
+  "indexUpdatedAt" : 1387532147,
+  "newBackend" : false,
+  "numberOfComments" : 0,
+  "oid" : 6503730,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1384982809,
+  "publicationGroup" : 913474,
+  "publicationStage" : "published",
+  "rowIdentifierColumnId" : 116715335,
+  "rowsUpdatedAt" : 1387521946,
+  "rowsUpdatedBy" : "ajn4-zy65",
+  "signed" : false,
+  "state" : "normal",
+  "tableId" : 1364108,
+  "totalTimesRated" : 0,
+  "viewCount" : 76,
+  "viewLastModified" : 1385016368,
+  "viewType" : "tabular",
+  "disabledFeatureFlags" : [ "allow_comments" ],
+  "grants" : [ {
+    "inherited" : false,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "renderTypeConfig" : {
+      "visible" : {
+        "table" : true
+      }
+    },
+    "availableDisplayTypes" : [ "table", "fatrow", "page" ],
+    "rdfSubject" : "0",
+    "rowIdentifier" : 116715335
+  },
+  "owner" : {
+    "id" : "ajn4-zy65",
+    "displayName" : "MCG ESB Service",
+    "screenName" : "MCG ESB Service"
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "ajn4-zy65",
+    "displayName" : "MCG ESB Service",
+    "screenName" : "MCG ESB Service"
+  },
+  "tags" : [ "electrical", "license", "permit", "applications" ],
+  "flags" : [ "default" ]
+}, {
+  "id" : "chfz-aiga",
+  "name" : "DemolitionPermits-API",
+  "averageRating" : 0,
+  "createdAt" : 1367351226,
+  "description" : "This data set is used for Demolition Permits",
+  "displayType" : "api",
+  "downloadCount" : 39,
+  "indexUpdatedAt" : 1383166069,
+  "moderationStatus" : true,
+  "newBackend" : false,
+  "numberOfComments" : 0,
+  "oid" : 3990695,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1370971300,
+  "publicationGroup" : 828633,
+  "publicationStage" : "published",
+  "resourceName" : "demolition-permits",
+  "rowsUpdatedAt" : 1383146906,
+  "rowsUpdatedBy" : "ajn4-zy65",
+  "signed" : false,
+  "state" : "normal",
+  "tableId" : 912797,
+  "totalTimesRated" : 0,
+  "viewCount" : 0,
+  "viewLastModified" : 1369925365,
+  "viewType" : "tabular",
+  "grants" : [ {
+    "inherited" : false,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "renderTypeConfig" : {
+      "visible" : {
+        "api" : true
+      }
+    },
+    "availableDisplayTypes" : [ "api" ],
+    "rdfSubject" : "0"
+  },
+  "owner" : {
+    "id" : "ajn4-zy65",
+    "displayName" : "MCG ESB Service",
+    "screenName" : "MCG ESB Service"
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "ajn4-zy65",
+    "displayName" : "MCG ESB Service",
+    "screenName" : "MCG ESB Service"
+  }
+}, {
+  "id" : "m9e5-pvwj",
+  "name" : "ElectricalBuildingPermits-API",
+  "averageRating" : 0,
+  "createdAt" : 1367436670,
+  "description" : "Dataset for Electrical Building Permits",
+  "displayType" : "api",
+  "downloadCount" : 11,
+  "indexUpdatedAt" : 1387558657,
+  "moderationStatus" : true,
+  "newBackend" : false,
+  "numberOfComments" : 0,
+  "oid" : 6872467,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1387555924,
+  "publicationGroup" : 830752,
+  "publicationStage" : "published",
+  "resourceName" : "electrical-building-permits",
+  "rowsUpdatedAt" : 1387557687,
+  "rowsUpdatedBy" : "ajn4-zy65",
+  "signed" : false,
+  "state" : "normal",
+  "tableId" : 1393102,
+  "totalTimesRated" : 0,
+  "viewCount" : 1,
+  "viewLastModified" : 1369925247,
+  "viewType" : "tabular",
+  "grants" : [ {
+    "inherited" : false,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "renderTypeConfig" : {
+      "visible" : {
+        "api" : true
+      }
+    },
+    "availableDisplayTypes" : [ "api" ],
+    "rdfSubject" : "0"
+  },
+  "owner" : {
+    "id" : "ajn4-zy65",
+    "displayName" : "MCG ESB Service",
+    "screenName" : "MCG ESB Service"
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "ajn4-zy65",
+    "displayName" : "MCG ESB Service",
+    "screenName" : "MCG ESB Service"
+  }
+}, {
+  "id" : "qxie-8qnp",
+  "name" : "Electrical Building Permits",
+  "averageRating" : 0,
+  "createdAt" : 1370973448,
+  "description" : "Data for all Electrical Permit applications, including status and work performed.",
+  "displayType" : "table",
+  "downloadCount" : 65,
+  "indexUpdatedAt" : 1387532242,
+  "newBackend" : false,
+  "numberOfComments" : 0,
+  "oid" : 6397185,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1384983125,
+  "publicationGroup" : 912853,
+  "publicationStage" : "published",
+  "rowIdentifierColumnId" : 114688325,
+  "rowsUpdatedAt" : 1387526963,
+  "rowsUpdatedBy" : "ajn4-zy65",
+  "signed" : false,
+  "state" : "normal",
+  "tableId" : 1350912,
+  "totalTimesRated" : 0,
+  "viewCount" : 162,
+  "viewLastModified" : 1385017865,
+  "viewType" : "tabular",
+  "grants" : [ {
+    "inherited" : false,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "renderTypeConfig" : {
+      "visible" : {
+        "table" : true
+      }
+    },
+    "availableDisplayTypes" : [ "table", "fatrow", "page" ],
+    "rdfSubject" : "0",
+    "rowIdentifier" : 114688325
+  },
+  "owner" : {
+    "id" : "ajn4-zy65",
+    "displayName" : "MCG ESB Service",
+    "screenName" : "MCG ESB Service"
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "ajn4-zy65",
+    "displayName" : "MCG ESB Service",
+    "screenName" : "MCG ESB Service"
+  },
+  "tags" : [ "permit", "residential", "status" ],
+  "flags" : [ "default" ]
+}, {
+  "id" : "dc4a-u242",
+  "name" : "PublicRightofWayPermits-API",
+  "averageRating" : 0,
+  "createdAt" : 1367522686,
+  "description" : "",
+  "displayType" : "api",
+  "downloadCount" : 6,
+  "indexUpdatedAt" : 1384796842,
+  "moderationStatus" : true,
+  "newBackend" : false,
+  "numberOfComments" : 0,
+  "oid" : 6469329,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1384788786,
+  "publicationGroup" : 832995,
+  "publicationStage" : "published",
+  "resourceName" : "public-right-of-way-permits",
+  "rowsUpdatedAt" : 1384788699,
+  "rowsUpdatedBy" : "ajn4-zy65",
+  "signed" : false,
+  "tableId" : 1359667,
+  "totalTimesRated" : 0,
+  "viewCount" : 0,
+  "viewLastModified" : 1369925006,
+  "viewType" : "tabular",
+  "grants" : [ {
+    "inherited" : false,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "renderTypeConfig" : {
+      "visible" : {
+        "api" : true
+      }
+    },
+    "availableDisplayTypes" : [ "api" ],
+    "rdfSubject" : "0"
+  },
+  "owner" : {
+    "id" : "ajn4-zy65",
+    "displayName" : "MCG ESB Service",
+    "screenName" : "MCG ESB Service"
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "ajn4-zy65",
+    "displayName" : "MCG ESB Service",
+    "screenName" : "MCG ESB Service"
+  }
+}, {
+  "id" : "hqvq-fb8h",
+  "name" : "MechanicalPermits-API",
+  "averageRating" : 0,
+  "createdAt" : 1367517919,
+  "description" : "",
+  "displayType" : "api",
+  "downloadCount" : 13,
+  "indexUpdatedAt" : 1384327431,
+  "moderationStatus" : true,
+  "newBackend" : false,
+  "numberOfComments" : 0,
+  "oid" : 6391155,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1384288071,
+  "publicationGroup" : 832874,
+  "publicationStage" : "published",
+  "resourceName" : "mechanical-permits",
+  "rowsUpdatedAt" : 1384289879,
+  "rowsUpdatedBy" : "ajn4-zy65",
+  "signed" : false,
+  "state" : "normal",
+  "tableId" : 1349268,
+  "totalTimesRated" : 0,
+  "viewCount" : 0,
+  "viewLastModified" : 1369925099,
+  "viewType" : "tabular",
+  "grants" : [ {
+    "inherited" : false,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "renderTypeConfig" : {
+      "visible" : {
+        "api" : true
+      }
+    },
+    "availableDisplayTypes" : [ "api" ],
+    "rdfSubject" : "0"
+  },
+  "owner" : {
+    "id" : "ajn4-zy65",
+    "displayName" : "MCG ESB Service",
+    "screenName" : "MCG ESB Service"
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "ajn4-zy65",
+    "displayName" : "MCG ESB Service",
+    "screenName" : "MCG ESB Service"
+  }
+}, {
+  "id" : "ti2z-xruq",
+  "name" : "ElectricalBusinessLicenses-API",
+  "averageRating" : 0,
+  "createdAt" : 1368707834,
+  "description" : "",
+  "displayType" : "api",
+  "downloadCount" : 87,
+  "indexUpdatedAt" : 1383165969,
+  "moderationStatus" : true,
+  "newBackend" : false,
+  "numberOfComments" : 0,
+  "oid" : 3991464,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1370976173,
+  "publicationGroup" : 860717,
+  "publicationStage" : "published",
+  "resourceName" : "electrical-business-licenses",
+  "rowsUpdatedAt" : 1383146808,
+  "rowsUpdatedBy" : "ajn4-zy65",
+  "signed" : false,
+  "state" : "normal",
+  "tableId" : 912870,
+  "totalTimesRated" : 0,
+  "viewCount" : 0,
+  "viewLastModified" : 1369924130,
+  "viewType" : "tabular",
+  "grants" : [ {
+    "inherited" : false,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "renderTypeConfig" : {
+      "visible" : {
+        "api" : true
+      }
+    },
+    "availableDisplayTypes" : [ "api" ],
+    "rdfSubject" : "0"
+  },
+  "owner" : {
+    "id" : "ajn4-zy65",
+    "displayName" : "MCG ESB Service",
+    "screenName" : "MCG ESB Service"
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "ajn4-zy65",
+    "displayName" : "MCG ESB Service",
+    "screenName" : "MCG ESB Service"
+  }
+}, {
+  "id" : "nsmk-9tpv",
+  "name" : "PropertyTax-API",
+  "averageRating" : 0,
+  "createdAt" : 1354893125,
+  "description" : "",
+  "displayType" : "api",
+  "downloadCount" : 12,
+  "indexUpdatedAt" : 1369891283,
+  "moderationStatus" : true,
+  "newBackend" : false,
+  "numberOfComments" : 0,
+  "oid" : 3813618,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1355750837,
+  "publicationGroup" : 542750,
+  "publicationStage" : "published",
+  "resourceName" : "property-tax",
+  "rowsUpdatedAt" : 1355750835,
+  "rowsUpdatedBy" : "ajn4-zy65",
+  "signed" : false,
+  "state" : "normal",
+  "tableId" : 561508,
+  "totalTimesRated" : 0,
+  "viewCount" : 1,
+  "viewLastModified" : 1369855659,
+  "viewType" : "tabular",
+  "grants" : [ {
+    "inherited" : false,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "renderTypeConfig" : {
+      "visible" : {
+        "api" : true
+      }
+    },
+    "availableDisplayTypes" : [ "api" ]
+  },
+  "owner" : {
+    "id" : "ajn4-zy65",
+    "displayName" : "MCG ESB Service",
+    "screenName" : "MCG ESB Service"
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "ajn4-zy65",
+    "displayName" : "MCG ESB Service",
+    "screenName" : "MCG ESB Service"
+  }
+}, {
+  "id" : "rd7s-ntxu",
+  "name" : "Parking Garage and Lot Inventory",
+  "averageRating" : 0,
+  "category" : "Transportation",
+  "createdAt" : 1375885389,
+  "description" : "This dataset includes parking space inventory information for Montgomery County Public Parking Facilities.\r\n\r\nUpdate Frequency:  Monthly",
+  "displayType" : "table",
+  "downloadCount" : 9,
+  "indexUpdatedAt" : 1387705394,
+  "newBackend" : false,
+  "numberOfComments" : 0,
+  "oid" : 6381451,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1384248889,
+  "publicationGroup" : 1024341,
+  "publicationStage" : "published",
+  "rowsUpdatedAt" : 1387704620,
+  "rowsUpdatedBy" : "ajn4-zy65",
+  "signed" : false,
+  "state" : "normal",
+  "tableId" : 1347967,
+  "totalTimesRated" : 0,
+  "viewCount" : 142,
+  "viewLastModified" : 1384421563,
+  "viewType" : "tabular",
+  "disabledFeatureFlags" : [ "allow_comments" ],
+  "grants" : [ {
+    "inherited" : false,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "renderTypeConfig" : {
+      "visible" : {
+        "table" : true
+      }
+    },
+    "availableDisplayTypes" : [ "table", "fatrow", "page" ],
+    "rdfSubject" : "0"
+  },
+  "owner" : {
+    "id" : "ajn4-zy65",
+    "displayName" : "MCG ESB Service",
+    "screenName" : "MCG ESB Service"
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "ajn4-zy65",
+    "displayName" : "MCG ESB Service",
+    "screenName" : "MCG ESB Service"
+  },
+  "tags" : [ "parking", "lot", "garage" ],
+  "flags" : [ "default" ]
+}, {
+  "id" : "t292-96ux",
+  "name" : "Map of Garage and Lot Locations",
+  "averageRating" : 0,
+  "category" : "Transportation",
+  "createdAt" : 1381503042,
+  "displayType" : "map",
+  "downloadCount" : 1,
+  "indexUpdatedAt" : 1387705382,
+  "moderationStatus" : true,
+  "modifyingViewUid" : "rd7s-ntxu",
+  "newBackend" : false,
+  "numberOfComments" : 0,
+  "oid" : 6381453,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1384248889,
+  "publicationGroup" : 1024341,
+  "publicationStage" : "published",
+  "rowsUpdatedAt" : 1387704620,
+  "rowsUpdatedBy" : "ajn4-zy65",
+  "signed" : false,
+  "state" : "normal",
+  "tableId" : 1347967,
+  "totalTimesRated" : 0,
+  "viewCount" : 30,
+  "viewLastModified" : 1381503066,
+  "viewType" : "tabular",
+  "grants" : [ {
+    "inherited" : true,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "renderTypeConfig" : {
+      "visible" : {
+        "map" : true,
+        "table" : true
+      },
+      "active" : {
+        "table" : {
+          "id" : "self"
+        }
+      }
+    },
+    "availableDisplayTypes" : [ "map", "table", "fatrow", "page" ],
+    "rdfSubject" : "0"
+  },
+  "owner" : {
+    "id" : "fnci-gphj",
+    "displayName" : "Victoria Lewis",
+    "screenName" : "Victoria Lewis"
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "ajn4-zy65",
+    "displayName" : "MCG ESB Service",
+    "screenName" : "MCG ESB Service"
+  }
+}, {
+  "id" : "bpj8-fnbg",
+  "name" : "Facility Closures in Last 24 Months",
+  "averageRating" : 0,
+  "category" : "Community",
+  "createdAt" : 1375966159,
+  "description" : "The Licensure & Regulatory Services Program inspects all licensed retail food establishments in Montgomery County for a variety of reasons (e.g. obtaining a permit, regular check-ups, or in response to complaints.) Included in this overall surveillance are two types of inspections that are conducted on a routine basis. The first type, a comprehensive inspection, is a thorough inspection that evaluates the sanitation, maintenance, and food service operations for the facility. This inspection includes many of the items found in the monitoring inspection, such as critical temperatures and food handling procedures. The second type, a monitoring inspection, involves checking the food service operation for critical food temperatures, equipment temperatures, and general food handling / cleanliness practices. While monitoring inspections are not as detailed as environmental inspections, they help ensure that the facility is operating safely throughout the year.\r\n\r\nThe frequency of inspections is based on the food-borne illness risks associated with the food being processed at a facility. Based on the risk each facility is designated as high, medium, or low priority. High priority risk facilities prepare food products a day or more in advance or utilize any combination of two or more processes such as a cooking, cooling, reheating and hot holding food over four hours. Moderate priority risk facilities prepare and cook food products which are served immediately or within four hours. A low priority risk facility serve prepackage foods that are not potentially hazardous.\r\n\r\nFor high risk facilities, a monitoring inspection is conducted at least twice a year, and moderate risk facilities are inspected at least once a year. High and moderate risk facilities also receive at least one comprehensive inspection every year. Low risk priority facilities typically receive one comprehensive inspection every two years.\r\n\r\n(C) Denotes a Critical Violation. A Critical Violation means a food safety requirement that requires immediate correction. Failure for immediate correction results in cessation of some or all food operations or closure of the facility until violation is able to be corrected.\r\n\r\nUpdate Frequency:  Daily",
+  "displayType" : "table",
+  "downloadCount" : 71,
+  "indexUpdatedAt" : 1387693942,
+  "moderationStatus" : true,
+  "newBackend" : false,
+  "numberOfComments" : 0,
+  "oid" : 6290162,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1383754913,
+  "publicationGroup" : 414372,
+  "publicationStage" : "published",
+  "rowsUpdatedAt" : 1387691504,
+  "rowsUpdatedBy" : "ajn4-zy65",
+  "signed" : false,
+  "state" : "normal",
+  "tableId" : 1328830,
+  "totalTimesRated" : 0,
+  "viewCount" : 184,
+  "viewLastModified" : 1375966183,
+  "viewType" : "tabular",
+  "disabledFeatureFlags" : [ "allow_comments" ],
+  "grants" : [ {
+    "inherited" : true,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "renderTypeConfig" : {
+      "visible" : {
+        "table" : true
+      }
+    },
+    "availableDisplayTypes" : [ "table", "fatrow", "page" ],
+    "thumbnail" : {
+      "page" : {
+        "created" : true,
+        "filename" : "page.png-1022.545.13.4.png",
+        "selection" : {
+          "height" : 545,
+          "width" : 1022,
+          "y1" : 4,
+          "y2" : 549,
+          "x2" : 1035,
+          "x1" : 13
+        }
+      }
+    },
+    "rdfSubject" : "0"
+  },
+  "owner" : {
+    "id" : "fnci-gphj",
+    "displayName" : "Victoria Lewis",
+    "screenName" : "Victoria Lewis"
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "ajn4-zy65",
+    "displayName" : "MCG ESB Service",
+    "screenName" : "MCG ESB Service"
+  },
+  "tags" : [ "food", "inspection", "violations", "closures" ]
+}, {
+  "id" : "ugrg-9hu2",
+  "name" : "Map of Right of Way Permit Applications",
+  "averageRating" : 0,
+  "category" : "Community",
+  "createdAt" : 1371738940,
+  "description" : "Data for all Public Right of Way Permit applications, including status and work performed.  Update Frequency:  Daily",
+  "displayType" : "map",
+  "downloadCount" : 39,
+  "indexUpdatedAt" : 1387532586,
+  "moderationStatus" : true,
+  "modifyingViewUid" : "2b9e-mbxk",
+  "newBackend" : false,
+  "numberOfComments" : 0,
+  "oid" : 6380795,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1384242147,
+  "publicationGroup" : 913515,
+  "publicationStage" : "published",
+  "rowsUpdatedAt" : 1387529161,
+  "rowsUpdatedBy" : "ajn4-zy65",
+  "signed" : false,
+  "state" : "normal",
+  "tableId" : 1347787,
+  "totalTimesRated" : 0,
+  "viewCount" : 105,
+  "viewLastModified" : 1371738941,
+  "viewType" : "tabular",
+  "grants" : [ {
+    "inherited" : true,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "renderTypeConfig" : {
+      "visible" : {
+        "map" : true,
+        "table" : true
+      }
+    },
+    "availableDisplayTypes" : [ "map", "table", "fatrow", "page" ],
+    "rdfSubject" : "0"
+  },
+  "owner" : {
+    "id" : "fnci-gphj",
+    "displayName" : "Victoria Lewis",
+    "screenName" : "Victoria Lewis"
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "ajn4-zy65",
+    "displayName" : "MCG ESB Service",
+    "screenName" : "MCG ESB Service"
+  },
+  "tags" : [ "permit", "right of way", "residential" ]
+}, {
+  "id" : "nehp-my8s",
+  "name" : "Map Showing Open Permits",
+  "averageRating" : 0,
+  "category" : "Property",
+  "createdAt" : 1375965989,
+  "description" : "Data for all Residential Building Permits issued since 2000, including status and work performed.\r\n\r\nUpdate Frequency:  Daily",
+  "displayType" : "map",
+  "downloadCount" : 89,
+  "indexUpdatedAt" : 1387528746,
+  "moderationStatus" : true,
+  "newBackend" : false,
+  "numberOfComments" : 0,
+  "oid" : 6379850,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1384235150,
+  "publicationGroup" : 393492,
+  "publicationStage" : "published",
+  "rowsUpdatedAt" : 1387518512,
+  "rowsUpdatedBy" : "ajn4-zy65",
+  "signed" : false,
+  "state" : "normal",
+  "tableId" : 1347508,
+  "totalTimesRated" : 0,
+  "viewCount" : 49,
+  "viewLastModified" : 1375965989,
+  "viewType" : "tabular",
+  "grants" : [ {
+    "inherited" : true,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "renderTypeConfig" : {
+      "visible" : {
+        "map" : true,
+        "table" : true
+      }
+    },
+    "availableDisplayTypes" : [ "map", "table", "fatrow", "page" ],
+    "thumbnail" : {
+      "page" : {
+        "created" : true,
+        "filename" : "page.png-1092.582.7.100.png",
+        "selection" : {
+          "height" : 582,
+          "width" : 1092,
+          "y1" : 100,
+          "y2" : 682,
+          "x2" : 1099,
+          "x1" : 7
+        }
+      }
+    },
+    "rdfSubject" : "0"
+  },
+  "owner" : {
+    "id" : "fnci-gphj",
+    "displayName" : "Victoria Lewis",
+    "screenName" : "Victoria Lewis"
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "ajn4-zy65",
+    "displayName" : "MCG ESB Service",
+    "screenName" : "MCG ESB Service"
+  }
+}, {
+  "id" : "a784-f75b",
+  "name" : "All Bikeways [ArcGIS_rest_services_Bikeways_bikeways_basic_MapServer_0]",
+  "averageRating" : 0,
+  "createdAt" : 1387468056,
+  "description" : "http://gis.montgomerycountymd.gov/ArcGIS/rest/services/Bikeways/bikeways_basic/MapServer/0",
+  "displayType" : "map",
+  "downloadCount" : 0,
+  "indexUpdatedAt" : 1387486911,
+  "newBackend" : false,
+  "numberOfComments" : 0,
+  "oid" : 6861317,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1387468096,
+  "publicationStage" : "published",
+  "signed" : false,
+  "tableId" : 1406075,
+  "totalTimesRated" : 0,
+  "viewCount" : 6,
+  "viewLastModified" : 1387468096,
+  "viewType" : "tabular",
+  "grants" : [ {
+    "inherited" : false,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "custom_fields" : {
+      "drawingInfo.renderer" : {
+        "defaultSymbol.type" : "esriSLS",
+        "defaultSymbol.style" : "esriSLSSolid",
+        "defaultSymbol.width" : "1"
+      },
+      "Basic" : {
+        "copyrightText" : "",
+        "type" : "Feature Layer",
+        "definitionExpression" : "",
+        "Source" : "http://gis.montgomerycountymd.gov/ArcGIS/rest/services/Bikeways/bikeways_basic/MapServer/0",
+        "id" : "0",
+        "minScale" : "0",
+        "displayField" : "NAME",
+        "htmlPopupType" : "esriServerHTMLPopupTypeAsHTMLText",
+        "name" : "All Bikeways",
+        "hasAttachments" : "false",
+        "currentVersion" : "10.02",
+        "capabilities" : "Map,Query,Data",
+        "Spatial Reference wkid" : "2248",
+        "maxScale" : "0",
+        "defaultVisibility" : "true",
+        "geometryType" : "esriGeometryPolyline"
+      },
+      "drawingInfo" : {
+        "transparency" : "0",
+        "renderer.defaultLabel" : "<all other values>",
+        "renderer.field1" : "TYPE",
+        "renderer.fieldDelimiter" : ", ",
+        "renderer.type" : "uniqueValue"
+      }
+    },
+    "renderTypeConfig" : {
+      "visible" : {
+        "map" : true
+      }
+    },
+    "availableDisplayTypes" : [ "map", "table", "fatrow", "page" ]
+  },
+  "northWest" : {
+    "long" : -77.5164540634124,
+    "lat" : 39.3392074290896
+  },
+  "owner" : {
+    "id" : "hesx-43k8",
+    "displayName" : "Dan",
+    "screenName" : "Dan"
+  },
+  "rights" : [ "read" ],
+  "southEast" : {
+    "long" : -76.9030253430534,
+    "lat" : 38.936212270308
+  },
+  "tableAuthor" : {
+    "id" : "hesx-43k8",
+    "displayName" : "Dan",
+    "screenName" : "Dan"
+  },
+  "flags" : [ "default" ]
+}, {
+  "id" : "p3ub-bqni",
+  "name" : "State BillsTracked by Montgomery County during the legislative session",
+  "averageRating" : 0,
+  "category" : "Government",
+  "createdAt" : 1386156273,
+  "description" : "This list only includes bills introduced in the Senate or the House of Delegates during regular session of the General Assembly. The Office also tracks all local and bi-county bills considered by the Montgomery County Delegation, all bi-county bills considered by the Prince George's County Delegation, and all bills introduced during special sessions.\r\nFor bill status and other information on the bills, see the General Assembly’s web site at mgaleg.maryland.gov\r\n\r\nUpdate Frequency:  Weekly during the legislative session",
+  "displayType" : "table",
+  "downloadCount" : 0,
+  "indexUpdatedAt" : 1386381981,
+  "newBackend" : false,
+  "numberOfComments" : 0,
+  "oid" : 6715991,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1386351707,
+  "publicationGroup" : 1386332,
+  "publicationStage" : "published",
+  "rowClass" : "",
+  "rowsUpdatedAt" : 1386351680,
+  "rowsUpdatedBy" : "fnci-gphj",
+  "signed" : false,
+  "tableId" : 1389205,
+  "totalTimesRated" : 0,
+  "viewCount" : 30,
+  "viewLastModified" : 1386351990,
+  "viewType" : "tabular",
+  "disabledFeatureFlags" : [ "allow_comments" ],
+  "grants" : [ {
+    "inherited" : false,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "renderTypeConfig" : {
+      "visible" : {
+        "table" : true
+      }
+    },
+    "availableDisplayTypes" : [ "table", "fatrow", "page" ],
+    "rdfSubject" : "0",
+    "rowIdentifier" : "0",
+    "rdfClass" : ""
+  },
+  "owner" : {
+    "id" : "ajn4-zy65",
+    "displayName" : "MCG ESB Service",
+    "screenName" : "MCG ESB Service"
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "ajn4-zy65",
+    "displayName" : "MCG ESB Service",
+    "screenName" : "MCG ESB Service"
+  },
+  "tags" : [ "senate", "house of delegates", "bills", "track by igr" ],
+  "flags" : [ "default" ]
+}, {
+  "id" : "2bng-h6xm",
+  "name" : "2014 Election - Early Voting Centers",
+  "averageRating" : 0,
+  "category" : "Community",
+  "createdAt" : 1382449694,
+  "description" : "2014 early voting locations in Montgomery County as selected October 21, 2013, subject to approval by the Maryland State Board of Elections. For more information, see www.777vote.org.",
+  "displayType" : "table",
+  "downloadCount" : 0,
+  "indexUpdatedAt" : 1386157588,
+  "newBackend" : false,
+  "numberOfComments" : 0,
+  "oid" : 6684865,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1386096046,
+  "publicationGroup" : 1275505,
+  "publicationStage" : "published",
+  "rowsUpdatedAt" : 1386096040,
+  "rowsUpdatedBy" : "fnci-gphj",
+  "signed" : false,
+  "tableId" : 1385514,
+  "totalTimesRated" : 0,
+  "viewCount" : 22,
+  "viewLastModified" : 1386096046,
+  "viewType" : "tabular",
+  "disabledFeatureFlags" : [ "allow_comments" ],
+  "grants" : [ {
+    "inherited" : true,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "renderTypeConfig" : {
+      "visible" : {
+        "table" : true
+      }
+    },
+    "availableDisplayTypes" : [ "table", "fatrow", "page" ],
+    "rdfSubject" : "0"
+  },
+  "owner" : {
+    "id" : "fnci-gphj",
+    "displayName" : "Victoria Lewis",
+    "screenName" : "Victoria Lewis"
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "fnci-gphj",
+    "displayName" : "Victoria Lewis",
+    "screenName" : "Victoria Lewis"
+  },
+  "tags" : [ "election", "polling place", "vote" ],
+  "flags" : [ "default" ]
+}, {
+  "id" : "t6va-wv46",
+  "name" : "2014 Early Voting Centers Map",
+  "averageRating" : 0,
+  "category" : "Community",
+  "createdAt" : 1382450058,
+  "description" : "Map of 2014 early voting locations in Montgomery County as selected October 21, 2013, subject to approval by the Maryland State Board of Elections. For more information, see www.777vote.org.",
+  "displayType" : "map",
+  "downloadCount" : 67,
+  "indexUpdatedAt" : 1386157598,
+  "moderationStatus" : true,
+  "newBackend" : false,
+  "numberOfComments" : 0,
+  "oid" : 6684868,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1386096046,
+  "publicationGroup" : 1275505,
+  "publicationStage" : "published",
+  "rowsUpdatedAt" : 1386096040,
+  "rowsUpdatedBy" : "fnci-gphj",
+  "signed" : false,
+  "tableId" : 1385514,
+  "totalTimesRated" : 0,
+  "viewCount" : 3133,
+  "viewLastModified" : 1382465448,
+  "viewType" : "tabular",
+  "disabledFeatureFlags" : [ "allow_comments" ],
+  "grants" : [ {
+    "inherited" : true,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "renderTypeConfig" : {
+      "visible" : {
+        "map" : true,
+        "table" : true
+      },
+      "active" : {
+        "table" : {
+          "id" : "self"
+        }
+      }
+    },
+    "availableDisplayTypes" : [ "map", "table", "fatrow", "page" ],
+    "rdfSubject" : "0"
+  },
+  "owner" : {
+    "id" : "fnci-gphj",
+    "displayName" : "Victoria Lewis",
+    "screenName" : "Victoria Lewis"
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "fnci-gphj",
+    "displayName" : "Victoria Lewis",
+    "screenName" : "Victoria Lewis"
+  },
+  "tags" : [ "election", "polling place", "vote" ]
+}, {
+  "id" : "9w77-kckj",
+  "name" : "Spending Disclosure - Fiscal Year 2014",
+  "averageRating" : 0,
+  "category" : "Financial",
+  "createdAt" : 1377809930,
+  "description" : "The purpose of this Spending Disclosure FY14 dataset is to allow the public to search and view summary information on payments made to recipients (referred to as suppliers) that received $25,000 or more in a fiscal year. Note that salary and benefit payments to employees, pension payments to retirees, and any information that is confidential under State or Federal law is excluded from disclosure.",
+  "displayType" : "table",
+  "downloadCount" : 4,
+  "indexUpdatedAt" : 1382126357,
+  "newBackend" : false,
+  "numberOfComments" : 0,
+  "oid" : 5988732,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1382119502,
+  "publicationGroup" : 1097015,
+  "publicationStage" : "published",
+  "rowsUpdatedAt" : 1382119456,
+  "rowsUpdatedBy" : "fnci-gphj",
+  "signed" : false,
+  "tableId" : 1264156,
+  "totalTimesRated" : 0,
+  "viewCount" : 68,
+  "viewLastModified" : 1382123880,
+  "viewType" : "tabular",
+  "disabledFeatureFlags" : [ "allow_comments" ],
+  "grants" : [ {
+    "inherited" : false,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "renderTypeConfig" : {
+      "visible" : {
+        "table" : true
+      }
+    },
+    "availableDisplayTypes" : [ "table", "fatrow", "page" ],
+    "rdfSubject" : "0",
+    "attachments" : [ {
+      "blobId" : "07CE9B16-2C86-461F-96AE-335211E7B66F",
+      "name" : "Spending_Disclosure_FAQ.docx",
+      "filename" : "Spending_Disclosure_FAQ.docx"
+    } ]
+  },
+  "owner" : {
+    "id" : "qzhb-tftn",
+    "displayName" : "Kathy Luh",
+    "screenName" : "Kathy Luh"
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "qzhb-tftn",
+    "displayName" : "Kathy Luh",
+    "screenName" : "Kathy Luh"
+  },
+  "tags" : [ "financial", "fiscal year 14", "2014", "spending", "$25", "000 or more" ],
+  "flags" : [ "default" ]
+}, {
+  "id" : "9v5t-8hem",
+  "name" : "Zoomed Heatmap MoCo",
+  "averageRating" : 0,
+  "category" : "Education",
+  "createdAt" : 1384454926,
+  "description" : "Address and Locations of all Public Schools in Montgomery County, MD.",
+  "displayType" : "map",
+  "downloadCount" : 0,
+  "indexUpdatedAt" : 1384457001,
+  "moderationStatus" : true,
+  "newBackend" : false,
+  "numberOfComments" : 0,
+  "oid" : 6421625,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1347566411,
+  "publicationGroup" : 290865,
+  "publicationStage" : "published",
+  "rowsUpdatedAt" : 1347566075,
+  "rowsUpdatedBy" : "yr5d-z7h2",
+  "signed" : false,
+  "tableId" : 425578,
+  "totalTimesRated" : 0,
+  "viewCount" : 29,
+  "viewLastModified" : 1384454927,
+  "viewType" : "tabular",
+  "grants" : [ {
+    "inherited" : true,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "renderTypeConfig" : {
+      "visible" : {
+        "map" : true,
+        "table" : true
+      },
+      "active" : {
+        "table" : {
+          "id" : "self"
+        }
+      }
+    },
+    "availableDisplayTypes" : [ "map", "table", "fatrow", "page" ]
+  },
+  "owner" : {
+    "id" : "xpic-k57b",
+    "displayName" : "Chris Whong",
+    "screenName" : "Chris Whong",
+    "rights" : [ "create_datasets", "edit_others_datasets", "edit_sdp", "edit_site_theme", "moderate_comments", "manage_users", "chown_datasets", "edit_nominations", "approve_nominations", "feature_items", "federations", "manage_stories", "manage_approval", "change_configurations", "view_domain", "view_others_datasets", "edit_pages", "create_pages", "view_goals", "view_dashboards", "edit_goals", "edit_dashboards", "create_dashboards" ],
+    "flags" : [ "admin" ]
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "yr5d-z7h2",
+    "displayName" : "Montgomery County, MD",
+    "screenName" : "Montgomery County, MD"
+  },
+  "tags" : [ "schools" ]
+}, {
+  "id" : "5s38-iaa6",
+  "name" : "FY14 Budget-Internal Service Funds",
+  "averageRating" : 0,
+  "category" : "Financial",
+  "createdAt" : 1376487852,
+  "description" : "This dataset includes the Internal Service Fund data included in the annual operating budget. Internal Service Funds (ISF) are proprietary funds used to record activity (primarily goods and services) provided by one department to other departments of the County government on a cost-reimbursable basis. The County uses this type of fund to account for Motor Pool, Central Duplicating, Liability and Property Coverage Self-Insurance, and Employee Health Benefits Self-Insurance. Update Frequency: Annual",
+  "displayType" : "table",
+  "downloadCount" : 1,
+  "indexUpdatedAt" : 1378318923,
+  "newBackend" : false,
+  "numberOfComments" : 0,
+  "oid" : 4957750,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1377022670,
+  "publicationGroup" : 1047676,
+  "publicationStage" : "published",
+  "rowsUpdatedAt" : 1376668333,
+  "rowsUpdatedBy" : "qzhb-tftn",
+  "signed" : false,
+  "tableId" : 1055142,
+  "totalTimesRated" : 0,
+  "viewCount" : 64,
+  "viewLastModified" : 1378307784,
+  "viewType" : "tabular",
+  "disabledFeatureFlags" : [ "allow_comments" ],
+  "grants" : [ {
+    "inherited" : false,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "renderTypeConfig" : {
+      "visible" : {
+        "table" : true
+      }
+    },
+    "availableDisplayTypes" : [ "table", "fatrow", "page" ]
+  },
+  "owner" : {
+    "id" : "fnci-gphj",
+    "displayName" : "Victoria Lewis",
+    "screenName" : "Victoria Lewis"
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "fnci-gphj",
+    "displayName" : "Victoria Lewis",
+    "screenName" : "Victoria Lewis"
+  },
+  "tags" : [ "financial budget", "internal", "service", "funds" ],
+  "flags" : [ "default" ]
+}, {
+  "id" : "85n2-q296",
+  "name" : "Fiscal Year 2014 Budget",
+  "averageRating" : 0,
+  "category" : "Financial",
+  "createdAt" : 1376070573,
+  "description" : "This dataset includes the Fiscal Year* 2014 Council-approved operating budget for Montgomery County. The dataset does not include revenues and agency budget information; each agency, such as Montgomery County Public Schools, maintain their individual budget information. The data can be sorted, filtered, and exported by the following elements: Function (grouping, such as “Public Safety”), Department, Program, Cost Center (activity within a program), Fund Type , Fund Subtype, Fund Name, Subfund Name, Personnel & Operating Expenses, Object Name, and Account Name. *The 12-month period to which the annual operating and capital budgets and their respective appropriations apply. The Montgomery County fiscal year starts on July 1st and ends on June 30th. Update Frequency: Annually",
+  "displayType" : "table",
+  "downloadCount" : 10,
+  "indexUpdatedAt" : 1382647409,
+  "newBackend" : false,
+  "numberOfComments" : 0,
+  "oid" : 4938950,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1377027541,
+  "publicationGroup" : 1031377,
+  "publicationStage" : "published",
+  "rowClass" : "",
+  "rowsUpdatedAt" : 1376572210,
+  "rowsUpdatedBy" : "fnci-gphj",
+  "signed" : false,
+  "tableId" : 1051089,
+  "totalTimesRated" : 0,
+  "viewCount" : 236,
+  "viewLastModified" : 1378401854,
+  "viewType" : "tabular",
+  "disabledFeatureFlags" : [ "allow_comments" ],
+  "grants" : [ {
+    "inherited" : true,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "renderTypeConfig" : {
+      "visible" : {
+        "table" : true
+      }
+    },
+    "availableDisplayTypes" : [ "table", "fatrow", "page" ],
+    "rdfSubject" : "0",
+    "rowIdentifier" : "0",
+    "rdfClass" : ""
+  },
+  "owner" : {
+    "id" : "fnci-gphj",
+    "displayName" : "Victoria Lewis",
+    "screenName" : "Victoria Lewis"
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "fnci-gphj",
+    "displayName" : "Victoria Lewis",
+    "screenName" : "Victoria Lewis"
+  },
+  "tags" : [ "budget", "operating budget", "county budget" ],
+  "flags" : [ "default" ]
+}, {
+  "id" : "gq4w-wqkr",
+  "name" : "Budget by Function",
+  "averageRating" : 0,
+  "category" : "Financial",
+  "createdAt" : 1382631699,
+  "description" : "This dataset includes the Fiscal Year* 2014 Council-approved operating budget for Montgomery County. The dataset does not include revenues and agency budget information; each agency, such as Montgomery County Public Schools, maintain their individual budget information. The data can be sorted, filtered, and exported by the following elements: Function (grouping, such as “Public Safety”), Department, Program, Cost Center (activity within a program), Fund Type , Fund Subtype, Fund Name, Subfund Name, Personnel & Operating Expenses, Object Name, and Account Name. *The 12-month period to which the annual operating and capital budgets and their respective appropriations apply. The Montgomery County fiscal year starts on July 1st and ends on June 30th. Update Frequency: Annually",
+  "displayType" : "chart",
+  "downloadCount" : 2,
+  "indexUpdatedAt" : 1382647412,
+  "moderationStatus" : true,
+  "newBackend" : false,
+  "numberOfComments" : 0,
+  "oid" : 6071260,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1377027541,
+  "publicationGroup" : 1031377,
+  "publicationStage" : "published",
+  "rowClass" : "",
+  "rowsUpdatedAt" : 1376572210,
+  "rowsUpdatedBy" : "fnci-gphj",
+  "signed" : false,
+  "tableId" : 1051089,
+  "totalTimesRated" : 0,
+  "viewCount" : 13,
+  "viewLastModified" : 1382631699,
+  "viewType" : "tabular",
+  "disabledFeatureFlags" : [ "allow_comments" ],
+  "grants" : [ {
+    "inherited" : true,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "renderTypeConfig" : {
+      "visible" : {
+        "chart" : true,
+        "table" : true
+      }
+    },
+    "availableDisplayTypes" : [ "chart", "table", "fatrow", "page" ],
+    "rdfSubject" : "0",
+    "rowIdentifier" : "0",
+    "rdfClass" : ""
+  },
+  "owner" : {
+    "id" : "fnci-gphj",
+    "displayName" : "Victoria Lewis",
+    "screenName" : "Victoria Lewis"
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "fnci-gphj",
+    "displayName" : "Victoria Lewis",
+    "screenName" : "Victoria Lewis"
+  },
+  "tags" : [ "budget", "operating budget", "county budget" ]
+}, {
+  "id" : "mhi7-h83c",
+  "name" : "Budget by Department",
+  "averageRating" : 0,
+  "category" : "Financial",
+  "createdAt" : 1382631404,
+  "description" : "This dataset includes the Fiscal Year* 2014 Council-approved operating budget for Montgomery County. The dataset does not include revenues and agency budget information; each agency, such as Montgomery County Public Schools, maintain their individual budget information. The data can be sorted, filtered, and exported by the following elements: Function (grouping, such as “Public Safety”), Department, Program, Cost Center (activity within a program), Fund Type , Fund Subtype, Fund Name, Subfund Name, Personnel & Operating Expenses, Object Name, and Account Name. *The 12-month period to which the annual operating and capital budgets and their respective appropriations apply. The Montgomery County fiscal year starts on July 1st and ends on June 30th. Update Frequency: Annually",
+  "displayType" : "chart",
+  "downloadCount" : 2,
+  "indexUpdatedAt" : 1382647411,
+  "moderationStatus" : true,
+  "newBackend" : false,
+  "numberOfComments" : 0,
+  "oid" : 6071233,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1377027541,
+  "publicationGroup" : 1031377,
+  "publicationStage" : "published",
+  "rowClass" : "",
+  "rowsUpdatedAt" : 1376572210,
+  "rowsUpdatedBy" : "fnci-gphj",
+  "signed" : false,
+  "tableId" : 1051089,
+  "totalTimesRated" : 0,
+  "viewCount" : 20,
+  "viewLastModified" : 1382631404,
+  "viewType" : "tabular",
+  "disabledFeatureFlags" : [ "allow_comments" ],
+  "grants" : [ {
+    "inherited" : true,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "renderTypeConfig" : {
+      "visible" : {
+        "chart" : true,
+        "table" : true
+      }
+    },
+    "availableDisplayTypes" : [ "chart", "table", "fatrow", "page" ],
+    "rdfSubject" : "0",
+    "rowIdentifier" : "0",
+    "rdfClass" : ""
+  },
+  "owner" : {
+    "id" : "fnci-gphj",
+    "displayName" : "Victoria Lewis",
+    "screenName" : "Victoria Lewis"
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "fnci-gphj",
+    "displayName" : "Victoria Lewis",
+    "screenName" : "Victoria Lewis"
+  },
+  "tags" : [ "budget", "operating budget", "county budget" ]
+}, {
+  "id" : "p7z5-tjrz",
+  "name" : "Tuition Assistance",
+  "averageRating" : 0,
+  "category" : "Government",
+  "createdAt" : 1376488105,
+  "description" : "This dataset includes a list of classes approved and paid through the County tuition assistance program, including the title and description of the course, the school the course will be taken at, the degree this class curriculum is a part of, the Department and title of the requester, the dollar amount reimbursed to the employee.  Update Frequency:  Twice a Year",
+  "displayType" : "table",
+  "downloadCount" : 71,
+  "indexUpdatedAt" : 1379096201,
+  "newBackend" : false,
+  "numberOfComments" : 0,
+  "oid" : 5347413,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1379073636,
+  "publicationGroup" : 1047690,
+  "publicationStage" : "published",
+  "rowClass" : "",
+  "rowsUpdatedAt" : 1379073630,
+  "rowsUpdatedBy" : "fnci-gphj",
+  "signed" : false,
+  "tableId" : 1133947,
+  "totalTimesRated" : 0,
+  "viewCount" : 112,
+  "viewLastModified" : 1379073807,
+  "viewType" : "tabular",
+  "disabledFeatureFlags" : [ "allow_comments" ],
+  "grants" : [ {
+    "inherited" : false,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "renderTypeConfig" : {
+      "visible" : {
+        "table" : true
+      }
+    },
+    "availableDisplayTypes" : [ "table", "fatrow", "page" ],
+    "rdfSubject" : "0",
+    "filterCondition" : {
+      "value" : "AND",
+      "type" : "operator",
+      "metadata" : {
+        "unifiedVersion" : 2,
+        "advanced" : true
+      }
+    },
+    "rowIdentifier" : "0",
+    "rdfClass" : ""
+  },
+  "owner" : {
+    "id" : "ajn4-zy65",
+    "displayName" : "MCG ESB Service",
+    "screenName" : "MCG ESB Service"
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "ajn4-zy65",
+    "displayName" : "MCG ESB Service",
+    "screenName" : "MCG ESB Service"
+  },
+  "tags" : [ "tuition assistance", "course", "school", "class curriculum", "reimburse", "employee" ],
+  "flags" : [ "default" ]
+}, {
+  "id" : "ixte-vr7h",
+  "name" : "Spending Disclosure - Fiscal Year 2013",
+  "averageRating" : 0,
+  "category" : "Financial",
+  "createdAt" : 1377891519,
+  "description" : "The purpose of this Spending Disclosure FY13 dataset is to allow the public to search and view summary information on payments made to recipients (referred to as suppliers) that received $25,000 or more in a fiscal year. Note that salary and benefit payments to employees, pension payments to retirees, and any information that is confidential under State or Federal law is excluded from disclosure.",
+  "displayType" : "table",
+  "downloadCount" : 5,
+  "indexUpdatedAt" : 1378318802,
+  "newBackend" : false,
+  "numberOfComments" : 0,
+  "oid" : 5243833,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1378237188,
+  "publicationGroup" : 1099342,
+  "publicationStage" : "published",
+  "rowClass" : "",
+  "rowsUpdatedAt" : 1378236990,
+  "rowsUpdatedBy" : "qzhb-tftn",
+  "signed" : false,
+  "tableId" : 1111828,
+  "totalTimesRated" : 0,
+  "viewCount" : 62,
+  "viewLastModified" : 1378307303,
+  "viewType" : "tabular",
+  "disabledFeatureFlags" : [ "allow_comments" ],
+  "grants" : [ {
+    "inherited" : false,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "renderTypeConfig" : {
+      "visible" : {
+        "table" : true
+      }
+    },
+    "availableDisplayTypes" : [ "table", "fatrow", "page" ],
+    "rdfSubject" : "0",
+    "attachments" : [ {
+      "blobId" : "23487CC6-FD07-43C5-B00D-6AD6AC67E4B4",
+      "name" : "Spending_Disclosure_FAQ.docx",
+      "filename" : "Spending_Disclosure_FAQ.docx"
+    } ],
+    "rowIdentifier" : "0",
+    "rdfClass" : ""
+  },
+  "owner" : {
+    "id" : "qzhb-tftn",
+    "displayName" : "Kathy Luh",
+    "screenName" : "Kathy Luh"
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "qzhb-tftn",
+    "displayName" : "Kathy Luh",
+    "screenName" : "Kathy Luh"
+  },
+  "tags" : [ "financial", "fiscal year 13", "2013", "spending", "$25", "000 or more" ],
+  "flags" : [ "default" ]
+}, {
+  "id" : "ask7-28ii",
+  "name" : "Spending Disclosure - Fiscal Year 2012",
+  "averageRating" : 0,
+  "category" : "Financial",
+  "createdAt" : 1377892920,
+  "description" : "The purpose of this Spending Disclosure Fiscal Year 12 dataset is to allow the public to search and view summary information on payments made to recipients (referred to as suppliers) that received $25,000 or more in a fiscal year. Note that salary and benefit payments to employees, pension payments to retirees, and any information that is confidential under State or Federal law is excluded from disclosure.",
+  "displayType" : "table",
+  "downloadCount" : 27,
+  "indexUpdatedAt" : 1378318795,
+  "newBackend" : false,
+  "numberOfComments" : 0,
+  "oid" : 5243907,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1378237508,
+  "publicationGroup" : 1099396,
+  "publicationStage" : "published",
+  "rowClass" : "",
+  "rowsUpdatedAt" : 1378237466,
+  "rowsUpdatedBy" : "qzhb-tftn",
+  "signed" : false,
+  "tableId" : 1111858,
+  "totalTimesRated" : 0,
+  "viewCount" : 34,
+  "viewLastModified" : 1378307210,
+  "viewType" : "tabular",
+  "grants" : [ {
+    "inherited" : false,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "renderTypeConfig" : {
+      "visible" : {
+        "table" : true
+      }
+    },
+    "availableDisplayTypes" : [ "table", "fatrow", "page" ],
+    "rdfSubject" : "0",
+    "attachments" : [ {
+      "blobId" : "4EBBAE8D-8DDE-45BD-905C-FA2BD412663A",
+      "name" : "Spending_Disclosure_FAQ.docx",
+      "filename" : "Spending_Disclosure_FAQ.docx"
+    } ],
+    "rowIdentifier" : "0",
+    "rdfClass" : ""
+  },
+  "owner" : {
+    "id" : "qzhb-tftn",
+    "displayName" : "Kathy Luh",
+    "screenName" : "Kathy Luh"
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "qzhb-tftn",
+    "displayName" : "Kathy Luh",
+    "screenName" : "Kathy Luh"
+  },
+  "tags" : [ "financial", "fiscal year 12", "2012", "spending", "$25", "000 or more" ],
+  "flags" : [ "default" ]
+}, {
+  "id" : "9g79-n34u",
+  "name" : "Spending Disclosure - Fiscal Year 2011",
+  "averageRating" : 0,
+  "category" : "Financial",
+  "createdAt" : 1377893349,
+  "description" : "The purpose of this Spending Disclosure FY11 dataset is to allow the public to search and view summary information on payments made to recipients (referred to as suppliers) that received $25,000 or more in a fiscal year. Note that salary and benefit payments to employees, pension payments to retirees, and any information that is confidential under State or Federal law is excluded from disclosure.",
+  "displayType" : "table",
+  "downloadCount" : 5,
+  "indexUpdatedAt" : 1378318792,
+  "newBackend" : false,
+  "numberOfComments" : 0,
+  "oid" : 5243934,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1378238062,
+  "publicationGroup" : 1099412,
+  "publicationStage" : "published",
+  "rowClass" : "",
+  "rowsUpdatedAt" : 1378237893,
+  "rowsUpdatedBy" : "qzhb-tftn",
+  "signed" : false,
+  "tableId" : 1111871,
+  "totalTimesRated" : 0,
+  "viewCount" : 42,
+  "viewLastModified" : 1378307154,
+  "viewType" : "tabular",
+  "grants" : [ {
+    "inherited" : false,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "renderTypeConfig" : {
+      "visible" : {
+        "table" : true
+      }
+    },
+    "availableDisplayTypes" : [ "table", "fatrow", "page" ],
+    "rdfSubject" : "0",
+    "attachments" : [ {
+      "blobId" : "63F484DF-3B0E-4F98-B078-0EC3DBD86C1D",
+      "name" : "Spending_Disclosure_FAQ.docx",
+      "filename" : "Spending_Disclosure_FAQ.docx"
+    } ],
+    "rowIdentifier" : "0",
+    "rdfClass" : ""
+  },
+  "owner" : {
+    "id" : "qzhb-tftn",
+    "displayName" : "Kathy Luh",
+    "screenName" : "Kathy Luh"
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "qzhb-tftn",
+    "displayName" : "Kathy Luh",
+    "screenName" : "Kathy Luh"
+  },
+  "tags" : [ "financial", "fiscal year 11", "2011", "spending", "$25", "000 or more" ],
+  "flags" : [ "default" ]
+}, {
+  "id" : "wh9s-54m3",
+  "name" : "Employee Salaries",
+  "averageRating" : 0,
+  "category" : "Financial",
+  "createdAt" : 1352830749,
+  "description" : "Salary information for all active, permanent employees of Montgomery County, MD as of January 15, 2013.  This data will be updated annually.",
+  "displayType" : "api",
+  "downloadCount" : 19,
+  "indexUpdatedAt" : 1383401008,
+  "moderationStatus" : true,
+  "newBackend" : false,
+  "numberOfComments" : 0,
+  "oid" : 3647106,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1359248117,
+  "publicationGroup" : 497717,
+  "publicationStage" : "published",
+  "resourceName" : "employee-salaries",
+  "rowsUpdatedAt" : 1359248052,
+  "rowsUpdatedBy" : "yr5d-z7h2",
+  "signed" : false,
+  "tableId" : 638442,
+  "totalTimesRated" : 0,
+  "viewCount" : 30,
+  "viewLastModified" : 1368810955,
+  "viewType" : "tabular",
+  "disabledFeatureFlags" : [ "allow_comments" ],
+  "grants" : [ {
+    "inherited" : true,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "renderTypeConfig" : {
+      "visible" : {
+        "api" : true
+      }
+    },
+    "availableDisplayTypes" : [ "api" ],
+    "thumbnail" : {
+      "page" : {
+        "created" : true,
+        "filename" : "page.png-1418.757.0.0.png",
+        "selection" : {
+          "height" : 757,
+          "width" : 1418,
+          "y1" : 0,
+          "y2" : 757,
+          "x2" : 1418,
+          "x1" : 0
+        }
+      }
+    },
+    "rdfSubject" : "0"
+  },
+  "owner" : {
+    "id" : "zs8p-j3v5",
+    "displayName" : "Darrell Cabales",
+    "profileImageUrlLarge" : "/images/profile/7678/5871/Darrell-03-2012_large.jpg",
+    "profileImageUrlMedium" : "/images/profile/7678/5871/Darrell-03-2012_thumb.jpg",
+    "profileImageUrlSmall" : "/images/profile/7678/5871/Darrell-03-2012_tiny.jpg",
+    "screenName" : "Darrell Cabales",
+    "rights" : [ "create_datasets", "edit_others_datasets", "edit_sdp", "edit_site_theme", "moderate_comments", "manage_users", "chown_datasets", "edit_nominations", "approve_nominations", "feature_items", "federations", "manage_stories", "manage_approval", "change_configurations", "view_domain", "view_others_datasets", "edit_pages", "create_pages", "view_goals", "view_dashboards", "edit_goals", "edit_dashboards", "create_dashboards" ],
+    "flags" : [ "admin" ]
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "yr5d-z7h2",
+    "displayName" : "Montgomery County, MD",
+    "screenName" : "Montgomery County, MD"
+  },
+  "tags" : [ "salary employee government" ]
+} ]

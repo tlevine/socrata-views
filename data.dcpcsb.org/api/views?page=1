@@ -1,0 +1,1454 @@
+[ {
+  "id" : "dyv9-ebwq",
+  "name" : "Math Growth School Score (SY 2011-2012) Bar Chart - All Students",
+  "averageRating" : 0,
+  "createdAt" : 1387468611,
+  "displayType" : "chart",
+  "downloadCount" : 2,
+  "indexUpdatedAt" : 1387471414,
+  "newBackend" : false,
+  "numberOfComments" : 0,
+  "oid" : 6861337,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1387204756,
+  "publicationGroup" : 1394906,
+  "publicationStage" : "published",
+  "rowsUpdatedAt" : 1387204655,
+  "rowsUpdatedBy" : "3uc3-hue5",
+  "signed" : false,
+  "tableId" : 1401701,
+  "totalTimesRated" : 0,
+  "viewCount" : 7,
+  "viewLastModified" : 1387468611,
+  "viewType" : "tabular",
+  "grants" : [ {
+    "inherited" : true,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "renderTypeConfig" : {
+      "visible" : {
+        "chart" : true,
+        "table" : true
+      }
+    },
+    "availableDisplayTypes" : [ "chart", "table", "fatrow", "page" ],
+    "jsonQuery" : {
+      "where" : {
+        "value" : "all students",
+        "operator" : "EQUALS",
+        "metadata" : {
+          "freeform" : true,
+          "unifiedVersion" : 2,
+          "tableColumnId" : {
+            "1394906" : 16889313
+          },
+          "operator" : "EQUALS"
+        },
+        "columnFieldName" : "student_group"
+      }
+    }
+  },
+  "owner" : {
+    "id" : "9efs-c2kp",
+    "displayName" : "Ewan Simpson",
+    "screenName" : "Ewan Simpson"
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "3uc3-hue5",
+    "displayName" : "PCSB Communications",
+    "screenName" : "PCSB Communications"
+  }
+}, {
+  "id" : "hvyf-83gx",
+  "name" : "Equity Reports | DC CAS",
+  "averageRating" : 0,
+  "createdAt" : 1386757344,
+  "displayType" : "table",
+  "downloadCount" : 12,
+  "indexUpdatedAt" : 1387471655,
+  "newBackend" : false,
+  "numberOfComments" : 0,
+  "oid" : 6824267,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1387204756,
+  "publicationGroup" : 1394906,
+  "publicationStage" : "published",
+  "rowsUpdatedAt" : 1387204655,
+  "rowsUpdatedBy" : "3uc3-hue5",
+  "signed" : false,
+  "tableId" : 1401701,
+  "totalTimesRated" : 0,
+  "viewCount" : 73,
+  "viewLastModified" : 1387204756,
+  "viewType" : "tabular",
+  "grants" : [ {
+    "inherited" : true,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "renderTypeConfig" : {
+      "visible" : {
+        "table" : true
+      }
+    },
+    "availableDisplayTypes" : [ "table", "fatrow", "page" ]
+  },
+  "owner" : {
+    "id" : "3uc3-hue5",
+    "displayName" : "PCSB Communications",
+    "screenName" : "PCSB Communications"
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "3uc3-hue5",
+    "displayName" : "PCSB Communications",
+    "screenName" : "PCSB Communications"
+  },
+  "flags" : [ "default" ]
+}, {
+  "id" : "ipz9-gimj",
+  "name" : "Equity Report - DC CAS - Filtered for All Students",
+  "averageRating" : 0,
+  "createdAt" : 1387468286,
+  "displayType" : "table",
+  "downloadCount" : 2,
+  "indexUpdatedAt" : 1387471686,
+  "newBackend" : false,
+  "numberOfComments" : 0,
+  "oid" : 6861330,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1387204756,
+  "publicationGroup" : 1394906,
+  "publicationStage" : "published",
+  "rowsUpdatedAt" : 1387204655,
+  "rowsUpdatedBy" : "3uc3-hue5",
+  "signed" : false,
+  "tableId" : 1401701,
+  "totalTimesRated" : 0,
+  "viewCount" : 3,
+  "viewLastModified" : 1387468297,
+  "viewType" : "tabular",
+  "grants" : [ {
+    "inherited" : true,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "renderTypeConfig" : {
+      "visible" : {
+        "table" : true
+      }
+    },
+    "availableDisplayTypes" : [ "table", "fatrow", "page" ],
+    "jsonQuery" : {
+      "where" : {
+        "value" : "all students",
+        "operator" : "EQUALS",
+        "columnFieldName" : "student_group",
+        "metadata" : {
+          "freeform" : true,
+          "unifiedVersion" : 2,
+          "tableColumnId" : {
+            "1394906" : 16889313
+          },
+          "operator" : "EQUALS"
+        }
+      }
+    }
+  },
+  "owner" : {
+    "id" : "9efs-c2kp",
+    "displayName" : "Ewan Simpson",
+    "screenName" : "Ewan Simpson"
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "3uc3-hue5",
+    "displayName" : "PCSB Communications",
+    "screenName" : "PCSB Communications"
+  }
+}, {
+  "id" : "xfst-6du8",
+  "name" : "Match Growth School Score Bar Chart with City Avg. (SY2011-2012)",
+  "averageRating" : 0,
+  "createdAt" : 1387468928,
+  "displayType" : "chart",
+  "downloadCount" : 2,
+  "indexUpdatedAt" : 1387471655,
+  "newBackend" : false,
+  "numberOfComments" : 0,
+  "oid" : 6861361,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1387204756,
+  "publicationGroup" : 1394906,
+  "publicationStage" : "published",
+  "rowsUpdatedAt" : 1387204655,
+  "rowsUpdatedBy" : "3uc3-hue5",
+  "signed" : false,
+  "tableId" : 1401701,
+  "totalTimesRated" : 0,
+  "viewCount" : 18,
+  "viewLastModified" : 1387468928,
+  "viewType" : "tabular",
+  "grants" : [ {
+    "inherited" : true,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "renderTypeConfig" : {
+      "visible" : {
+        "chart" : true,
+        "table" : true
+      }
+    },
+    "availableDisplayTypes" : [ "chart", "table", "fatrow", "page" ],
+    "jsonQuery" : {
+      "where" : {
+        "value" : "all students",
+        "operator" : "EQUALS",
+        "metadata" : {
+          "freeform" : true,
+          "unifiedVersion" : 2,
+          "tableColumnId" : {
+            "1394906" : 16889313
+          },
+          "operator" : "EQUALS"
+        },
+        "columnFieldName" : "student_group"
+      }
+    }
+  },
+  "owner" : {
+    "id" : "9efs-c2kp",
+    "displayName" : "Ewan Simpson",
+    "screenName" : "Ewan Simpson"
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "3uc3-hue5",
+    "displayName" : "PCSB Communications",
+    "screenName" : "PCSB Communications"
+  }
+}, {
+  "id" : "d4zq-srmm",
+  "name" : "Equity Reports | Attendance",
+  "averageRating" : 0,
+  "createdAt" : 1386758946,
+  "displayType" : "table",
+  "downloadCount" : 12,
+  "indexUpdatedAt" : 1386820049,
+  "newBackend" : false,
+  "numberOfComments" : 0,
+  "oid" : 6775891,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1386815855,
+  "publicationGroup" : 1394948,
+  "publicationStage" : "published",
+  "rowsUpdatedAt" : 1386815855,
+  "rowsUpdatedBy" : "3uc3-hue5",
+  "signed" : false,
+  "tableId" : 1395982,
+  "totalTimesRated" : 0,
+  "viewCount" : 55,
+  "viewLastModified" : 1386815855,
+  "viewType" : "tabular",
+  "grants" : [ {
+    "inherited" : false,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "renderTypeConfig" : {
+      "visible" : {
+        "table" : true
+      }
+    },
+    "availableDisplayTypes" : [ "table", "fatrow", "page" ]
+  },
+  "owner" : {
+    "id" : "3uc3-hue5",
+    "displayName" : "PCSB Communications",
+    "screenName" : "PCSB Communications"
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "3uc3-hue5",
+    "displayName" : "PCSB Communications",
+    "screenName" : "PCSB Communications"
+  },
+  "flags" : [ "default" ]
+}, {
+  "id" : "bcuw-6bng",
+  "name" : "Equity Reports | Discipline",
+  "averageRating" : 0,
+  "createdAt" : 1386758053,
+  "displayType" : "table",
+  "downloadCount" : 19,
+  "indexUpdatedAt" : 1386783385,
+  "newBackend" : false,
+  "numberOfComments" : 0,
+  "oid" : 6768512,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1386775687,
+  "publicationGroup" : 1394926,
+  "publicationStage" : "published",
+  "rowClass" : "",
+  "rowsUpdatedAt" : 1386775323,
+  "rowsUpdatedBy" : "3uc3-hue5",
+  "signed" : false,
+  "tableId" : 1395249,
+  "totalTimesRated" : 0,
+  "viewCount" : 90,
+  "viewLastModified" : 1386782932,
+  "viewType" : "tabular",
+  "grants" : [ {
+    "inherited" : false,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "renderTypeConfig" : {
+      "visible" : {
+        "table" : true
+      }
+    },
+    "availableDisplayTypes" : [ "table", "fatrow", "page" ],
+    "jsonQuery" : {
+      "order" : [ {
+        "ascending" : true,
+        "columnFieldName" : "school_name"
+      } ]
+    },
+    "rdfSubject" : "0",
+    "rowIdentifier" : "0",
+    "rdfClass" : ""
+  },
+  "owner" : {
+    "id" : "3uc3-hue5",
+    "displayName" : "PCSB Communications",
+    "screenName" : "PCSB Communications"
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "3uc3-hue5",
+    "displayName" : "PCSB Communications",
+    "screenName" : "PCSB Communications"
+  },
+  "flags" : [ "default" ]
+}, {
+  "id" : "9j8s-xudb",
+  "name" : "Equity Reports | Student Movement",
+  "averageRating" : 0,
+  "createdAt" : 1386757580,
+  "displayType" : "table",
+  "downloadCount" : 19,
+  "indexUpdatedAt" : 1386857577,
+  "newBackend" : false,
+  "numberOfComments" : 0,
+  "oid" : 6764884,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1386757987,
+  "publicationGroup" : 1394908,
+  "publicationStage" : "published",
+  "rowsUpdatedAt" : 1386757931,
+  "rowsUpdatedBy" : "3uc3-hue5",
+  "signed" : false,
+  "tableId" : 1394908,
+  "totalTimesRated" : 0,
+  "viewCount" : 82,
+  "viewLastModified" : 1386781511,
+  "viewType" : "tabular",
+  "grants" : [ {
+    "inherited" : true,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "renderTypeConfig" : {
+      "visible" : {
+        "table" : true
+      }
+    },
+    "availableDisplayTypes" : [ "table", "fatrow", "page" ]
+  },
+  "owner" : {
+    "id" : "3uc3-hue5",
+    "displayName" : "PCSB Communications",
+    "screenName" : "PCSB Communications"
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "3uc3-hue5",
+    "displayName" : "PCSB Communications",
+    "screenName" : "PCSB Communications"
+  },
+  "flags" : [ "default" ]
+}, {
+  "id" : "nweg-a7z3",
+  "name" : "Ward 6 Student Mobility for DCPS PCS @ School Level",
+  "averageRating" : 0,
+  "createdAt" : 1386856937,
+  "displayType" : "table",
+  "downloadCount" : 3,
+  "indexUpdatedAt" : 1386857555,
+  "newBackend" : false,
+  "numberOfComments" : 0,
+  "oid" : 6781869,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1386757987,
+  "publicationGroup" : 1394908,
+  "publicationStage" : "published",
+  "rowsUpdatedAt" : 1386757931,
+  "rowsUpdatedBy" : "3uc3-hue5",
+  "signed" : false,
+  "tableId" : 1394908,
+  "totalTimesRated" : 0,
+  "viewCount" : 23,
+  "viewLastModified" : 1386856939,
+  "viewType" : "tabular",
+  "grants" : [ {
+    "inherited" : true,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "renderTypeConfig" : {
+      "visible" : {
+        "table" : true
+      }
+    },
+    "availableDisplayTypes" : [ "table", "fatrow", "page" ],
+    "jsonQuery" : {
+      "where" : {
+        "value" : 6,
+        "operator" : "EQUALS",
+        "columnFieldName" : "ward",
+        "metadata" : {
+          "freeform" : true,
+          "unifiedVersion" : 2,
+          "tableColumnId" : {
+            "1394908" : 16889364
+          },
+          "operator" : "EQUALS"
+        }
+      }
+    }
+  },
+  "owner" : {
+    "id" : "8d2x-5arq",
+    "displayName" : "Sandra Moscoso",
+    "profileImageUrlLarge" : "/images/profile/1286/4862/moscoso_bigger_large.jpeg",
+    "profileImageUrlMedium" : "/images/profile/1286/4862/moscoso_bigger_thumb.jpeg",
+    "profileImageUrlSmall" : "/images/profile/1286/4862/moscoso_bigger_tiny.jpeg",
+    "screenName" : "Sandra Moscoso"
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "3uc3-hue5",
+    "displayName" : "PCSB Communications",
+    "screenName" : "PCSB Communications"
+  }
+}, {
+  "id" : "sxfs-2j93",
+  "name" : "Equity Reports | DCPS and Charter Schools Enrollment and Demographics",
+  "averageRating" : 0,
+  "createdAt" : 1386754708,
+  "description" : "Agencies responsible for public education in the District of Columbia released the first-ever District of Columbia School Equity Reports",
+  "displayType" : "table",
+  "downloadCount" : 10,
+  "indexUpdatedAt" : 1386781925,
+  "newBackend" : false,
+  "numberOfComments" : 0,
+  "oid" : 6764524,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1386755985,
+  "publicationGroup" : 1394869,
+  "publicationStage" : "published",
+  "rowsUpdatedAt" : 1386755917,
+  "rowsUpdatedBy" : "3uc3-hue5",
+  "signed" : false,
+  "tableId" : 1394869,
+  "totalTimesRated" : 0,
+  "viewCount" : 60,
+  "viewLastModified" : 1386781513,
+  "viewType" : "tabular",
+  "grants" : [ {
+    "inherited" : false,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "renderTypeConfig" : {
+      "visible" : {
+        "table" : true
+      }
+    },
+    "availableDisplayTypes" : [ "table", "fatrow", "page" ]
+  },
+  "owner" : {
+    "id" : "3uc3-hue5",
+    "displayName" : "PCSB Communications",
+    "screenName" : "PCSB Communications"
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "3uc3-hue5",
+    "displayName" : "PCSB Communications",
+    "screenName" : "PCSB Communications"
+  },
+  "tags" : [ "enrollment", "public charter", "demographics", "dcps", "students" ],
+  "flags" : [ "default" ]
+}, {
+  "id" : "mkpn-cuef",
+  "name" : "Early Childhood Enrollment and Attendance",
+  "averageRating" : 0,
+  "category" : "Early Childhood Education",
+  "createdAt" : 1386349891,
+  "displayType" : "table",
+  "downloadCount" : 5,
+  "indexUpdatedAt" : 1386391806,
+  "newBackend" : false,
+  "numberOfComments" : 0,
+  "oid" : 6716287,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1386357770,
+  "publicationGroup" : 1389184,
+  "publicationStage" : "published",
+  "rowsUpdatedAt" : 1386357749,
+  "rowsUpdatedBy" : "3uc3-hue5",
+  "signed" : false,
+  "tableId" : 1389289,
+  "totalTimesRated" : 0,
+  "viewCount" : 44,
+  "viewLastModified" : 1386357770,
+  "viewType" : "tabular",
+  "grants" : [ {
+    "inherited" : false,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "renderTypeConfig" : {
+      "visible" : {
+        "table" : true
+      }
+    },
+    "availableDisplayTypes" : [ "table", "fatrow", "page" ],
+    "jsonQuery" : {
+      "order" : [ {
+        "ascending" : true,
+        "columnFieldName" : "school_name"
+      } ]
+    }
+  },
+  "owner" : {
+    "id" : "3uc3-hue5",
+    "displayName" : "PCSB Communications",
+    "screenName" : "PCSB Communications"
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "3uc3-hue5",
+    "displayName" : "PCSB Communications",
+    "screenName" : "PCSB Communications"
+  },
+  "flags" : [ "default" ]
+}, {
+  "id" : "hy7z-rqar",
+  "name" : "PCS Student Enrollment by Grade",
+  "averageRating" : 0,
+  "createdAt" : 1384308846,
+  "description" : "PCS enrollment for grade for school year's 2011-12, 2012-13, 2013-14.  The 2013-14 enrollment is unaudited numbers.",
+  "displayType" : "chart",
+  "downloadCount" : 6,
+  "indexUpdatedAt" : 1385134855,
+  "newBackend" : false,
+  "numberOfComments" : 0,
+  "oid" : 6535397,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1385134325,
+  "publicationGroup" : 1350283,
+  "publicationStage" : "published",
+  "rowsUpdatedAt" : 1385134296,
+  "rowsUpdatedBy" : "3uc3-hue5",
+  "signed" : false,
+  "tableId" : 1367850,
+  "totalTimesRated" : 0,
+  "viewCount" : 299,
+  "viewLastModified" : 1384308868,
+  "viewType" : "tabular",
+  "grants" : [ {
+    "inherited" : false,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "renderTypeConfig" : {
+      "visible" : {
+        "chart" : true,
+        "table" : true
+      }
+    },
+    "availableDisplayTypes" : [ "chart", "table", "fatrow", "page" ]
+  },
+  "owner" : {
+    "id" : "3uc3-hue5",
+    "displayName" : "PCSB Communications",
+    "screenName" : "PCSB Communications"
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "3uc3-hue5",
+    "displayName" : "PCSB Communications",
+    "screenName" : "PCSB Communications"
+  },
+  "tags" : [ "enrollment" ]
+}, {
+  "id" : "hknn-uqwp",
+  "name" : "Historical Enrollment for PCS and DCPS",
+  "averageRating" : 0,
+  "createdAt" : 1384307405,
+  "displayType" : "chart",
+  "downloadCount" : 3,
+  "indexUpdatedAt" : 1384309850,
+  "newBackend" : false,
+  "numberOfComments" : 0,
+  "oid" : 6394537,
+  "publicationAppendEnabled" : true,
+  "publicationDate" : 1384307573,
+  "publicationGroup" : 1350200,
+  "publicationStage" : "published",
+  "rowsUpdatedAt" : 1384307566,
+  "rowsUpdatedBy" : "3uc3-hue5",
+  "signed" : false,
+  "tableId" : 1350249,
+  "totalTimesRated" : 0,
+  "viewCount" : 277,
+  "viewLastModified" : 1384307659,
+  "viewType" : "tabular",
+  "grants" : [ {
+    "inherited" : true,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "renderTypeConfig" : {
+      "visible" : {
+        "chart" : true,
+        "table" : true
+      }
+    },
+    "availableDisplayTypes" : [ "chart", "table", "fatrow", "page" ]
+  },
+  "owner" : {
+    "id" : "3uc3-hue5",
+    "displayName" : "PCSB Communications",
+    "screenName" : "PCSB Communications"
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "3uc3-hue5",
+    "displayName" : "PCSB Communications",
+    "screenName" : "PCSB Communications"
+  },
+  "tags" : [ "enrollment" ]
+}, {
+  "id" : "i4w3-evki",
+  "name" : "Charter And DCPS Enrollment - 1967 To Present",
+  "averageRating" : 0,
+  "createdAt" : 1384306139,
+  "displayType" : "table",
+  "downloadCount" : 7,
+  "indexUpdatedAt" : 1384309789,
+  "newBackend" : false,
+  "numberOfComments" : 0,
+  "oid" : 6394536,
+  "publicationAppendEnabled" : true,
+  "publicationDate" : 1384307573,
+  "publicationGroup" : 1350200,
+  "publicationStage" : "published",
+  "rowsUpdatedAt" : 1384307566,
+  "rowsUpdatedBy" : "3uc3-hue5",
+  "signed" : false,
+  "tableId" : 1350249,
+  "totalTimesRated" : 0,
+  "viewCount" : 32,
+  "viewLastModified" : 1384307629,
+  "viewType" : "tabular",
+  "grants" : [ {
+    "inherited" : true,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "renderTypeConfig" : {
+      "visible" : {
+        "table" : true
+      }
+    },
+    "availableDisplayTypes" : [ "table", "fatrow", "page" ]
+  },
+  "owner" : {
+    "id" : "3uc3-hue5",
+    "displayName" : "PCSB Communications",
+    "screenName" : "PCSB Communications"
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "3uc3-hue5",
+    "displayName" : "PCSB Communications",
+    "screenName" : "PCSB Communications"
+  },
+  "tags" : [ "enrollment" ],
+  "flags" : [ "default" ]
+}, {
+  "id" : "g8wi-satc",
+  "name" : "AA Subgroup Percentage by School",
+  "averageRating" : 0,
+  "createdAt" : 1383939212,
+  "description" : "This is a test description.",
+  "displayType" : "chart",
+  "downloadCount" : 3,
+  "indexUpdatedAt" : 1383943795,
+  "newBackend" : false,
+  "numberOfComments" : 0,
+  "oid" : 6327820,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1383938891,
+  "publicationGroup" : 1336631,
+  "publicationStage" : "published",
+  "rowsUpdatedAt" : 1383938362,
+  "rowsUpdatedBy" : "gyd7-94dj",
+  "signed" : false,
+  "tableId" : 1336631,
+  "totalTimesRated" : 0,
+  "viewCount" : 20,
+  "viewLastModified" : 1383939635,
+  "viewType" : "tabular",
+  "grants" : [ {
+    "inherited" : false,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "renderTypeConfig" : {
+      "visible" : {
+        "chart" : true,
+        "table" : true
+      }
+    },
+    "availableDisplayTypes" : [ "chart", "table", "fatrow", "page" ],
+    "thumbnail" : {
+      "page" : {
+        "created" : true
+      }
+    }
+  },
+  "owner" : {
+    "id" : "gyd7-94dj",
+    "displayName" : "mlouie",
+    "screenName" : "mlouie",
+    "rights" : [ "create_datasets", "edit_others_datasets", "edit_sdp", "edit_site_theme", "moderate_comments", "manage_users", "chown_datasets", "edit_nominations", "approve_nominations", "feature_items", "federations", "manage_stories", "manage_approval", "change_configurations", "view_domain", "view_others_datasets", "edit_pages", "create_pages", "view_goals", "view_dashboards", "edit_goals", "edit_dashboards", "create_dashboards" ],
+    "flags" : [ "admin" ]
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "gyd7-94dj",
+    "displayName" : "mlouie",
+    "screenName" : "mlouie",
+    "rights" : [ "create_datasets", "edit_others_datasets", "edit_sdp", "edit_site_theme", "moderate_comments", "manage_users", "chown_datasets", "edit_nominations", "approve_nominations", "feature_items", "federations", "manage_stories", "manage_approval", "change_configurations", "view_domain", "view_others_datasets", "edit_pages", "create_pages", "view_goals", "view_dashboards", "edit_goals", "edit_dashboards", "create_dashboards" ],
+    "flags" : [ "admin" ]
+  }
+}, {
+  "id" : "qi9c-rqxg",
+  "name" : "Adult Education - Total Targets Met, 2012-2013",
+  "averageRating" : 0,
+  "category" : "Adult Education",
+  "createdAt" : 1383862094,
+  "displayType" : "table",
+  "downloadCount" : 3,
+  "indexUpdatedAt" : 1383871653,
+  "newBackend" : false,
+  "numberOfComments" : 0,
+  "oid" : 6311966,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1383862193,
+  "publicationGroup" : 1333497,
+  "publicationStage" : "published",
+  "rowClass" : "",
+  "rowsUpdatedAt" : 1383862156,
+  "rowsUpdatedBy" : "gyd7-94dj",
+  "signed" : false,
+  "tableId" : 1333497,
+  "totalTimesRated" : 0,
+  "viewCount" : 19,
+  "viewLastModified" : 1383862239,
+  "viewType" : "tabular",
+  "grants" : [ {
+    "inherited" : false,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "renderTypeConfig" : {
+      "visible" : {
+        "table" : true
+      }
+    },
+    "availableDisplayTypes" : [ "table", "fatrow", "page" ],
+    "rdfSubject" : "0",
+    "rowIdentifier" : "0",
+    "rdfClass" : ""
+  },
+  "owner" : {
+    "id" : "gyd7-94dj",
+    "displayName" : "mlouie",
+    "screenName" : "mlouie",
+    "rights" : [ "create_datasets", "edit_others_datasets", "edit_sdp", "edit_site_theme", "moderate_comments", "manage_users", "chown_datasets", "edit_nominations", "approve_nominations", "feature_items", "federations", "manage_stories", "manage_approval", "change_configurations", "view_domain", "view_others_datasets", "edit_pages", "create_pages", "view_goals", "view_dashboards", "edit_goals", "edit_dashboards", "create_dashboards" ],
+    "flags" : [ "admin" ]
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "gyd7-94dj",
+    "displayName" : "mlouie",
+    "screenName" : "mlouie",
+    "rights" : [ "create_datasets", "edit_others_datasets", "edit_sdp", "edit_site_theme", "moderate_comments", "manage_users", "chown_datasets", "edit_nominations", "approve_nominations", "feature_items", "federations", "manage_stories", "manage_approval", "change_configurations", "view_domain", "view_others_datasets", "edit_pages", "create_pages", "view_goals", "view_dashboards", "edit_goals", "edit_dashboards", "create_dashboards" ],
+    "flags" : [ "admin" ]
+  },
+  "flags" : [ "default" ]
+}, {
+  "id" : "h5w2-vw64",
+  "name" : "Adult Education - Student Progress, 2012-2013",
+  "averageRating" : 0,
+  "category" : "Adult Education",
+  "createdAt" : 1383847900,
+  "displayType" : "table",
+  "downloadCount" : 3,
+  "indexUpdatedAt" : 1383871497,
+  "newBackend" : false,
+  "numberOfComments" : 0,
+  "oid" : 6309580,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1383858540,
+  "publicationGroup" : 1332893,
+  "publicationStage" : "published",
+  "rowClass" : "",
+  "rowsUpdatedAt" : 1383847969,
+  "rowsUpdatedBy" : "gyd7-94dj",
+  "signed" : false,
+  "tableId" : 1332893,
+  "totalTimesRated" : 0,
+  "viewCount" : 14,
+  "viewLastModified" : 1383861359,
+  "viewType" : "tabular",
+  "grants" : [ {
+    "inherited" : false,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "renderTypeConfig" : {
+      "visible" : {
+        "table" : true
+      }
+    },
+    "availableDisplayTypes" : [ "table", "fatrow", "page" ],
+    "rdfSubject" : "0",
+    "rowIdentifier" : "0",
+    "rdfClass" : ""
+  },
+  "owner" : {
+    "id" : "gyd7-94dj",
+    "displayName" : "mlouie",
+    "screenName" : "mlouie",
+    "rights" : [ "create_datasets", "edit_others_datasets", "edit_sdp", "edit_site_theme", "moderate_comments", "manage_users", "chown_datasets", "edit_nominations", "approve_nominations", "feature_items", "federations", "manage_stories", "manage_approval", "change_configurations", "view_domain", "view_others_datasets", "edit_pages", "create_pages", "view_goals", "view_dashboards", "edit_goals", "edit_dashboards", "create_dashboards" ],
+    "flags" : [ "admin" ]
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "gyd7-94dj",
+    "displayName" : "mlouie",
+    "screenName" : "mlouie",
+    "rights" : [ "create_datasets", "edit_others_datasets", "edit_sdp", "edit_site_theme", "moderate_comments", "manage_users", "chown_datasets", "edit_nominations", "approve_nominations", "feature_items", "federations", "manage_stories", "manage_approval", "change_configurations", "view_domain", "view_others_datasets", "edit_pages", "create_pages", "view_goals", "view_dashboards", "edit_goals", "edit_dashboards", "create_dashboards" ],
+    "flags" : [ "admin" ]
+  },
+  "flags" : [ "default" ]
+}, {
+  "id" : "7v86-v3h6",
+  "name" : "Adult Education - Leading Indicators, 2012-2013",
+  "averageRating" : 0,
+  "category" : "Adult Education",
+  "createdAt" : 1383859311,
+  "displayType" : "table",
+  "downloadCount" : 3,
+  "indexUpdatedAt" : 1383871495,
+  "newBackend" : false,
+  "numberOfComments" : 0,
+  "oid" : 6311403,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1383859509,
+  "publicationGroup" : 1333390,
+  "publicationStage" : "published",
+  "rowClass" : "",
+  "rowsUpdatedAt" : 1383859452,
+  "rowsUpdatedBy" : "gyd7-94dj",
+  "signed" : false,
+  "tableId" : 1333390,
+  "totalTimesRated" : 0,
+  "viewCount" : 11,
+  "viewLastModified" : 1383861335,
+  "viewType" : "tabular",
+  "grants" : [ {
+    "inherited" : false,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "renderTypeConfig" : {
+      "visible" : {
+        "table" : true
+      }
+    },
+    "availableDisplayTypes" : [ "table", "fatrow", "page" ],
+    "rdfSubject" : "0",
+    "rowIdentifier" : "0",
+    "rdfClass" : ""
+  },
+  "owner" : {
+    "id" : "gyd7-94dj",
+    "displayName" : "mlouie",
+    "screenName" : "mlouie",
+    "rights" : [ "create_datasets", "edit_others_datasets", "edit_sdp", "edit_site_theme", "moderate_comments", "manage_users", "chown_datasets", "edit_nominations", "approve_nominations", "feature_items", "federations", "manage_stories", "manage_approval", "change_configurations", "view_domain", "view_others_datasets", "edit_pages", "create_pages", "view_goals", "view_dashboards", "edit_goals", "edit_dashboards", "create_dashboards" ],
+    "flags" : [ "admin" ]
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "gyd7-94dj",
+    "displayName" : "mlouie",
+    "screenName" : "mlouie",
+    "rights" : [ "create_datasets", "edit_others_datasets", "edit_sdp", "edit_site_theme", "moderate_comments", "manage_users", "chown_datasets", "edit_nominations", "approve_nominations", "feature_items", "federations", "manage_stories", "manage_approval", "change_configurations", "view_domain", "view_others_datasets", "edit_pages", "create_pages", "view_goals", "view_dashboards", "edit_goals", "edit_dashboards", "create_dashboards" ],
+    "flags" : [ "admin" ]
+  },
+  "flags" : [ "default" ]
+}, {
+  "id" : "h4rc-nb7b",
+  "name" : "Adult Education - Mission Specific Goals, 2012-2013",
+  "averageRating" : 0,
+  "category" : "Adult Education",
+  "createdAt" : 1383859678,
+  "displayType" : "table",
+  "downloadCount" : 3,
+  "indexUpdatedAt" : 1383871495,
+  "newBackend" : false,
+  "numberOfComments" : 0,
+  "oid" : 6311537,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1383859759,
+  "publicationGroup" : 1333399,
+  "publicationStage" : "published",
+  "rowClass" : "",
+  "rowsUpdatedAt" : 1383859735,
+  "rowsUpdatedBy" : "gyd7-94dj",
+  "signed" : false,
+  "tableId" : 1333399,
+  "totalTimesRated" : 0,
+  "viewCount" : 9,
+  "viewLastModified" : 1383861318,
+  "viewType" : "tabular",
+  "grants" : [ {
+    "inherited" : false,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "renderTypeConfig" : {
+      "visible" : {
+        "table" : true
+      }
+    },
+    "availableDisplayTypes" : [ "table", "fatrow", "page" ],
+    "rdfSubject" : "0",
+    "rowIdentifier" : "0",
+    "rdfClass" : ""
+  },
+  "owner" : {
+    "id" : "gyd7-94dj",
+    "displayName" : "mlouie",
+    "screenName" : "mlouie",
+    "rights" : [ "create_datasets", "edit_others_datasets", "edit_sdp", "edit_site_theme", "moderate_comments", "manage_users", "chown_datasets", "edit_nominations", "approve_nominations", "feature_items", "federations", "manage_stories", "manage_approval", "change_configurations", "view_domain", "view_others_datasets", "edit_pages", "create_pages", "view_goals", "view_dashboards", "edit_goals", "edit_dashboards", "create_dashboards" ],
+    "flags" : [ "admin" ]
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "gyd7-94dj",
+    "displayName" : "mlouie",
+    "screenName" : "mlouie",
+    "rights" : [ "create_datasets", "edit_others_datasets", "edit_sdp", "edit_site_theme", "moderate_comments", "manage_users", "chown_datasets", "edit_nominations", "approve_nominations", "feature_items", "federations", "manage_stories", "manage_approval", "change_configurations", "view_domain", "view_others_datasets", "edit_pages", "create_pages", "view_goals", "view_dashboards", "edit_goals", "edit_dashboards", "create_dashboards" ],
+    "flags" : [ "admin" ]
+  },
+  "flags" : [ "default" ]
+}, {
+  "id" : "ihnj-avrv",
+  "name" : "Adult Education Targets and Results",
+  "averageRating" : 0,
+  "category" : "Adult Education",
+  "createdAt" : 1383861594,
+  "displayType" : "chart",
+  "downloadCount" : 3,
+  "indexUpdatedAt" : 1383871652,
+  "newBackend" : false,
+  "numberOfComments" : 0,
+  "oid" : 6311893,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1383860656,
+  "publicationGroup" : 1333379,
+  "publicationStage" : "published",
+  "rowsUpdatedAt" : 1383860640,
+  "rowsUpdatedBy" : "gyd7-94dj",
+  "signed" : false,
+  "tableId" : 1333425,
+  "totalTimesRated" : 0,
+  "viewCount" : 9,
+  "viewLastModified" : 1383861594,
+  "viewType" : "tabular",
+  "grants" : [ {
+    "inherited" : true,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "renderTypeConfig" : {
+      "visible" : {
+        "chart" : true,
+        "table" : true
+      }
+    },
+    "availableDisplayTypes" : [ "chart", "table", "fatrow", "page" ]
+  },
+  "owner" : {
+    "id" : "gyd7-94dj",
+    "displayName" : "mlouie",
+    "screenName" : "mlouie",
+    "rights" : [ "create_datasets", "edit_others_datasets", "edit_sdp", "edit_site_theme", "moderate_comments", "manage_users", "chown_datasets", "edit_nominations", "approve_nominations", "feature_items", "federations", "manage_stories", "manage_approval", "change_configurations", "view_domain", "view_others_datasets", "edit_pages", "create_pages", "view_goals", "view_dashboards", "edit_goals", "edit_dashboards", "create_dashboards" ],
+    "flags" : [ "admin" ]
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "gyd7-94dj",
+    "displayName" : "mlouie",
+    "screenName" : "mlouie",
+    "rights" : [ "create_datasets", "edit_others_datasets", "edit_sdp", "edit_site_theme", "moderate_comments", "manage_users", "chown_datasets", "edit_nominations", "approve_nominations", "feature_items", "federations", "manage_stories", "manage_approval", "change_configurations", "view_domain", "view_others_datasets", "edit_pages", "create_pages", "view_goals", "view_dashboards", "edit_goals", "edit_dashboards", "create_dashboards" ],
+    "flags" : [ "admin" ]
+  }
+}, {
+  "id" : "uy3g-uzrq",
+  "name" : "Adult Education - Gateway Targets, 2012-2013",
+  "averageRating" : 0,
+  "category" : "Adult Education",
+  "createdAt" : 1383859103,
+  "displayType" : "table",
+  "downloadCount" : 3,
+  "indexUpdatedAt" : 1383871652,
+  "newBackend" : false,
+  "numberOfComments" : 0,
+  "oid" : 6311595,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1383860656,
+  "publicationGroup" : 1333379,
+  "publicationStage" : "published",
+  "rowClass" : "",
+  "rowsUpdatedAt" : 1383860640,
+  "rowsUpdatedBy" : "gyd7-94dj",
+  "signed" : false,
+  "tableId" : 1333425,
+  "totalTimesRated" : 0,
+  "viewCount" : 35,
+  "viewLastModified" : 1383861299,
+  "viewType" : "tabular",
+  "grants" : [ {
+    "inherited" : true,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "renderTypeConfig" : {
+      "visible" : {
+        "table" : true
+      }
+    },
+    "availableDisplayTypes" : [ "table", "fatrow", "page" ],
+    "rdfSubject" : "0",
+    "rowIdentifier" : "0",
+    "rdfClass" : ""
+  },
+  "owner" : {
+    "id" : "gyd7-94dj",
+    "displayName" : "mlouie",
+    "screenName" : "mlouie",
+    "rights" : [ "create_datasets", "edit_others_datasets", "edit_sdp", "edit_site_theme", "moderate_comments", "manage_users", "chown_datasets", "edit_nominations", "approve_nominations", "feature_items", "federations", "manage_stories", "manage_approval", "change_configurations", "view_domain", "view_others_datasets", "edit_pages", "create_pages", "view_goals", "view_dashboards", "edit_goals", "edit_dashboards", "create_dashboards" ],
+    "flags" : [ "admin" ]
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "gyd7-94dj",
+    "displayName" : "mlouie",
+    "screenName" : "mlouie",
+    "rights" : [ "create_datasets", "edit_others_datasets", "edit_sdp", "edit_site_theme", "moderate_comments", "manage_users", "chown_datasets", "edit_nominations", "approve_nominations", "feature_items", "federations", "manage_stories", "manage_approval", "change_configurations", "view_domain", "view_others_datasets", "edit_pages", "create_pages", "view_goals", "view_dashboards", "edit_goals", "edit_dashboards", "create_dashboards" ],
+    "flags" : [ "admin" ]
+  },
+  "flags" : [ "default" ]
+}, {
+  "id" : "c9ip-wicu",
+  "name" : "Distribution of Mathematics Assessments Used Across Early Childhood Schools",
+  "averageRating" : 0,
+  "category" : "Early Childhood Education",
+  "createdAt" : 1383863342,
+  "displayType" : "chart",
+  "downloadCount" : 5,
+  "indexUpdatedAt" : 1383872109,
+  "newBackend" : false,
+  "numberOfComments" : 0,
+  "oid" : 6312096,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1383752671,
+  "publicationGroup" : 1328315,
+  "publicationStage" : "published",
+  "rowClass" : "",
+  "rowsUpdatedAt" : 1383752659,
+  "rowsUpdatedBy" : "gyd7-94dj",
+  "signed" : false,
+  "tableId" : 1328721,
+  "totalTimesRated" : 0,
+  "viewCount" : 352,
+  "viewLastModified" : 1383863403,
+  "viewType" : "tabular",
+  "grants" : [ {
+    "inherited" : true,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "renderTypeConfig" : {
+      "visible" : {
+        "chart" : true
+      }
+    },
+    "availableDisplayTypes" : [ "chart", "table", "fatrow", "page" ],
+    "rdfSubject" : "0",
+    "rowIdentifier" : "0",
+    "rdfClass" : ""
+  },
+  "owner" : {
+    "id" : "gyd7-94dj",
+    "displayName" : "mlouie",
+    "screenName" : "mlouie",
+    "rights" : [ "create_datasets", "edit_others_datasets", "edit_sdp", "edit_site_theme", "moderate_comments", "manage_users", "chown_datasets", "edit_nominations", "approve_nominations", "feature_items", "federations", "manage_stories", "manage_approval", "change_configurations", "view_domain", "view_others_datasets", "edit_pages", "create_pages", "view_goals", "view_dashboards", "edit_goals", "edit_dashboards", "create_dashboards" ],
+    "flags" : [ "admin" ]
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "gyd7-94dj",
+    "displayName" : "mlouie",
+    "screenName" : "mlouie",
+    "rights" : [ "create_datasets", "edit_others_datasets", "edit_sdp", "edit_site_theme", "moderate_comments", "manage_users", "chown_datasets", "edit_nominations", "approve_nominations", "feature_items", "federations", "manage_stories", "manage_approval", "change_configurations", "view_domain", "view_others_datasets", "edit_pages", "create_pages", "view_goals", "view_dashboards", "edit_goals", "edit_dashboards", "create_dashboards" ],
+    "flags" : [ "admin" ]
+  }
+}, {
+  "id" : "t4wq-cyc6",
+  "name" : "Early Childhood Education - Student Progress, 2012-2013",
+  "averageRating" : 0,
+  "category" : "Early Childhood Education",
+  "createdAt" : 1383744631,
+  "displayType" : "table",
+  "downloadCount" : 8,
+  "indexUpdatedAt" : 1383872070,
+  "newBackend" : false,
+  "numberOfComments" : 0,
+  "oid" : 6289642,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1383752671,
+  "publicationGroup" : 1328315,
+  "publicationStage" : "published",
+  "rowClass" : "",
+  "rowsUpdatedAt" : 1383752659,
+  "rowsUpdatedBy" : "gyd7-94dj",
+  "signed" : false,
+  "tableId" : 1328721,
+  "totalTimesRated" : 0,
+  "viewCount" : 74,
+  "viewLastModified" : 1383862793,
+  "viewType" : "tabular",
+  "grants" : [ {
+    "inherited" : true,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "renderTypeConfig" : {
+      "visible" : {
+        "table" : true
+      }
+    },
+    "availableDisplayTypes" : [ "table", "fatrow", "page" ],
+    "rdfSubject" : "0",
+    "filterCondition" : {
+      "value" : "AND",
+      "type" : "operator",
+      "metadata" : {
+        "unifiedVersion" : 2,
+        "advanced" : true
+      }
+    },
+    "rowIdentifier" : "0",
+    "rdfClass" : ""
+  },
+  "owner" : {
+    "id" : "gyd7-94dj",
+    "displayName" : "mlouie",
+    "screenName" : "mlouie",
+    "rights" : [ "create_datasets", "edit_others_datasets", "edit_sdp", "edit_site_theme", "moderate_comments", "manage_users", "chown_datasets", "edit_nominations", "approve_nominations", "feature_items", "federations", "manage_stories", "manage_approval", "change_configurations", "view_domain", "view_others_datasets", "edit_pages", "create_pages", "view_goals", "view_dashboards", "edit_goals", "edit_dashboards", "create_dashboards" ],
+    "flags" : [ "admin" ]
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "gyd7-94dj",
+    "displayName" : "mlouie",
+    "screenName" : "mlouie",
+    "rights" : [ "create_datasets", "edit_others_datasets", "edit_sdp", "edit_site_theme", "moderate_comments", "manage_users", "chown_datasets", "edit_nominations", "approve_nominations", "feature_items", "federations", "manage_stories", "manage_approval", "change_configurations", "view_domain", "view_others_datasets", "edit_pages", "create_pages", "view_goals", "view_dashboards", "edit_goals", "edit_dashboards", "create_dashboards" ],
+    "flags" : [ "admin" ]
+  },
+  "flags" : [ "default" ]
+}, {
+  "id" : "8pgp-kvvb",
+  "name" : "Early Childhood Education - Mission Specific Goals, 2012-2013",
+  "averageRating" : 0,
+  "category" : "Early Childhood Education",
+  "createdAt" : 1383746020,
+  "displayType" : "table",
+  "downloadCount" : 4,
+  "indexUpdatedAt" : 1383871497,
+  "newBackend" : false,
+  "numberOfComments" : 0,
+  "oid" : 6289686,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1383753077,
+  "publicationGroup" : 1328385,
+  "publicationStage" : "published",
+  "rowClass" : "",
+  "rowsUpdatedAt" : 1383753058,
+  "rowsUpdatedBy" : "gyd7-94dj",
+  "signed" : false,
+  "tableId" : 1328742,
+  "totalTimesRated" : 0,
+  "viewCount" : 28,
+  "viewLastModified" : 1383861404,
+  "viewType" : "tabular",
+  "grants" : [ {
+    "inherited" : false,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "renderTypeConfig" : {
+      "visible" : {
+        "table" : true
+      }
+    },
+    "availableDisplayTypes" : [ "table", "fatrow", "page" ],
+    "rdfSubject" : "0",
+    "rowIdentifier" : "0",
+    "rdfClass" : ""
+  },
+  "owner" : {
+    "id" : "gyd7-94dj",
+    "displayName" : "mlouie",
+    "screenName" : "mlouie",
+    "rights" : [ "create_datasets", "edit_others_datasets", "edit_sdp", "edit_site_theme", "moderate_comments", "manage_users", "chown_datasets", "edit_nominations", "approve_nominations", "feature_items", "federations", "manage_stories", "manage_approval", "change_configurations", "view_domain", "view_others_datasets", "edit_pages", "create_pages", "view_goals", "view_dashboards", "edit_goals", "edit_dashboards", "create_dashboards" ],
+    "flags" : [ "admin" ]
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "gyd7-94dj",
+    "displayName" : "mlouie",
+    "screenName" : "mlouie",
+    "rights" : [ "create_datasets", "edit_others_datasets", "edit_sdp", "edit_site_theme", "moderate_comments", "manage_users", "chown_datasets", "edit_nominations", "approve_nominations", "feature_items", "federations", "manage_stories", "manage_approval", "change_configurations", "view_domain", "view_others_datasets", "edit_pages", "create_pages", "view_goals", "view_dashboards", "edit_goals", "edit_dashboards", "create_dashboards" ],
+    "flags" : [ "admin" ]
+  },
+  "flags" : [ "default" ]
+}, {
+  "id" : "tu5d-rwuh",
+  "name" : "Percentage of Unmet Targets by Subject Area",
+  "averageRating" : 0,
+  "category" : "Early Childhood Education",
+  "createdAt" : 1383862615,
+  "displayType" : "chart",
+  "downloadCount" : 3,
+  "indexUpdatedAt" : 1383871654,
+  "newBackend" : false,
+  "numberOfComments" : 0,
+  "oid" : 6312027,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1383752476,
+  "publicationGroup" : 1328710,
+  "publicationStage" : "published",
+  "rowClass" : "",
+  "rowsUpdatedAt" : 1383752462,
+  "rowsUpdatedBy" : "gyd7-94dj",
+  "signed" : false,
+  "tableId" : 1328710,
+  "totalTimesRated" : 0,
+  "viewCount" : 18,
+  "viewLastModified" : 1383862615,
+  "viewType" : "tabular",
+  "grants" : [ {
+    "inherited" : true,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "renderTypeConfig" : {
+      "visible" : {
+        "chart" : true,
+        "table" : true
+      }
+    },
+    "availableDisplayTypes" : [ "chart", "table", "fatrow", "page" ],
+    "rdfSubject" : "0",
+    "rowIdentifier" : "0",
+    "rdfClass" : ""
+  },
+  "owner" : {
+    "id" : "gyd7-94dj",
+    "displayName" : "mlouie",
+    "screenName" : "mlouie",
+    "rights" : [ "create_datasets", "edit_others_datasets", "edit_sdp", "edit_site_theme", "moderate_comments", "manage_users", "chown_datasets", "edit_nominations", "approve_nominations", "feature_items", "federations", "manage_stories", "manage_approval", "change_configurations", "view_domain", "view_others_datasets", "edit_pages", "create_pages", "view_goals", "view_dashboards", "edit_goals", "edit_dashboards", "create_dashboards" ],
+    "flags" : [ "admin" ]
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "gyd7-94dj",
+    "displayName" : "mlouie",
+    "screenName" : "mlouie",
+    "rights" : [ "create_datasets", "edit_others_datasets", "edit_sdp", "edit_site_theme", "moderate_comments", "manage_users", "chown_datasets", "edit_nominations", "approve_nominations", "feature_items", "federations", "manage_stories", "manage_approval", "change_configurations", "view_domain", "view_others_datasets", "edit_pages", "create_pages", "view_goals", "view_dashboards", "edit_goals", "edit_dashboards", "create_dashboards" ],
+    "flags" : [ "admin" ]
+  }
+}, {
+  "id" : "xv3q-6uqu",
+  "name" : "Early Childhood Education - Student Achievement, 2012-2013",
+  "averageRating" : 0,
+  "category" : "Early Childhood Education",
+  "createdAt" : 1383752242,
+  "displayType" : "table",
+  "downloadCount" : 7,
+  "indexUpdatedAt" : 1383871654,
+  "newBackend" : false,
+  "numberOfComments" : 0,
+  "oid" : 6289434,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1383752476,
+  "publicationGroup" : 1328710,
+  "publicationStage" : "published",
+  "rowClass" : "",
+  "rowsUpdatedAt" : 1383752462,
+  "rowsUpdatedBy" : "gyd7-94dj",
+  "signed" : false,
+  "tableId" : 1328710,
+  "totalTimesRated" : 0,
+  "viewCount" : 93,
+  "viewLastModified" : 1383861424,
+  "viewType" : "tabular",
+  "grants" : [ {
+    "inherited" : true,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "renderTypeConfig" : {
+      "visible" : {
+        "table" : true
+      }
+    },
+    "availableDisplayTypes" : [ "table", "fatrow", "page" ],
+    "rdfSubject" : "0",
+    "rowIdentifier" : "0",
+    "rdfClass" : ""
+  },
+  "owner" : {
+    "id" : "gyd7-94dj",
+    "displayName" : "mlouie",
+    "screenName" : "mlouie",
+    "rights" : [ "create_datasets", "edit_others_datasets", "edit_sdp", "edit_site_theme", "moderate_comments", "manage_users", "chown_datasets", "edit_nominations", "approve_nominations", "feature_items", "federations", "manage_stories", "manage_approval", "change_configurations", "view_domain", "view_others_datasets", "edit_pages", "create_pages", "view_goals", "view_dashboards", "edit_goals", "edit_dashboards", "create_dashboards" ],
+    "flags" : [ "admin" ]
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "gyd7-94dj",
+    "displayName" : "mlouie",
+    "screenName" : "mlouie",
+    "rights" : [ "create_datasets", "edit_others_datasets", "edit_sdp", "edit_site_theme", "moderate_comments", "manage_users", "chown_datasets", "edit_nominations", "approve_nominations", "feature_items", "federations", "manage_stories", "manage_approval", "change_configurations", "view_domain", "view_others_datasets", "edit_pages", "create_pages", "view_goals", "view_dashboards", "edit_goals", "edit_dashboards", "create_dashboards" ],
+    "flags" : [ "admin" ]
+  },
+  "flags" : [ "default" ]
+}, {
+  "id" : "ch2a-6wi9",
+  "name" : "Early Childhood Education - Leading Target, 2012-2013",
+  "averageRating" : 0,
+  "category" : "Early Childhood Education",
+  "createdAt" : 1383745895,
+  "displayType" : "table",
+  "downloadCount" : 5,
+  "indexUpdatedAt" : 1383871652,
+  "newBackend" : false,
+  "numberOfComments" : 0,
+  "oid" : 6288039,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1383745955,
+  "publicationGroup" : 1328379,
+  "publicationStage" : "published",
+  "rowClass" : "",
+  "rowsUpdatedAt" : 1383745945,
+  "rowsUpdatedBy" : "gyd7-94dj",
+  "signed" : false,
+  "tableId" : 1328379,
+  "totalTimesRated" : 0,
+  "viewCount" : 21,
+  "viewLastModified" : 1383861448,
+  "viewType" : "tabular",
+  "grants" : [ {
+    "inherited" : false,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "renderTypeConfig" : {
+      "visible" : {
+        "table" : true
+      }
+    },
+    "availableDisplayTypes" : [ "table", "fatrow", "page" ],
+    "rdfSubject" : "0",
+    "rowIdentifier" : "0",
+    "rdfClass" : ""
+  },
+  "owner" : {
+    "id" : "gyd7-94dj",
+    "displayName" : "mlouie",
+    "screenName" : "mlouie",
+    "rights" : [ "create_datasets", "edit_others_datasets", "edit_sdp", "edit_site_theme", "moderate_comments", "manage_users", "chown_datasets", "edit_nominations", "approve_nominations", "feature_items", "federations", "manage_stories", "manage_approval", "change_configurations", "view_domain", "view_others_datasets", "edit_pages", "create_pages", "view_goals", "view_dashboards", "edit_goals", "edit_dashboards", "create_dashboards" ],
+    "flags" : [ "admin" ]
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "gyd7-94dj",
+    "displayName" : "mlouie",
+    "screenName" : "mlouie",
+    "rights" : [ "create_datasets", "edit_others_datasets", "edit_sdp", "edit_site_theme", "moderate_comments", "manage_users", "chown_datasets", "edit_nominations", "approve_nominations", "feature_items", "federations", "manage_stories", "manage_approval", "change_configurations", "view_domain", "view_others_datasets", "edit_pages", "create_pages", "view_goals", "view_dashboards", "edit_goals", "edit_dashboards", "create_dashboards" ],
+    "flags" : [ "admin" ]
+  },
+  "flags" : [ "default" ]
+} ]
