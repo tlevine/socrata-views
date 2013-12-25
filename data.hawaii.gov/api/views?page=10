@@ -1,0 +1,3367 @@
+[ {
+  "id" : "b2kc-hdqn",
+  "name" : "Coastal Zone Management Act Consistency Appeals",
+  "averageRating" : 0,
+  "category" : "Law Enforcement, Courts, and Prisons",
+  "createdAt" : 1378328222,
+  "description" : "This is the NOAA's Office of General Counsel for Ocean Services (GCOS) website providing information and public access to the CZMA Consistency Appeals process.",
+  "domainCName" : "explore.data.gov",
+  "downloadCount" : 11,
+  "externalId" : "http://www.data.gov/details/35511",
+  "indexUpdatedAt" : 1382018336,
+  "newBackend" : false,
+  "numberOfComments" : 0,
+  "oid" : 5260457,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1378328222,
+  "publicationStage" : "published",
+  "signed" : false,
+  "tableId" : 1115333,
+  "totalTimesRated" : 0,
+  "viewCount" : 3,
+  "viewLastModified" : 1378328222,
+  "viewType" : "href",
+  "grants" : [ {
+    "inherited" : false,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "custom_fields" : {
+      "Dataset Summary" : {
+        "Agency" : "Department of Commerce",
+        "Sub-Agency" : "National Oceanic and Atmospheric Administration",
+        "Date Released" : "4/22/2013",
+        "Date Updated" : "Present",
+        "Time Period" : "1984-Present",
+        "Frequency" : "Daily",
+        "High Value Dataset" : "N",
+        "Suggested by Public" : "N"
+      },
+      "Dataset Information" : {
+        "Data.gov Data Category Type" : "Tool Catalog",
+        "Specialized Data Category Designation" : "Administrative",
+        "Unique ID" : "35511",
+        "Extended Type" : "Data Extraction Tool"
+      },
+      "Contributing Agency Information" : {
+        "Citation" : "http://coastalmanagement.noaa.gov/consistency/fcappealdecisions.html",
+        "Agency Program Page" : "http://coastalmanagement.noaa.gov",
+        "Agency Data Series Page" : "http://coastalmanagement.noaa.gov/consistency/fcappealdecisions.html"
+      },
+      "Dataset Coverage" : {
+        "Unit of Analysis" : "Decisions",
+        "Geographic Coverage" : "United States Coastal Zone Sites"
+      },
+      "Data Description" : {
+        "Data Collection Instrument" : "N/A"
+      },
+      "Additional Dataset Documentation" : {
+        "Technical Documentation" : "http://coastalmanagement.noaa.gov/consistency/media/appealslist.pdf"
+      },
+      "Data Quality" : {
+        "Applicable Information Quality Guideline Designation" : "National Oceanic and Atmospheric Administration",
+        "Data Quality Certification" : "Yes",
+        "Privacy and Confidentiality" : "Yes"
+      }
+    },
+    "accessPoints" : {
+      "dataExtraction" : "http://coastalmanagement.noaa.gov/consistency/fcappealdecisions.html"
+    },
+    "href" : "http://www.data.gov/details/35511"
+  },
+  "owner" : {
+    "id" : "e8ug-wzay",
+    "displayName" : "Data.gov Program Management Office",
+    "profileImageUrlLarge" : "/images/profile/0356/4016/datagov_large_large.png",
+    "profileImageUrlMedium" : "/images/profile/0356/4016/datagov_large_thumb.png",
+    "profileImageUrlSmall" : "/images/profile/0356/4016/datagov_large_tiny.png",
+    "screenName" : "Data.gov Program Management Office"
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "e8ug-wzay",
+    "displayName" : "Data.gov Program Management Office",
+    "profileImageUrlLarge" : "/images/profile/0356/4016/datagov_large_large.png",
+    "profileImageUrlMedium" : "/images/profile/0356/4016/datagov_large_thumb.png",
+    "profileImageUrlSmall" : "/images/profile/0356/4016/datagov_large_tiny.png",
+    "screenName" : "Data.gov Program Management Office"
+  },
+  "tags" : [ "appeals", "decisions", "procedure" ],
+  "flags" : [ "default" ]
+}, {
+  "id" : "7uc4-5tpi",
+  "name" : "LEA Level Achievement Results for State Assessments in Reading/Language Arts: School Year 2008-09",
+  "averageRating" : 0,
+  "category" : "Education",
+  "createdAt" : 1374853717,
+  "description" : "This dataset contains district level information on the academic achievement results of state assessments in reading/language arts. The dataset contains information on the number of students assessed and the percent of those students who achieved a level of state-defined grade-level proficiency or above. Information is included within the dataset on all students assessed within the school, assessment results by grade and for specific subgroups of students, along with detailed information on the subgroups within each individual grade. The reported percentage of students reaching grade level proficiency or above has been reported in a manner that protects the privacy of individuals within the data. The privacy protections vary based on the n-size of the student group whose assessment performance is being reported. To interpret these data appropriately, please utilize the count of students assessed that is reported for each proficiency rate and reference section 4.1 of the Public File Documentation for details on the privacy protections. For more information on the data files and guidance for their appropriate use, please read the Public File Documentation.",
+  "displayType" : "table",
+  "domainCName" : "explore.data.gov",
+  "downloadCount" : 52,
+  "indexUpdatedAt" : 1382018429,
+  "newBackend" : false,
+  "numberOfComments" : 0,
+  "oid" : 4637328,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1379535844,
+  "publicationGroup" : 1000758,
+  "publicationStage" : "published",
+  "rowClass" : "",
+  "rowsUpdatedAt" : 1377269104,
+  "rowsUpdatedBy" : "w2dq-zdca",
+  "signed" : false,
+  "tableId" : 1000758,
+  "totalTimesRated" : 0,
+  "viewCount" : 20,
+  "viewLastModified" : 1379538873,
+  "viewType" : "tabular",
+  "grants" : [ {
+    "inherited" : false,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "custom_fields" : {
+      "Dataset Summary" : {
+        "Sub-Agency" : "EDFacts",
+        "Date Updated" : "",
+        "High Value Dataset" : "",
+        "Date Released" : "",
+        "Time Period" : "",
+        "Frequency" : "",
+        "Suggested by Public" : "",
+        "Agency" : "Department of Education"
+      },
+      "Data Description" : {
+        "Data Dictionary" : "",
+        "Data Collection Instrument" : "",
+        "Collection Mode" : "EDFacts Submission System "
+      },
+      "Additional Dataset Documentation" : {
+        "Technical Documentation" : ""
+      },
+      "Data.gov Communities" : {
+        "Communities" : ""
+      },
+      "Dataset Coverage" : {
+        "Geographic Coverage" : "50 states, District of Columbia, Puerto Rico and Bureau of Indian Education",
+        "Granularity" : "",
+        "Unit of Analysis" : "K-12 public school districts "
+      },
+      "Dataset Information" : {
+        "Data.gov Data Category Type" : "",
+        "Unique ID" : "",
+        "Specialized Data Category Designation" : "",
+        "Extended Type" : ""
+      },
+      "Contributing Agency Information" : {
+        "Agency Data Series Page" : "",
+        "Agency Program Page" : "",
+        "Citation" : ""
+      },
+      "Data Quality" : {
+        "Data Quality Certification" : "Provisional Data Release ",
+        "Privacy and Confidentiality" : ""
+      }
+    },
+    "renderTypeConfig" : {
+      "visible" : {
+        "table" : true
+      }
+    },
+    "availableDisplayTypes" : [ "table", "fatrow", "page" ],
+    "rdfSubject" : "0",
+    "attachments" : [ {
+      "blobId" : "5D6FE075-803A-4D29-94EA-FF46D70FB6A2",
+      "name" : "EDFacts_Results_for_State_Assessments_0809-1011_Public_File_Documentation_v0.3-Provisional.docx",
+      "filename" : "EDFacts_Results_for_State_Assessments_0809-1011_Public_File_Documentation_v0.3-Provisional.docx"
+    } ],
+    "rowIdentifier" : "0",
+    "rdfClass" : ""
+  },
+  "owner" : {
+    "id" : "fbai-w3p8",
+    "displayName" : "MarinaMartin",
+    "screenName" : "MarinaMartin"
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "fbai-w3p8",
+    "displayName" : "MarinaMartin",
+    "screenName" : "MarinaMartin"
+  },
+  "tags" : [ "k-12", "assessment", "district", "elementary", "secondary", "reading/language arts" ],
+  "flags" : [ "default" ]
+}, {
+  "id" : "vhdu-rvbu",
+  "name" : "National Historical Publications and Records Commission (NHPRC) Grants, 1965-Present",
+  "averageRating" : 0,
+  "category" : "Other",
+  "createdAt" : 1379620965,
+  "description" : "Grants awarded by the National Historical Publications and Records Commission (NHPRC) in support of history and archives projects.",
+  "domainCName" : "explore.data.gov",
+  "downloadCount" : 17,
+  "externalId" : "http://www.data.gov/details/35661",
+  "indexUpdatedAt" : 1381958303,
+  "newBackend" : false,
+  "numberOfComments" : 0,
+  "oid" : 5503278,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1379620965,
+  "publicationStage" : "published",
+  "signed" : false,
+  "tableId" : 1164498,
+  "totalTimesRated" : 0,
+  "viewCount" : 18,
+  "viewLastModified" : 1379620965,
+  "viewType" : "href",
+  "grants" : [ {
+    "inherited" : false,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "custom_fields" : {
+      "Dataset Summary" : {
+        "Agency" : "National Archives and Records Administration",
+        "Date Released" : "9/17/2013",
+        "Date Updated" : "9/17/2013",
+        "Time Period" : "1965-Present",
+        "Frequency" : "annual",
+        "High Value Dataset" : "Y",
+        "Suggested by Public" : "N"
+      },
+      "Dataset Information" : {
+        "Data.gov Data Category Type" : "Raw Data Catalog",
+        "Specialized Data Category Designation" : "Administrative",
+        "Unique ID" : "35661",
+        "Extended Type" : "Raw Data"
+      },
+      "Contributing Agency Information" : {
+        "Citation" : "http://www.archives.gov/open/nhprc/dataset-nhprc.html",
+        "Agency Program Page" : "http://www.archives.gov/nhprc/",
+        "Agency Data Series Page" : "http://www.archives.gov/open/available-datasets.html"
+      },
+      "Dataset Coverage" : {
+        "Unit of Analysis" : "grant recipients",
+        "Granularity" : "zip code",
+        "Geographic Coverage" : "United States"
+      },
+      "Data Description" : {
+        "Data Dictionary" : "http://www.archives.gov/open/nhprc/nhprc-grants-data-dictionary.pdf"
+      },
+      "Data Quality" : {
+        "Applicable Information Quality Guideline Designation" : "National Archives and Records Administration",
+        "Data Quality Certification" : "Yes",
+        "Privacy and Confidentiality" : "Yes"
+      }
+    },
+    "accessPoints" : {
+      "csv" : "http://www.archives.gov/open/nhprc/dataset-nhprc.html",
+      "csvSize" : "1.46 MB"
+    },
+    "href" : "http://www.data.gov/details/35661"
+  },
+  "owner" : {
+    "id" : "e8ug-wzay",
+    "displayName" : "Data.gov Program Management Office",
+    "profileImageUrlLarge" : "/images/profile/0356/4016/datagov_large_large.png",
+    "profileImageUrlMedium" : "/images/profile/0356/4016/datagov_large_thumb.png",
+    "profileImageUrlSmall" : "/images/profile/0356/4016/datagov_large_tiny.png",
+    "screenName" : "Data.gov Program Management Office"
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "e8ug-wzay",
+    "displayName" : "Data.gov Program Management Office",
+    "profileImageUrlLarge" : "/images/profile/0356/4016/datagov_large_large.png",
+    "profileImageUrlMedium" : "/images/profile/0356/4016/datagov_large_thumb.png",
+    "profileImageUrlSmall" : "/images/profile/0356/4016/datagov_large_tiny.png",
+    "screenName" : "Data.gov Program Management Office"
+  },
+  "tags" : [ "founders", "history", "publishing", "records", "universities", "archives", "research", "academic", "grants", "funding" ],
+  "flags" : [ "default" ]
+}, {
+  "id" : "wyrj-bfbx",
+  "name" : "2013 Information Sharing Environment Performance Data",
+  "averageRating" : 0,
+  "category" : "National Security and Veterans Affairs",
+  "createdAt" : 1379535856,
+  "description" : "This is a survey of federal departments and agencies who share terrorism information and are therefore considered part of the Information Sharing Environment. The ISE Performance Framework allows us to assess improvements to the nation's ability to detect, analyze, and respond to terrorism, WMD, and homeland security threats. The goals and sub-�goals in the framework are aligned to the White House's strategic guidance, priorities, and to the required ISE attributes in the Intelligence Reform and Terrorism Prevention Act of 2004, Section 1016(b)(2). This year's data is a survey of Air Force Intelligence; Central Intelligence Agency; Department of Commerce; Department of Defense; Department of Energy; Department of Health and Human Services; Department of Homeland Security; Department of Interior; Department of Justice; Department of State; Department of Transportation; Department of the Treasury; National Geospatial Agency; National Reconnaissance Office; Office of the Director of National Intelligence - Acquisition, Technology, and Facilities; Office of the Director of National Intelligence - Office of the Chief Information Officer; Office of the Director of National Intelligence - Civil Liberties and Privacy Office; Office of the Director of National Intelligence - Deputy Director for Intelligence Integration; Office of the Director of National Intelligence - National Counterterrorism Center; Office of the Director of National Intelligence - Systems, Resources, and Analysis; Office of the Director of National Intelligence - Mission Support Division; and the Office of the Director of National Intelligence - Policy & Strategy.",
+  "domainCName" : "explore.data.gov",
+  "downloadCount" : 16,
+  "externalId" : "http://www.data.gov/details/35641",
+  "indexUpdatedAt" : 1381932158,
+  "newBackend" : false,
+  "numberOfComments" : 0,
+  "oid" : 5485370,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1379535856,
+  "publicationStage" : "published",
+  "signed" : false,
+  "tableId" : 1161163,
+  "totalTimesRated" : 0,
+  "viewCount" : 13,
+  "viewLastModified" : 1379535856,
+  "viewType" : "href",
+  "grants" : [ {
+    "inherited" : false,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "custom_fields" : {
+      "Dataset Summary" : {
+        "Agency" : "Information Sharing Environment",
+        "Date Released" : "7/30/2013",
+        "Date Updated" : "9/17/2013",
+        "Time Period" : "April 2012-March 2013",
+        "Frequency" : "annual",
+        "High Value Dataset" : "N",
+        "Suggested by Public" : "N"
+      },
+      "Dataset Information" : {
+        "Data.gov Data Category Type" : "Raw Data Catalog",
+        "Specialized Data Category Designation" : "Administrative",
+        "Unique ID" : "35641",
+        "Extended Type" : "Raw Data"
+      },
+      "Contributing Agency Information" : {
+        "Citation" : "http://ise.gov/sites/default/files/2013ISEPerformanceData.xls",
+        "Agency Program Page" : "http://ise.gov",
+        "Agency Data Series Page" : "http://ise.gov/document_library"
+      },
+      "Dataset Coverage" : {
+        "Unit of Analysis" : "agency progress"
+      },
+      "Additional Dataset Documentation" : {
+        "Technical Documentation" : "http://ise.gov/ise-performance-management, http://ise.gov/annual-report/appendices.html"
+      },
+      "Data Quality" : {
+        "Applicable Information Quality Guideline Designation" : "Information Sharing Environment",
+        "Data Quality Certification" : "Yes",
+        "Privacy and Confidentiality" : "Yes"
+      }
+    },
+    "accessPoints" : {
+      "xls" : "http://ise.gov/sites/default/files/2013ISEPerformanceData.xls",
+      "xlsSize" : "141 KB"
+    },
+    "href" : "http://www.data.gov/details/35641"
+  },
+  "owner" : {
+    "id" : "e8ug-wzay",
+    "displayName" : "Data.gov Program Management Office",
+    "profileImageUrlLarge" : "/images/profile/0356/4016/datagov_large_large.png",
+    "profileImageUrlMedium" : "/images/profile/0356/4016/datagov_large_thumb.png",
+    "profileImageUrlSmall" : "/images/profile/0356/4016/datagov_large_tiny.png",
+    "screenName" : "Data.gov Program Management Office"
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "e8ug-wzay",
+    "displayName" : "Data.gov Program Management Office",
+    "profileImageUrlLarge" : "/images/profile/0356/4016/datagov_large_large.png",
+    "profileImageUrlMedium" : "/images/profile/0356/4016/datagov_large_thumb.png",
+    "profileImageUrlSmall" : "/images/profile/0356/4016/datagov_large_tiny.png",
+    "screenName" : "Data.gov Program Management Office"
+  },
+  "tags" : [ "information sharing segment architecture", "information safeguarding", "privacy policy", "grants", "P/CR/CL", "civil liberties", "metadata tagging", "civil rights", "accreditation", "executive order", "fusion centers", "RFPs", "eguardian", "PKI", "suspicious activity reporting", "counterterrorism", "privacy training", "ISE", "info sharing", "mission segment architectures", "classification", "enterprise data correlation", "Resource Allocation Criteria", "terrorism", "ABAC", "ficam", "technical standards", "standards repository", "fbi", "Attribute Based Access Control", "CUI", "standards", "information sharing", "shared space", "functional standards", "IDAM", "see something say something", "tribal", "data standards", "IT security", "information discovery", "access control", "standards development organizations", "ISSA", "homeland security", "privacy", "SBU", "common information sharing technical standards", "controlled unclassified information", "requests for proposals" ],
+  "flags" : [ "default" ]
+}, {
+  "id" : "gng7-dhqt",
+  "name" : "2012 Information Sharing Environment Performance Data",
+  "averageRating" : 0,
+  "category" : "National Security and Veterans Affairs",
+  "createdAt" : 1379535855,
+  "description" : "This is a survey of federal departments and agencies who share terrorism information and are therefore considered part of the Information Sharing Environment. The ISE Performance Framework allows us to assess improvements to the nation's ability to detect, analyze, and respond to terrorism, WMD, and homeland security threats. The goals and sub-�goals in the framework are aligned to the White House's strategic guidance, priorities, and to the required ISE attributes in the Intelligence Reform and Terrorism Prevention Act of 2004, Section 1016(b)(2). This year's data is a survey of Air Force Intelligence, Army Intelligence, Central Intelligence Agency, Department of Energy, Department of Homeland Security, Defense Intelligence Agency, Department of Commerce, Department of Defense, Department of Health and Human Services, Department of Interior, Department of Justice, Department of State, Department of Transportation, Department of the Treasury, Federal Bureau of Investigation, Marine Corps Intelligence, National Counterterrorism Center, National Geospatial Agency, National Reconnaissance Office, and the Office of the Director of National Intelligence.",
+  "domainCName" : "explore.data.gov",
+  "downloadCount" : 16,
+  "externalId" : "http://www.data.gov/details/35631",
+  "indexUpdatedAt" : 1381932157,
+  "newBackend" : false,
+  "numberOfComments" : 0,
+  "oid" : 5485369,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1379535855,
+  "publicationStage" : "published",
+  "signed" : false,
+  "tableId" : 1161162,
+  "totalTimesRated" : 0,
+  "viewCount" : 12,
+  "viewLastModified" : 1379535855,
+  "viewType" : "href",
+  "grants" : [ {
+    "inherited" : false,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "custom_fields" : {
+      "Dataset Summary" : {
+        "Agency" : "Information Sharing Environment",
+        "Date Released" : "6/30/2012",
+        "Date Updated" : "9/17/2013",
+        "Time Period" : "April 2011-March 2012",
+        "Frequency" : "annual",
+        "High Value Dataset" : "N",
+        "Suggested by Public" : "N"
+      },
+      "Dataset Information" : {
+        "Data.gov Data Category Type" : "Raw Data Catalog",
+        "Specialized Data Category Designation" : "Administrative",
+        "Unique ID" : "35631",
+        "Extended Type" : "Raw Data"
+      },
+      "Contributing Agency Information" : {
+        "Citation" : "http://ise.gov/sites/default/files/2012ISEPerformanceData.xls",
+        "Agency Program Page" : "http://ise.gov",
+        "Agency Data Series Page" : "http://ise.gov/document_library"
+      },
+      "Dataset Coverage" : {
+        "Unit of Analysis" : "agency progress"
+      },
+      "Additional Dataset Documentation" : {
+        "Technical Documentation" : "http://ise.gov/ise-performance-management, http://ise.gov/sites/default/files/ISE_Annual_Report_to_Congress_2012.pdf"
+      },
+      "Data Quality" : {
+        "Applicable Information Quality Guideline Designation" : "Information Sharing Environment",
+        "Data Quality Certification" : "Yes",
+        "Privacy and Confidentiality" : "Yes"
+      }
+    },
+    "accessPoints" : {
+      "xls" : "http://ise.gov/sites/default/files/2012ISEPerformanceData.xls",
+      "xlsSize" : "142 KB"
+    },
+    "href" : "http://www.data.gov/details/35631"
+  },
+  "owner" : {
+    "id" : "e8ug-wzay",
+    "displayName" : "Data.gov Program Management Office",
+    "profileImageUrlLarge" : "/images/profile/0356/4016/datagov_large_large.png",
+    "profileImageUrlMedium" : "/images/profile/0356/4016/datagov_large_thumb.png",
+    "profileImageUrlSmall" : "/images/profile/0356/4016/datagov_large_tiny.png",
+    "screenName" : "Data.gov Program Management Office"
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "e8ug-wzay",
+    "displayName" : "Data.gov Program Management Office",
+    "profileImageUrlLarge" : "/images/profile/0356/4016/datagov_large_large.png",
+    "profileImageUrlMedium" : "/images/profile/0356/4016/datagov_large_thumb.png",
+    "profileImageUrlSmall" : "/images/profile/0356/4016/datagov_large_tiny.png",
+    "screenName" : "Data.gov Program Management Office"
+  },
+  "tags" : [ "information sharing segment architecture", "information safeguarding", "privacy policy", "grants", "P/CR/CL", "civil liberties", "metadata tagging", "civil rights", "accreditation", "executive order", "fusion centers", "RFPs", "eguardian", "PKI", "suspicious activity reporting", "counterterrorism", "privacy training", "ISE", "info sharing", "mission segment architectures", "classification", "enterprise data correlation", "Resource Allocation Criteria", "terrorism", "ABAC", "ficam", "technical standards", "standards repository", "fbi", "Attribute Based Access Control", "CUI", "standards", "information sharing", "shared space", "functional standards", "IDAM", "see something say something", "tribal", "data standards", "IT security", "information discovery", "access control", "standards development organizations", "ISSA", "homeland security", "privacy", "SBU", "common information sharing technical standards", "controlled unclassified information", "requests for proposals" ],
+  "flags" : [ "default" ]
+}, {
+  "id" : "nfvx-ebf9",
+  "name" : "Surface Management Agency",
+  "averageRating" : 0,
+  "category" : "Other",
+  "createdAt" : 1379620964,
+  "description" : "The Surface Management Agency (SMA) Geographic Information System (GIS) dataset depicts Federal land for the United States and classifies this land by its active Federal surface managing agency. It includes withdrawals, wilderness areas and wilderness study area withdrawals.",
+  "domainCName" : "explore.data.gov",
+  "downloadCount" : 29,
+  "externalId" : "http://www.data.gov/details/35651",
+  "indexUpdatedAt" : 1381879263,
+  "newBackend" : false,
+  "numberOfComments" : 0,
+  "oid" : 5503277,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1379620964,
+  "publicationStage" : "published",
+  "signed" : false,
+  "tableId" : 1164497,
+  "totalTimesRated" : 0,
+  "viewCount" : 15,
+  "viewLastModified" : 1379620964,
+  "viewType" : "href",
+  "grants" : [ {
+    "inherited" : false,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "custom_fields" : {
+      "Dataset Summary" : {
+        "Agency" : "Department of the Interior",
+        "Sub-Agency" : "Bureau of Land Management",
+        "Date Released" : "8/16/2013",
+        "Date Updated" : "8/16/2013",
+        "Time Period" : "as of 8/16/2013",
+        "Frequency" : "monthly",
+        "High Value Dataset" : "Y",
+        "Suggested by Public" : "N"
+      },
+      "Dataset Information" : {
+        "Data.gov Data Category Type" : "Raw Data Catalog",
+        "Specialized Data Category Designation" : "Geospatial",
+        "Unique ID" : "35651",
+        "Extended Type" : "Map"
+      },
+      "Contributing Agency Information" : {
+        "Citation" : "http://www.geocommunicator.gov/GeoComm/metadata/sma/SurfaceManagementAgency.htm",
+        "Agency Program Page" : "http://www.blm.gov/wo/st/en/prog/more/lands.html",
+        "Agency Data Series Page" : "http://www.geocommunicator.gov/GeoComm/"
+      },
+      "Dataset Coverage" : {
+        "Unit of Analysis" : "Land Parcel",
+        "Geographic Coverage" : "Continental United States, Hawaii and US Territories"
+      },
+      "Data Description" : {
+        "Collection Mode" : "person/computer",
+        "Data Dictionary" : "http://www.geocommunicator.gov/GeoComm/metadata/sma/SurfaceManagementAgency.htm"
+      },
+      "Additional Dataset Documentation" : {
+        "Technical Documentation" : "http://www.geocommunicator.gov/GeoComm/metadata/sma/SurfaceManagementAgency.htm"
+      },
+      "Data Quality" : {
+        "Applicable Information Quality Guideline Designation" : "BLM",
+        "Data Quality Certification" : "Yes",
+        "Privacy and Confidentiality" : "Yes"
+      }
+    },
+    "accessPoints" : {
+      "esri" : "http://www.geocommunicator.gov/shapefilesall/SMA/SMA_Withdrawals.zip",
+      "esriSize" : "97.6 MB",
+      "map" : "http://www.arcgis.com/home/webmap/viewer.html?url=http%3a%2f%2fwww.geocommunicator.gov%2fARCGIS%2fREST%2fservices%2fSurfaceManagementAgency%2fMapServer&source=sd"
+    },
+    "href" : "http://www.data.gov/details/35651"
+  },
+  "owner" : {
+    "id" : "e8ug-wzay",
+    "displayName" : "Data.gov Program Management Office",
+    "profileImageUrlLarge" : "/images/profile/0356/4016/datagov_large_large.png",
+    "profileImageUrlMedium" : "/images/profile/0356/4016/datagov_large_thumb.png",
+    "profileImageUrlSmall" : "/images/profile/0356/4016/datagov_large_tiny.png",
+    "screenName" : "Data.gov Program Management Office"
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "e8ug-wzay",
+    "displayName" : "Data.gov Program Management Office",
+    "profileImageUrlLarge" : "/images/profile/0356/4016/datagov_large_large.png",
+    "profileImageUrlMedium" : "/images/profile/0356/4016/datagov_large_thumb.png",
+    "profileImageUrlSmall" : "/images/profile/0356/4016/datagov_large_tiny.png",
+    "screenName" : "Data.gov Program Management Office"
+  },
+  "tags" : [ "Federal Surface Management", "Public Land", "wilderness area", "Ownership", "Federal Land Stewardship", "Withdrawals", "Land Status", "wilderness study area", "O&C", "SMA", "Federal Lands" ],
+  "flags" : [ "default" ]
+}, {
+  "id" : "6tmw-iiyq",
+  "name" : "READ 2011 (No Num Valid)",
+  "averageRating" : 0,
+  "category" : "Education",
+  "createdAt" : 1373391417,
+  "description" : "This dataset contains school level information on the academic achievement results of state assessments in reading/language arts. The dataset contains information on the number of students assessed and the percent of those students who achieved a level of state-defined grade-level proficiency or above. Information is included within the dataset on all students assessed within the school, assessment results by grade and for specific subgroups of students, along with detailed information on the subgroups within each individual grade. The reported percentage of students reaching grade level proficiency or above has been reported in a manner that protects the privacy of individuals within the data. The privacy protections vary based on the n-size of the student group whose assessment performance is being reported. To interpret these data appropriately, please utilize the count of students assessed that is reported for each proficiency rate and reference section 4.1 of the Public File Documentation for details on the privacy protections. For more information on the data files and guidance for their appropriate use, please read the Public File Documentation.",
+  "displayType" : "table",
+  "domainCName" : "explore.data.gov",
+  "downloadCount" : 2,
+  "indexUpdatedAt" : 1381659852,
+  "newBackend" : false,
+  "numberOfComments" : 0,
+  "oid" : 4389986,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1359642339,
+  "publicationGroup" : 644593,
+  "publicationStage" : "published",
+  "rowClass" : "",
+  "rowsUpdatedAt" : 1359499468,
+  "rowsUpdatedBy" : "fbai-w3p8",
+  "signed" : false,
+  "tableId" : 644593,
+  "totalTimesRated" : 0,
+  "viewCount" : 2,
+  "viewLastModified" : 1373391419,
+  "viewType" : "tabular",
+  "grants" : [ {
+    "inherited" : true,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "custom_fields" : {
+      "Dataset Summary" : {
+        "Sub-Agency" : "EDFacts",
+        "Date Updated" : "",
+        "High Value Dataset" : "",
+        "Date Released" : "January 31, 2013",
+        "Time Period" : "",
+        "Frequency" : "",
+        "Suggested by Public" : "",
+        "Agency" : "Department of Education"
+      },
+      "Data Description" : {
+        "Data Dictionary" : "",
+        "Data Collection Instrument" : "EDFacts Submission System",
+        "Collection Mode" : ""
+      },
+      "Additional Dataset Documentation" : {
+        "Technical Documentation" : ""
+      },
+      "Data.gov Communities" : {
+        "Communities" : ""
+      },
+      "Dataset Coverage" : {
+        "Geographic Coverage" : "50 states, DC and Puerto Rico",
+        "Granularity" : "",
+        "Unit of Analysis" : "K-12 public schools"
+      },
+      "Dataset Information" : {
+        "Data.gov Data Category Type" : "",
+        "Unique ID" : "",
+        "Specialized Data Category Designation" : "",
+        "Extended Type" : ""
+      },
+      "Contributing Agency Information" : {
+        "Agency Data Series Page" : "",
+        "Agency Program Page" : "",
+        "Citation" : ""
+      },
+      "Data Quality" : {
+        "Data Quality Certification" : "",
+        "Privacy and Confidentiality" : ""
+      }
+    },
+    "renderTypeConfig" : {
+      "visible" : {
+        "table" : true
+      }
+    },
+    "availableDisplayTypes" : [ "table", "fatrow", "page" ],
+    "rdfSubject" : "0",
+    "attachments" : [ {
+      "blobId" : "89959988-5A15-4748-83C6-B4C836EE3620",
+      "name" : "EDFacts_Results_for_State_Assessments_0809-1011_Public_File_Documentation_PRELIM.docx",
+      "filename" : "EDFacts_Results_for_State_Assessments_0809-1011_Public_File_Documentation_PRELIM.docx"
+    } ],
+    "rowIdentifier" : "0",
+    "rdfClass" : ""
+  },
+  "owner" : {
+    "id" : "gxn8-8skn",
+    "displayName" : "CEM",
+    "screenName" : "CEM"
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "fbai-w3p8",
+    "displayName" : "MarinaMartin",
+    "screenName" : "MarinaMartin"
+  },
+  "tags" : [ "k-12", "assessments", "elementary", "secondary", "reading/language arts" ]
+}, {
+  "id" : "73tq-49vg",
+  "name" : "Nonimmigrant Temporary Worker Admissions (I-94 Only) by Region and Country of Citizenship: Fiscal Year 2011",
+  "averageRating" : 0,
+  "category" : "Other",
+  "createdAt" : 1369861459,
+  "description" : "\"Access data on nonimmigrant admissions by class, country, and other characteristics for fiscal year 2011\"",
+  "domainCName" : "explore.data.gov",
+  "downloadCount" : 13,
+  "externalId" : "http://www.data.gov/details/30491",
+  "indexUpdatedAt" : 1382032139,
+  "newBackend" : false,
+  "numberOfComments" : 0,
+  "oid" : 3814676,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1369861459,
+  "publicationStage" : "published",
+  "signed" : false,
+  "tableId" : 887769,
+  "totalTimesRated" : 0,
+  "viewCount" : 4,
+  "viewLastModified" : 1369861460,
+  "viewType" : "href",
+  "grants" : [ {
+    "inherited" : false,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "custom_fields" : {
+      "Dataset Summary" : {
+        "Agency" : "Department of Homeland Security",
+        "Sub-Agency" : "Office of Immigration Statistics",
+        "Date Released" : "July 2012",
+        "Date Updated" : "July 11, 2012",
+        "Time Period" : "2011",
+        "Frequency" : "Annual",
+        "High Value Dataset" : "Y",
+        "Suggested by Public" : "N"
+      },
+      "Dataset Information" : {
+        "Data.gov Data Category Type" : "Raw Data Catalog",
+        "Specialized Data Category Designation" : "Administrative",
+        "Unique ID" : "30491",
+        "Extended Type" : "Raw Data"
+      },
+      "Contributing Agency Information" : {
+        "Citation" : "United States. Department of Homeland Security. Yearbook of Immigration Statistics: 2011. Washington, DC.: U.S. Department of Homeland Security, Office of Immigration Statistics, 2012.",
+        "Agency Program Page" : "http://www.dhs.gov/immigration-statistics",
+        "Agency Data Series Page" : "http://www.dhs.gov/yearbook-immigration-statistics"
+      },
+      "Dataset Coverage" : {
+        "Unit of Analysis" : "USA, State, City, Year",
+        "Geographic Coverage" : "USA, State, City, Year"
+      },
+      "Additional Dataset Documentation" : {
+        "Technical Documentation" : "http://www.dhs.gov/privacy-compliance"
+      },
+      "Data Quality" : {
+        "Applicable Information Quality Guideline Designation" : "DHS",
+        "Data Quality Certification" : "Yes",
+        "Privacy and Confidentiality" : "Yes"
+      }
+    },
+    "accessPoints" : {
+      "xls" : "http://www.dhs.gov/xlibrary/assets/statistics/yearbook/2011/table32d.xls",
+      "xlsSize" : "58 KB"
+    },
+    "href" : "http://www.data.gov/details/30491"
+  },
+  "owner" : {
+    "id" : "e8ug-wzay",
+    "displayName" : "Data.gov Program Management Office",
+    "profileImageUrlLarge" : "/images/profile/0356/4016/datagov_large_large.png",
+    "profileImageUrlMedium" : "/images/profile/0356/4016/datagov_large_thumb.png",
+    "profileImageUrlSmall" : "/images/profile/0356/4016/datagov_large_tiny.png",
+    "screenName" : "Data.gov Program Management Office"
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "e8ug-wzay",
+    "displayName" : "Data.gov Program Management Office",
+    "profileImageUrlLarge" : "/images/profile/0356/4016/datagov_large_large.png",
+    "profileImageUrlMedium" : "/images/profile/0356/4016/datagov_large_thumb.png",
+    "profileImageUrlSmall" : "/images/profile/0356/4016/datagov_large_tiny.png",
+    "screenName" : "Data.gov Program Management Office"
+  },
+  "tags" : [ "Nonimmigrant Admissions", "Class of Admission", "Temporary visitors", "Data on immigration", "Temporary Workers", "Country of Citizenship", "annual number of nonimmigrant admissions", "I-94" ],
+  "flags" : [ "default" ]
+}, {
+  "id" : "x4z7-y8wm",
+  "name" : "Persons Naturalized by Core Based Statistical Area (CBSA) of Residence: Fiscal Years 2002 to 2011",
+  "averageRating" : 0,
+  "category" : "Other",
+  "createdAt" : 1369861446,
+  "description" : "Access data on persons who became American citizens in fiscal year 2011 by country of birth, state of residence, and other characteristics",
+  "domainCName" : "explore.data.gov",
+  "downloadCount" : 14,
+  "externalId" : "http://www.data.gov/details/30411",
+  "indexUpdatedAt" : 1382039115,
+  "newBackend" : false,
+  "numberOfComments" : 0,
+  "oid" : 3814667,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1369861446,
+  "publicationStage" : "published",
+  "signed" : false,
+  "tableId" : 887761,
+  "totalTimesRated" : 0,
+  "viewCount" : 7,
+  "viewLastModified" : 1369861446,
+  "viewType" : "href",
+  "grants" : [ {
+    "inherited" : false,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "custom_fields" : {
+      "Dataset Summary" : {
+        "Agency" : "Department of Homeland Security",
+        "Sub-Agency" : "Office of Immigration Statistics",
+        "Date Released" : "April 3, 2012",
+        "Date Updated" : "June 22, 2012",
+        "Time Period" : "2002-2011",
+        "Frequency" : "Annual",
+        "High Value Dataset" : "Y",
+        "Suggested by Public" : "N"
+      },
+      "Dataset Information" : {
+        "Data.gov Data Category Type" : "Raw Data Catalog",
+        "Specialized Data Category Designation" : "Administrative",
+        "Unique ID" : "30411",
+        "Extended Type" : "Raw Data"
+      },
+      "Contributing Agency Information" : {
+        "Citation" : "United States. Department of Homeland Security. Yearbook of Immigration Statistics: 2011. Washington, DC.: U.S. Department of Homeland Security, Office of Immigration Statistics, 2012.",
+        "Agency Program Page" : "http://www.dhs.gov/immigration-statistics",
+        "Agency Data Series Page" : "http://www.dhs.gov/yearbook-immigration-statistics"
+      },
+      "Dataset Coverage" : {
+        "Unit of Analysis" : "USA, State, City, Year",
+        "Geographic Coverage" : "USA, State, City, Year"
+      },
+      "Additional Dataset Documentation" : {
+        "Technical Documentation" : "http://www.dhs.gov/privacy-compliance"
+      },
+      "Data Quality" : {
+        "Applicable Information Quality Guideline Designation" : "DHS",
+        "Data Quality Certification" : "Yes",
+        "Privacy and Confidentiality" : "Yes"
+      }
+    },
+    "accessPoints" : {
+      "xls" : "http://www.dhs.gov/xlibrary/assets/statistics/yearbook/2011/table23.xls",
+      "xlsSize" : "32 KB"
+    },
+    "href" : "http://www.data.gov/details/30411"
+  },
+  "owner" : {
+    "id" : "e8ug-wzay",
+    "displayName" : "Data.gov Program Management Office",
+    "profileImageUrlLarge" : "/images/profile/0356/4016/datagov_large_large.png",
+    "profileImageUrlMedium" : "/images/profile/0356/4016/datagov_large_thumb.png",
+    "profileImageUrlSmall" : "/images/profile/0356/4016/datagov_large_tiny.png",
+    "screenName" : "Data.gov Program Management Office"
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "e8ug-wzay",
+    "displayName" : "Data.gov Program Management Office",
+    "profileImageUrlLarge" : "/images/profile/0356/4016/datagov_large_large.png",
+    "profileImageUrlMedium" : "/images/profile/0356/4016/datagov_large_thumb.png",
+    "profileImageUrlSmall" : "/images/profile/0356/4016/datagov_large_tiny.png",
+    "screenName" : "Data.gov Program Management Office"
+  },
+  "tags" : [ "American Citizens", "Data on immigration", "annual number of naturalizations", "Core Based Statistical Area" ],
+  "flags" : [ "default" ]
+}, {
+  "id" : "pf7d-brkk",
+  "name" : "Persons Obtaining  Legal  Permanent Resident  Status by Broad Class of Admission and  Selected  Demographic  Characteristics: Fiscal Year 2011",
+  "averageRating" : 0,
+  "category" : "Other",
+  "createdAt" : 1369861441,
+  "description" : "Access data on immigrants who became legal permanent residents in fiscal year 2011 by class of admission, country of birth, state of residence, and other characteristics",
+  "domainCName" : "explore.data.gov",
+  "downloadCount" : 11,
+  "externalId" : "http://www.data.gov/details/30381",
+  "indexUpdatedAt" : 1382038221,
+  "newBackend" : false,
+  "numberOfComments" : 0,
+  "oid" : 3814664,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1369861441,
+  "publicationStage" : "published",
+  "signed" : false,
+  "tableId" : 887757,
+  "totalTimesRated" : 0,
+  "viewCount" : 7,
+  "viewLastModified" : 1369861441,
+  "viewType" : "href",
+  "grants" : [ {
+    "inherited" : false,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "custom_fields" : {
+      "Dataset Summary" : {
+        "Agency" : "Department of Homeland Security",
+        "Sub-Agency" : "Office of Immigration Statistics",
+        "Date Released" : "April 1, 2012",
+        "Date Updated" : "June 12, 2012",
+        "Time Period" : "Annual",
+        "Frequency" : "Annual",
+        "High Value Dataset" : "Y",
+        "Suggested by Public" : "N"
+      },
+      "Dataset Information" : {
+        "Data.gov Data Category Type" : "Raw Data Catalog",
+        "Specialized Data Category Designation" : "Administrative",
+        "Unique ID" : "30381",
+        "Extended Type" : "Raw Data"
+      },
+      "Contributing Agency Information" : {
+        "Citation" : "United States. Department of Homeland Security. Yearbook of Immigration Statistics: 2011. Washington, DC.: U.S. Department of Homeland Security, Office of Immigration Statistics, 2012.",
+        "Agency Program Page" : "http://www.dhs.gov/immigration-statistics",
+        "Agency Data Series Page" : "http://www.dhs.gov/yearbook-immigration-statistics"
+      },
+      "Dataset Coverage" : {
+        "Unit of Analysis" : "USA, State, City, Year",
+        "Geographic Coverage" : "USA, State, City"
+      },
+      "Additional Dataset Documentation" : {
+        "Technical Documentation" : "http://www.dhs.gov/privacy-compliance"
+      },
+      "Data Quality" : {
+        "Applicable Information Quality Guideline Designation" : "DHS",
+        "Data Quality Certification" : "Yes",
+        "Privacy and Confidentiality" : "Yes"
+      }
+    },
+    "accessPoints" : {
+      "xls" : "http://www.dhs.gov/sites/default/files/publications/immigration-statistics/yearbook/2012/LPR/table9d.xls",
+      "xlsSize" : "31 KB"
+    },
+    "href" : "http://www.data.gov/details/30381"
+  },
+  "owner" : {
+    "id" : "e8ug-wzay",
+    "displayName" : "Data.gov Program Management Office",
+    "profileImageUrlLarge" : "/images/profile/0356/4016/datagov_large_large.png",
+    "profileImageUrlMedium" : "/images/profile/0356/4016/datagov_large_thumb.png",
+    "profileImageUrlSmall" : "/images/profile/0356/4016/datagov_large_tiny.png",
+    "screenName" : "Data.gov Program Management Office"
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "e8ug-wzay",
+    "displayName" : "Data.gov Program Management Office",
+    "profileImageUrlLarge" : "/images/profile/0356/4016/datagov_large_large.png",
+    "profileImageUrlMedium" : "/images/profile/0356/4016/datagov_large_thumb.png",
+    "profileImageUrlSmall" : "/images/profile/0356/4016/datagov_large_tiny.png",
+    "screenName" : "Data.gov Program Management Office"
+  },
+  "tags" : [ "country of Birth", "LPR", "annual number of permanent residents", "broad class of admission", "Immigration", "Permanent Resident", "Data on immigration" ],
+  "flags" : [ "default" ]
+}, {
+  "id" : "t5qz-rbke",
+  "name" : "Nonimmigrant Admissions (I-94 Only) by Selected Category of Admission and Region and Country of Citizenship: Fiscal Year 2011",
+  "averageRating" : 0,
+  "category" : "Other",
+  "createdAt" : 1369861455,
+  "description" : "\"Access data on nonimmigrant admissions by class, country, and other characteristics for fiscal year 2011\"",
+  "domainCName" : "explore.data.gov",
+  "downloadCount" : 11,
+  "externalId" : "http://www.data.gov/details/30461",
+  "indexUpdatedAt" : 1382032142,
+  "newBackend" : false,
+  "numberOfComments" : 0,
+  "oid" : 3814673,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1369861455,
+  "publicationStage" : "published",
+  "signed" : false,
+  "tableId" : 887766,
+  "totalTimesRated" : 0,
+  "viewCount" : 1,
+  "viewLastModified" : 1369861455,
+  "viewType" : "href",
+  "grants" : [ {
+    "inherited" : false,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "custom_fields" : {
+      "Dataset Summary" : {
+        "Agency" : "Department of Homeland Security",
+        "Sub-Agency" : "Office of Immigration Statistics",
+        "Date Released" : "July 2012",
+        "Date Updated" : "July 11, 2012",
+        "Time Period" : "2011",
+        "Frequency" : "Annual",
+        "High Value Dataset" : "Y",
+        "Suggested by Public" : "N"
+      },
+      "Dataset Information" : {
+        "Data.gov Data Category Type" : "Raw Data Catalog",
+        "Specialized Data Category Designation" : "Administrative",
+        "Unique ID" : "30461",
+        "Extended Type" : "Raw Data"
+      },
+      "Contributing Agency Information" : {
+        "Citation" : "United States. Department of Homeland Security. Yearbook of Immigration Statistics: 2011. Washington, DC.: U.S. Department of Homeland Security, Office of Immigration Statistics, 2012.",
+        "Agency Program Page" : "http://www.dhs.gov/immigration-statistics",
+        "Agency Data Series Page" : "http://www.dhs.gov/yearbook-immigration-statistics"
+      },
+      "Dataset Coverage" : {
+        "Unit of Analysis" : "USA, State, City, Year",
+        "Geographic Coverage" : "USA, State, City, Year"
+      },
+      "Additional Dataset Documentation" : {
+        "Technical Documentation" : "http://www.dhs.gov/privacy-compliance"
+      },
+      "Data Quality" : {
+        "Applicable Information Quality Guideline Designation" : "DHS",
+        "Data Quality Certification" : "Yes",
+        "Privacy and Confidentiality" : "Yes"
+      }
+    },
+    "accessPoints" : {
+      "xls" : "http://www.dhs.gov/xlibrary/assets/statistics/yearbook/2011/table28d.xls",
+      "xlsSize" : "48 KB"
+    },
+    "href" : "http://www.data.gov/details/30461"
+  },
+  "owner" : {
+    "id" : "e8ug-wzay",
+    "displayName" : "Data.gov Program Management Office",
+    "profileImageUrlLarge" : "/images/profile/0356/4016/datagov_large_large.png",
+    "profileImageUrlMedium" : "/images/profile/0356/4016/datagov_large_thumb.png",
+    "profileImageUrlSmall" : "/images/profile/0356/4016/datagov_large_tiny.png",
+    "screenName" : "Data.gov Program Management Office"
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "e8ug-wzay",
+    "displayName" : "Data.gov Program Management Office",
+    "profileImageUrlLarge" : "/images/profile/0356/4016/datagov_large_large.png",
+    "profileImageUrlMedium" : "/images/profile/0356/4016/datagov_large_thumb.png",
+    "profileImageUrlSmall" : "/images/profile/0356/4016/datagov_large_tiny.png",
+    "screenName" : "Data.gov Program Management Office"
+  },
+  "tags" : [ "Nonimmigrant Admissions", "Class of admission", "Temporary visitors", "Data on immigration", "annual number of nonimmigrant admissions", "I-94" ],
+  "flags" : [ "default" ]
+}, {
+  "id" : "hbar-3qwp",
+  "name" : "Nonimmigrant Admissions (I-94 Only) by Selected Category of Admission, Age and Gender: Fiscal Year 2011",
+  "averageRating" : 0,
+  "category" : "Other",
+  "createdAt" : 1369861458,
+  "description" : "\"Access data on nonimmigrant admissions by class, country, and other characteristics for fiscal year 2011\"",
+  "domainCName" : "explore.data.gov",
+  "downloadCount" : 12,
+  "externalId" : "http://www.data.gov/details/30481",
+  "indexUpdatedAt" : 1382032139,
+  "newBackend" : false,
+  "numberOfComments" : 0,
+  "oid" : 3814675,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1369861458,
+  "publicationStage" : "published",
+  "signed" : false,
+  "tableId" : 887768,
+  "totalTimesRated" : 0,
+  "viewCount" : 11,
+  "viewLastModified" : 1369861458,
+  "viewType" : "href",
+  "grants" : [ {
+    "inherited" : false,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "custom_fields" : {
+      "Dataset Summary" : {
+        "Agency" : "Department of Homeland Security",
+        "Sub-Agency" : "Office of Immigration Statistics",
+        "Date Released" : "July 2012",
+        "Date Updated" : "July 11, 2012",
+        "Time Period" : "2011",
+        "Frequency" : "Annual",
+        "High Value Dataset" : "Y",
+        "Suggested by Public" : "N"
+      },
+      "Dataset Information" : {
+        "Data.gov Data Category Type" : "Raw Data Catalog",
+        "Specialized Data Category Designation" : "Administrative",
+        "Unique ID" : "30481",
+        "Extended Type" : "Raw Data"
+      },
+      "Contributing Agency Information" : {
+        "Citation" : "United States. Department of Homeland Security. Yearbook of Immigration Statistics: 2011. Washington, DC.: U.S. Department of Homeland Security, Office of Immigration Statistics, 2012.",
+        "Agency Program Page" : "http://www.dhs.gov/immigration-statistics",
+        "Agency Data Series Page" : "http://www.dhs.gov/yearbook-immigration-statistics"
+      },
+      "Dataset Coverage" : {
+        "Unit of Analysis" : "USA, State, City, Year",
+        "Geographic Coverage" : "USA, State, City, Year"
+      },
+      "Additional Dataset Documentation" : {
+        "Technical Documentation" : "http://www.dhs.gov/privacy-compliance"
+      },
+      "Data Quality" : {
+        "Applicable Information Quality Guideline Designation" : "DHS",
+        "Data Quality Certification" : "Yes",
+        "Privacy and Confidentiality" : "Yes"
+      }
+    },
+    "accessPoints" : {
+      "xls" : "http://www.dhs.gov/xlibrary/assets/statistics/yearbook/2011/table29.xls",
+      "xlsSize" : "26 KB"
+    },
+    "href" : "http://www.data.gov/details/30481"
+  },
+  "owner" : {
+    "id" : "e8ug-wzay",
+    "displayName" : "Data.gov Program Management Office",
+    "profileImageUrlLarge" : "/images/profile/0356/4016/datagov_large_large.png",
+    "profileImageUrlMedium" : "/images/profile/0356/4016/datagov_large_thumb.png",
+    "profileImageUrlSmall" : "/images/profile/0356/4016/datagov_large_tiny.png",
+    "screenName" : "Data.gov Program Management Office"
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "e8ug-wzay",
+    "displayName" : "Data.gov Program Management Office",
+    "profileImageUrlLarge" : "/images/profile/0356/4016/datagov_large_large.png",
+    "profileImageUrlMedium" : "/images/profile/0356/4016/datagov_large_thumb.png",
+    "profileImageUrlSmall" : "/images/profile/0356/4016/datagov_large_tiny.png",
+    "screenName" : "Data.gov Program Management Office"
+  },
+  "tags" : [ "Nonimmigrant Admissions", "Class of Admission", "Temporary visitors", "gender", "Data on immigration", "annual number of nonimmigrant admissions", "Marital Status", "I-94", "Age" ],
+  "flags" : [ "default" ]
+}, {
+  "id" : "u6zh-ezag",
+  "name" : "Nonimmigrant Admissions (I-94 Only) by Selected Category of Admission and Month of Arrival: Fiscal Year 2011",
+  "averageRating" : 0,
+  "category" : "Other",
+  "createdAt" : 1369861453,
+  "description" : "\"Access data on nonimmigrant admissions by class, country, and other characteristics for fiscal year 2011\"",
+  "domainCName" : "explore.data.gov",
+  "downloadCount" : 6,
+  "externalId" : "http://www.data.gov/details/30451",
+  "indexUpdatedAt" : 1382032141,
+  "newBackend" : false,
+  "numberOfComments" : 0,
+  "oid" : 3814672,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1369861453,
+  "publicationStage" : "published",
+  "signed" : false,
+  "tableId" : 887765,
+  "totalTimesRated" : 0,
+  "viewCount" : 6,
+  "viewLastModified" : 1369861453,
+  "viewType" : "href",
+  "grants" : [ {
+    "inherited" : false,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "custom_fields" : {
+      "Dataset Summary" : {
+        "Agency" : "Department of Homeland Security",
+        "Sub-Agency" : "Office of Immigration Statistics",
+        "Date Released" : "July 2012",
+        "Date Updated" : "July 11, 2012",
+        "Time Period" : "2011",
+        "Frequency" : "Annual",
+        "High Value Dataset" : "Y",
+        "Suggested by Public" : "N"
+      },
+      "Dataset Information" : {
+        "Data.gov Data Category Type" : "Raw Data Catalog",
+        "Specialized Data Category Designation" : "Administrative",
+        "Unique ID" : "30451",
+        "Extended Type" : "Raw Data"
+      },
+      "Contributing Agency Information" : {
+        "Citation" : "United States. Department of Homeland Security. Yearbook of Immigration Statistics: 2011. Washington, DC.: U.S. Department of Homeland Security, Office of Immigration Statistics, 2012.",
+        "Agency Program Page" : "http://www.dhs.gov/immigration-statistics",
+        "Agency Data Series Page" : "http://www.dhs.gov/yearbook-immigration-statistics"
+      },
+      "Dataset Coverage" : {
+        "Unit of Analysis" : "USA, State, City, Year",
+        "Geographic Coverage" : "USA, State, City, Year"
+      },
+      "Additional Dataset Documentation" : {
+        "Technical Documentation" : "http://www.dhs.gov/privacy-compliance"
+      },
+      "Data Quality" : {
+        "Applicable Information Quality Guideline Designation" : "DHS",
+        "Data Quality Certification" : "Yes",
+        "Privacy and Confidentiality" : "Yes"
+      }
+    },
+    "accessPoints" : {
+      "xls" : "http://www.dhs.gov/xlibrary/assets/statistics/yearbook/2011/table31.xls",
+      "xlsSize" : "29 KB"
+    },
+    "href" : "http://www.data.gov/details/30451"
+  },
+  "owner" : {
+    "id" : "e8ug-wzay",
+    "displayName" : "Data.gov Program Management Office",
+    "profileImageUrlLarge" : "/images/profile/0356/4016/datagov_large_large.png",
+    "profileImageUrlMedium" : "/images/profile/0356/4016/datagov_large_thumb.png",
+    "profileImageUrlSmall" : "/images/profile/0356/4016/datagov_large_tiny.png",
+    "screenName" : "Data.gov Program Management Office"
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "e8ug-wzay",
+    "displayName" : "Data.gov Program Management Office",
+    "profileImageUrlLarge" : "/images/profile/0356/4016/datagov_large_large.png",
+    "profileImageUrlMedium" : "/images/profile/0356/4016/datagov_large_thumb.png",
+    "profileImageUrlSmall" : "/images/profile/0356/4016/datagov_large_tiny.png",
+    "screenName" : "Data.gov Program Management Office"
+  },
+  "tags" : [ "Nonimmigrant Admissions", "Class of Admission", "Temporary visitors", "Data on immigration", "annual number of nonimmigrant admissions", "I-94", "Month of Arrival" ],
+  "flags" : [ "default" ]
+}, {
+  "id" : "9xc8-xzin",
+  "name" : "Comprehensive Housing Affordability Strategy (CHAS) 2008 - 2010",
+  "averageRating" : 0,
+  "category" : "Construction and Housing",
+  "createdAt" : 1371591301,
+  "description" : "The U.S. Department of Housing and Urban Development (HUD) periodically receives \"custom tabulations\" of data from the U.S. Census Bureau that are largely not available through standard Census products. These data, known as the \"CHAS\" data (Comprehensive Housing Affordability Strategy), demonstrate the extent of housing problems and housing needs, particularly for low income households. The CHAS data are used by local governments to plan how to spend HUD funds, and may also be used by HUD to distribute grant funds.",
+  "domainCName" : "explore.data.gov",
+  "downloadCount" : 35,
+  "externalId" : "http://www.data.gov/details/33491",
+  "indexUpdatedAt" : 1381954131,
+  "newBackend" : false,
+  "numberOfComments" : 0,
+  "oid" : 4095820,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1371591301,
+  "publicationStage" : "published",
+  "signed" : false,
+  "tableId" : 926833,
+  "totalTimesRated" : 0,
+  "viewCount" : 46,
+  "viewLastModified" : 1371591301,
+  "viewType" : "href",
+  "grants" : [ {
+    "inherited" : false,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "custom_fields" : {
+      "Dataset Summary" : {
+        "Agency" : "Department of Housing and Urban Development",
+        "Date Released" : "07/02/1905",
+        "Date Updated" : "05/14/2013",
+        "Time Period" : "2006-2010",
+        "Frequency" : "Annual",
+        "High Value Dataset" : "N",
+        "Suggested by Public" : "N"
+      },
+      "Dataset Information" : {
+        "Data.gov Data Category Type" : "Raw Data Catalog",
+        "Specialized Data Category Designation" : "Statistical",
+        "Unique ID" : "33491",
+        "Extended Type" : "Raw Data"
+      },
+      "Contributing Agency Information" : {
+        "Citation" : "http://www.huduser.org/portal/datasets/cp/CHAS/bg_chas.html",
+        "Agency Program Page" : "http://www.huduser.org/portal/",
+        "Agency Data Series Page" : "http://www.huduser.org/portal/datasets/cp/CHAS/data_download_chas.html"
+      },
+      "Dataset Coverage" : {
+        "Unit of Analysis" : "Household",
+        "Geographic Coverage" : "Nationwide"
+      },
+      "Data Description" : {
+        "Collection Mode" : "Census data, surveys, phone surveys, computer-assisted personal interviewing",
+        "Data Collection Instrument" : "http://www.huduser.org/portal/datasets/cp/CHAS/bg_chas.html",
+        "Data Dictionary" : "http://www.huduser.org/portal/datasets/cp/CHAS_data_dictionary_06-10.xls"
+      },
+      "Additional Dataset Documentation" : {
+        "Technical Documentation" : "http://www.huduser.org/portal/publications/pdf/CHAS_affordability_Analysis.pdf"
+      },
+      "Data Quality" : {
+        "Applicable Information Quality Guideline Designation" : "Office of Policy Development and Research",
+        "Data Quality Certification" : "Yes",
+        "Privacy and Confidentiality" : "Yes"
+      }
+    },
+    "accessPoints" : {
+      "csv" : "http://www.huduser.org/portal/datasets/cp/CHAS/data_download_chas.html",
+      "csvSize" : "1.0 MB"
+    },
+    "href" : "http://www.data.gov/details/33491"
+  },
+  "owner" : {
+    "id" : "e8ug-wzay",
+    "displayName" : "Data.gov Program Management Office",
+    "profileImageUrlLarge" : "/images/profile/0356/4016/datagov_large_large.png",
+    "profileImageUrlMedium" : "/images/profile/0356/4016/datagov_large_thumb.png",
+    "profileImageUrlSmall" : "/images/profile/0356/4016/datagov_large_tiny.png",
+    "screenName" : "Data.gov Program Management Office"
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "e8ug-wzay",
+    "displayName" : "Data.gov Program Management Office",
+    "profileImageUrlLarge" : "/images/profile/0356/4016/datagov_large_large.png",
+    "profileImageUrlMedium" : "/images/profile/0356/4016/datagov_large_thumb.png",
+    "profileImageUrlSmall" : "/images/profile/0356/4016/datagov_large_tiny.png",
+    "screenName" : "Data.gov Program Management Office"
+  },
+  "tags" : [ "CHAS", "problems", "overcrowding", "grant funds", "low income housing", "States", "elderly", "family", "Minor civil divisions", "Counties", "disabled", "needs", "HUD funds", "households", "cost burden", "Housing problems" ],
+  "flags" : [ "default" ]
+}, {
+  "id" : "2ff9-xdj6",
+  "name" : "Colorado Schools",
+  "averageRating" : 0,
+  "category" : "Education",
+  "createdAt" : 1372429564,
+  "description" : "This dataset contains school level information on the School Improvement Grant (SIG) program’s leading indicators. The following leading indicators are included in the dataset: student attendance rates, teacher attendance rates, school year minutes, the number of students who completed advanced coursework, the number of students who completed dual enrollment classes, the number of students who completed advanced coursework and dual enrollment classes, and the number of students who completed advanced coursework or dual enrollment classes.  The dataset includes information on Cohort 1 Tier I and Tier II SIG awarded schools only. Cohort 1 schools began implementing one of the four required intervention models (Transformation, Turnaround, Restart, and School Closure) in school year 2010-11. For more information on this data file, please read the Public File Documentation.",
+  "displayType" : "table",
+  "domainCName" : "explore.data.gov",
+  "downloadCount" : 2,
+  "indexUpdatedAt" : 1378860879,
+  "newBackend" : false,
+  "numberOfComments" : 0,
+  "oid" : 4723481,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1375380210,
+  "publicationGroup" : 886022,
+  "publicationStage" : "published",
+  "rowsUpdatedAt" : 1375379739,
+  "rowsUpdatedBy" : "w2dq-zdca",
+  "signed" : false,
+  "tableId" : 1012882,
+  "totalTimesRated" : 0,
+  "viewCount" : 3,
+  "viewLastModified" : 1372429564,
+  "viewType" : "tabular",
+  "grants" : [ {
+    "inherited" : true,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "custom_fields" : {
+      "Data Description" : {
+        "Data Dictionary" : "",
+        "Data Collection Instrument" : "",
+        "Collection Mode" : ""
+      },
+      "Dataset Summary" : {
+        "Date Updated" : "",
+        "Sub-Agency" : "",
+        "High Value Dataset" : "",
+        "Date Released" : "",
+        "Time Period" : "",
+        "Frequency" : "",
+        "Suggested by Public" : "",
+        "Agency" : "Department of Education"
+      },
+      "Data.gov Communities" : {
+        "Communities" : ""
+      },
+      "Additional Dataset Documentation" : {
+        "Technical Documentation" : ""
+      },
+      "Dataset Coverage" : {
+        "Geographic Coverage" : "",
+        "Granularity" : "",
+        "Unit of Analysis" : "K-12 Cohort 1 Tier I and Tier II awarded SIG schools "
+      },
+      "Dataset Information" : {
+        "Data.gov Data Category Type" : "",
+        "Unique ID" : "",
+        "Specialized Data Category Designation" : "",
+        "Extended Type" : ""
+      },
+      "Contributing Agency Information" : {
+        "Agency Data Series Page" : "",
+        "Agency Program Page" : "",
+        "Citation" : ""
+      },
+      "Data Quality" : {
+        "Privacy and Confidentiality" : "",
+        "Data Quality Certification" : ""
+      }
+    },
+    "renderTypeConfig" : {
+      "visible" : {
+        "table" : true
+      }
+    },
+    "availableDisplayTypes" : [ "table", "fatrow", "page" ],
+    "rdfSubject" : "0",
+    "attachments" : [ {
+      "blobId" : "E107BE8C-D40C-44D6-A46C-84A8D294DD47",
+      "name" : "SY1011_SIG_Leading_Indicator_Documentation_Final.pdf",
+      "filename" : "SY1011_SIG_Leading_Indicator_Documentation_Final.pdf"
+    } ]
+  },
+  "owner" : {
+    "id" : "bi3f-7gfq",
+    "displayName" : "Nazanin Mohajeri-Nelson",
+    "screenName" : "Nazanin Mohajeri-Nelson"
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "fbai-w3p8",
+    "displayName" : "MarinaMartin",
+    "screenName" : "MarinaMartin"
+  },
+  "tags" : [ "sig", "school improvement grants", "leading indicators", "k-12", "elementary", "secondary" ]
+}, {
+  "id" : "7i5i-6ejk",
+  "name" : "pasig",
+  "averageRating" : 0,
+  "category" : "Education",
+  "createdAt" : 1372196388,
+  "description" : "This dataset contains school level information on the School Improvement Grant (SIG) program’s leading indicators. The following leading indicators are included in the dataset: student attendance rates, teacher attendance rates, school year minutes, the number of students who completed advanced coursework, the number of students who completed dual enrollment classes, the number of students who completed advanced coursework and dual enrollment classes, and the number of students who completed advanced coursework or dual enrollment classes.  The dataset includes information on Cohort 1 Tier I and Tier II SIG awarded schools only. Cohort 1 schools began implementing one of the four required intervention models (Transformation, Turnaround, Restart, and School Closure) in school year 2010-11. For more information on this data file, please read the Public File Documentation.",
+  "displayType" : "table",
+  "domainCName" : "explore.data.gov",
+  "downloadCount" : 1,
+  "indexUpdatedAt" : 1381861018,
+  "newBackend" : false,
+  "numberOfComments" : 0,
+  "oid" : 4723482,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1375380210,
+  "publicationGroup" : 886022,
+  "publicationStage" : "published",
+  "rowsUpdatedAt" : 1375379739,
+  "rowsUpdatedBy" : "w2dq-zdca",
+  "signed" : false,
+  "tableId" : 1012882,
+  "totalTimesRated" : 0,
+  "viewCount" : 2,
+  "viewLastModified" : 1372196567,
+  "viewType" : "tabular",
+  "grants" : [ {
+    "inherited" : true,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "custom_fields" : {
+      "Data Description" : {
+        "Data Dictionary" : "",
+        "Data Collection Instrument" : "",
+        "Collection Mode" : ""
+      },
+      "Dataset Summary" : {
+        "Date Updated" : "",
+        "Sub-Agency" : "",
+        "High Value Dataset" : "",
+        "Date Released" : "",
+        "Time Period" : "",
+        "Frequency" : "",
+        "Suggested by Public" : "",
+        "Agency" : "Department of Education"
+      },
+      "Data.gov Communities" : {
+        "Communities" : ""
+      },
+      "Additional Dataset Documentation" : {
+        "Technical Documentation" : ""
+      },
+      "Dataset Coverage" : {
+        "Geographic Coverage" : "",
+        "Granularity" : "",
+        "Unit of Analysis" : "K-12 Cohort 1 Tier I and Tier II awarded SIG schools "
+      },
+      "Dataset Information" : {
+        "Data.gov Data Category Type" : "",
+        "Unique ID" : "",
+        "Specialized Data Category Designation" : "",
+        "Extended Type" : ""
+      },
+      "Contributing Agency Information" : {
+        "Agency Data Series Page" : "",
+        "Agency Program Page" : "",
+        "Citation" : ""
+      },
+      "Data Quality" : {
+        "Privacy and Confidentiality" : "",
+        "Data Quality Certification" : ""
+      }
+    },
+    "renderTypeConfig" : {
+      "visible" : {
+        "table" : true
+      }
+    },
+    "availableDisplayTypes" : [ "table", "fatrow", "page" ],
+    "rdfSubject" : "0",
+    "attachments" : [ {
+      "blobId" : "E107BE8C-D40C-44D6-A46C-84A8D294DD47",
+      "name" : "SY1011_SIG_Leading_Indicator_Documentation_Final.pdf",
+      "filename" : "SY1011_SIG_Leading_Indicator_Documentation_Final.pdf"
+    } ]
+  },
+  "owner" : {
+    "id" : "9vs4-4p9v",
+    "displayName" : "echute@post-gazette.com",
+    "screenName" : "echute@post-gazette.com"
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "fbai-w3p8",
+    "displayName" : "MarinaMartin",
+    "screenName" : "MarinaMartin"
+  },
+  "tags" : [ "sig", "school improvement grants", "leading indicators", "k-12", "elementary", "secondary" ]
+}, {
+  "id" : "f75s-9zcy",
+  "name" : "Yonkers",
+  "averageRating" : 0,
+  "category" : "Education",
+  "createdAt" : 1372264733,
+  "description" : "This dataset contains school level information on the School Improvement Grant (SIG) program’s leading indicators. The following leading indicators are included in the dataset: student attendance rates, teacher attendance rates, school year minutes, the number of students who completed advanced coursework, the number of students who completed dual enrollment classes, the number of students who completed advanced coursework and dual enrollment classes, and the number of students who completed advanced coursework or dual enrollment classes.  The dataset includes information on Cohort 1 Tier I and Tier II SIG awarded schools only. Cohort 1 schools began implementing one of the four required intervention models (Transformation, Turnaround, Restart, and School Closure) in school year 2010-11. For more information on this data file, please read the Public File Documentation.",
+  "displayType" : "table",
+  "domainCName" : "explore.data.gov",
+  "downloadCount" : 1,
+  "indexUpdatedAt" : 1378860870,
+  "newBackend" : false,
+  "numberOfComments" : 0,
+  "oid" : 4723484,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1375380210,
+  "publicationGroup" : 886022,
+  "publicationStage" : "published",
+  "rowsUpdatedAt" : 1375379739,
+  "rowsUpdatedBy" : "w2dq-zdca",
+  "signed" : false,
+  "tableId" : 1012882,
+  "totalTimesRated" : 0,
+  "viewCount" : 1,
+  "viewLastModified" : 1372264733,
+  "viewType" : "tabular",
+  "grants" : [ {
+    "inherited" : true,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "custom_fields" : {
+      "Data Description" : {
+        "Data Dictionary" : "",
+        "Data Collection Instrument" : "",
+        "Collection Mode" : ""
+      },
+      "Dataset Summary" : {
+        "Date Updated" : "",
+        "Sub-Agency" : "",
+        "High Value Dataset" : "",
+        "Date Released" : "",
+        "Time Period" : "",
+        "Frequency" : "",
+        "Suggested by Public" : "",
+        "Agency" : "Department of Education"
+      },
+      "Data.gov Communities" : {
+        "Communities" : ""
+      },
+      "Additional Dataset Documentation" : {
+        "Technical Documentation" : ""
+      },
+      "Dataset Coverage" : {
+        "Geographic Coverage" : "",
+        "Granularity" : "",
+        "Unit of Analysis" : "K-12 Cohort 1 Tier I and Tier II awarded SIG schools "
+      },
+      "Dataset Information" : {
+        "Data.gov Data Category Type" : "",
+        "Unique ID" : "",
+        "Specialized Data Category Designation" : "",
+        "Extended Type" : ""
+      },
+      "Contributing Agency Information" : {
+        "Agency Data Series Page" : "",
+        "Agency Program Page" : "",
+        "Citation" : ""
+      },
+      "Data Quality" : {
+        "Privacy and Confidentiality" : "",
+        "Data Quality Certification" : ""
+      }
+    },
+    "renderTypeConfig" : {
+      "visible" : {
+        "table" : true
+      }
+    },
+    "availableDisplayTypes" : [ "table", "fatrow", "page" ],
+    "rdfSubject" : "0",
+    "attachments" : [ {
+      "blobId" : "E107BE8C-D40C-44D6-A46C-84A8D294DD47",
+      "name" : "SY1011_SIG_Leading_Indicator_Documentation_Final.pdf",
+      "filename" : "SY1011_SIG_Leading_Indicator_Documentation_Final.pdf"
+    } ]
+  },
+  "owner" : {
+    "id" : "yvhy-jc2z",
+    "displayName" : "reportermeghan",
+    "screenName" : "reportermeghan"
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "fbai-w3p8",
+    "displayName" : "MarinaMartin",
+    "screenName" : "MarinaMartin"
+  },
+  "tags" : [ "sig", "school improvement grants", "leading indicators", "k-12", "elementary", "secondary" ]
+}, {
+  "id" : "g48z-gfyb",
+  "name" : "Michigan",
+  "averageRating" : 0,
+  "category" : "Education",
+  "createdAt" : 1375982834,
+  "description" : "This dataset was last updated on August 1, 2013 in order to correct Missouri's data.This dataset contains school level information on the School Improvement Grant (SIG) program’s leading indicators. The following leading indicators are included in the dataset: student attendance rates, teacher attendance rates, school year minutes, the number of students who completed advanced coursework, the number of students who completed dual enrollment classes, the number of students who completed advanced coursework and dual enrollment classes, and the number of students who completed advanced coursework or dual enrollment classes.  The dataset includes information on Cohort 1 Tier I and Tier II SIG awarded schools only. Cohort 1 schools began implementing one of the four required intervention models (Transformation, Turnaround, Restart, and School Closure) in school year 2010-11. For more information on this data file, please read the Public File Documentation.",
+  "displayType" : "table",
+  "domainCName" : "explore.data.gov",
+  "downloadCount" : 0,
+  "indexUpdatedAt" : 1378860877,
+  "newBackend" : false,
+  "numberOfComments" : 0,
+  "oid" : 4825619,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1375380210,
+  "publicationGroup" : 886022,
+  "publicationStage" : "published",
+  "rowClass" : "",
+  "rowsUpdatedAt" : 1375379739,
+  "rowsUpdatedBy" : "w2dq-zdca",
+  "signed" : false,
+  "tableId" : 1012882,
+  "totalTimesRated" : 0,
+  "viewCount" : 7,
+  "viewLastModified" : 1375982834,
+  "viewType" : "tabular",
+  "grants" : [ {
+    "inherited" : true,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "custom_fields" : {
+      "Dataset Summary" : {
+        "Sub-Agency" : "",
+        "Date Updated" : "",
+        "High Value Dataset" : "",
+        "Date Released" : "",
+        "Time Period" : "",
+        "Frequency" : "",
+        "Suggested by Public" : "",
+        "Agency" : "Department of Education"
+      },
+      "Data Description" : {
+        "Data Dictionary" : "",
+        "Data Collection Instrument" : "",
+        "Collection Mode" : ""
+      },
+      "Additional Dataset Documentation" : {
+        "Technical Documentation" : ""
+      },
+      "Data.gov Communities" : {
+        "Communities" : ""
+      },
+      "Dataset Coverage" : {
+        "Geographic Coverage" : "",
+        "Granularity" : "",
+        "Unit of Analysis" : "K-12 Cohort 1 Tier I and Tier II awarded SIG schools "
+      },
+      "Dataset Information" : {
+        "Data.gov Data Category Type" : "",
+        "Unique ID" : "",
+        "Specialized Data Category Designation" : "",
+        "Extended Type" : ""
+      },
+      "Contributing Agency Information" : {
+        "Agency Data Series Page" : "",
+        "Agency Program Page" : "",
+        "Citation" : ""
+      },
+      "Data Quality" : {
+        "Data Quality Certification" : "",
+        "Privacy and Confidentiality" : ""
+      }
+    },
+    "renderTypeConfig" : {
+      "visible" : {
+        "table" : true
+      }
+    },
+    "availableDisplayTypes" : [ "table", "fatrow", "page" ],
+    "rdfSubject" : "0",
+    "attachments" : [ {
+      "blobId" : "E107BE8C-D40C-44D6-A46C-84A8D294DD47",
+      "name" : "SY1011_SIG_Leading_Indicator_Documentation_Final.pdf",
+      "filename" : "SY1011_SIG_Leading_Indicator_Documentation_Final.pdf"
+    } ],
+    "rowIdentifier" : "0",
+    "rdfClass" : ""
+  },
+  "owner" : {
+    "id" : "3tim-4vj7",
+    "displayName" : "Paula Korndorfer",
+    "screenName" : "Paula Korndorfer"
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "fbai-w3p8",
+    "displayName" : "MarinaMartin",
+    "screenName" : "MarinaMartin"
+  },
+  "tags" : [ "sig", "school improvement grants", "leading indicators", "k-12", "elementary", "secondary" ]
+}, {
+  "id" : "ncgd-a28m",
+  "name" : "SIGP 2010-2011",
+  "averageRating" : 0,
+  "category" : "Education",
+  "createdAt" : 1377543794,
+  "description" : "This dataset was last updated on August 1, 2013 in order to correct Missouri's data.This dataset contains school level information on the School Improvement Grant (SIG) program’s leading indicators. The following leading indicators are included in the dataset: student attendance rates, teacher attendance rates, school year minutes, the number of students who completed advanced coursework, the number of students who completed dual enrollment classes, the number of students who completed advanced coursework and dual enrollment classes, and the number of students who completed advanced coursework or dual enrollment classes.  The dataset includes information on Cohort 1 Tier I and Tier II SIG awarded schools only. Cohort 1 schools began implementing one of the four required intervention models (Transformation, Turnaround, Restart, and School Closure) in school year 2010-11. For more information on this data file, please read the Public File Documentation.",
+  "displayType" : "table",
+  "domainCName" : "explore.data.gov",
+  "downloadCount" : 1,
+  "indexUpdatedAt" : 1378860876,
+  "newBackend" : false,
+  "numberOfComments" : 0,
+  "oid" : 5115994,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1375380210,
+  "publicationGroup" : 886022,
+  "publicationStage" : "published",
+  "rowClass" : "",
+  "rowsUpdatedAt" : 1375379739,
+  "rowsUpdatedBy" : "w2dq-zdca",
+  "signed" : false,
+  "tableId" : 1012882,
+  "totalTimesRated" : 0,
+  "viewCount" : 5,
+  "viewLastModified" : 1377543795,
+  "viewType" : "tabular",
+  "grants" : [ {
+    "inherited" : true,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "custom_fields" : {
+      "Dataset Summary" : {
+        "Sub-Agency" : "",
+        "Date Updated" : "",
+        "High Value Dataset" : "",
+        "Date Released" : "",
+        "Time Period" : "",
+        "Frequency" : "",
+        "Suggested by Public" : "",
+        "Agency" : "Department of Education"
+      },
+      "Data Description" : {
+        "Data Dictionary" : "",
+        "Data Collection Instrument" : "",
+        "Collection Mode" : ""
+      },
+      "Additional Dataset Documentation" : {
+        "Technical Documentation" : ""
+      },
+      "Data.gov Communities" : {
+        "Communities" : ""
+      },
+      "Dataset Coverage" : {
+        "Geographic Coverage" : "",
+        "Granularity" : "",
+        "Unit of Analysis" : "K-12 Cohort 1 Tier I and Tier II awarded SIG schools "
+      },
+      "Dataset Information" : {
+        "Data.gov Data Category Type" : "",
+        "Unique ID" : "",
+        "Specialized Data Category Designation" : "",
+        "Extended Type" : ""
+      },
+      "Contributing Agency Information" : {
+        "Agency Data Series Page" : "",
+        "Agency Program Page" : "",
+        "Citation" : ""
+      },
+      "Data Quality" : {
+        "Data Quality Certification" : "",
+        "Privacy and Confidentiality" : ""
+      }
+    },
+    "renderTypeConfig" : {
+      "visible" : {
+        "table" : true
+      }
+    },
+    "availableDisplayTypes" : [ "table", "fatrow", "page" ],
+    "rdfSubject" : "0",
+    "attachments" : [ {
+      "blobId" : "E107BE8C-D40C-44D6-A46C-84A8D294DD47",
+      "name" : "SY1011_SIG_Leading_Indicator_Documentation_Final.pdf",
+      "filename" : "SY1011_SIG_Leading_Indicator_Documentation_Final.pdf"
+    } ],
+    "rowIdentifier" : "0",
+    "rdfClass" : ""
+  },
+  "owner" : {
+    "id" : "tyt3-gk3s",
+    "displayName" : "smartzina",
+    "screenName" : "smartzina"
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "fbai-w3p8",
+    "displayName" : "MarinaMartin",
+    "screenName" : "MarinaMartin"
+  },
+  "tags" : [ "sig", "school improvement grants", "leading indicators", "k-12", "elementary", "secondary" ]
+}, {
+  "id" : "3h5c-j7j2",
+  "name" : "MATH (No Num Valid)",
+  "averageRating" : 0,
+  "category" : "Education",
+  "createdAt" : 1373379948,
+  "description" : "This dataset contains school level information on the academic achievement results of state assessments in mathematics. The dataset contains information on the number of students assessed and the percent of those students who achieved a level of state-defined grade-level proficiency or above. Information is included within the dataset on all students assessed within the school, assessment results by grade and for specific subgroups of students, along with detailed information on the subgroups within each individual grade. The reported percentage of students reaching grade level proficiency or above has been reported in a manner that protects the privacy of individuals within the data. The privacy protections vary based on the n-size of the student group whose assessment performance is being reported. To interpret these data appropriately, please utilize the count of students assessed that is reported for each proficiency rate and reference section 4.1 of the Public File Documentation for details on the privacy protections. For more information on the data files and guidance for their appropriate use, please read the Public File Documentation.",
+  "displayType" : "table",
+  "domainCName" : "explore.data.gov",
+  "downloadCount" : 1,
+  "indexUpdatedAt" : 1383106487,
+  "newBackend" : false,
+  "numberOfComments" : 0,
+  "oid" : 4388395,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1359642376,
+  "publicationGroup" : 641884,
+  "publicationStage" : "published",
+  "rowClass" : "",
+  "rowsUpdatedAt" : 1359488906,
+  "rowsUpdatedBy" : "fbai-w3p8",
+  "signed" : false,
+  "tableId" : 641884,
+  "totalTimesRated" : 0,
+  "viewCount" : 1,
+  "viewLastModified" : 1373379950,
+  "viewType" : "tabular",
+  "grants" : [ {
+    "inherited" : true,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "custom_fields" : {
+      "Data Description" : {
+        "Data Dictionary" : "",
+        "Data Collection Instrument" : "EDFacts Submission System",
+        "Collection Mode" : ""
+      },
+      "Dataset Summary" : {
+        "Date Updated" : "",
+        "Sub-Agency" : "EDFacts",
+        "High Value Dataset" : "",
+        "Date Released" : "January 31, 2013",
+        "Time Period" : "",
+        "Frequency" : "",
+        "Suggested by Public" : "",
+        "Agency" : "Department of Education"
+      },
+      "Data.gov Communities" : {
+        "Communities" : ""
+      },
+      "Additional Dataset Documentation" : {
+        "Technical Documentation" : ""
+      },
+      "Dataset Coverage" : {
+        "Geographic Coverage" : "50 states, DC and Puerto Rico",
+        "Granularity" : "",
+        "Unit of Analysis" : "K-12 public schools"
+      },
+      "Dataset Information" : {
+        "Data.gov Data Category Type" : "",
+        "Unique ID" : "",
+        "Specialized Data Category Designation" : "",
+        "Extended Type" : ""
+      },
+      "Contributing Agency Information" : {
+        "Agency Data Series Page" : "",
+        "Agency Program Page" : "",
+        "Citation" : ""
+      },
+      "Data Quality" : {
+        "Privacy and Confidentiality" : "",
+        "Data Quality Certification" : ""
+      }
+    },
+    "renderTypeConfig" : {
+      "visible" : {
+        "table" : true
+      }
+    },
+    "availableDisplayTypes" : [ "table", "fatrow", "page" ],
+    "rdfSubject" : "0",
+    "attachments" : [ {
+      "blobId" : "2A3E94BC-9423-4A45-9F7C-5BEEB72BDF73",
+      "name" : "EDFacts_Results_for_State_Assessments_0809-1011_Public_File_Documentation_PRELIM.docx",
+      "filename" : "EDFacts_Results_for_State_Assessments_0809-1011_Public_File_Documentation_PRELIM.docx"
+    } ],
+    "rowIdentifier" : "0",
+    "rdfClass" : ""
+  },
+  "owner" : {
+    "id" : "gxn8-8skn",
+    "displayName" : "CEM",
+    "screenName" : "CEM"
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "fbai-w3p8",
+    "displayName" : "MarinaMartin",
+    "screenName" : "MarinaMartin"
+  },
+  "tags" : [ "k-12", "assessments", "elementary", "secondary", "mathematics" ]
+}, {
+  "id" : "3im8-87yc",
+  "name" : "MATH 2011 (No Num Valid)",
+  "averageRating" : 0,
+  "category" : "Education",
+  "createdAt" : 1373391684,
+  "description" : "This dataset contains school level information on the academic achievement results of state assessments in mathematics. The dataset contains information on the number of students assessed and the percent of those students who achieved a level of state-defined grade-level proficiency or above. Information is included within the dataset on all students assessed within the school, assessment results by grade and for specific subgroups of students, along with detailed information on the subgroups within each individual grade. The reported percentage of students reaching grade level proficiency or above has been reported in a manner that protects the privacy of individuals within the data. The privacy protections vary based on the n-size of the student group whose assessment performance is being reported. To interpret these data appropriately, please utilize the count of students assessed that is reported for each proficiency rate and reference section 4.1 of the Public File Documentation for details on the privacy protections. For more information on the data files and guidance for their appropriate use, please read the Public File Documentation.",
+  "displayType" : "table",
+  "domainCName" : "explore.data.gov",
+  "downloadCount" : 1,
+  "indexUpdatedAt" : 1383106483,
+  "newBackend" : false,
+  "numberOfComments" : 0,
+  "oid" : 4390169,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1359642376,
+  "publicationGroup" : 641884,
+  "publicationStage" : "published",
+  "rowClass" : "",
+  "rowsUpdatedAt" : 1359488906,
+  "rowsUpdatedBy" : "fbai-w3p8",
+  "signed" : false,
+  "tableId" : 641884,
+  "totalTimesRated" : 0,
+  "viewCount" : 6,
+  "viewLastModified" : 1373391686,
+  "viewType" : "tabular",
+  "grants" : [ {
+    "inherited" : true,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "custom_fields" : {
+      "Data Description" : {
+        "Data Dictionary" : "",
+        "Data Collection Instrument" : "EDFacts Submission System",
+        "Collection Mode" : ""
+      },
+      "Dataset Summary" : {
+        "Date Updated" : "",
+        "Sub-Agency" : "EDFacts",
+        "High Value Dataset" : "",
+        "Date Released" : "January 31, 2013",
+        "Time Period" : "",
+        "Frequency" : "",
+        "Suggested by Public" : "",
+        "Agency" : "Department of Education"
+      },
+      "Data.gov Communities" : {
+        "Communities" : ""
+      },
+      "Additional Dataset Documentation" : {
+        "Technical Documentation" : ""
+      },
+      "Dataset Coverage" : {
+        "Geographic Coverage" : "50 states, DC and Puerto Rico",
+        "Granularity" : "",
+        "Unit of Analysis" : "K-12 public schools"
+      },
+      "Dataset Information" : {
+        "Data.gov Data Category Type" : "",
+        "Unique ID" : "",
+        "Specialized Data Category Designation" : "",
+        "Extended Type" : ""
+      },
+      "Contributing Agency Information" : {
+        "Agency Data Series Page" : "",
+        "Agency Program Page" : "",
+        "Citation" : ""
+      },
+      "Data Quality" : {
+        "Privacy and Confidentiality" : "",
+        "Data Quality Certification" : ""
+      }
+    },
+    "renderTypeConfig" : {
+      "visible" : {
+        "table" : true
+      }
+    },
+    "availableDisplayTypes" : [ "table", "fatrow", "page" ],
+    "rdfSubject" : "0",
+    "attachments" : [ {
+      "blobId" : "2A3E94BC-9423-4A45-9F7C-5BEEB72BDF73",
+      "name" : "EDFacts_Results_for_State_Assessments_0809-1011_Public_File_Documentation_PRELIM.docx",
+      "filename" : "EDFacts_Results_for_State_Assessments_0809-1011_Public_File_Documentation_PRELIM.docx"
+    } ],
+    "rowIdentifier" : "0",
+    "rdfClass" : ""
+  },
+  "owner" : {
+    "id" : "gxn8-8skn",
+    "displayName" : "CEM",
+    "screenName" : "CEM"
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "fbai-w3p8",
+    "displayName" : "MarinaMartin",
+    "screenName" : "MarinaMartin"
+  },
+  "tags" : [ "k-12", "assessments", "elementary", "secondary", "mathematics" ]
+}, {
+  "id" : "5kgj-r4th",
+  "name" : "camp creek middle",
+  "averageRating" : 0,
+  "category" : "Education",
+  "createdAt" : 1383088692,
+  "description" : "This dataset contains school level information on the academic achievement results of state assessments in mathematics. The dataset contains information on the number of students assessed and the percent of those students who achieved a level of state-defined grade-level proficiency or above. Information is included within the dataset on all students assessed within the school, assessment results by grade and for specific subgroups of students, along with detailed information on the subgroups within each individual grade. The reported percentage of students reaching grade level proficiency or above has been reported in a manner that protects the privacy of individuals within the data. The privacy protections vary based on the n-size of the student group whose assessment performance is being reported. To interpret these data appropriately, please utilize the count of students assessed that is reported for each proficiency rate and reference section 4.1 of the Public File Documentation for details on the privacy protections. For more information on the data files and guidance for their appropriate use, please read the Public File Documentation.",
+  "displayType" : "table",
+  "domainCName" : "explore.data.gov",
+  "downloadCount" : 0,
+  "indexUpdatedAt" : 1383106508,
+  "newBackend" : false,
+  "numberOfComments" : 0,
+  "oid" : 6159057,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1359642376,
+  "publicationGroup" : 641884,
+  "publicationStage" : "published",
+  "rowClass" : "",
+  "rowsUpdatedAt" : 1359488906,
+  "rowsUpdatedBy" : "fbai-w3p8",
+  "searchString" : "georgia",
+  "signed" : false,
+  "tableId" : 641884,
+  "totalTimesRated" : 0,
+  "viewCount" : 5,
+  "viewLastModified" : 1383088695,
+  "viewType" : "tabular",
+  "grants" : [ {
+    "inherited" : true,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "custom_fields" : {
+      "Data Description" : {
+        "Data Dictionary" : "",
+        "Data Collection Instrument" : "EDFacts Submission System",
+        "Collection Mode" : ""
+      },
+      "Dataset Summary" : {
+        "Date Updated" : "",
+        "Sub-Agency" : "EDFacts",
+        "High Value Dataset" : "",
+        "Date Released" : "January 31, 2013",
+        "Time Period" : "",
+        "Frequency" : "",
+        "Suggested by Public" : "",
+        "Agency" : "Department of Education"
+      },
+      "Data.gov Communities" : {
+        "Communities" : ""
+      },
+      "Additional Dataset Documentation" : {
+        "Technical Documentation" : ""
+      },
+      "Dataset Coverage" : {
+        "Geographic Coverage" : "50 states, District of Columbia, Puerto Rico and Bureau of Indian Education",
+        "Granularity" : "",
+        "Unit of Analysis" : "K-12 public schools"
+      },
+      "Dataset Information" : {
+        "Data.gov Data Category Type" : "",
+        "Unique ID" : "",
+        "Specialized Data Category Designation" : "",
+        "Extended Type" : ""
+      },
+      "Contributing Agency Information" : {
+        "Agency Data Series Page" : "",
+        "Agency Program Page" : "",
+        "Citation" : ""
+      },
+      "Data Quality" : {
+        "Privacy and Confidentiality" : "",
+        "Data Quality Certification" : ""
+      }
+    },
+    "renderTypeConfig" : {
+      "visible" : {
+        "page" : true,
+        "table" : true
+      }
+    },
+    "availableDisplayTypes" : [ "table", "fatrow", "page" ],
+    "rdfSubject" : "0",
+    "attachments" : [ {
+      "blobId" : "AAFD7FAF-668D-4ED8-B8D2-BA34D7DA963A",
+      "name" : "EDFacts_Results_for_State_Assessments_0809-1011_Public_File_Documentation_v0_3-Provisional.docx",
+      "filename" : "EDFacts_Results_for_State_Assessments_0809-1011_Public_File_Documentation_v0_3-Provisional.docx"
+    } ],
+    "rowIdentifier" : "0",
+    "rdfClass" : ""
+  },
+  "owner" : {
+    "id" : "spx3-i5xz",
+    "displayName" : "Keyton",
+    "screenName" : "Keyton"
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "fbai-w3p8",
+    "displayName" : "MarinaMartin",
+    "screenName" : "MarinaMartin"
+  },
+  "tags" : [ "k-12", "assessments", "elementary", "secondary", "mathematics" ]
+}, {
+  "id" : "6bec-drwp",
+  "name" : "LowellSTAT",
+  "averageRating" : 0,
+  "category" : "Education",
+  "createdAt" : 1382112816,
+  "description" : "This dataset contains school level information on the academic achievement results of state assessments in mathematics. The dataset contains information on the number of students assessed and the percent of those students who achieved a level of state-defined grade-level proficiency or above. Information is included within the dataset on all students assessed within the school, assessment results by grade and for specific subgroups of students, along with detailed information on the subgroups within each individual grade. The reported percentage of students reaching grade level proficiency or above has been reported in a manner that protects the privacy of individuals within the data. The privacy protections vary based on the n-size of the student group whose assessment performance is being reported. To interpret these data appropriately, please utilize the count of students assessed that is reported for each proficiency rate and reference section 4.1 of the Public File Documentation for details on the privacy protections. For more information on the data files and guidance for their appropriate use, please read the Public File Documentation.",
+  "displayType" : "table",
+  "domainCName" : "explore.data.gov",
+  "downloadCount" : 0,
+  "indexUpdatedAt" : 1383106483,
+  "newBackend" : false,
+  "numberOfComments" : 0,
+  "oid" : 5987557,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1359642376,
+  "publicationGroup" : 641884,
+  "publicationStage" : "published",
+  "rowClass" : "",
+  "rowsUpdatedAt" : 1359488906,
+  "rowsUpdatedBy" : "fbai-w3p8",
+  "searchString" : "massachusetts",
+  "signed" : false,
+  "tableId" : 641884,
+  "totalTimesRated" : 0,
+  "viewCount" : 2,
+  "viewLastModified" : 1382112819,
+  "viewType" : "tabular",
+  "grants" : [ {
+    "inherited" : true,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "custom_fields" : {
+      "Data Description" : {
+        "Data Dictionary" : "",
+        "Data Collection Instrument" : "EDFacts Submission System",
+        "Collection Mode" : ""
+      },
+      "Dataset Summary" : {
+        "Date Updated" : "",
+        "Sub-Agency" : "EDFacts",
+        "High Value Dataset" : "",
+        "Date Released" : "January 31, 2013",
+        "Time Period" : "",
+        "Frequency" : "",
+        "Suggested by Public" : "",
+        "Agency" : "Department of Education"
+      },
+      "Data.gov Communities" : {
+        "Communities" : ""
+      },
+      "Additional Dataset Documentation" : {
+        "Technical Documentation" : ""
+      },
+      "Dataset Coverage" : {
+        "Geographic Coverage" : "50 states, District of Columbia, Puerto Rico and Bureau of Indian Education",
+        "Granularity" : "",
+        "Unit of Analysis" : "K-12 public schools"
+      },
+      "Dataset Information" : {
+        "Data.gov Data Category Type" : "",
+        "Unique ID" : "",
+        "Specialized Data Category Designation" : "",
+        "Extended Type" : ""
+      },
+      "Contributing Agency Information" : {
+        "Agency Data Series Page" : "",
+        "Agency Program Page" : "",
+        "Citation" : ""
+      },
+      "Data Quality" : {
+        "Privacy and Confidentiality" : "",
+        "Data Quality Certification" : ""
+      }
+    },
+    "renderTypeConfig" : {
+      "visible" : {
+        "table" : true
+      }
+    },
+    "availableDisplayTypes" : [ "table", "fatrow", "page" ],
+    "rdfSubject" : "0",
+    "attachments" : [ {
+      "blobId" : "AAFD7FAF-668D-4ED8-B8D2-BA34D7DA963A",
+      "name" : "EDFacts_Results_for_State_Assessments_0809-1011_Public_File_Documentation_v0_3-Provisional.docx",
+      "filename" : "EDFacts_Results_for_State_Assessments_0809-1011_Public_File_Documentation_v0_3-Provisional.docx"
+    } ],
+    "rowIdentifier" : "0",
+    "rdfClass" : ""
+  },
+  "owner" : {
+    "id" : "wsj2-75qz",
+    "displayName" : "LowellSTAT",
+    "screenName" : "LowellSTAT"
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "fbai-w3p8",
+    "displayName" : "MarinaMartin",
+    "screenName" : "MarinaMartin"
+  },
+  "tags" : [ "k-12", "assessments", "elementary", "secondary", "mathematics" ]
+}, {
+  "id" : "8u8g-c3qu",
+  "name" : "orange hunt 2012 data",
+  "averageRating" : 0,
+  "category" : "Education",
+  "createdAt" : 1371562778,
+  "description" : "This dataset contains school level information on the academic achievement results of state assessments in mathematics. The dataset contains information on the number of students assessed and the percent of those students who achieved a level of state-defined grade-level proficiency or above. Information is included within the dataset on all students assessed within the school, assessment results by grade and for specific subgroups of students, along with detailed information on the subgroups within each individual grade. The reported percentage of students reaching grade level proficiency or above has been reported in a manner that protects the privacy of individuals within the data. The privacy protections vary based on the n-size of the student group whose assessment performance is being reported. To interpret these data appropriately, please utilize the count of students assessed that is reported for each proficiency rate and reference section 4.1 of the Public File Documentation for details on the privacy protections. For more information on the data files and guidance for their appropriate use, please read the Public File Documentation.",
+  "displayType" : "table",
+  "domainCName" : "explore.data.gov",
+  "downloadCount" : 0,
+  "indexUpdatedAt" : 1383106487,
+  "newBackend" : false,
+  "numberOfComments" : 0,
+  "oid" : 4091453,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1359642376,
+  "publicationGroup" : 641884,
+  "publicationStage" : "published",
+  "rowClass" : "",
+  "rowsUpdatedAt" : 1359488906,
+  "rowsUpdatedBy" : "fbai-w3p8",
+  "signed" : false,
+  "tableId" : 641884,
+  "totalTimesRated" : 0,
+  "viewCount" : 1,
+  "viewLastModified" : 1371562780,
+  "viewType" : "tabular",
+  "grants" : [ {
+    "inherited" : true,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "custom_fields" : {
+      "Data Description" : {
+        "Data Dictionary" : "",
+        "Data Collection Instrument" : "EDFacts Submission System",
+        "Collection Mode" : ""
+      },
+      "Dataset Summary" : {
+        "Date Updated" : "",
+        "Sub-Agency" : "EDFacts",
+        "High Value Dataset" : "",
+        "Date Released" : "January 31, 2013",
+        "Time Period" : "",
+        "Frequency" : "",
+        "Suggested by Public" : "",
+        "Agency" : "Department of Education"
+      },
+      "Data.gov Communities" : {
+        "Communities" : ""
+      },
+      "Additional Dataset Documentation" : {
+        "Technical Documentation" : ""
+      },
+      "Dataset Coverage" : {
+        "Geographic Coverage" : "50 states, DC and Puerto Rico",
+        "Granularity" : "",
+        "Unit of Analysis" : "K-12 public schools"
+      },
+      "Dataset Information" : {
+        "Data.gov Data Category Type" : "",
+        "Unique ID" : "",
+        "Specialized Data Category Designation" : "",
+        "Extended Type" : ""
+      },
+      "Contributing Agency Information" : {
+        "Agency Data Series Page" : "",
+        "Agency Program Page" : "",
+        "Citation" : ""
+      },
+      "Data Quality" : {
+        "Privacy and Confidentiality" : "",
+        "Data Quality Certification" : ""
+      }
+    },
+    "renderTypeConfig" : {
+      "visible" : {
+        "table" : true
+      }
+    },
+    "availableDisplayTypes" : [ "table", "fatrow", "page" ],
+    "rdfSubject" : "0",
+    "attachments" : [ {
+      "blobId" : "2A3E94BC-9423-4A45-9F7C-5BEEB72BDF73",
+      "name" : "EDFacts_Results_for_State_Assessments_0809-1011_Public_File_Documentation_PRELIM.docx",
+      "filename" : "EDFacts_Results_for_State_Assessments_0809-1011_Public_File_Documentation_PRELIM.docx"
+    } ],
+    "rowIdentifier" : "0",
+    "rdfClass" : ""
+  },
+  "owner" : {
+    "id" : "53in-by5s",
+    "displayName" : "Sameena Salvucci",
+    "screenName" : "Sameena Salvucci"
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "fbai-w3p8",
+    "displayName" : "MarinaMartin",
+    "screenName" : "MarinaMartin"
+  },
+  "tags" : [ "k-12", "assessments", "elementary", "secondary", "mathematics" ]
+}, {
+  "id" : "nnpn-gkji",
+  "name" : "LowellSTAT",
+  "averageRating" : 0,
+  "category" : "Education",
+  "createdAt" : 1382113282,
+  "description" : "This dataset contains school level information on the academic achievement results of state assessments in mathematics. The dataset contains information on the number of students assessed and the percent of those students who achieved a level of state-defined grade-level proficiency or above. Information is included within the dataset on all students assessed within the school, assessment results by grade and for specific subgroups of students, along with detailed information on the subgroups within each individual grade. The reported percentage of students reaching grade level proficiency or above has been reported in a manner that protects the privacy of individuals within the data. The privacy protections vary based on the n-size of the student group whose assessment performance is being reported. To interpret these data appropriately, please utilize the count of students assessed that is reported for each proficiency rate and reference section 4.1 of the Public File Documentation for details on the privacy protections. For more information on the data files and guidance for their appropriate use, please read the Public File Documentation.",
+  "displayType" : "table",
+  "domainCName" : "explore.data.gov",
+  "downloadCount" : 1,
+  "indexUpdatedAt" : 1383106498,
+  "newBackend" : false,
+  "numberOfComments" : 0,
+  "oid" : 5987613,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1359642376,
+  "publicationGroup" : 641884,
+  "publicationStage" : "published",
+  "rowClass" : "",
+  "rowsUpdatedAt" : 1359488906,
+  "rowsUpdatedBy" : "fbai-w3p8",
+  "searchString" : "Massachusetts",
+  "signed" : false,
+  "tableId" : 641884,
+  "totalTimesRated" : 0,
+  "viewCount" : 3,
+  "viewLastModified" : 1382113284,
+  "viewType" : "tabular",
+  "grants" : [ {
+    "inherited" : true,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "custom_fields" : {
+      "Data Description" : {
+        "Data Dictionary" : "",
+        "Data Collection Instrument" : "EDFacts Submission System",
+        "Collection Mode" : ""
+      },
+      "Dataset Summary" : {
+        "Date Updated" : "",
+        "Sub-Agency" : "EDFacts",
+        "High Value Dataset" : "",
+        "Date Released" : "January 31, 2013",
+        "Time Period" : "",
+        "Frequency" : "",
+        "Suggested by Public" : "",
+        "Agency" : "Department of Education"
+      },
+      "Data.gov Communities" : {
+        "Communities" : ""
+      },
+      "Additional Dataset Documentation" : {
+        "Technical Documentation" : ""
+      },
+      "Dataset Coverage" : {
+        "Geographic Coverage" : "50 states, District of Columbia, Puerto Rico and Bureau of Indian Education",
+        "Granularity" : "",
+        "Unit of Analysis" : "K-12 public schools"
+      },
+      "Dataset Information" : {
+        "Data.gov Data Category Type" : "",
+        "Unique ID" : "",
+        "Specialized Data Category Designation" : "",
+        "Extended Type" : ""
+      },
+      "Contributing Agency Information" : {
+        "Agency Data Series Page" : "",
+        "Agency Program Page" : "",
+        "Citation" : ""
+      },
+      "Data Quality" : {
+        "Privacy and Confidentiality" : "",
+        "Data Quality Certification" : ""
+      }
+    },
+    "renderTypeConfig" : {
+      "visible" : {
+        "table" : true
+      }
+    },
+    "availableDisplayTypes" : [ "table", "fatrow", "page" ],
+    "rdfSubject" : "0",
+    "attachments" : [ {
+      "blobId" : "AAFD7FAF-668D-4ED8-B8D2-BA34D7DA963A",
+      "name" : "EDFacts_Results_for_State_Assessments_0809-1011_Public_File_Documentation_v0_3-Provisional.docx",
+      "filename" : "EDFacts_Results_for_State_Assessments_0809-1011_Public_File_Documentation_v0_3-Provisional.docx"
+    } ],
+    "rowIdentifier" : "0",
+    "rdfClass" : ""
+  },
+  "owner" : {
+    "id" : "wsj2-75qz",
+    "displayName" : "LowellSTAT",
+    "screenName" : "LowellSTAT"
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "fbai-w3p8",
+    "displayName" : "MarinaMartin",
+    "screenName" : "MarinaMartin"
+  },
+  "tags" : [ "k-12", "assessments", "elementary", "secondary", "mathematics" ]
+}, {
+  "id" : "fegx-hwjg",
+  "name" : "Hawaii public schools 2010-11",
+  "averageRating" : 0,
+  "createdAt" : 1378304664,
+  "description" : "The primary purposes of the Public Elementary/Secondary School Universe Survey are to provide a complete listing of all public elementary and secondary schools in the country; to provide basic information and descriptive statistics on all schools, their students, and their teachers.\r\n\r\nGeneral Information:\r\n - Names, addresses, and telephone numbers\r\n - Type of schools: regular, special education, vocational education, and alternative schools\r\n - Operational status code: currently operational, closed, new, operational last time but not reported on that file\r\n - School flags; charter, magnet, Title I, and Title I School-wide\r\n - Locale codes, longitude, latitude, and level of school.\r\n\r\nStudent Information:\r\n - Membership counts, by PK-12 grade and ungraded\r\n - Counts of Free and reduced-price lunch eligible and migrant students\r\n - Counts by race/ethnicity: America Indian/Alaskan Native, Asian/Pacific Islander, Hispanic, Black, Not Hispanic, and White, Not Hispanic.\r\n\r\nStaffing Information:\r\n - Classroom teachers.\r\n\r\nSchool Database Notes:\r\nThere are some legitimate records that have no student counts. Some regular schools contract with other schools or agencies to provide services for some students rather than operate schools for those students directly. In order to avoid duplication those student counts are not reported for the receiving school. Conversely, in cases where all services are provided by a contracting school, no student counts are reported for the sending school. The sum of the number of teachers reported for schools associated with the agency may differ from the number of teachers reported from the agency. This is because some teachers may not be assigned to a particular school.",
+  "displayType" : "table",
+  "domainCName" : "explore.data.gov",
+  "downloadCount" : 0,
+  "indexUpdatedAt" : 1386946214,
+  "newBackend" : false,
+  "numberOfComments" : 0,
+  "oid" : 5256097,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1369314611,
+  "publicationGroup" : 871347,
+  "publicationStage" : "published",
+  "rowClass" : "",
+  "rowIdentifierColumnId" : 95601156,
+  "rowsUpdatedAt" : 1369252518,
+  "rowsUpdatedBy" : "6g59-f9nj",
+  "signed" : false,
+  "tableId" : 871347,
+  "totalTimesRated" : 0,
+  "viewCount" : 4,
+  "viewLastModified" : 1378304668,
+  "viewType" : "tabular",
+  "disabledFeatureFlags" : [ "cell_comments", "allow_comments" ],
+  "grants" : [ {
+    "inherited" : true,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "custom_fields" : {
+      "Dataset Summary" : {
+        "Sub-Agency" : "National Center for Education Statistics (NCES)",
+        "Date Updated" : "",
+        "High Value Dataset" : "",
+        "Date Released" : "",
+        "Time Period" : "",
+        "Frequency" : "",
+        "Suggested by Public" : "",
+        "Agency" : "U.S. Department of Education"
+      },
+      "Data Description" : {
+        "Data Dictionary" : "",
+        "Data Collection Instrument" : "",
+        "Collection Mode" : ""
+      },
+      "Additional Dataset Documentation" : {
+        "Technical Documentation" : ""
+      },
+      "Data.gov Communities" : {
+        "Communities" : ""
+      },
+      "Dataset Coverage" : {
+        "Geographic Coverage" : "",
+        "Granularity" : "",
+        "Unit of Analysis" : ""
+      },
+      "Dataset Information" : {
+        "Data.gov Data Category Type" : "",
+        "Unique ID" : "",
+        "Specialized Data Category Designation" : "",
+        "Extended Type" : ""
+      },
+      "Contributing Agency Information" : {
+        "Agency Data Series Page" : "",
+        "Agency Program Page" : "http://nces.ed.gov/ccd/",
+        "Citation" : "CCD: (2010-2011)"
+      },
+      "Data Quality" : {
+        "Data Quality Certification" : "",
+        "Privacy and Confidentiality" : ""
+      }
+    },
+    "renderTypeConfig" : {
+      "visible" : {
+        "table" : true
+      }
+    },
+    "availableDisplayTypes" : [ "table", "fatrow", "page" ],
+    "rdfSubject" : "0",
+    "rowIdentifier" : 95601156,
+    "rdfClass" : ""
+  },
+  "owner" : {
+    "id" : "ceei-r63g",
+    "displayName" : "Cat",
+    "screenName" : "Cat"
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "6g59-f9nj",
+    "displayName" : "National Center for Education Statistics (NCES)",
+    "profileImageUrlLarge" : "/images/profile/4314/5105/nces_logo_large_alt_large.gif",
+    "profileImageUrlMedium" : "/images/profile/4314/5105/nces_logo_large_alt_thumb.gif",
+    "profileImageUrlSmall" : "/images/profile/4314/5105/nces_logo_large_alt_tiny.gif",
+    "screenName" : "National Center for Education Statistics (NCES)"
+  },
+  "tags" : [ "common core of data", "nces", "public schools" ]
+}, {
+  "id" : "nsfs-if6q",
+  "name" : "CoH Public School data",
+  "averageRating" : 0,
+  "createdAt" : 1376507551,
+  "description" : "The primary purposes of the Public Elementary/Secondary School Universe Survey are to provide a complete listing of all public elementary and secondary schools in the country; to provide basic information and descriptive statistics on all schools, their students, and their teachers.\r\n\r\nGeneral Information:\r\n - Names, addresses, and telephone numbers\r\n - Type of schools: regular, special education, vocational education, and alternative schools\r\n - Operational status code: currently operational, closed, new, operational last time but not reported on that file\r\n - School flags; charter, magnet, Title I, and Title I School-wide\r\n - Locale codes, longitude, latitude, and level of school.\r\n\r\nStudent Information:\r\n - Membership counts, by PK-12 grade and ungraded\r\n - Counts of Free and reduced-price lunch eligible and migrant students\r\n - Counts by race/ethnicity: America Indian/Alaskan Native, Asian/Pacific Islander, Hispanic, Black, Not Hispanic, and White, Not Hispanic.\r\n\r\nStaffing Information:\r\n - Classroom teachers.\r\n\r\nSchool Database Notes:\r\nThere are some legitimate records that have no student counts. Some regular schools contract with other schools or agencies to provide services for some students rather than operate schools for those students directly. In order to avoid duplication those student counts are not reported for the receiving school. Conversely, in cases where all services are provided by a contracting school, no student counts are reported for the sending school. The sum of the number of teachers reported for schools associated with the agency may differ from the number of teachers reported from the agency. This is because some teachers may not be assigned to a particular school.",
+  "displayType" : "table",
+  "domainCName" : "explore.data.gov",
+  "downloadCount" : 0,
+  "indexUpdatedAt" : 1386946231,
+  "newBackend" : false,
+  "numberOfComments" : 0,
+  "oid" : 4923683,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1369314611,
+  "publicationGroup" : 871347,
+  "publicationStage" : "published",
+  "rowClass" : "",
+  "rowIdentifierColumnId" : 89797147,
+  "rowsUpdatedAt" : 1369252518,
+  "rowsUpdatedBy" : "6g59-f9nj",
+  "searchString" : "Hawaii County",
+  "signed" : false,
+  "tableId" : 871347,
+  "totalTimesRated" : 0,
+  "viewCount" : 1,
+  "viewLastModified" : 1376507555,
+  "viewType" : "tabular",
+  "disabledFeatureFlags" : [ "cell_comments", "allow_comments" ],
+  "grants" : [ {
+    "inherited" : true,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "custom_fields" : {
+      "Dataset Summary" : {
+        "Sub-Agency" : "National Center for Education Statistics (NCES)",
+        "Date Updated" : "",
+        "High Value Dataset" : "",
+        "Date Released" : "",
+        "Time Period" : "",
+        "Frequency" : "",
+        "Suggested by Public" : "",
+        "Agency" : "U.S. Department of Education"
+      },
+      "Data Description" : {
+        "Data Dictionary" : "",
+        "Data Collection Instrument" : "",
+        "Collection Mode" : ""
+      },
+      "Additional Dataset Documentation" : {
+        "Technical Documentation" : ""
+      },
+      "Data.gov Communities" : {
+        "Communities" : ""
+      },
+      "Dataset Coverage" : {
+        "Geographic Coverage" : "",
+        "Granularity" : "",
+        "Unit of Analysis" : ""
+      },
+      "Dataset Information" : {
+        "Data.gov Data Category Type" : "",
+        "Unique ID" : "",
+        "Specialized Data Category Designation" : "",
+        "Extended Type" : ""
+      },
+      "Contributing Agency Information" : {
+        "Agency Data Series Page" : "",
+        "Agency Program Page" : "http://nces.ed.gov/ccd/",
+        "Citation" : "CCD: (2010-2011)"
+      },
+      "Data Quality" : {
+        "Data Quality Certification" : "",
+        "Privacy and Confidentiality" : ""
+      }
+    },
+    "renderTypeConfig" : {
+      "visible" : {
+        "table" : true
+      }
+    },
+    "availableDisplayTypes" : [ "table", "fatrow", "page" ],
+    "rdfSubject" : "0",
+    "rowIdentifier" : 89797147,
+    "rdfClass" : ""
+  },
+  "owner" : {
+    "id" : "k7cc-pduu",
+    "displayName" : "Wedo",
+    "screenName" : "Wedo"
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "6g59-f9nj",
+    "displayName" : "National Center for Education Statistics (NCES)",
+    "profileImageUrlLarge" : "/images/profile/4314/5105/nces_logo_large_alt_large.gif",
+    "profileImageUrlMedium" : "/images/profile/4314/5105/nces_logo_large_alt_thumb.gif",
+    "profileImageUrlSmall" : "/images/profile/4314/5105/nces_logo_large_alt_tiny.gif",
+    "screenName" : "National Center for Education Statistics (NCES)"
+  },
+  "tags" : [ "common core of data", "nces", "public schools" ]
+}, {
+  "id" : "quhb-4w7e",
+  "name" : "HI HS",
+  "averageRating" : 0,
+  "createdAt" : 1386943373,
+  "description" : "The primary purposes of the Public Elementary/Secondary School Universe Survey are to provide a complete listing of all public elementary and secondary schools in the country; to provide basic information and descriptive statistics on all schools, their students, and their teachers.\r\n\r\nGeneral Information:\r\n - Names, addresses, and telephone numbers\r\n - Type of schools: regular, special education, vocational education, and alternative schools\r\n - Operational status code: currently operational, closed, new, operational last time but not reported on that file\r\n - School flags; charter, magnet, Title I, and Title I School-wide\r\n - Locale codes, longitude, latitude, and level of school.\r\n\r\nStudent Information:\r\n - Membership counts, by PK-12 grade and ungraded\r\n - Counts of Free and reduced-price lunch eligible and migrant students\r\n - Counts by race/ethnicity: America Indian/Alaskan Native, Asian/Pacific Islander, Hispanic, Black, Not Hispanic, and White, Not Hispanic.\r\n\r\nStaffing Information:\r\n - Classroom teachers.\r\n\r\nSchool Database Notes:\r\nThere are some legitimate records that have no student counts. Some regular schools contract with other schools or agencies to provide services for some students rather than operate schools for those students directly. In order to avoid duplication those student counts are not reported for the receiving school. Conversely, in cases where all services are provided by a contracting school, no student counts are reported for the sending school. The sum of the number of teachers reported for schools associated with the agency may differ from the number of teachers reported from the agency. This is because some teachers may not be assigned to a particular school.",
+  "displayType" : "table",
+  "domainCName" : "explore.data.gov",
+  "downloadCount" : 1,
+  "indexUpdatedAt" : 1386946259,
+  "newBackend" : false,
+  "numberOfComments" : 0,
+  "oid" : 6792567,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1369314611,
+  "publicationGroup" : 871347,
+  "publicationStage" : "published",
+  "rowClass" : "",
+  "rowsUpdatedAt" : 1369252518,
+  "rowsUpdatedBy" : "6g59-f9nj",
+  "signed" : false,
+  "tableId" : 871347,
+  "totalTimesRated" : 0,
+  "viewCount" : 1,
+  "viewLastModified" : 1386954409,
+  "viewType" : "tabular",
+  "disabledFeatureFlags" : [ "allow_comments", "cell_comments" ],
+  "grants" : [ {
+    "inherited" : true,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "custom_fields" : {
+      "Dataset Summary" : {
+        "Sub-Agency" : "National Center for Education Statistics (NCES)",
+        "Date Updated" : "",
+        "High Value Dataset" : "",
+        "Date Released" : "",
+        "Time Period" : "",
+        "Frequency" : "",
+        "Suggested by Public" : "",
+        "Agency" : "U.S. Department of Education"
+      },
+      "Data Description" : {
+        "Data Dictionary" : "",
+        "Data Collection Instrument" : "",
+        "Collection Mode" : ""
+      },
+      "Additional Dataset Documentation" : {
+        "Technical Documentation" : ""
+      },
+      "Data.gov Communities" : {
+        "Communities" : ""
+      },
+      "Dataset Coverage" : {
+        "Geographic Coverage" : "",
+        "Granularity" : "",
+        "Unit of Analysis" : ""
+      },
+      "Dataset Information" : {
+        "Data.gov Data Category Type" : "",
+        "Unique ID" : "",
+        "Specialized Data Category Designation" : "",
+        "Extended Type" : ""
+      },
+      "Contributing Agency Information" : {
+        "Agency Data Series Page" : "",
+        "Agency Program Page" : "http://nces.ed.gov/ccd/",
+        "Citation" : "CCD: (2010-2011)"
+      },
+      "Data Quality" : {
+        "Data Quality Certification" : "",
+        "Privacy and Confidentiality" : ""
+      }
+    },
+    "renderTypeConfig" : {
+      "visible" : {
+        "table" : true
+      }
+    },
+    "availableDisplayTypes" : [ "table", "fatrow", "page" ],
+    "jsonQuery" : {
+      "order" : [ {
+        "ascending" : true,
+        "columnFieldName" : "schnam"
+      } ],
+      "where" : {
+        "children" : [ {
+          "value" : "hi",
+          "operator" : "EQUALS",
+          "columnFieldName" : "mstate",
+          "metadata" : {
+            "freeform" : true,
+            "tableColumnId" : {
+              "871347" : 10633032
+            },
+            "operator" : "EQUALS"
+          }
+        }, {
+          "value" : "1",
+          "operator" : "EQUALS",
+          "columnFieldName" : "g09offrd",
+          "metadata" : {
+            "freeform" : true,
+            "tableColumnId" : {
+              "871347" : 10633064
+            },
+            "operator" : "EQUALS"
+          }
+        }, {
+          "value" : "1",
+          "operator" : "EQUALS",
+          "columnFieldName" : "g12offrd",
+          "metadata" : {
+            "freeform" : true,
+            "tableColumnId" : {
+              "871347" : 10633067
+            },
+            "operator" : "EQUALS"
+          }
+        } ],
+        "operator" : "AND",
+        "metadata" : {
+          "unifiedVersion" : 2
+        }
+      }
+    },
+    "rdfSubject" : "0",
+    "rowIdentifier" : 122146521,
+    "rdfClass" : ""
+  },
+  "owner" : {
+    "id" : "ceei-r63g",
+    "displayName" : "Cat",
+    "screenName" : "Cat"
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "6g59-f9nj",
+    "displayName" : "National Center for Education Statistics (NCES)",
+    "profileImageUrlLarge" : "/images/profile/4314/5105/nces_logo_large_alt_large.gif",
+    "profileImageUrlMedium" : "/images/profile/4314/5105/nces_logo_large_alt_thumb.gif",
+    "profileImageUrlSmall" : "/images/profile/4314/5105/nces_logo_large_alt_tiny.gif",
+    "screenName" : "National Center for Education Statistics (NCES)"
+  },
+  "tags" : [ "common core of data", "nces", "public schools" ]
+}, {
+  "id" : "mjmw-qzt2",
+  "name" : "MATH 2010 (No Num Valid)",
+  "averageRating" : 0,
+  "category" : "Education",
+  "createdAt" : 1373382851,
+  "description" : "This dataset contains school level information on the academic achievement results of state assessments in mathematics. The dataset contains information on the number of students assessed and the percent of those students who achieved a level of state-defined grade-level proficiency or above. Information is included within the dataset on all students assessed within the school, assessment results by grade and for specific subgroups of students, along with detailed information on the subgroups within each individual grade. The reported percentage of students reaching grade level proficiency or above has been reported in a manner that protects the privacy of individuals within the data. The privacy protections vary based on the n-size of the student group whose assessment performance is being reported. To interpret these data appropriately, please utilize the count of students assessed that is reported for each proficiency rate and reference section 4.1 of the Public File Documentation for details on the privacy protections. For more information on the data files and guidance for their appropriate use, please read the Public File Documentation.",
+  "displayType" : "table",
+  "domainCName" : "explore.data.gov",
+  "downloadCount" : 3,
+  "indexUpdatedAt" : 1381659844,
+  "newBackend" : false,
+  "numberOfComments" : 0,
+  "oid" : 5485377,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1379535897,
+  "publicationGroup" : 641837,
+  "publicationStage" : "published",
+  "rowsUpdatedAt" : 1378931256,
+  "rowsUpdatedBy" : "w2dq-zdca",
+  "signed" : false,
+  "tableId" : 1136737,
+  "totalTimesRated" : 0,
+  "viewCount" : 3,
+  "viewLastModified" : 1373394543,
+  "viewType" : "tabular",
+  "grants" : [ {
+    "inherited" : true,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "custom_fields" : {
+      "Dataset Summary" : {
+        "Sub-Agency" : "EDFacts",
+        "Date Updated" : "",
+        "High Value Dataset" : "",
+        "Date Released" : "January 31, 2013",
+        "Time Period" : "",
+        "Frequency" : "",
+        "Suggested by Public" : "",
+        "Agency" : "Department of Education"
+      },
+      "Data Description" : {
+        "Data Dictionary" : "",
+        "Data Collection Instrument" : "EDFacts Submission System",
+        "Collection Mode" : ""
+      },
+      "Additional Dataset Documentation" : {
+        "Technical Documentation" : ""
+      },
+      "Data.gov Communities" : {
+        "Communities" : ""
+      },
+      "Dataset Coverage" : {
+        "Geographic Coverage" : "50 states, DC and Puerto Rico",
+        "Granularity" : "",
+        "Unit of Analysis" : "K-12 public schools"
+      },
+      "Dataset Information" : {
+        "Data.gov Data Category Type" : "",
+        "Unique ID" : "",
+        "Specialized Data Category Designation" : "",
+        "Extended Type" : ""
+      },
+      "Contributing Agency Information" : {
+        "Agency Data Series Page" : "",
+        "Agency Program Page" : "",
+        "Citation" : ""
+      },
+      "Data Quality" : {
+        "Data Quality Certification" : "",
+        "Privacy and Confidentiality" : ""
+      }
+    },
+    "renderTypeConfig" : {
+      "visible" : {
+        "table" : true
+      }
+    },
+    "availableDisplayTypes" : [ "table", "fatrow", "page" ],
+    "rdfSubject" : "0",
+    "attachments" : [ {
+      "blobId" : "B1D9CDBF-4549-4B19-8BA2-7A9D3CEB923B",
+      "name" : "EDFacts_Results_for_State_Assessments_0809-1011_Public_File_Documentation_PRELIM.docx",
+      "filename" : "EDFacts_Results_for_State_Assessments_0809-1011_Public_File_Documentation_PRELIM.docx"
+    } ]
+  },
+  "owner" : {
+    "id" : "gxn8-8skn",
+    "displayName" : "CEM",
+    "screenName" : "CEM"
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "w2dq-zdca",
+    "displayName" : "EDFacts",
+    "profileImageUrlLarge" : "/images/profile/5311/4259/EDFacts_large.JPG",
+    "profileImageUrlMedium" : "/images/profile/5311/4259/EDFacts_thumb.JPG",
+    "profileImageUrlSmall" : "/images/profile/5311/4259/EDFacts_tiny.JPG",
+    "screenName" : "EDFacts"
+  },
+  "tags" : [ "k-12", "assessments", "elementary", "secondary", "mathematics" ]
+}, {
+  "id" : "8isv-tvy8",
+  "name" : "Puerto Rico",
+  "averageRating" : 0,
+  "category" : "Education",
+  "createdAt" : 1382037315,
+  "description" : "Note: This dataset was updated on September 18, 2013 to reflect data that states resubmitted to address data quality issues. This dataset contains school level information on the four-year adjusted cohort graduation rates calculated by state education agencies in accordance with U.S. Department of Education regulations on ESEA, Title I, published in 2008.  The dataset contains information on the number of students identified within the cohort for 2010-11 graduation, along with the percent of those students graduating with a high school diploma within four years.   Adjusted cohort rates and counts are reported for the school as a whole, and for key subgroups of students (major racial and ethnic groups, children with disabilities, limited English proficient students, and economically disadvantaged students).  The reported graduation rate has been reported in a manner that protects the privacy of individuals within the data.  The privacy protections vary based on the n-size of the student group whose graduation rate is being reported.  To interpret these data appropriately, please utilize the cohort count that is reported for each graduation rate and reference section 4.1 of the Public File Documentation for details on the privacy protections.  For more information on the data file and guidance for its appropriate use, please read the Public File Documentation.",
+  "displayType" : "table",
+  "domainCName" : "explore.data.gov",
+  "downloadCount" : 0,
+  "indexUpdatedAt" : 1382038209,
+  "newBackend" : false,
+  "numberOfComments" : 0,
+  "oid" : 5970911,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1379535449,
+  "publicationGroup" : 700890,
+  "publicationStage" : "published",
+  "rowClass" : "",
+  "rowsUpdatedAt" : 1378410142,
+  "rowsUpdatedBy" : "w2dq-zdca",
+  "searchString" : "Puerto Rico",
+  "signed" : false,
+  "tableId" : 930259,
+  "totalTimesRated" : 0,
+  "viewCount" : 0,
+  "viewLastModified" : 1382037316,
+  "viewType" : "tabular",
+  "grants" : [ {
+    "inherited" : true,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "custom_fields" : {
+      "Dataset Summary" : {
+        "Sub-Agency" : "EDFacts",
+        "Date Updated" : "April 17, 2013 and September 18, 2013",
+        "High Value Dataset" : "",
+        "Date Released" : "March 1, 2013",
+        "Time Period" : "",
+        "Frequency" : "",
+        "Suggested by Public" : "",
+        "Agency" : "Department of Education"
+      },
+      "Data Description" : {
+        "Data Dictionary" : "",
+        "Data Collection Instrument" : "EDFacts Submission System",
+        "Collection Mode" : ""
+      },
+      "Additional Dataset Documentation" : {
+        "Technical Documentation" : ""
+      },
+      "Data.gov Communities" : {
+        "Communities" : ""
+      },
+      "Dataset Coverage" : {
+        "Geographic Coverage" : "50 states, DC, Puerto Rico, and Bureau of Indian Education",
+        "Granularity" : "",
+        "Unit of Analysis" : "K-12 public schools"
+      },
+      "Dataset Information" : {
+        "Data.gov Data Category Type" : "",
+        "Unique ID" : "",
+        "Specialized Data Category Designation" : "",
+        "Extended Type" : ""
+      },
+      "Contributing Agency Information" : {
+        "Agency Data Series Page" : "",
+        "Agency Program Page" : "",
+        "Citation" : ""
+      },
+      "Data Quality" : {
+        "Data Quality Certification" : "Provisional Data Release",
+        "Privacy and Confidentiality" : ""
+      }
+    },
+    "renderTypeConfig" : {
+      "visible" : {
+        "table" : true
+      }
+    },
+    "availableDisplayTypes" : [ "table", "fatrow", "page" ],
+    "rdfSubject" : "0",
+    "attachments" : [ {
+      "blobId" : "6F93D1D5-FCF1-4EB1-93DE-A47844355CBE",
+      "name" : "EDFacts_AdjustedCohortGradRates_1011_Public_File_Documentation.docx",
+      "filename" : "EDFacts_AdjustedCohortGradRates_1011_Public_File_Documentation.docx"
+    } ],
+    "rowIdentifier" : "0",
+    "rdfClass" : ""
+  },
+  "owner" : {
+    "id" : "gyz4-mcrc",
+    "displayName" : "Aileen Estrada",
+    "screenName" : "Aileen Estrada"
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "w2dq-zdca",
+    "displayName" : "EDFacts",
+    "profileImageUrlLarge" : "/images/profile/5311/4259/EDFacts_large.JPG",
+    "profileImageUrlMedium" : "/images/profile/5311/4259/EDFacts_thumb.JPG",
+    "profileImageUrlSmall" : "/images/profile/5311/4259/EDFacts_tiny.JPG",
+    "screenName" : "EDFacts"
+  }
+}, {
+  "id" : "pcxt-73zv",
+  "name" : "GRAD RATE 2011",
+  "averageRating" : 0,
+  "category" : "Education",
+  "createdAt" : 1373392013,
+  "description" : "Note: This dataset was updated on April 17, 2013 to reflect data that states resubmitted to address data quality issues. This dataset contains school level information on the four-year adjusted cohort graduation rates calculated by state education agencies in accordance with U.S. Department of Education regulations on ESEA, Title I, published in 2008.  The dataset contains information on the number of students identified within the cohort for 2010-11 graduation, along with the percent of those students graduating with a high school diploma within four years.   Adjusted cohort rates and counts are reported for the school as a whole, and for key subgroups of students (major racial and ethnic groups, children with disabilities, limited English proficient students, and economically disadvantaged students).  The reported graduation rate has been reported in a manner that protects the privacy of individuals within the data.  The privacy protections vary based on the n-size of the student group whose graduation rate is being reported.  To interpret these data appropriately, please utilize the cohort count that is reported for each graduation rate and reference section 4.1 of the Public File Documentation for details on the privacy protections.  For more information on the data file and guidance for its appropriate use, please read the Public File Documentation.",
+  "displayType" : "table",
+  "domainCName" : "explore.data.gov",
+  "downloadCount" : 1,
+  "indexUpdatedAt" : 1382038881,
+  "newBackend" : false,
+  "numberOfComments" : 0,
+  "oid" : 5485318,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1379535449,
+  "publicationGroup" : 700890,
+  "publicationStage" : "published",
+  "rowsUpdatedAt" : 1378410142,
+  "rowsUpdatedBy" : "w2dq-zdca",
+  "signed" : false,
+  "tableId" : 930259,
+  "totalTimesRated" : 0,
+  "viewCount" : 3,
+  "viewLastModified" : 1373392013,
+  "viewType" : "tabular",
+  "grants" : [ {
+    "inherited" : true,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "custom_fields" : {
+      "Dataset Summary" : {
+        "Sub-Agency" : "EDFacts",
+        "Date Updated" : "",
+        "High Value Dataset" : "",
+        "Date Released" : "March 1, 2013, updated April 17, 2013",
+        "Time Period" : "",
+        "Frequency" : "",
+        "Suggested by Public" : "",
+        "Agency" : "Department of Education"
+      },
+      "Data Description" : {
+        "Data Dictionary" : "",
+        "Data Collection Instrument" : "EDFacts Submission System",
+        "Collection Mode" : ""
+      },
+      "Additional Dataset Documentation" : {
+        "Technical Documentation" : ""
+      },
+      "Data.gov Communities" : {
+        "Communities" : ""
+      },
+      "Dataset Coverage" : {
+        "Geographic Coverage" : "50 states, DC and Puerto Rico",
+        "Granularity" : "",
+        "Unit of Analysis" : "K-12 public schools"
+      },
+      "Dataset Information" : {
+        "Data.gov Data Category Type" : "",
+        "Unique ID" : "",
+        "Specialized Data Category Designation" : "",
+        "Extended Type" : ""
+      },
+      "Contributing Agency Information" : {
+        "Agency Data Series Page" : "",
+        "Agency Program Page" : "",
+        "Citation" : ""
+      },
+      "Data Quality" : {
+        "Data Quality Certification" : "Provisional Data Release",
+        "Privacy and Confidentiality" : ""
+      }
+    },
+    "renderTypeConfig" : {
+      "visible" : {
+        "table" : true
+      }
+    },
+    "availableDisplayTypes" : [ "table", "fatrow", "page" ],
+    "rdfSubject" : "0",
+    "attachments" : [ {
+      "blobId" : "E7B98C55-C783-4AA9-A4B1-ED19FCCB22F7",
+      "name" : "EDFacts_AdjustedCohortGradRates_School_1011_Public_File_Documentation_PROVIS.docx",
+      "filename" : "EDFacts_AdjustedCohortGradRates_School_1011_Public_File_Documentation_PROVIS.docx"
+    } ]
+  },
+  "owner" : {
+    "id" : "gxn8-8skn",
+    "displayName" : "CEM",
+    "screenName" : "CEM"
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "w2dq-zdca",
+    "displayName" : "EDFacts",
+    "profileImageUrlLarge" : "/images/profile/5311/4259/EDFacts_large.JPG",
+    "profileImageUrlMedium" : "/images/profile/5311/4259/EDFacts_thumb.JPG",
+    "profileImageUrlSmall" : "/images/profile/5311/4259/EDFacts_tiny.JPG",
+    "screenName" : "EDFacts"
+  }
+}, {
+  "id" : "tna4-nmy2",
+  "name" : "MI - DPS High Schools",
+  "averageRating" : 0,
+  "category" : "Education",
+  "createdAt" : 1373481334,
+  "description" : "Note: This dataset was updated on April 17, 2013 to reflect data that states resubmitted to address data quality issues. This dataset contains school level information on the four-year adjusted cohort graduation rates calculated by state education agencies in accordance with U.S. Department of Education regulations on ESEA, Title I, published in 2008.  The dataset contains information on the number of students identified within the cohort for 2010-11 graduation, along with the percent of those students graduating with a high school diploma within four years.   Adjusted cohort rates and counts are reported for the school as a whole, and for key subgroups of students (major racial and ethnic groups, children with disabilities, limited English proficient students, and economically disadvantaged students).  The reported graduation rate has been reported in a manner that protects the privacy of individuals within the data.  The privacy protections vary based on the n-size of the student group whose graduation rate is being reported.  To interpret these data appropriately, please utilize the cohort count that is reported for each graduation rate and reference section 4.1 of the Public File Documentation for details on the privacy protections.  For more information on the data file and guidance for its appropriate use, please read the Public File Documentation.",
+  "displayType" : "table",
+  "domainCName" : "explore.data.gov",
+  "downloadCount" : 12,
+  "indexUpdatedAt" : 1382038171,
+  "newBackend" : false,
+  "numberOfComments" : 0,
+  "oid" : 5485308,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1379535449,
+  "publicationGroup" : 700890,
+  "publicationStage" : "published",
+  "rowsUpdatedAt" : 1378410142,
+  "rowsUpdatedBy" : "w2dq-zdca",
+  "signed" : false,
+  "tableId" : 930259,
+  "totalTimesRated" : 0,
+  "viewCount" : 2,
+  "viewLastModified" : 1373481335,
+  "viewType" : "tabular",
+  "grants" : [ {
+    "inherited" : true,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "custom_fields" : {
+      "Dataset Summary" : {
+        "Sub-Agency" : "EDFacts",
+        "Date Updated" : "",
+        "High Value Dataset" : "",
+        "Date Released" : "March 1, 2013, updated April 17, 2013",
+        "Time Period" : "",
+        "Frequency" : "",
+        "Suggested by Public" : "",
+        "Agency" : "Department of Education"
+      },
+      "Data Description" : {
+        "Data Dictionary" : "",
+        "Data Collection Instrument" : "EDFacts Submission System",
+        "Collection Mode" : ""
+      },
+      "Additional Dataset Documentation" : {
+        "Technical Documentation" : ""
+      },
+      "Data.gov Communities" : {
+        "Communities" : ""
+      },
+      "Dataset Coverage" : {
+        "Geographic Coverage" : "50 states, DC and Puerto Rico",
+        "Granularity" : "",
+        "Unit of Analysis" : "K-12 public schools"
+      },
+      "Dataset Information" : {
+        "Data.gov Data Category Type" : "",
+        "Unique ID" : "",
+        "Specialized Data Category Designation" : "",
+        "Extended Type" : ""
+      },
+      "Contributing Agency Information" : {
+        "Agency Data Series Page" : "",
+        "Agency Program Page" : "",
+        "Citation" : ""
+      },
+      "Data Quality" : {
+        "Data Quality Certification" : "Provisional Data Release",
+        "Privacy and Confidentiality" : ""
+      }
+    },
+    "renderTypeConfig" : {
+      "visible" : {
+        "table" : true
+      }
+    },
+    "availableDisplayTypes" : [ "table", "fatrow", "page" ],
+    "rdfSubject" : "0",
+    "attachments" : [ {
+      "blobId" : "E7B98C55-C783-4AA9-A4B1-ED19FCCB22F7",
+      "name" : "EDFacts_AdjustedCohortGradRates_School_1011_Public_File_Documentation_PROVIS.docx",
+      "filename" : "EDFacts_AdjustedCohortGradRates_School_1011_Public_File_Documentation_PROVIS.docx"
+    } ]
+  },
+  "owner" : {
+    "id" : "uf3r-b5yr",
+    "displayName" : "jdbackes",
+    "screenName" : "jdbackes"
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "w2dq-zdca",
+    "displayName" : "EDFacts",
+    "profileImageUrlLarge" : "/images/profile/5311/4259/EDFacts_large.JPG",
+    "profileImageUrlMedium" : "/images/profile/5311/4259/EDFacts_thumb.JPG",
+    "profileImageUrlSmall" : "/images/profile/5311/4259/EDFacts_tiny.JPG",
+    "screenName" : "EDFacts"
+  }
+}, {
+  "id" : "ybcc-h56j",
+  "name" : "OK",
+  "averageRating" : 0,
+  "category" : "Education",
+  "createdAt" : 1372349009,
+  "description" : "Note: This dataset was updated on April 17, 2013 to reflect data that states resubmitted to address data quality issues. This dataset contains school level information on the four-year adjusted cohort graduation rates calculated by state education agencies in accordance with U.S. Department of Education regulations on ESEA, Title I, published in 2008.  The dataset contains information on the number of students identified within the cohort for 2010-11 graduation, along with the percent of those students graduating with a high school diploma within four years.   Adjusted cohort rates and counts are reported for the school as a whole, and for key subgroups of students (major racial and ethnic groups, children with disabilities, limited English proficient students, and economically disadvantaged students).  The reported graduation rate has been reported in a manner that protects the privacy of individuals within the data.  The privacy protections vary based on the n-size of the student group whose graduation rate is being reported.  To interpret these data appropriately, please utilize the cohort count that is reported for each graduation rate and reference section 4.1 of the Public File Documentation for details on the privacy protections.  For more information on the data file and guidance for its appropriate use, please read the Public File Documentation.",
+  "displayType" : "table",
+  "domainCName" : "explore.data.gov",
+  "downloadCount" : 1,
+  "indexUpdatedAt" : 1382038201,
+  "newBackend" : false,
+  "numberOfComments" : 0,
+  "oid" : 5485312,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1379535449,
+  "publicationGroup" : 700890,
+  "publicationStage" : "published",
+  "rowsUpdatedAt" : 1378410142,
+  "rowsUpdatedBy" : "w2dq-zdca",
+  "signed" : false,
+  "tableId" : 930259,
+  "totalTimesRated" : 0,
+  "viewCount" : 1,
+  "viewLastModified" : 1372349054,
+  "viewType" : "tabular",
+  "grants" : [ {
+    "inherited" : true,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "custom_fields" : {
+      "Data Description" : {
+        "Data Dictionary" : "",
+        "Data Collection Instrument" : "EDFacts Submission System",
+        "Collection Mode" : ""
+      },
+      "Dataset Summary" : {
+        "Date Updated" : "",
+        "Sub-Agency" : "EDFacts",
+        "High Value Dataset" : "",
+        "Date Released" : "March 1, 2013, updated April 17, 2013",
+        "Time Period" : "",
+        "Frequency" : "",
+        "Suggested by Public" : "",
+        "Agency" : "Department of Education"
+      },
+      "Data.gov Communities" : {
+        "Communities" : ""
+      },
+      "Additional Dataset Documentation" : {
+        "Technical Documentation" : ""
+      },
+      "Dataset Coverage" : {
+        "Geographic Coverage" : "50 states, DC and Puerto Rico",
+        "Granularity" : "",
+        "Unit of Analysis" : "K-12 public schools"
+      },
+      "Dataset Information" : {
+        "Data.gov Data Category Type" : "",
+        "Unique ID" : "",
+        "Specialized Data Category Designation" : "",
+        "Extended Type" : ""
+      },
+      "Contributing Agency Information" : {
+        "Agency Data Series Page" : "",
+        "Agency Program Page" : "",
+        "Citation" : ""
+      },
+      "Data Quality" : {
+        "Privacy and Confidentiality" : "",
+        "Data Quality Certification" : "Provisional Data Release"
+      }
+    },
+    "renderTypeConfig" : {
+      "visible" : {
+        "table" : true
+      }
+    },
+    "availableDisplayTypes" : [ "table", "fatrow", "page" ],
+    "rdfSubject" : "0",
+    "attachments" : [ {
+      "blobId" : "E7B98C55-C783-4AA9-A4B1-ED19FCCB22F7",
+      "name" : "EDFacts_AdjustedCohortGradRates_School_1011_Public_File_Documentation_PROVIS.docx",
+      "filename" : "EDFacts_AdjustedCohortGradRates_School_1011_Public_File_Documentation_PROVIS.docx"
+    } ]
+  },
+  "owner" : {
+    "id" : "qyyq-zfss",
+    "displayName" : "jessica.ross",
+    "screenName" : "jessica.ross"
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "w2dq-zdca",
+    "displayName" : "EDFacts",
+    "profileImageUrlLarge" : "/images/profile/5311/4259/EDFacts_large.JPG",
+    "profileImageUrlMedium" : "/images/profile/5311/4259/EDFacts_thumb.JPG",
+    "profileImageUrlSmall" : "/images/profile/5311/4259/EDFacts_tiny.JPG",
+    "screenName" : "EDFacts"
+  }
+}, {
+  "id" : "i87y-kjqk",
+  "name" : "Persons Obtaining Legal Permanent Resident Status: Fiscal Years 1820 to 2011",
+  "averageRating" : 0,
+  "category" : "Other",
+  "createdAt" : 1370010081,
+  "description" : "Access data on immigrants who became legal permanent residents in fiscal year 2011 by class of admission, country of birth, state of residence, and other characteristics",
+  "domainCName" : "explore.data.gov",
+  "downloadCount" : 17,
+  "externalId" : "http://www.data.gov/details/30731",
+  "indexUpdatedAt" : 1382038231,
+  "newBackend" : false,
+  "numberOfComments" : 0,
+  "oid" : 3838445,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1370010081,
+  "publicationStage" : "published",
+  "signed" : false,
+  "tableId" : 891006,
+  "totalTimesRated" : 0,
+  "viewCount" : 12,
+  "viewLastModified" : 1370010081,
+  "viewType" : "href",
+  "grants" : [ {
+    "inherited" : false,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "custom_fields" : {
+      "Dataset Summary" : {
+        "Agency" : "Department of Homeland Security",
+        "Sub-Agency" : "Office of Immigration Statistics",
+        "Date Released" : "April 1, 2012",
+        "Date Updated" : "June 12, 2012",
+        "Time Period" : "1820-2011",
+        "Frequency" : "Annual",
+        "High Value Dataset" : "N",
+        "Suggested by Public" : "N"
+      },
+      "Dataset Information" : {
+        "Data.gov Data Category Type" : "Raw Data Catalog",
+        "Specialized Data Category Designation" : "Administrative",
+        "Unique ID" : "30731",
+        "Extended Type" : "Raw Data"
+      },
+      "Contributing Agency Information" : {
+        "Citation" : "United States. Department of Homeland Security.Yearbook of Immigration Statistics:2011.Washington, DC: U.S. Department of Homeland Security, Office of Immigration Statistics, 2012.",
+        "Agency Program Page" : "http://www.dhs.gov/immigration-statistics",
+        "Agency Data Series Page" : "http://www.dhs.gov/yearbook-immigration-statistics"
+      },
+      "Dataset Coverage" : {
+        "Unit of Analysis" : "USA, State, City, Year",
+        "Geographic Coverage" : "USA, State, City"
+      },
+      "Additional Dataset Documentation" : {
+        "Technical Documentation" : "http://www.dhs.gov/privacy-compliance"
+      },
+      "Data Quality" : {
+        "Applicable Information Quality Guideline Designation" : "DHS",
+        "Data Quality Certification" : "Yes",
+        "Privacy and Confidentiality" : "Yes"
+      }
+    },
+    "accessPoints" : {
+      "xls" : "http://www.dhs.gov/xlibrary/assets/statistics/yearbook/2011/table1.xls",
+      "xlsSize" : "30KB"
+    },
+    "href" : "http://www.data.gov/details/30731"
+  },
+  "owner" : {
+    "id" : "e8ug-wzay",
+    "displayName" : "Data.gov Program Management Office",
+    "profileImageUrlLarge" : "/images/profile/0356/4016/datagov_large_large.png",
+    "profileImageUrlMedium" : "/images/profile/0356/4016/datagov_large_thumb.png",
+    "profileImageUrlSmall" : "/images/profile/0356/4016/datagov_large_tiny.png",
+    "screenName" : "Data.gov Program Management Office"
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "e8ug-wzay",
+    "displayName" : "Data.gov Program Management Office",
+    "profileImageUrlLarge" : "/images/profile/0356/4016/datagov_large_large.png",
+    "profileImageUrlMedium" : "/images/profile/0356/4016/datagov_large_thumb.png",
+    "profileImageUrlSmall" : "/images/profile/0356/4016/datagov_large_tiny.png",
+    "screenName" : "Data.gov Program Management Office"
+  },
+  "tags" : [ "LPR", "annual number of permanent residents", "Immigration", "Permanent Resident", "Data on immigration" ],
+  "flags" : [ "default" ]
+} ]
